@@ -1,0 +1,418 @@
+# sent_id = NDS_001_TWE_1894_krisjan_klaover_jw_heinink
+# text_orig = In de stad hoove y  niks 'eleèrd te hebben, as y mèr gefiefd zint - en dát zin'k!
+# text = In de stad hove y niks eleyrd te hebben, as y mär gefyvd sint - en dát sin ik! 
+1	In	in	ADP	_	_	3	case	_	_
+2	de	de	DET	_	_	3	det	_	_
+3	stad	stad	NOUN	_	_	4	obl	_	_
+4	hove	höven	VERB	_	_	0	root	_	_
+5	y	jy	PRON	_	_	4	nsubj	_	_
+6	niks	niks	PRON	_	_	7	obj	_	_
+7	eleyrd	leyren	VERB	_	_	4	xcomp	_	_
+8	te	to	PART	_	_	9	mark	_	_
+9	hebben	hebben	AUX	_	_	7	aux	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	as	as	SCONJ	_	_	14	mark	_	_
+12	y	jy	PRON	_	_	14	nsubj	_	_
+13	mär	man	ADV	_	_	14	advmod	_	_
+14	gefyvd	gefyvd	ADJ	_	_	4	advcl	_	_
+15	sint	weasen	AUX	_	_	14	cop	_	SpaceAfter=No
+16	-	-	PUNCT	_	_	18	punct	_	_
+17	en	un	CCONJ	_	_	18	cc	_	_
+18	dát	dat	PRON	_	_	4	parataxis	_	_
+19	sin	weasen	AUX	_	_	18	cop	_	_
+20	ik	ik	PRON	_	_	18	nsubj	_	_
+21	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = NDS_002_OFL_1882_oustfalen_hannover_leichen-predigt_auf_michael_wichman
+# text_orig = As de Schaulmester dat Hebräische hörede, so kunn he endlik wol denken, dat et keenen anders, as de Herr Pastor syn künne, un leit gliks los.
+# text = As de skoolmeyster dat hebräiske höyrde, sou kun hee endlik wol denken, dat et keynen anders as de her pastor syn künne, un leyt gelyks lous.
+1	As	as	SCONJ	_	_	6	mark	_	_
+2	de	de	DET	_	_	3	det	_	_
+3	skoolmeyster	skoolmeyster	NOUN	_	_	6	nsubj	_	_
+4	dat	dat	DET	_	_	5	det	_	_
+5	hebräiske	hebräisk	NOUN	_	_	6	obj	_	_
+6	höyrde	höyren	VERB	_	_	13	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	sou	sou	ADV	_	_	13	advmod	_	_
+9	kun	köänen	AUX	_	_	13	aux	_	_
+10	hee	hee	PRON	_	_	13	nsubj	_	_
+11	endlik	endlik	ADV	_	_	13	advmod	_	_
+12	wol	wol	ADV	_	_	13	advmod	_	_
+13	denken	denken	VERB	_	_	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	dat	dat	SCONJ	_	_	16	mark	_	_
+16	et	et	PRON	_	_	13	advcl	_	_
+17	keynen	keynen	PRON	_	_	16	nsubj	_	_
+18	anders	anders	PRON	_	_	17	nmod	_	_
+19	as	as	CCONJ	_	_	21	case	_	_
+20	de	de	DET	_	_	21	det	_	_
+21	her	heyr	NOUN	_	_	18	obl	_	_
+22	pastor	pastor	NOUN	_	_	21	flat	_	_
+23	syn	weasen	AUX	_	_	16	cop	_	_
+24	künne	köänen	AUX	_	_	16	aux	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	un	un	CCONJ	_	_	27	cc	_	_
+27	leyt	låten	VERB	_	_	13	parataxis	_	_
+28	gelyks	gelyks	ADV	_	_	27	advmod	_	_
+29	lous	lous	ADP	_	_	27	compound	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = NDS_003_OWL_1882_westfalen_paderborn_-_dat_nigge_testamante
+# text_orig = Dei Kerel hiät mey den drüdden Dag ankünniget, un wänn ik meyne Riäkenunge met dem Hiemel afschliuten wull, sull ik et moren deoen, üäwermoren möcht et wal te late seyn.
+# text = Dee kearl het my den drüdden dag ankündigd, un wän ik myne reakeninge med dem hiamel afsluten wul, sul ik et morgen doon, öävermorgen möcht et wol te late syn. 
+1	Dee	dee	DET	_	_	2	det	_	_
+2	kearl	kearl	NOUN	_	_	8	nsubj	_	_
+3	het	hebben	AUX	_	_	8	aux	_	_
+4	my	ik	PRON	_	_	8	iobj	_	_
+5	den	de	DET	_	_	7	det	_	_
+6	drüdden	drüdde	ADJ	_	_	7	amod	_	_
+7	dag	dag	NOUN	_	_	8	obj	_	_
+8	ankündigd	ankündigen	VERB	_	_	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	25	punct	_	_
+10	un	un	CCONJ	_	_	25	cc	_	_
+11	wän	wän	SCONJ	_	_	18	mark	_	_
+12	ik	ik	PRON	_	_	18	nsubj	_	_
+13	myne	myn	DET	_	_	14	det	_	_
+14	reakeninge	reakeninge	NOUN	_	_	18	obj	_	_
+15	med	med	ADP	_	_	17	case	_	_
+16	dem	de	DET	_	_	17	det	_	_
+17	hiamel	hiamel	NOUN	_	_	18	obl	_	_
+18	afsluten	afsluten	VERB	_	_	25	advcl	_	_
+19	wul	wüllen	AUX	_	_	18	aux	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	sul	sköälen	AUX	_	_	25	aux	_	_
+22	ik	ik	PRON	_	_	25	nsubj	_	_
+23	et	et	PRON	_	_	25	obj	_	_
+24	morgen	morgen	ADV	_	_	25	advmod	_	_
+25	doon	doon	VERB	_	_	8	parataxis	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	32	punct	_	_
+27	öävermorgen	öävermorgen	ADV	_	_	32	advmod	_	_
+28	möcht	möägen	AUX	_	_	32	aux	_	_
+29	et	et	PRON	_	_	32	nsubj	_	_
+30	wol	wol	ADV	_	_	32	advmod	_	_
+31	te	to	ADV	_	_	32	advmod	_	_
+32	late	laat	ADJ	_	_	8	parataxis	_	_
+33	syn	weasen	AUX	_	_	32	cop	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = NDS_004_VEL_1880_veluwe_uddel_uddelermeer_a._aarsen_-_de_knecht_van_den_reus
+# text_orig = Onze meister zegt, dat vake de geleerde luui euver 'n klein woord, euver 'n nullige zake mekoare wel droadnegelen dat 't noar is, dat oe de haren 'r van te bârge riizen, dat i er leed om worde.
+# text = Unse meyster segt, dat vake de geleyrde lüde öäver en klein woord, öäver en nüllige sake mekare wel drådnägelen, dat et når is, dat uw de håren der van te barge rysen, dat y der leyd um worden. 
+1	Unse	uns	DET	_	_	2	det	_	_
+2	meyster	meyster	NOUN	_	_	3	nsubj	_	_
+3	segt	seggen	VERB	_	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	21	punct	_	_
+5	dat	dat	SCONJ	_	_	21	mark	_	_
+6	vake	vaak	ADV	_	_	21	advmod	_	_
+7	de	de	DET	_	_	9	det	_	_
+8	geleyrde	geleyrd	ADJ	_	_	9	amod	_	_
+9	lüde	lüde	NOUN	_	_	21	nsubj	_	_
+10	öäver	öäver	ADP	_	_	13	case	_	_
+11	en	en	DET	_	_	13	det	_	_
+12	klein	klein	ADJ	_	_	13	amod	_	_
+13	woord	woord	NOUN	_	_	21	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	öäver	öäver	ADP	_	_	18	case	_	_
+16	en	en	DET	_	_	18	det	_	_
+17	nüllige	nüllig	ADJ	_	_	18	amod	_	_
+18	sake	sake	NOUN	_	_	13	conj	_	_
+19	mekare	mekare	PRON	_	_	21	obj	_	_
+20	wel	wol	ADV	_	_	21	advmod	_	_
+21	drådnägelen	drådnägelen	VERB	_	_	3	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	dat	dat	SCONJ	_	_	25	mark	_	_
+24	et	et	PRON	_	_	25	nsubj	_	_
+25	når	når	ADJ	_	_	21	advcl	_	_
+26	is	weasen	AUX	_	_	25	cop	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	36	punct	_	_
+28	dat	dat	SCONJ	_	_	36	mark	_	_
+29	uw	jy	PRON	_	_	36	iobj	_	_
+30	de	de	DET	_	_	31	det	_	_
+31	håren	hår	NOUN	_	_	36	nsubj	_	_
+32	der	dår	ADV	_	_	36	obl	_	_
+33	van	van	ADP	_	_	32	case	_	_
+34	te	to	ADP	_	_	35	case	_	_
+35	barge	berg	NOUN	_	_	36	obl	_	_
+36	rysen	rysen	VERB	_	_	25	advcl	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	43	punct	_	_
+38	dat	dat	SCONJ	_	_	43	mark	_	_
+39	y	jy	PRON	_	_	43	nsubj	_	_
+40	der	dår	ADV	_	_	43	obl	_	_
+41	leyd	leyd	ADJ	_	_	43	obl	_	_
+42	um	üm	ADP	_	_	40	case	_	_
+43	worden	werden	VERB	_	_	36	parataxis	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = NDS_005_SLE_1882_sleeswyk_de_markgraef_to_sleeswik_unn_de_buer_to_boklund
+# text_orig = As de Buer mael to Slot weer unn de Markgraef gerade by Disch seet, lett he em herin kamen unn by sik sitten an syne sülwerne Tafel, unn wys em all dat Sülwergeschirr unn all de Kostborkeden, leet de Muskanten spälen, unn den Buer van de schöensten Spysen gäwen, unn fynen Wyn darto, so väel as he mugg.
+# text = As de buur mål to slot weer un de markgraav gerade by disk saet, let hee em herin koamen un by sik sitten an syne sülverne tåfel, un wys em al dat sülvergeskir un al de kostbårkeiden, leyt de muskanten spealen, un den buur van de sköynsten spysen geaven, un vynen wyn dårto, sou veal as hee much. 
+1	As	as	SCONJ	_	_	6	mark	_	_
+2	de	de	DET	_	_	3	det	_	_
+3	buur	buur	NOUN	_	_	6	nsubj	_	_
+4	mål	mål	ADV	_	_	6	advmod	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	slot	slot	NOUN	_	_	16	advcl	_	_
+7	weer	weasen	AUX	_	_	6	cop	_	_
+8	un	un	CCONJ	_	_	14	cc	_	_
+9	de	de	DET	_	_	10	det	_	_
+10	markgråve	markgråve	NOUN	_	_	14	nsubj	_	_
+11	gerade	gerade	ADV	_	_	14	advmod	_	_
+12	by	by	ADP	_	_	13	case	_	_
+13	disk	disk	NOUN	_	_	14	obl	_	_
+14	saet	sitten	VERB	_	_	6	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	let	låten	VERB	_	_	_	_	_	_
+17	hee	hee	PRON	_	_	16	nsubj	_	_
+18	em	hee	PRON	_	_	16	obj	_	_
+19	herin	herin	ADV	_	_	20	advmod	_	_
+20	koamen	koamen	VERB	_	_	18	xcomp	_	_
+21	un	un	CCONJ	_	_	24	cc	_	_
+22	by	by	ADP	_	_	23	case	_	_
+23	sik	sik	PRON	_	_	24	obl	_	_
+24	sitten	sitten	VERB	_	_	20	conj	_	_
+25	an	an	ADP	_	_	28	case	_	_
+26	syne	syn	DET	_	_	28	det	_	_
+27	sülverne	sülveren	ADJ	_	_	28	amod	_	_
+28	tåfel	tåfel	NOUN	_	_	24	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	31	punct	_	_
+30	un	un	CCONJ	_	_	31	cc	_	_
+31	wys	wysen	VERB	_	_	16	conj	_	_
+32	em	hee	PRON	_	_	31	iobj	_	_
+33	al	al	PRON	_	_	35	det	_	_
+34	dat	dat	DET	_	_	35	det	_	_
+35	sülvergeskir	sülvergeskir	NOUN	_	_	31	obj	_	_
+36	un	un	CCONJ	_	_	39	cc	_	_
+37	al	al	PRON	_	_	39	det	_	_
+38	de	de	DET	_	_	39	det	_	_
+39	kostbårkeiden	kostbårheid	NOUN	_	_	35	conj	_	SpaceAfter=No
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	leyt	låten	VERB	_	_	16	conj	_	_
+42	de	de	DET	_	_	43	det	_	_
+43	muskanten	musikant	NOUN	_	_	41	obj	_	_
+44	spealen	spealen	VERB	_	_	41	xcomp	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	53	punct	_	_
+46	un	un	CCONJ	_	_	53	cc	_	_
+47	den	de	DET	_	_	48	det	_	_
+48	buur	buur	NOUN	_	_	53	iobj	_	_
+49	van	van	ADP	_	_	52	case	_	_
+50	de	de	DET	_	_	52	det	_	_
+51	sköynsten	sköyn	ADJ	_	_	52	amod	_	_
+52	spysen	spyse	NOUN	_	_	53	obl	_	_
+53	geaven	geaven	VERB	_	_	16	conj	_	_
+54	,	,	PUNCT	_	_	57	punct	_	_
+55	un	un	CCONJ	_	_	57	cc	_	_
+56	vynen	vyn	ADJ	_	_	57	amod	_	_
+57	wyn	wyn	NOUN	_	_	53	obj	_	_
+58	dårto	dårto	ADV	_	_	53	advmod	_	_
+59	,	,	PUNCT	_	_	61	punct	_	_
+60	sou	sou	ADV	_	_	61	advmod	_	_
+61	veal	veal	ADJ	_	_	57	dislocated	_	_
+62	as	as	SCONJ	_	_	64	mark	_	_
+63	hee	hee	PRON	_	_	64	nsubj	_	_
+64	much	möägen	VERB	_	_	61	acl	_	_
+65	.	.	PUNCT	_	_	16	punct	_	SpaceAfter=No
+
+# sent_id = NDS_006_DRE_1875_hoogeveen_j.v.d._veen_azn_-_t_mut_oe_moar_mitloopen
+# text_orig = ‘Dou skienst niet in dien humeur te wezen’, zé Jouke tegen Garrelt.
+# text = 'Du skynst neet in dyn hümöör te weasen', sea Jouke teagen Garrelt. 
+1	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Du	du	PRON	_	_	3	nsubj	_	_
+3	skynst	skynen	VERB	_	_	0	root	_	_
+4	neet	nich	PART	_	_	3	advmod	_	_
+5	in	in	ADP	_	_	7	case	_	_
+6	dyn	dyn	DET	_	_	7	det	_	_
+7	hümöör	humoor	NOUN	_	_	3	xcomp	_	_
+8	te	to	PART	_	_	9	mark	_	_
+9	weasen	weasen	AUX	_	_	7	cop	_	SpaceAfter=No
+10	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	sea	seggen	VERB	_	_	3	parataxis	_	_
+13	Jouke	Jouke	PROPN	_	_	12	nsubj	_	_
+14	teagen	geagen	ADP	_	_	15	case	_	_
+15	Garrelt	Garrelt	PROPN	_	_	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = NDS_007_MAR_1843_marksk_Die-Todtenfahrt
+# text_orig = Då is mål ens to Göttin en Fischer west, dee hett siin goot Broot hatt, wiil hee Dach unn Nacht up de Beine west is; dee hett ook mål noch späte uppen Åmnd siin Tüüch an de Håvel drööcht unn as hee eemnd dåmett fårig is, höört hee, dett eener von de änner Siit, då wo de Röverbarch liggt, roopt: „Hål aar".
+# text = Dår is mål eyns to Göttin en visker weasd, dee het syn good broud had, wyl hee dag un nacht up de beyne weasd is; dee het ouk mål noch spaede up den åvend syn tüüg an de Havel dröygd un as hee eavend dårmed vardig is, höyrt hee, dat eyner van de ander syde, dår wår de Röyverbarg ligt, roopt: "Haal öäver".
+1	Dår	dår	ADV	_	_	9	expl	_	_
+2	is	weasen	AUX	_	_	9	aux	_	_
+3	mål	mål	ADV	_	_	9	advmod	_	_
+4	eyns	eyns	ADV	_	_	9	advmod	_	_
+5	to	to	ADP	_	_	6	case	_	_
+6	Göttin	Göttin	PROPN	_	_	9	obl	_	_
+7	en	en	DET	_	_	8	det	_	_
+8	visker	visker	NOUN	_	_	9	nsubj	_	_
+9	weasd	weasen	AUX	_	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	dee	dee	PRON	_	_	16	nsubj	_	_
+12	het	hebben	AUX	_	_	16	aux	_	_
+13	syn	syn	DET	_	_	15	det	_	_
+14	good	good	ADJ	_	_	15	amod	_	_
+15	broud	broud	NOUN	_	_	16	obj	_	_
+16	had	hebben	VERB	_	_	8	acl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	_
+18	wyl	wyl	SCONJ	_	_	25	mark	_	_
+19	hee	hee	PRON	_	_	25	nsubj	_	_
+20	dag	dag	NOUN	_	_	25	obl	_	_
+21	un	un	CCONJ	_	_	22	cc	_	_
+22	nacht	nacht	NOUN	_	_	20	conj	_	_
+23	up	up	ADP	_	_	25	case	_	_
+24	de	de	DET	_	_	25	det	_	_
+25	beyne	beyn	NOUN	_	_	16	advcl	_	_
+26	weasd	weasen	AUX	_	_	25	cop	_	_
+27	is	weasen	AUX	_	_	25	aux	_	_
+28	;	;	PUNCT	_	_	43	punct	_	_
+29	dee	dee	PRON	_	_	43	nsubj	_	_
+30	het	hebben	AUX	_	_	43	aux	_	_
+31	ouk	ouk	ADV	_	_	43	advmod	_	_
+32	mål	mål	ADV	_	_	43	advmod	_	_
+33	noch	noch	ADV	_	_	43	advmod	_	_
+34	spaede	spaede	ADJ	_	_	43	advmod	_	_
+35	up	up	ADP	_	_	37	case	_	_
+36	den	de	DET	_	_	37	det	_	_
+37	åvend	åvend	NOUN	_	_	43	obl	_	_
+38	syn	syn	DET	_	_	39	det	_	_
+39	tüüg	tüüg	NOUN	_	_	43	obj	_	_
+40	an	an	ADP	_	_	42	case	_	_
+41	de	de	DET	_	_	42	det	_	_
+42	Havel	Havel	PROPN	_	_	43	obl	_	_
+43	dröygd	dröygen	VERB	_	_	8	acl	_	_
+44	un	un	CCONJ	_	_	49	cc	_	_
+45	as	as	SCONJ	_	_	49	mark	_	_
+46	hee	hee	PRON	_	_	49	nsubj	_	_
+47	eavend	eaven 	ADV	_	_	49	advmod	_	_
+48	dårmed	dårmed	ADV	_	_	49	advmod	_	_
+49	vardig	verdig	ADJ	_	_	52	advcl	_	_
+50	is	weasen	AUX	_	_	49	cop	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	52	punct	_	_
+52	höyrt	höyren	VERB	_	_	43	parataxis	_	_
+53	hee	hee	PRON	_	_	52	nsubj	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	68	punct	_	_
+55	dat	dat	SCONJ	_	_	68	mark	_	_
+56	eyner	eyner	PRON	_	_	68	nsubj	_	_
+57	van	van	ADP	_	_	60	case	_	_
+58	de	de	DET	_	_	60	det	_	_
+59	ander	ander	ADJ	_	_	60	amod	_	_
+60	syde	syde	NOUN	_	_	68	obl	_	SpaceAfter=No
+61	,	,	PUNCT	_	_	62	punct	_	_
+62	dår	dår	ADV	_	_	68	advmod	_	_
+63	wår	wår	ADV	_	_	66	obl	_	_
+64	de	de	DET	_	_	65	det	_	_
+65	Röyverbarg	Röyverberg	PROPN	_	_	66	nsubj	_	_
+66	ligt	liggen	VERB	_	_	62	acl	_	SpaceAfter=No
+67	,	,	PUNCT	_	_	68	punct	_	_
+68	roopt	ropen	VERB	_	_	52	ccomp	_	SpaceAfter=No
+69	:	:	PUNCT	_	_	68	punct	_	_
+70	"	"	PUNCT	_	_	71	punct	_	SpaceAfter=No
+71	Haal	halen	VERB	_	_	68	parataxis	_	_
+72	öäver	öäver	ADP	_	_	71	compound	_	SpaceAfter=No
+73	"	"	PUNCT	_	_	71	punct	_	SpaceAfter=No
+74	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = NDS_008_OVY_1882_genemuiden_h.w._van_dalfsen_-_n_braand
+# text_orig = De prachtige skoelen, het nette stad'uus mit bi-jnao al wat er in was, ook zie verdwenen in de 'oog opflikkerende vlammen; de karke leup groot gevaor.
+# text = De prachtige skolen, et nette stadhüüs med bynå al wat er in was, ouk see vordweanen in de houg upflikkerende vlammen; de karke löyp grout gevår. 
+1	De	de	DET	_	_	3	det	_	_
+2	prachtige	prächtig	ADJ	_	_	3	amod	_	_
+3	skolen	skole	NOUN	_	_	18	dislocated	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	et	dat	DET	_	_	7	det	_	_
+6	nette	net	ADJ	_	_	7	amod	_	_
+7	stadhüüs	stadhuus	NOUN	_	_	3	conj	_	_
+8	med	med	ADP	_	_	10	case	_	_
+9	bynå	bynå	ADV	_	_	10	advmod	_	_
+10	al	al	PRON	_	_	7	nmod	_	_
+11	wat	wat	PRON	_	_	12	nsubj	_	_
+12	der	dår	ADV	_	_	10	acl	_	_
+13	in	in	ADP	_	_	12	case	_	_
+14	was	weasen	AUX	_	_	12	cop	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	ouk	ouk	ADV	_	_	17	advmod	_	_
+17	see	see	PRON	_	_	18	nsubj	_	_
+18	vordweanen	vordwynen	VERB	_	_	0	root	_	_
+19	in	in	ADP	_	_	23	case	_	_
+20	de	de	DET	_	_	23	det	_	_
+21	houg	houg	ADJ	_	_	22	advmod	_	_
+22	upflikkerende	upflikkerend	ADJ	_	_	23	amod	_	_
+23	vlammen	vlamme	NOUN	_	_	18	obl	_	SpaceAfter=No
+24	;	;	PUNCT	_	_	27	punct	_	_
+25	de	de	DET	_	_	26	det	_	_
+26	karke	kerke	NOUN	_	_	27	nsubj	_	_
+27	löyp	loupen	VERB	_	_	18	parataxis	_	_
+28	grout	grout	ADJ	_	_	29	amod	_	_
+29	gevår	gevår	NOUN	_	_	27	obj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = NDS_009_MKB_1843_meakelenborgsk_De-Eek-un-de-Grashalm
+# text_orig = Weinige Dage dårna kam een Jung int Holt, de des Nachts Perd höden schull, un de Jung makte sick nich wiet van der Eek een grot Für an, wobi he sick lagerde un sin Piepken smokte.
+# text = Weynige dage dårnå kam en junge in't holt, dee des nachts pearde höden skul, un de junge makede sik nich wyd van der eyke en grout vüür an, wårby hee sik lagerde un syn pypken smoukede.
+1	Weynige	weynig	ADJ	_	_	2	amod	_	_
+2	dage	dag	NOUN	_	_	3	nmod	_	_
+3	dårnå	dårnå	ADV	_	_	4	advmod	_	_
+4	kam	koamen	VERB	_	_	0	root	_	_
+5	en	en	DET	_	_	6	det	_	_
+6	junge	junge	NOUN	_	_	4	nsubj	_	_
+7-9	in't	_	_	_	_	_	_	_	_
+7	in	in	ADP	_	_	10	case	_	SpaceAfter=No
+8	'	'	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	t	dat	DET	_	_	10	det	_	_
+10	holt	holt	NOUN	_	_	4	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	dee	dee	PRON	_	_	16	nsubj	_	_
+13	des	de	DET	_	_	14	det	_	_
+14	nachts	nacht	NOUN	_	_	16	advmod	_	_
+15	pearde	peard	NOUN	_	_	16	obj	_	_
+16	höden	höden	VERB	_	_	6	acl	_	_
+17	skul	sköälen	AUX	_	_	16	aux	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	un	un	CCONJ	_	_	22	cc	_	_
+20	de	de	DET	_	_	21	det	_	_
+21	junge	junge	NOUN	_	_	22	nsubj	_	_
+22	makede	maken	VERB	_	_	4	parataxis	_	_
+23	sik	sik	PRON	_	_	22	iobj	_	_
+24	nich	nich	PART	_	_	25	advmod	_	_
+25	wyd	wyd	ADJ	_	_	22	advmod	_	_
+26	van	van	ADP	_	_	28	case	_	_
+27	der	de	DET	_	_	28	det	_	_
+28	eyke	eyke	NOUN	_	_	25	obl	_	_
+29	en	en	DET	_	_	31	det	_	_
+30	grout	grout	ADJ	_	_	31	amod	_	_
+31	vüür	vüür	NOUN	_	_	22	obj	_	_
+32	an	an	ADP	_	_	22	compound	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	wårby	wårby	ADV	_	_	37	advmod	_	_
+35	hee	hee	PRON	_	_	37	nsubj	_	_
+36	sik	sik	PRON	_	_	37	obj	_	_
+37	lagerde	lageren	VERB	_	_	31	acl	_	_
+38	un	un	CCONJ	_	_	41	cc	_	_
+39	syn	syn	DET	_	_	40	det	_	_
+40	pypken	pypken	NOUN	_	_	41	obj	_	_
+41	smoukede	smöyken	VERB	_	_	37	conj	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = NDS_010_HOL_1910_as-noch-de-trankrusel-brenn
+# text_orig = Ja, wo is de Knieptang?
+# text = Ja, wår is de knyptange?
+1	Ja	ja	INTJ	_	_	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	wår	wår	ADV	_	_	1	conj	_	_
+4	is	weasen	AUX	_	_	3	cop	_	_
+5	de	de	DET	_	_	6	det	_	_
+6	knyptange	knyptange	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = NDS_011_HAM_1904_bahnmeester_dood
+# text_orig = Wat mien Süsterdochter fix is: de kann Gedanken läsen!
+# text = Wat myn süsterdochter fiks is: dee kan gedanken leasen! 
+1	Wat	wat	PRON	_	_	4	obl	_	_
+2	myn	myn	DET	_	_	3	det	_	_
+3	süsterdochter	süsterdochter	NOUN	_	_	4	nsubj	_	_
+4	fiks	fiks	ADJ	_	_	0	root	_	_
+5	is	is	AUX	_	_	4	cop	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	10	punct	_	_
+7	dee	dee	PRON	_	_	10	nsubj	_	_
+8	kan	köänen	AUX	_	_	10	aux	_	_
+9	gedanken	gedanke	NOUN	_	_	10	obj	_	_
+10	leasen	leasen	VERB	_	_	4	parataxis	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	10	punct	_	_
