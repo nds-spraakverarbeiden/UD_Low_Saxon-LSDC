@@ -257,7 +257,7 @@
 20	dag	dag	NOUN	_	_	25	obl	_	gmlLemma=dach
 21	un	un	CCONJ	_	_	22	cc	_	gmlLemma=unde²
 22	nacht	nacht	NOUN	_	_	20	conj	_	gmlLemma=nacht¹
-23	up	up	ADP	_	_	25	case	_	_
+23	up	up	ADP	_	_	25	case	_	gmlLemma=up²
 24	de	de	DET	_	_	25	det	_	gmlLemma=dê¹
 25	beyne	beyn	NOUN	_	_	16	advcl	_	gmlLemma=bêⁱn
 26	weasd	weasen	AUX	_	_	25	cop	_	gmlLemma=wēsen²
@@ -269,7 +269,7 @@
 32	mål	mål	ADV	_	_	43	advmod	_	gmlLemma=mâl¹
 33	noch	noch	ADV	_	_	43	advmod	_	gmlLemma=noch²
 34	spaede	spaede	ADJ	_	_	43	advmod	_	gmlLemma=spâde¹
-35	up	up	ADP	_	_	37	case	_	_
+35	up	up	ADP	_	_	37	case	_	gmlLemma=up²
 36	den	de	DET	_	_	37	det	_	gmlLemma=dê¹
 37	åvend	åvend	NOUN	_	_	43	obl	_	gmlLemma=âvent
 38	syn	syn	DET	_	_	39	det	_	gmlLemma=sîn⁴
@@ -523,7 +523,7 @@
 7	,	,	PUNCT	_	_	13	punct	_	_
 8	dee	dee	PRON	_	_	13	nsubj	_	gmlLemma=dê¹
 9	der	dår	ADV	_	_	13	advmod	_	gmlLemma=dâr¹
-10	an	an	ADP	_	_	12	case	_	_
+10	an	an	ADP	_	_	12	case	_	gmlLemma=an
 11	den	den	DET	_	_	12	det	_	gmlLemma=dê¹
 12	weg	weg	NOUN	_	_	13	obl	_	gmlLemma=wech¹
 13	stön	stån	VERB	_	_	6	acl	_	gmlLemma=stân|SpaceAfter=No
@@ -636,3 +636,158 @@
 23	tydvordryv	tydvordryv	NOUN	_	_	24	obj	_	gmlLemma=tîtvordrîf
 24	hadde	hebben	VERB	_	_	19	advcl	_	gmlLemma=hebben|SpaceAfter=No
 25	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = NDS_019_HOL_holsteynsk_1907_johann-heeinrich-fehrs_maren
+# text_orig = De beiden Finstern to Westen harr man mit witte Lakens verhungen, to Noorn weer man een, un dat stunn apen.
+# text = De beiden vinsteren to westen hadde man mid witte lakens vorhungen, to noorden weer man eyn, un dat stund oapen.
+1	De	de	DET	_	_	3	det	_	gmlLemma=dê¹
+2	beiden	beide	ADJ	_	_	3	amod	_	gmlLemma=bêⁱde¹
+3	vinsteren	vinster	NOUN	_	_	11	obj	_	gmlLemma=vinster¹
+4	to	to	ADP	_	_	5	case	_	gmlLemma=tô⁴
+5	westen	westen	NOUN	_	_	3	nmod	_	gmlLemma=westen
+6	hadde	hebben	AUX	_	_	11	aux	_	gmlLemma=hebben
+7	man	man	PRON	_	_	11	nsubj	_	gmlLemma=man²
+8	mid	mid	ADP	_	_	10	case	_	gmlLemma=mit
+9	witte	wit	ADJ	_	_	10	amod	_	gmlLemma=wit¹
+10	lakens	laken	NOUN	_	_	11	obl	_	gmlLemma=lāken¹
+11	vorhungen	vorhangen	VERB	_	_	0	root	_	gmlLemma=vorhangen|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	to	to	ADP	_	_	14	case	_	gmlLemma=tô⁴
+14	noorden	noorden	NOUN	_	_	15	obl	_	gmlLemma=nōrden
+15	weer	weasen	AUX	_	_	11	parataxis	_	gmlLemma=wēsen²
+16	man	men	ADV	_	_	17	advmod	_	gmlLemma=men³
+17	eyn	eyn	NUM	_	_	15	nsubj	_	gmlLemma=êⁱn¹|SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	un	un	CCONJ	_	_	21	cc	_	gmlLemma=unde²
+20	dat	dat	PRON	_	_	21	nsubj	_	gmlLemma=dat²
+21	stund	stån	VERB	_	_	15	conj	_	gmlLemma=stân
+22	oapen	oapen	ADV	_	_	21	compound	_	gmlLemma=ōpen¹|SpaceAfter=No
+23	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = NDS_020_HAM_hamborgsk_1911_hein_godenwind_de_admirol_von_moskitonien
+# text_orig = Hein heul de Hannen an den Mund un gröhl all wat he kunn: »Stüüüüür-maaaann!« De Stürmann keek ober gornich erst op.
+# text = Hein höyld de handen an den mund un gröäl al wat hee kun: "Stüüüüürmaaaann!", de stüürman keyk aver gaar nich eyrst up.
+1	Hein	Hein	PROPN	_	_	2	nsubj	_	_
+2	höyld	holden	VERB	_	_	0	root	_	gmlLemma=hōlden
+3	de	de	DET	_	_	4	det	_	gmlLemma=dê¹
+4	handen	hand	NOUN	_	_	2	obj	_	gmlLemma=hant
+5	an	an	ADP	_	_	7	case	_	gmlLemma=an
+6	den	de	DET	_	_	7	det	_	gmlLemma=dê¹
+7	mund	mund	NOUN	_	_	2	obl	_	gmlLemma=munt¹
+8	un	un	CCONJ	_	_	9	cc	_	gmlLemma=unde²
+9	gröäl	gröälen	VERB	_	_	2	conj	_	gmlLemma=grȫlen
+10	al	al	PRON	_	_	9	obj	_	gmlLemma=al
+11	wat	wat	PROPN	_	_	13	obj	_	gmlLemma=wat(te)³
+12	hee	hee	PRON	_	_	13	nsubj	_	gmlLemma=hê¹
+13	kun	künnen	VERB	_	_	10	acl	_	gmlLemma=künnen|SpaceAfter=No
+14	:	:	PUNCT	_	_	9	punct	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	Stüüüüürmaaaann	stüürman	NOUN	_	_	9	parataxis	_	gmlLemma=stü̂rman|SpaceAfter=No
+17	!	!	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	de	de	DET	_	_	21	det	_	gmlLemma=dê¹
+21	stüürman	stüürman	NOUN	_	_	22	nsubj	_	gmlLemma=stü̂rman
+22	keyk	kyken	VERB	_	_	2	parataxis	_	gmlLemma=kîken
+23	aver	avers	ADV	_	_	22	advmod	_	gmlLemma=āvers
+24	gaar	gaar	ADV	_	_	22	advmod	_	gmlLemma=gār²
+25	nich	nich	PART	_	_	22	advmod	_	gmlLemma=nicht¹
+26	eyrst	eyrst	ADV	_	_	22	advmod	_	gmlLemma=êrst²
+27	up	up	ADV	_	_	22	compound	_	gmlLemma=up¹|SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = NDS_021_OWL_ravensbergsk_1931_heinrich-stolte_ravensberg_der-bauernhof-um-1870
+# text_orig = An dem annern Enne fanner Küöken stonn doe lange Oekendisk, wo innen Sommer gieden weort.
+# text = An dem anderen ende van'er küäken stund dee lange eykendisk, wår in'en sommer giaten word.
+1	An	an	ADP	_	_	4	case	_	gmlLemma=an
+2	dem	de	DET	_	_	4	det	_	gmlLemma=dê¹
+3	anderen	ander	ADJ	_	_	4	amod	_	gmlLemma=ander
+4	ende	ende	NOUN	_	_	9	obl	_	gmlLemma=ende²
+5-7	van'er	_	_	_	_	_	_	_	_
+5	van	van	ADP	_	_	8	case	_	gmlLemma=van¹
+6	'	'	PUNCT	_	_	7	punct	_	_
+7	er	de	DET	_	_	8	det	_	gmlLemma=dê¹
+8	küäken	köäke	NOUN	_	_	4	nmod	_	gmlLemma=kȫke²
+9	stund	stån	VERB	_	_	0	root	_	gmlLemma=stân
+10	dee	de	DET	_	_	12	det	_	gmlLemma=dê¹
+11	lange	lang	ADJ	_	_	12	amod	_	gmlLemma=lanc
+12	eykendisk	eykendisk	NOUN	_	_	9	nsubj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	wår	wår	ADV	_	_	19	advmod	_	gmlLemma=wôr(e)
+15-17	in'en	_	_	_	_	_	_	_	_
+15	in	in	ADP	_	_	18	case	_	gmlLemma=in²
+16	'	'	PUNCT	_	_	17	punct	_	_
+17	en	de	DET	_	_	18	det	_	gmlLemma=dê¹
+18	sommer	sommer	NOUN	_	_	19	obl	_	gmlLemma=sōmer²
+19	giaten	eaten	VERB	_	_	12	acl	_	gmlLemma=ēten
+20	word	werden	AUX	_	_	19	aux	_	gmlLemma=wērden¹|SpaceAfter=No
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = NDS_022_OFL_oustföälsk_1918_wilhelm-henze_wat-sei-alles-maket
+# text_orig = Dokter Dreier het meck en Zettel ’eschreeben, den schölle eck heer afgeeben, denn kreege eck en Plaster, un dat schölle eck meck up dei Stee’e leggen, wo eck dei Weihdage harre.
+# text = Dokter Dreier het mik en ceddel eskreaven, den skölde ik hyr afgeaven, dän kryge ik en plåster, un dat skölde ik mik up dee steade leggen, wår ik dee weydage hadde.
+1	Dokter	doktor	NOUN	_	_	7	nsubj	_	gmlLemma=doktor
+2	Dreier	Dreier	PROPN	_	_	1	flat	_	_
+3	het	hebben	AUX	_	_	7	aux	_	gmlLemma=hebben
+4	mik	ik	PRON	_	_	7	iobj	_	gmlLemma=ik
+5	en	en	DET	_	_	6	det	_	gmlLemma=êⁱn¹
+6	ceddel	ceadel	NOUN	_	_	7	obj	_	gmlLemma=sēdel(e)
+7	eskreaven	skryven	VERB	_	_	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	den	de	PRON	_	_	13	obj	_	gmlLemma=dê¹
+10	skölde	sköälen	AUX	_	_	13	aux	_	gmlLemma=schȫlen¹
+11	ik	ik	PRON	_	_	13	nsubj	_	gmlLemma=ik
+12	hyr	hyr	ADV	_	_	13	advmod	_	gmlLemma=hîr
+13	afgeaven	afgeaven	VERB	_	_	6	acl	_	gmlLemma=afgēven|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	dän	dan	ADV	_	_	16	advmod	_	gmlLemma=dan¹
+16	kryge	krygen	VERB	_	_	7	conj	_	gmlLemma=krîgen²
+17	ik	ik	PRON	_	_	16	nsubj	_	gmlLemma=ik
+18	en	en	DET	_	_	19	det	_	gmlLemma=êⁱn¹
+19	plåster	plåster	NOUN	_	_	16	obj	_	gmlLemma=plaster|SpaceAfter=No
+20	,	,	PUNCT	_	_	29	punct	_	_
+21	un	un	CCONJ	_	_	29	cc	_	gmlLemma=unde²
+22	dat	dat	PRON	_	_	29	obj	_	gmlLemma=dat²
+23	skölde	sköälen	AUX	_	_	29	aux	_	gmlLemma=schȫlen¹
+24	ik	ik	PRON	_	_	29	nsubj	_	gmlLemma=ik
+25	mik	ik	PRON	_	_	29	iobj	_	gmlLemma=ik
+26	up	up	ADP	_	_	28	case	_	gmlLemma=up²
+27	dee	de	DET	_	_	28	det	_	gmlLemma=dê¹
+28	steade	steade	NOUN	_	_	29	obl	_	gmlLemma=stēde⁵
+29	leggen	leggen	VERB	_	_	16	conj	_	gmlLemma=leggen|SpaceAfter=No
+30	,	,	PUNCT	_	_	35	punct	_	_
+31	wår	wår	ADV	_	_	35	advmod	_	gmlLemma=wôr(e)
+32	ik	ik	PRON	_	_	35	nsubj	_	gmlLemma=ik
+33	dee	de	DET	_	_	34	det	_	gmlLemma=dê¹
+34	weydage	weydage	NOUN	_	_	35	obj	_	gmlLemma=wêdāge
+35	hadde	hebben	VERB	_	_	28	acl	_	gmlLemma=hebben|SpaceAfter=No
+36	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = NDS_023_NNI_noordneddersassisk_1909_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
+# text_orig = Do keem dar ok is een, sick to bestäen, un de Möller vertellde em glyks, dat 't in de Moel nich richtig weer.
+# text = Do kaem dår ouk eyns eyn sik to besteaden un de möller vortelde em gelyks, dat et in de möäle nich richtig weer.
+1	Do	do	ADV	_	_	2	advmod	_	gmlLemma=dô¹
+2	kaem	koamen	VERB	_	_	0	root	_	gmlLemma=kōmen¹
+3	dår	dår	ADV	_	_	2	advmod	_	gmlLemma=dâr¹
+4	ouk	ouk	ADV	_	_	2	advmod	_	gmlLemma=ôk
+5	eyns	eyns	ADV	_	_	2	advmod	_	gmlLemma=êⁱnes
+6	eyn	eyn	PRON	_	_	2	nsubj	_	gmlLemma=êⁱn¹
+7	sik	sik	PRON	_	_	9	obj	_	gmlLemma=sik¹
+8	to	to	PART	_	_	9	mark	_	gmlLemma=tô⁵
+9	besteaden	besteaden	VERB	_	_	2	xcomp	_	gmlLemma=bestēden
+10	un	un	CCONJ	_	_	13	cc	_	gmlLemma=unde²
+11	de	de	DET	_	_	12	det	_	gmlLemma=dê¹
+12	möller	möller	NOUN	_	_	13	nsubj	_	gmlLemma=möller(e)
+13	vortelde	vortellen	VERB	_	_	2	conj	_	gmlLemma=vortellen²
+14	em	hee	PRON	_	_	13	iobj	_	gmlLemma=hê¹
+15	gelyks	gelyks	ADV	_	_	13	advmod	_	gmlLemma=gelîkes|SpaceAfter=No
+16	,	,	PUNCT	_	_	23	punct	_	_
+17	dat	dat	SCONJ	_	_	23	mark	_	gmlLemma=dat²
+18	et	et	PRON	_	_	23	nsubj	_	gmlLemma=et¹
+19	in	in	ADP	_	_	21	case	_	gmlLemma=in²
+20	de	de	DET	_	_	21	det	_	gmlLemma=dê¹
+21	möäle	möäle	NOUN	_	_	23	obl	_	gmlLemma=mȫle
+22	nich	nich	PART	_	_	23	advmod	_	gmlLemma=nicht¹
+23	richtig	richtig	ADJ	_	_	13	advcl	_	gmlLemma=richtich
+24	weer	weasen	AUX	_	_	23	cop	_	gmlLemma=wēsen²|SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
