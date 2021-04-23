@@ -206,7 +206,7 @@
 58	dårto	dårto	ADV	_	_	53	advmod	_	gmlLemma=dãrtô
 59	,	,	PUNCT	_	_	61	punct	_	_
 60	sou	sou	ADV	_	_	61	advmod	_	gmlLemma=sô²
-61	veal	veal	ADJ	_	_	57	dislocated	_ gmlLemma=vēle¹
+61	veal	veal	ADJ	_	_	57	dislocated	_	gmlLemma=vēle¹
 62	as	as	SCONJ	_	_	64	mark	_	gmlLemma=alsô
 63	hee	hee	PRON	_	_	64	nsubj	_	gmlLemma=hê¹
 64	much	möägen	VERB	_	_	61	acl	_	gmlLemma=mȫgen|SpaceAfter=No
