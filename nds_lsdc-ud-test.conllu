@@ -20,7 +20,7 @@
 17	en	un	CCONJ	_	_	18	cc	_	gmlLemma=unde²
 18	dát	dat	PRON	_	_	4	parataxis	_	gmlLemma=dat²
 19	sin	weasen	AUX	_	_	18	cop	_	gmlLemma=wēsen²
-20	ik	ik	PRON	_	_	18	nsubj	_	gmlLemma=ik
+20	ik	ik	PRON	_	_	18	nsubj	_	gmlLemma=ik|SpaceAfter=No
 21	!	!	PUNCT	_	_	4	punct	_	_
 
 # sent_id = NDS_002_OFL_1882_oustfalen_hannover_leichen-predigt_auf_michael_wichman
@@ -145,7 +145,7 @@
 
 # sent_id = NDS_005_SLE_1882_sleeswyk_de_markgraef_to_sleeswik_unn_de_buer_to_boklund
 # text_orig = As de Buer mael to Slot weer unn de Markgraef gerade by Disch seet, lett he em herin kamen unn by sik sitten an syne sülwerne Tafel, unn wys em all dat Sülwergeschirr unn all de Kostborkeden, leet de Muskanten spälen, unn den Buer van de schöensten Spysen gäwen, unn fynen Wyn darto, so väel as he mugg.
-# text = As de buur mål to slot weer un de markgraav gerade by disk saet, let hee em herin koamen un by sik sitten an syne sülverne tåfel, un wys em al dat sülvergeskir un al de kostbårkeiden, leyt de muskanten spealen, un den buur van de sköynsten spysen geaven, un vynen wyn dårto, sou veal as hee much.
+# text = As de buur mål to slot weer un de markgråve gerade by disk saet, let hee em herin koamen un by sik sitten an syne sülverne tåfel, un wys em al dat sülvergeskir un al de kostbårkeiden, leyt de muskanten spealen, un den buur van de sköynsten spysen geaven, un vynen wyn dårto, sou veal as hee much.
 1	As	as	SCONJ	_	_	6	mark	_	gmlLemma=alsô
 2	de	de	DET	_	_	3	det	_	gmlLemma=dê¹
 3	buur	buur	NOUN	_	_	6	nsubj	_	gmlLemma=bûr¹
@@ -198,12 +198,12 @@
 50	de	de	DET	_	_	52	det	_	gmlLemma=dê¹
 51	sköynsten	sköyn	ADJ	_	_	52	amod	_	gmlLemma=schö̂ne¹
 52	spysen	spyse	NOUN	_	_	53	obl	_	gmlLemma=spîse
-53	geaven	geaven	VERB	_	_	16	conj	_	gmlLemma=gēven
+53	geaven	geaven	VERB	_	_	16	conj	_	gmlLemma=gēven|SpaceAfter=No
 54	,	,	PUNCT	_	_	57	punct	_	_
 55	un	un	CCONJ	_	_	57	cc	_	gmlLemma=unde²
 56	vynen	vyn	ADJ	_	_	57	amod	_	gmlLemma=fîn
 57	wyn	wyn	NOUN	_	_	53	obj	_	gmlLemma=wîn²
-58	dårto	dårto	ADV	_	_	53	advmod	_	gmlLemma=dãrtô
+58	dårto	dårto	ADV	_	_	53	advmod	_	gmlLemma=dãrtô|SpaceAfter=No
 59	,	,	PUNCT	_	_	61	punct	_	_
 60	sou	sou	ADV	_	_	61	advmod	_	gmlLemma=sô²
 61	veal	veal	ADJ	_	_	57	dislocated	_	gmlLemma=vēle¹
@@ -361,7 +361,7 @@
 11	,	,	PUNCT	_	_	16	punct	_	_
 12	dee	dee	PRON	_	_	16	nsubj	_	gmlLemma=dê¹
 13	des	de	DET	_	_	14	det	_	gmlLemma=dê¹
-14	nachts	nacht	NOUN	_	_	16	advmod	_	gmlLemma=nacht¹
+14	nachts	nacht	NOUN	_	_	16	obl	_	gmlLemma=nacht¹
 15	pearde	peard	NOUN	_	_	16	obj	_	gmlLemma=pērt¹
 16	höden	höden	VERB	_	_	6	acl	_	gmlLemma=hö̂den
 17	skul	sköälen	AUX	_	_	16	aux	_	gmlLemma=schȫlen¹|SpaceAfter=No
@@ -431,7 +431,7 @@
 9	myne	myn	DET	_	_	10	det	_	gmlLemma=mîn²
 10	dochter	dochter	NOUN	_	_	18	nsubj	_	gmlLemma=dochter
 11-13	to'm	_	_	_	_	_	_	_	_
-11	to	to	ADP	_	_	14	case	_	gmlLemma=tô⁴|SpaceAfter=No
+11	to	to	ADP	_	_	14	case	_	gmlLemma=tô⁴
 12	'	'	PUNCT	_	_	13	punct	_	_
 13	m	de	DET	_	_	14	det	_	gmlLemma=dê¹
 14	eyrste	eyrst	ADJ	_	_	18	obl	_	gmlLemma=êrst¹
@@ -588,7 +588,7 @@
 # text = Myn vrouwe visiteer höär gelyks, neet uut nysgyrigheid, man dat de kinder sik neet to skanden eaten sullen.
 1	Myn	myn	DET	_	_	2	det	_	gmlLemma=mîn²
 2	vrouwe	vrouwe	NOUN	_	_	3	nsubj	_	gmlLemma=vrouwe²
-3	visiteer	visiteren	VERB	_	_	_	_	_	gmlLemma=visitêren
+3	visiteer	visiteren	VERB	_	_	0	root	_	gmlLemma=visitêren
 4	höär	see	PRON	_	_	3	obj	_	gmlLemma=sê¹
 5	gelyks	gelyks	ADV	_	_	3	advmod	_	gmlLemma=gelîkes|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
