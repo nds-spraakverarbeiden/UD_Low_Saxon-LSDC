@@ -55,7 +55,7 @@ If you use this treebank, please cite this paper describing the LSDC dataset:
 Data available since: UD v2.8
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: fiction letters speeches
+Genre: fiction nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: 
