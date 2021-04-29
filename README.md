@@ -9,7 +9,7 @@ The UD Low Saxon LSDC dataset contains 18 Low Saxon dialects from both Germany a
 
 The dataset contains only sentences from copyright-free material from the 19th and early 20th century. Part of the sentences are already included in the first release of the LSDC dataset found here: https://github.com/Helsinki-NLP/LSDC/ See there for further information on the origin of the data. The other sentences originate mostly from Joh. A. Leopold's work 'Van de Schelde tot te Weichsel', a digitised version of which is accessible here: https://www.dbnl.org/titels/titel.php?id=leop008sche00 An exception constitutes the first sentence which is taken from a text to be found in the Twentse Taalbank: http://www.twentsetaalbank.nl/docs/TWA.1894-Heinink-Krisjaon_Klaover-150.pdf These other sentences will be added to the next release of the LSDC dataset. 
 
-Due to the small size of the first version of the dataset, it has not yet been split into training, development and test sets. The morphological analysis is still missing but will be included in the next release. 
+Due to the small size of the first version of the dataset, it has not yet been split into training, development and test sets. The morphological features are still missing but will be included in the next release. 
 
 
 # Acknowledgments
@@ -55,12 +55,12 @@ If you use this treebank, please cite this paper describing the LSDC dataset:
 Data available since: UD v2.8
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
+Genre: fiction letters speeches
+Lemmas: manual native
+UPOS: manual native
+XPOS: 
+Features: 
+Relations: manual native
 Contributors: Siewert, Janine
 Contributing: elsewhere
 Contact: janine.siewert@helsinki.fi
