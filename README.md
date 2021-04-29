@@ -14,7 +14,10 @@ Due to the small size of the first version of the dataset, it has not yet been s
 
 # Acknowledgments
 
-...
+The following people were involved in the creation of this dataset:
+
+* Janine Siewert (data collection, selection and annotation)
+* Jack Michael Rueter (annotation-related advice) 
 
 ## References
 
@@ -37,7 +40,7 @@ If you use this treebank, please cite this paper describing the LSDC dataset:
 ```
 ### References used for the creation of this dataset: 
 
-* Lasch, Agathe et al. (1928 ff) *Mittelniederdeutsches Handwörterbuch.* Neumünster: Wachholtz.
+* Lasch, Agathe et al. 1928 ff. *Mittelniederdeutsches Handwörterbuch.* Neumünster: Wachholtz.
 * ReN-Team. 2019. *Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650).* Archived in Hamburger Zentrum für Sprachkorpora. Version 1.0. Publication date 2019-08-14. http://hdl.handle.net/11022/0000-0007-D829-8.
 
 
