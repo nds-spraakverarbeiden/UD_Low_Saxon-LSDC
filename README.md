@@ -1,12 +1,17 @@
 # Summary
 
+The UD Low Saxon LSDC dataset consists of sentences in 18 Low Saxon dialects from both Germany and the Netherlands. These sentences are (or are to become) part of the LSDC dataset and represent the language from the 19th and early 20th century in genres like short stories, novels, speeches, letters and fairytales. 
+
 ... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
 
 
 # Introduction
 
-...
-The dataset where I take the example sentences from contains 18 dialects from both Germany and the Netherlands. Since there is no official interregional spelling, I use the interregional spelling of the Dutch Low Saxon Wikipedia as a compromise, but I also always add the original spelling of the source. In case of more than one potential lemma form, I strive to choose the one which corresponds best to the normalised Middle Low Saxon in the "Mittelniederdeutsches Handwörterbuch" by Agathe Lasch et al.
+The UD Low Saxon LSDC dataset contains 18 Low Saxon dialect from both Germany and the Netherlands represented by 2 sentences each and belonging to the domains of short stories, novels, speeches, letters and fairytales. Each sentence was chosen from a different text to also present some of the variation within the different dialect groups. Since there is no official interregional spelling, the interregional spelling of the Dutch Low Saxon Wikipedia is used as a compromise for normalisation, but the original spelling of the source is included in the line "text_orig =" and a Middle Low Saxon lemma is added in the tenth column ("lemma[gml]=xxx") in order to make the Modern Low Saxon data more easily comparable with the Middle Low Saxon data in the reference corpus "Referenzkorpus Mittelniederdeutsch/Niederrheinisch". This is why the Middle Low Saxon lemma forms follow the "Mittelniederdeutsches Handwörterbuch" by Agathe Lasch et al. like in the reference corpus. Middle Low Saxon lemmata are only added in case I have found an attestation in Middle Low Saxon, i.e. the word is either listed in the Handwörterbuch or is found in the reference corpus. I still include Middle Low Saxon lemmata if the word's meaning has changed, but I did not e.g. create new complex word lemmata from known simplex words and neither did I reconstruct potential Middle Low Saxon forms for words which have been attested only later.
+
+The dataset contains only sentences from copyright-free material from the 19th and early 20th century. Part of the sentences are already included in the first release of the LSDC dataset found there: https://github.com/Helsinki-NLP/LSDC/ See there for further information on the origin of the data. The other sentences originate mostly from Joh. A. Leopold's work 'Van de Schelde tot te Weichsel', a digitised version of which can is accessible here: https://www.dbnl.org/titels/titel.php?id=leop008sche00 An exception constitutes the first sentence which is taken from a text to be found in the Twentse Taalbank: http://www.twentsetaalbank.nl/docs/TWA.1894-Heinink-Krisjaon_Klaover-150.pdf These other sentences will be added to the next release of the LSDC dataset. 
+
+Due to the small size of the first version of the dataset, no split into training, development and test set was done yet. 
 
 
 # Acknowledgments
