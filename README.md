@@ -58,8 +58,8 @@ Includes text: yes
 Genre: fiction nonfiction
 Lemmas: manual native
 UPOS: manual native
-XPOS: 
-Features: 
+XPOS: manual native
+Features: manual native
 Relations: manual native
 Contributors: Siewert, Janine
 Contributing: elsewhere
