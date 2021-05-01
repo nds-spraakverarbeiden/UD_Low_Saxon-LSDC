@@ -1,4 +1,4 @@
-# sent_id = NDS_001_TWE_1894_krisjan_klaover_jw_heinink
+# sent_id = LSDC_001_TWE_1894_krisjan_klaover_jw_heinink
 # text_orig = In de stad hoove y  niks 'eleèrd te hebben, as y mèr gefiefd zint - en dát zin'k!
 # text = In de stad hove y niks eleyrd te hebben, as y mär gefyvd sint - en dát sin ik!
 1	In	in	ADP	_	_	3	case	_	lemma[gml]=in²
@@ -23,7 +23,7 @@
 20	ik	ik	PRON	_	_	18	nsubj	_	lemma[gml]=ik|SpaceAfter=No
 21	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = NDS_002_OFL_1882_oustfalen_hannover_leichen-predigt_auf_michael_wichman
+# sent_id = LSDC_002_OFL_1882_oustfalen_hannover_leichen-predigt_auf_michael_wichman
 # text_orig = As de Schaulmester dat Hebräische hörede, so kunn he endlik wol denken, dat et keenen anders, as de Herr Pastor syn künne, un leit gliks los.
 # text = As de skoolmeyster dat hebräiske höyrde, sou kun hee endlik wol denken, dat et keynen anders as de her pastor syn künne, un leyt gelyks lous.
 1	As	as	SCONJ	_	_	6	mark	_	lemma[gml]=alsô
@@ -57,7 +57,7 @@
 29	lous	lous	ADP	_	_	27	compound	_	lemma[gml]=lôs¹|SpaceAfter=No
 30	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = NDS_003_OWL_1882_westfalen_paderborn_-_dat_nigge_testamante
+# sent_id = LSDC_003_OWL_1882_westfalen_paderborn_-_dat_nigge_testamante
 # text_orig = Dei Kerel hiät mey den drüdden Dag ankünniget, un wänn ik meyne Riäkenunge met dem Hiemel afschliuten wull, sull ik et moren deoen, üäwermoren möcht et wal te late seyn.
 # text = Dee kearl het my den drüdden dag ankündigd, un wän ik myne reakeninge mid dem hiamel afsluten wul, sul ik et morgen doon, öävermorgen möcht et wol te late syn.
 1	Dee	dee	DET	_	_	2	det	_	lemma[gml]=dê¹
@@ -95,7 +95,7 @@
 33	syn	weasen	AUX	_	_	32	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
 34	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = NDS_004_VEL_1880_veluwe_uddel_uddelermeer_a._aarsen_-_de_knecht_van_den_reus
+# sent_id = LSDC_004_VEL_1880_veluwe_uddel_uddelermeer_a._aarsen_-_de_knecht_van_den_reus
 # text_orig = Onze meister zegt, dat vake de geleerde luui euver 'n klein woord, euver 'n nullige zake mekoare wel droadnegelen dat 't noar is, dat oe de haren 'r van te bârge riizen, dat i er leed om worde.
 # text = Unse meyster segt, dat vake de geleyrde lüde öäver en klein woord, öäver en nüllige sake mekare wel drådnägelen, dat et når is, dat uw de håren der van te barge rysen, dat y der leyd um worden.
 1	Unse	uns	DET	_	_	2	det	_	lemma[gml]=unse¹
@@ -143,7 +143,7 @@
 43	worden	werden	VERB	_	_	36	parataxis	_	lemma[gml]=wērden¹|SpaceAfter=No
 44	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_005_SLE_1882_sleeswyk_de_markgraef_to_sleeswik_unn_de_buer_to_boklund
+# sent_id = LSDC_005_SLE_1882_sleeswyk_de_markgraef_to_sleeswik_unn_de_buer_to_boklund
 # text_orig = As de Buer mael to Slot weer unn de Markgraef gerade by Disch seet, lett he em herin kamen unn by sik sitten an syne sülwerne Tafel, unn wys em all dat Sülwergeschirr unn all de Kostborkeden, leet de Muskanten spälen, unn den Buer van de schöensten Spysen gäwen, unn fynen Wyn darto, so väel as he mugg.
 # text = As de buur mål to slot weer un de markgråve gerade by disk saet, let hee em herin koamen un by sik sitten an syne sülverne tåfel, un wys em al dat sülvergeskir un al de kostbårkeiden, leyt de muskanten spealen, un den buur van de sköynsten spysen geaven, un vynen wyn dårto, sou veal as hee much.
 1	As	as	SCONJ	_	_	6	mark	_	lemma[gml]=alsô
@@ -212,7 +212,7 @@
 64	much	möägen	VERB	_	_	61	acl	_	lemma[gml]=mȫgen|SpaceAfter=No
 65	.	.	PUNCT	_	_	16	punct	_	_
 
-# sent_id = NDS_006_DRE_1875_hoogeveen_j.v.d._veen_azn_-_t_mut_oe_moar_mitloopen
+# sent_id = LSDC_006_DRE_1875_hoogeveen_j.v.d._veen_azn_-_t_mut_oe_moar_mitloopen
 # text_orig = ‘Dou skienst niet in dien humeur te wezen’, zé Jouke tegen Garrelt.
 # text = 'Du skynst neet in dyn hümöör te weasen', sea Jouke teagen Garrelt.
 1	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -232,7 +232,7 @@
 15	Garrelt	Garrelt	PROPN	_	_	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_007_MAR_1843_marksk_Die-Todtenfahrt
+# sent_id = LSDC_007_MAR_1843_marksk_Die-Todtenfahrt
 # text_orig = Då is mål ens to Göttin en Fischer west, dee hett siin goot Broot hatt, wiil hee Dach unn Nacht up de Beine west is; dee hett ook mål noch späte uppen Åmnd siin Tüüch an de Håvel drööcht unn as hee eemnd dåmett fårig is, höört hee, dett eener von de änner Siit, då wo de Röverbarch liggt, roopt: „Hål aar".
 # text = Dår is mål eyns to Göttin en visker weasd, dee het syn good broud had, wyl hee dag un nacht up de beyne weasd is; dee het ouk mål noch spaede up den åvend syn tüüg an de Havel dröygd un as hee eavend dårmid vardig is, höyrt hee, dat eyner van de ander syde, dår wår de Röyverbarg ligt, roopt: "Haal öäver".
 1	Dår	dår	PRON	_	_	9	expl	_	lemma[gml]=dâr¹
@@ -310,7 +310,7 @@
 73	"	"	PUNCT	_	_	71	punct	_	SpaceAfter=No
 74	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = NDS_008_OVY_1882_genemuiden_h.w._van_dalfsen_-_n_braand
+# sent_id = LSDC_008_OVY_1882_genemuiden_h.w._van_dalfsen_-_n_braand
 # text_orig = De prachtige skoelen, het nette stad'uus mit bi-jnao al wat er in was, ook zie verdwenen in de 'oog opflikkerende vlammen; de karke leup groot gevaor.
 # text = De prachtige skolen, et nette stadhüüs mid bynå al wat der in was, ouk see vordweanen in de houg upflikkerende vlammen; de karke löyp grout gevår.
 1	De	de	DET	_	_	3	det	_	lemma[gml]=dê¹
@@ -344,7 +344,7 @@
 29	gevår	gevår	NOUN	_	_	27	obj	_	lemma[gml]=gevâr(e)²|SpaceAfter=No
 30	.	.	PUNCT	_	_	18	punct	_	_
 
-# sent_id = NDS_009_MKB_1843_meakelenborgsk_De-Eek-un-de-Grashalm
+# sent_id = LSDC_009_MKB_1843_meakelenborgsk_De-Eek-un-de-Grashalm
 # text_orig = Weinige Dage dårna kam een Jung int Holt, de des Nachts Perd höden schull, un de Jung makte sick nich wiet van der Eek een grot Für an, wobi he sick lagerde un sin Piepken smokte.
 # text = Weynige dage dårnå kam en junge in't holt, dee des nachts pearde höden skul, un de junge makede sik nich wyd van der eyke en grout vüür an, wårby hee sik lagerde un syn pypken smoukede.
 1	Weynige	weynig	ADJ	_	_	2	amod	_	lemma[gml]=weinich
@@ -391,7 +391,7 @@
 41	smoukede	smöyken	VERB	_	_	37	conj	_	lemma[gml]=smö̂ken²|SpaceAfter=No
 42	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = NDS_010_HOL_1910_as-noch-de-trankrusel-brenn
+# sent_id = LSDC_010_HOL_1910_as-noch-de-trankrusel-brenn
 # text_orig = Ja, wo is de Knieptang?
 # text = Ja, wår is de knyptange?
 1	Ja	ja	INTJ	_	_	0	root	_	lemma[gml]=jâ¹|SpaceAfter=No
@@ -402,7 +402,7 @@
 6	knyptange	knyptange	NOUN	_	_	3	nsubj	_	lemma[gml]=knîptange|SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_011_HAM_1904_bahnmeester_dood
+# sent_id = LSDC_011_HAM_1904_bahnmeester_dood
 # text_orig = Wat mien Süsterdochter fix is: de kann Gedanken läsen!
 # text = Wat myn süsterdochter fiks is: dee kan gedanken leasen!
 1	Wat	wat	PRON	_	_	4	obl	_	lemma[gml]=wat(te)³
@@ -417,7 +417,7 @@
 10	leasen	leasen	VERB	_	_	4	parataxis	_	lemma[gml]=lēsen¹|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	_
 
-# sent_id = NDS_012_NPR_1882_pruussen_konigsberg_-_trine_onn_dschin
+# sent_id = LSDC_012_NPR_1882_pruussen_konigsberg_-_trine_onn_dschin
 # text_orig = On nu kömmpt mi noch datt, datt miene Dochter tomm ärschte önn'e Deenst geiht, onn hiede hebbe wi schon de fiewonntwinntichste October.
 # text = Un nu kümt my noch dat, dat myne dochter to'm eyrste in de deenst geit, un hüde hebben wy skoun de vyvuntwintigste oktober.
 1	Un	un	CCONJ	_	_	3	cc	_	lemma[gml]=unde²
@@ -450,7 +450,7 @@
 27	oktober	oktober	NOUN	_	_	22	obj	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_013_NNI_1882_noordneddersassen_luneburg_willem_schroder_-_reisebreefe_van_kasper_wullkop
+# sent_id = LSDC_013_NNI_1882_noordneddersassen_luneburg_willem_schroder_-_reisebreefe_van_kasper_wullkop
 # text_orig = Dat hört natürlick Andrees, de jüst ünnen in de Käke sitt un sick thee kaken will.
 # text = Dat höyrt natüürlik Andrees, dee jüst ünden in de köäke sit un sik tee koaken wil.
 1	Dat	dat	PRON	_	_	2	obj	_	lemma[gml]=dat²
@@ -472,7 +472,7 @@
 17	wil	willen	AUX	_	_	16	aux	_	lemma[gml]=willen¹|SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_014_GRO_1872_gronningen_n_oetmiening_ien_n_jachtwaide
+# sent_id = LSDC_014_GRO_1872_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Zien vrau was der ien 't eerste blind veur; moar 'n mouders ooge zucht scharp, veural as ie moar ein kind hebben en joen man ook an de tering hen goan is.
 # text = Syn vrouwe was der in et eyrste blind vöär; mor en moders ouge sügt skarp, vöäral as y mor eyn kind hebben en juwen man ouk an de tearinge hen gån is.
 1	Syn	syn	DET	_	_	2	det	_	lemma[gml]=sîn⁴
@@ -511,7 +511,7 @@
 34	is	weasen	AUX	_	_	33	aux	_	lemma[gml]=wēsen²|SpaceAfter=No
 35	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = NDS_015_MON_1882_westfalen_rheine_-_jans_riks_un_giad
+# sent_id = LSDC_015_MON_1882_westfalen_rheine_-_jans_riks_un_giad
 # text_orig = Da queimen se by 'n Handwieser, de der an den Weg stäönn; da seiten drei Arms an.
 # text = Do kwaemen see by en handwyser, dee der an den weg stön; dår saeten dree arms an.
 1	Do	do	ADV	_	_	2	advmod	_	_
@@ -535,7 +535,7 @@
 19	an	an	ADP	_	_	15	case	_	lemma[gml]=an|SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_016_ACH_1870_achterhook_zutphen_j.h._gallee_-_het_verhaal_van_schele_guurte
+# sent_id = LSDC_016_ACH_1870_achterhook_zutphen_j.h._gallee_-_het_verhaal_van_schele_guurte
 # text_orig = Now, elk wist wel dat Winkels Hente en bîster kwaod wief was, en dat Winkel, sint datte zîn eerste vrouw nao Marten Eskes ebracht hadde en met Hente Wonnink etrouwd was, de hel in huus hadde.
 # text = Now, elk wiste wel, dat Winkels Hente en byster kwåd wyv was, en dat Winkel, sind dat'e syn eyrste vrouwe nå Marten Eskes ebracht hadde en mid Hente Wonnink etrouwd was, de helle in huus hadde.
 1	Now	nu	INTJ	_	_	4	discourse	_	lemma[gml]=nu|SpaceAfter=No
@@ -583,7 +583,7 @@
 43	hadde	hebben	VERB	_	_	13	conj	_	lemma[gml]=hebben|SpaceAfter=No
 44	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = NDS_017_OFR_1882_oustfreesland_een_sundermartens_avend_un_wat_dar_all_vorher_geit
+# sent_id = LSDC_017_OFR_1882_oustfreesland_een_sundermartens_avend_un_wat_dar_all_vorher_geit
 # text_orig = Mien Fro visiteer hör glieks, neet ut Neesgierigheit, man dat de Kinner sück neet to Schanden èten sullen.
 # text = Myn vrouwe visiteer höär gelyks, neet uut nysgyrigheid, man dat de kinder sik neet to skanden eaten sullen.
 1	Myn	myn	DET	_	_	2	det	_	lemma[gml]=mîn²
@@ -608,7 +608,7 @@
 20	sullen	sköälen	AUX	_	_	19	aux	_	lemma[gml]=schȫlen¹|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_018_SUD_suderlandsk_1900+-15-jår_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup
+# sent_id = LSDC_018_SUD_suderlandsk_1900+-15-jår_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup
 # text_orig = Aechter den Köggen hiär läupen, dat mochte Hiärmen natürlich alleune dauen; de Vaar was men dotau do, dat Hiärmen Tyitverdryiw harre.
 # text = Achter den köen her löypen, dat mochte Hiärmen natüürlik alleyne doon; de vader was men dårto dår, dat Hiärmen tydvordryv hadde.
 1	Achter	achter	ADP	_	_	3	case	_	lemma[gml]=achter⁴ᵃ
@@ -637,7 +637,7 @@
 24	hadde	hebben	VERB	_	_	19	advcl	_	lemma[gml]=hebben|SpaceAfter=No
 25	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = NDS_019_HOL_holsteynsk_1907_johann-heeinrich-fehrs_maren
+# sent_id = LSDC_019_HOL_holsteynsk_1907_johann-heeinrich-fehrs_maren
 # text_orig = De beiden Finstern to Westen harr man mit witte Lakens verhungen, to Noorn weer man een, un dat stunn apen.
 # text = De beiden vinsteren to westen hadde man mid witte lakens vorhungen, to noorden weer man eyn, un dat stund oapen.
 1	De	de	DET	_	_	3	det	_	lemma[gml]=dê¹
@@ -664,7 +664,7 @@
 22	oapen	oapen	ADV	_	_	21	compound	_	lemma[gml]=ōpen¹|SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = NDS_020_HAM_hamborgsk_1911_hein_godenwind_de_admirol_von_moskitonien
+# sent_id = LSDC_020_HAM_hamborgsk_1911_hein_godenwind_de_admirol_von_moskitonien
 # text_orig = Hein heul de Hannen an den Mund un gröhl all wat he kunn: »Stüüüüür-maaaann!« De Stürmann keek ober gornich erst op.
 # text = Hein höyld de handen an den mund un gröäl al wat hee kun: "Stüüüüürmaaaann!", de stüürman keyk aver gaar nich eyrst up.
 1	Hein	Hein	PROPN	_	_	2	nsubj	_	_
@@ -696,7 +696,7 @@
 27	up	up	ADV	_	_	22	compound	_	lemma[gml]=up¹|SpaceAfter=No
 28	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_021_OWL_ravensbergsk_1931_heinrich-stolte_ravensberg_der-bauernhof-um-1870
+# sent_id = LSDC_021_OWL_ravensbergsk_1931_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = An dem annern Enne fanner Küöken stonn doe lange Oekendisk, wo innen Sommer gieden weort.
 # text = An dem anderen ende van'er küäken stund dee lange eykendisk, wår in'en sommer giaten word.
 1	An	an	ADP	_	_	4	case	_	lemma[gml]=an
@@ -723,7 +723,7 @@
 20	word	werden	AUX	_	_	19	aux	_	lemma[gml]=wērden¹|SpaceAfter=No
 21	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = NDS_022_OFL_oustföälsk_1918_wilhelm-henze_wat-sei-alles-maket
+# sent_id = LSDC_022_OFL_oustföälsk_1918_wilhelm-henze_wat-sei-alles-maket
 # text_orig = Dokter Dreier het meck en Zettel ’eschreeben, den schölle eck heer afgeeben, denn kreege eck en Plaster, un dat schölle eck meck up dei Stee’e leggen, wo eck dei Weihdage harre.
 # text = Dokter Dreier het mik en ceddel eskreaven, den skölde ik hyr afgeaven, dän kryge ik en plåster, un dat skölde ik mik up dee steade leggen, wår ik dee weydage hadde.
 1	Dokter	doktor	NOUN	_	_	7	nsubj	_	lemma[gml]=doktor
@@ -763,7 +763,7 @@
 35	hadde	hebben	VERB	_	_	28	acl	_	lemma[gml]=hebben|SpaceAfter=No
 36	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = NDS_023_NNI_noordneddersassisk_1909_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
+# sent_id = LSDC_023_NNI_noordneddersassisk_1909_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
 # text_orig = Do keem dar ok is een, sick to bestäen, un de Möller vertellde em glyks, dat 't in de Moel nich richtig weer.
 # text = Do kaem dår ouk eyns eyn sik to besteaden un de möller vortelde em gelyks, dat et in de möäle nich richtig weer.
 1	Do	do	ADV	_	_	2	advmod	_	lemma[gml]=dô¹
@@ -792,7 +792,7 @@
 24	weer	weasen	AUX	_	_	23	cop	_	lemma[gml]=wēsen²|SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_024_SUD_suderlandsk_1878-or-earlier_johann-friedrich-leopold-woeste_de-witte-swane
+# sent_id = LSDC_024_SUD_suderlandsk_1878-or-earlier_johann-friedrich-leopold-woeste_de-witte-swane
 # text_orig = Hai verwünnert sik un fraoget den Wäirt, bat dat bedüdde.
 # text = Hee vorwündert sik un vrågt den waerd, hwat dat bedüdde.
 1	Hee	hee	PRON	_	_	2	nsubj	_	lemma[gml]=hê¹
@@ -808,7 +808,7 @@
 11	bedüdde	bedüden	VERB	_	_	5	ccomp	_	lemma[gml]=bedü̂den|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = NDS_025_VEL_1882_veluwe_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# sent_id = LSDC_025_VEL_1882_veluwe_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = 't Hef noe gans en gaor gin fatsoen, da je miin liefde zoa kold en zoa verwierd handelen bliift.
 # text = Et hevt nu gans en gaar gin fatsuun, dat jy myn leevde sou kold en sou vorwerd handelen blyvet.
 1	Et	et	PRON	_	_	2	expl	_	lemma[gml]=et¹
@@ -833,7 +833,7 @@
 20	blyvet	blyven	VERB	_	_	19	xcomp	_	lemma[gml]=blîven|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_026_ACH_achterhooksk_1901_ho-ze-knikkert-in-eibarge
+# sent_id = LSDC_026_ACH_achterhooksk_1901_ho-ze-knikkert-in-eibarge
 # text_orig= Lulef smit, maor raakt niks; he smit vlak langs Bennad zînen klomp; of e um eraakt hef?
 # text = Lulef smit, mor raakt niks; hee smit vlak langs Bennad synen klump; of hee üm eraked hevt?
 1	Lulef	Lulef	PROPN	_	_	2	nsubj	_	_
@@ -847,8 +847,8 @@
 9	smit	smyten	VERB	_	_	5	parataxis	_	lemma[gml]=smîten
 10	vlak	vlak	ADV	_	_	11	advmod	_	lemma[gml]=vlak¹
 11	langs	langs	ADP	_	_	14	case	_	lemma[gml]=langes
-12	Bennad	Bennad	PROPN	_	_	13	obl	_	_
-13	synen	syn	DET	_	_	14	nmod	_	lemma[gml]=sîn⁴
+12	Bennad	Bennad	PROPN	_	_	13	nmod	_	_
+13	synen	syn	DET	_	_	14	det	_	lemma[gml]=sîn⁴
 14	klump	klump	NOUN	_	_	9	obl	_	lemma[gml]=klump(e)|SpaceAfter=No
 15	;	;	PUNCT	_	_	19	punct	_	_
 16	of	of	SCONJ	_	_	19	mark	_	lemma[gml]=of¹
@@ -858,7 +858,7 @@
 20	hevt	hebben	AUX	_	_	19	aux	_	lemma[gml]=hebben|SpaceAfter=No
 21	?	?	PUNCT	_	_	19	punct	_	_
 
-# sent_id = NDS_027_MKB_meakelenborgsk_1843_De-witte-Fru-to-Löbnitz
+# sent_id = LSDC_027_MKB_meakelenborgsk_1843_De-witte-Fru-to-Löbnitz
 # text_orig = Dat is ook wåhr un is dör veele Teken bewist, datt düslike vordammte Seelen, de im Graw keene Rauh hebben, van Gott brukt warden de Slimmen in Tucht to holden.
 # text = Dat is ouk wår un is döär veale teyken bewysd, dat düslike vordamde saelen, dee im grav keyne rouwe hebben, van god bruked warden de slimmen in tucht to holden.
 1	Dat	dat	PRON	_	_	4	expl	_	lemma[gml]=dat²
@@ -898,7 +898,7 @@
 34	holden	holden	VERB	_	_	27	ccomp	_	lemma[gml]=hōlden|SpaceAfter=No
 35	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = NDS_028_GRO_gronningsk_westerwoldsk_1901_op_aovondproot
+# sent_id = LSDC_028_GRO_gronningsk_westerwoldsk_1901_op_aovondproot
 # text_orig = Zug, daor koomt drij jongs aan op klompen, man ijne hef twij stevels op de nakke hangen.
 # text = Süg, dår koamet dree jungs an up klumpen, man eyne hevt twey steavels up de nakke hangen.
 1	Süg	seen	VERB	_	_	0	root	_	lemma[gml]=sên|SpaceAfter=No
@@ -922,7 +922,7 @@
 19	hangen	hangen	VERB	_	_	13	xcomp	_	lemma[gml]=hangen|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = NDS_029_NPR_1882_pruussen_rastenburg_-_vom_klooke_schniedake
+# sent_id = LSDC_029_NPR_1882_pruussen_rastenburg_-_vom_klooke_schniedake
 # text_orig = Dat Schniedake leet söck nich afschrecke, on sprook vagneegt: ‘dat wöll öck ook noch uhtrichte.’
 # text = Dat snyderken leyt sik nich afskrekken un sprook vorgenöögd: 'dat wil ik ouk noch uutrichten.'
 1	Dat	dat	DET	_	_	2	det	_	lemma[gml]=dat²
@@ -945,7 +945,7 @@
 18	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
 19	'	'	PUNCT	_	_	17	punct	_	_
 
-# sent_id = NDS_030_OVY_1836_deventer_samensproke_tusschen_en_snaak_zoo_as_der_gelukkig_neet_in_de_mennigte_zint_en_en_heeren_knecht
+# sent_id = LSDC_030_OVY_1836_deventer_samensproke_tusschen_en_snaak_zoo_as_der_gelukkig_neet_in_de_mennigte_zint_en_en_heeren_knecht
 # text_orig = Môr der wònt zoo onbezoesd völle streupers in miin nôberschop, dat der veur en onneuze mensche néèt biister völle ôver en blif.
 # text = Mor der woanet sou unbesuusd völle ströypers in myn nåberskop, dat der vöär en unnöäse menske neet byster völle oaver en blivt.
 1	Mor	men	CCONJ	_	_	3	cc	_	lemma[gml]=men³
@@ -973,13 +973,13 @@
 23	blivt	blyven	VERB	_	_	3	advcl	_	lemma[gml]=blîven|SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_031_MAR_1882_brandenborg_neumark_-_de_grusamme_scheeper
+# sent_id = LSDC_031_MAR_1882_brandenborg_neumark_-_de_grusamme_scheeper
 # text_orig = Jie sä'n, Jie weer'n mie guod - göäwt mie 'n Bewies 'van un schenkt mie dissen Buck, dä mie söähre klok schient un denn ick woll metünner üm Roath fra'n mücht.
 # text = Jy seaden, Jy weren my good - geavet my en bewys van un skenket my dissen buk, dee my seyre klook skynt un den ik wol midünder üm råd vrågen müchte.
-1	Jy	jy	PRON	_	_	2	nsubj	_	lemma[gml]=gî²
+1	Jy	Jy	PRON	_	_	2	nsubj	_	lemma[gml]=gî²
 2	seaden	seggen	VERB	_	_	0	root	_	lemma[gml]=seggen|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
-4	Jy	jy	PRON	_	_	7	nsubj	_	lemma[gml]=gî²
+4	Jy	Jy	PRON	_	_	7	nsubj	_	lemma[gml]=gî²
 5	weren	weasen	AUX	_	_	7	cop	_	lemma[gml]=wēsen²
 6	my	ik	PRON	_	_	7	obj	_	lemma[gml]=ik
 7	good	good	ADJ	_	_	2	parataxis	_	lemma[gml]=gôt²
@@ -1008,10 +1008,10 @@
 30	üm	üm	ADP	_	_	31	case	_	lemma[gml]=ümme³
 31	råd	råd	NOUN	_	_	32	obl	_	lemma[gml]=rât¹
 32	vrågen	vrågen	VERB	_	_	24	conj	_	lemma[gml]=vrâgen
-33	müchte	möägen	AUX	_	_	32	aux	_	SpaceAfter=No
+33	müchte	möägen	AUX	_	_	32	aux	_	lemma[gml]=mȫgen|SpaceAfter=No
 34	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_032_OFR_1882_oustfreesland_bater_is_bater
+# sent_id = LSDC_032_OFR_1882_oustfreesland_bater_is_bater
 # text_orig = He namm sien Piep, kloppde hum uut, stook hum bedachteg an, leep noch 'n paar Maal schmökend over de Dähl, un dann - sedde he sück.
 # text = Hee nam syn pype, kloppede hum uut, stouk hum bedachtig an, leyp noch en pår mål smöykend oaver de deale, un dan settede hee sik.
 1	Hee	hee	PRON	_	_	2	nsubj	_	lemma[gml]=hê¹
@@ -1045,7 +1045,7 @@
 29	sik	sik	PRON	_	_	27	expl	_	lemma[gml]=sik¹|SpaceAfter=No
 30	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = NDS_033_SLE_1882_sleeswyk_kurborg_arndt_-_der_verzauberte_alte_kriegsmann_in_tonningen
+# sent_id = LSDC_033_SLE_1882_sleeswyk_kurborg_arndt_-_der_verzauberte_alte_kriegsmann_in_tonningen
 # text_orig = As nu de veerte da hendael kumt, so is da allens in Uproer; da sadelt de Ryder äre Päerde, as wullen se uetryden, de annern maekt äre Gewäre unn Sabels torecht unn se lopen alle dörchenanner: da würr de Soldat angst unn leet sik van syne Kammeraden werrer heruptrekken.
 # text = As nu de veerde dår hendaal kumt, sou is dår allens in uproor; dår sadelet de ryder eare pearde, as wullen see uutryden, de anderen maket eare geweare un sabels torecht un see loupen alle döärchenander: do wür de soldåt angst un leyt sik van syne kameråden wedder heruptrekken.
 1	As	as	SCONJ	_	_	7	mark	_	lemma[gml]=alsô
@@ -1104,7 +1104,7 @@
 54	heruptrekken	heruptrekken	VERB	_	_	48	xcomp	_	SpaceAfter=No
 55	.	.	PUNCT	_	_	14	punct	_	_
 
-# sent_id = NDS_034_DRE_drentsk_1851_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
+# sent_id = LSDC_034_DRE_drentsk_1851_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
 # tekst_orig = Daorop motte de duvel bij 'n kop pakt hebben, en oete ropen: 'Belsebul! smalbek! sikkebaord! komste heer om Baos Julfring te haolen?' 
 # text = Dårup mut 'e de düvel by 'n kop pakked hebben en uuteropen: 'Belsebul! Smalbek! Sikkebård! Kumste her um baas Julfring te halen?'
 1	Dårup	dårup	ADV	_	_	11	advmod	_	lemma[gml]=dãrup(pe)
@@ -1141,7 +1141,7 @@
 31	?	?	PUNCT	_	_	30	punct	_	SpaceAfter=No
 32	'	'	PUNCT	_	_	17	punct	_	_
 
-# sent_id = NDS_035_TWE_1830_twente_breef_van_nen_ingezjattenen_van_t_vriezenvjenne
+# sent_id = LSDC_035_TWE_1830_twente_breef_van_nen_ingezjattenen_van_t_vriezenvjenne
 # text_orig = Ziene ólen wjèttet wal dàt mij dàt heele getrauw scheif in de musse zit; zij zint hellig op mij as spinnekop; zij wilt mij hôste neit tousprjàkken, mêer dàt kan mij niks verschjellen, ik wil mienen zjunne ten besten rôn, nô mien gouddunken, al wilt ze ók van hellighàid met en kop tiiegen de beume an loopen, en ów moeder zeg net zoo.
 # text = Syne olden wiatet wal, dat my dat heyle getrouw skeyv in de mütse sit; see sint hellig up my as spinnekop; see willet my håste neet tospreaken, mär dat kan my niks vorskealen, ik wil mynen suane ten besten råden, nå myn gooddünken, al willet see ouk van helligheid mid 'en kop teagen de böyme an loupen, en ouw moder segt net sou.
 1	Syne	syn	DET	_	_	2	det	_	lemma[gml]=sîn⁴
@@ -1220,7 +1220,7 @@
 73	sou	sou	ADV	_	_	71	advmod	_	lemma[gml]=sô²|SpaceAfter=No
 74	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = NDS_036_MON_1882_westfalen_munster_-_de_kroamer_in_tuhrs_busk
+# sent_id = LSDC_036_MON_1882_westfalen_munster_-_de_kroamer_in_tuhrs_busk
 # text_orig = De gemeinen Lüde hadden em swaorens immer naohseggt, he miöt met falske Iällen un hädde auk falsk Maot un Gewicht; men se konnen em doch sin Liawen nig ankuemen, un he waor enen von de anseihnlicksten un de rieksten Kraomers in de Stadt.
 # text = De gemeynen lüde hadden em swårens immer nåsegd, hee miat mid valske ealen un hädde ouk valsk måt un gewicht; men se konnen em doch syn liaven nich ankuamen, un hee word eynen van de anseenliksten un de ryksten kråmers in de stad.
 1	De	de	DET	_	_	3	det	_	lemma[gml]=dê¹
