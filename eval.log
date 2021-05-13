@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 6 20:16:19 2021 +0200
+Evaluating the following revision of UD_Low_Saxon-LSDC:
+commit 9525fad60435f362b35c5e2a1a3094c36ac35e50
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 12 21:06:29 2021 +0200
+Size: counted 1122 of 1122 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.230225614201009.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 0 out of 1122 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 30 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL        381
+Udapi: found 381 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 1122 words.
+Genres: found 2 out of 17 known.
+validate.py --lang nds --max-err=10 UD_Low_Saxon-LSDC/nds_lsdc-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.0166642856400476) = 0.00427289375385835
+(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
+(TOTAL score=0.224848084329049) * (availability=1) * (validity=1) = 0.224848084329049
+STARS = 1
+UD_Low_Saxon-LSDC	0.224848084329049	1
