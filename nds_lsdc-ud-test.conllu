@@ -1271,7 +1271,7 @@
 46	stad	stad	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	43	obl	_	Case[regional]=Acc|lemma[gml]=stat⁴|SpaceAfter=No
 47	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_037_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/3
+# sent_id = LSDC_037_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_03
 # text_orig = Dat wören alle wackere un fiene Lüdens, de kart var Wiennachten Abens bi der aulen Marigge un Janhiarm, ïaren Mann, in der Stuaben seten un spünnen.
 # text = Dat weren alle wakkere un fyne lüdens, dee kort vöär wynachten åvends by der olden Marigge un Janhiarm, iarem man, in der stuaven saeten un spünnen.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma[gml]=dat²
@@ -1305,14 +1305,14 @@
 29	spünnen	spinnen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	27	conj	_	lemma[gml]=spinnen|SpaceAfter=No
 30	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_038_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/4
+# sent_id = LSDC_038_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_04
 # text_orig = Se wören ut der Nawerskup un dür den haujen Snee klabastert, ümme bi der goën Marigge in Sellskup to sitten, denn dann geht de Arbeed swanke vanner Hand, de Tied werd eenen nich lank, un de Slap kümmt auk nich so baule.
 # text = See weren uut der nåberskop un döär den hougen sney klabasterd, üm by der goden Marigge in selskop to sitten, dän dan geit de arbeid swanke van der hand, de tyd werdt eynen nich lang, un de slåp kümt ouk nich sou bolde.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	lemma[gml]=sê²
 2	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	aux	_	wēsen²
 3	uut	uut	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=ût¹
 4	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê¹
-5	nåberskop	nåberskop	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	lemma[gml]=nâberschop
+5	nåberskop	nåberskop	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	lemma[gml]=nâberschop
 6	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
 7	döär	döär	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=dȫr¹
 8	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma[gml]=dê¹
@@ -1357,7 +1357,7 @@
 47	bolde	bolde	ADV	_	_	43	advmod	_	lemma[gml]=bōlde|SpaceAfter=No
 48	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_039_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/5
+# sent_id = LSDC_039_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_05
 # text_orig = Dat Spinnrad bruke awwerst keen Lüd unnerwiagens to driagen, denn jedet hadde eenen Jungen bi sick, de drog dat Rad un make den Lüe Mout, wenn de Elk reep un met glönnigen Augen ut'n Hagen keik, adder wenn se bi eener Stië varbi keimen, war man var Kartens den Wahrwulf sehn hadde.
 # text = Dat spinrad bruke avers keyn lüüd underweagens to drägen, dän jeydet hadde eynen jungen by sik, dee droog dat rad un make den lüde mood, wän de elk reep un mid glönnigen ougen uut den hagen keyk, oader wän see by eyner steade vöärbykaemen, wår man vöär kortens den warwulv seen hadde.
 1	Dat	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma[gml]=dat²
@@ -1406,7 +1406,7 @@
 44	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	48	nsubj	_	lemma[gml]=sê²
 45	by	by	ADP	_	AdpType=Prep	47	case	_	lemma[gml]=bî
 46	eyner	en	DET	_	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	47	det	_	lemma[gml]=êⁱn¹
-47	steade	steade	NOUN	_	Case=Dat|Gender=Fem|Number=Sing|	48	obl	_	lemma[gml]=stēde⁵
+47	steade	steade	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	48	obl	_	lemma[gml]=stēde⁵
 48	vöärbykaemen	vöärbykoamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	32	conj	_	SpaceAfter=No
 49	,	,	PUNCT	_	_	56	punct	_	_
 50	wår	wår	ADV	_	_	56	advmod	_	lemma[gml]=wôr(e)
@@ -1419,7 +1419,7 @@
 57	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	56	aux	_	lemma[gml]=hebben|SpaceAfter=No
 58	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_040_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/6
+# sent_id = LSDC_040_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_06
 # text_orig = Marigge hadde een paar düchtige Knüwe in den Uaben smiëten, de brännen nu, un et was so sgön warm inner Stuaben; awwerst buten gunk de Wiend kauld.
 # text = Marigge hadde en pår düchtige knüve in den oaven smiaten, dee brennen nu, un et was sou sköyn warm in der stoaven; avers buten gung de wind kold.
 1	Marigge	Marigge	PROPN	_	Number=Sing	10	nsubj	_	_
@@ -1427,11 +1427,11 @@
 3	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma[gml]=êⁱn¹
 4	pår	pår	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	lemma[gml]=pâr
 5	düchtige	düchtig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma[gml]=düchtich
-6	knüve	knuuv	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+6	knüve	knuuv	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
 7	in	in	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=in²
 8	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma[gml]=dê¹
 9	oaven	oaven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	lemma[gml]=ōven¹
-10	smiaten	smyten	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	lemma[gml]=smîten|SpaceAfter=No
+10	smiaten	smyten	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=smîten|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	13	nsubj	_	lemma[gml]=dê¹
 13	brennen	bernen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	acl	_	lemma[gml]=bernen
@@ -1455,11 +1455,11 @@
 31	kold	kold	ADJ	_	Degree=Pos	30	acl	_	lemma[gml]=kōlt|SpaceAfter=No
 32	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_041_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/7
+# sent_id = LSDC_041_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_07
 # text_orig = Se seten alle vergnöglick to haupe un de Lüdens treh'n baule met den rechten, baule met den linken Foot dat Rad un de Finger tüögen ut'n Dieszen de fienen Spiers Flasz, de met Spigge natt makt wörten un dann dür de Sluken as'n Vuogel up de Spoole leepen.
 # text = See saeten alle vorgenööglik to houpe un de lüdens traeden bolde mid den rechten, bolde mid den linken voot dat rad un de vinger tüägen uut den dysen de fynen spyrs vlas, dee mid spye nat maked wörden un dan düär de sluken as en vuagel up de spole lepen.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=sê²
-2	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	lemma[gml]=sitten
+2	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=sitten
 3	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	_	_	_	lemma[gml]=al
 4	vergenööglick	vornööglik	ADJ	_	Degree=Pos	2	advmod	_	lemma[gml]=vornö̂chlĩk
 5	to	to	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=tô⁴
@@ -1468,15 +1468,15 @@
 8	de	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	lemma[gml]=dê¹
 9	lüdens	lüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	lemma[gml]=lü̂t¹
 10	traeden	treaden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	lemma[gml]=trēden
-11	bolde	bolde	ADV	_	_	_	_	_	lemma[gml]=bōlde
-12	mid	mid	ADP	_	AdpType=Prep	_	_	_	lemma[gml]=mit
-13	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	Case[regional]=Acc|lemma[gml]=dê¹
-14	rechten	recht	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Case[regional]=Acc|lemma[gml]=recht²|SpaceAfter=No
-15	,	,	PUNCT	_	_	_	_	_	_
-16	bolde	bolde	ADV	_	_	_	_	_	lemma[gml]=bōlde
-17	mid	mid	ADP	_	AdpType=Prep	_	_	_	lemma[gml]=mit
-18	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	Case[regional]=Acc|lemma[gml]=dê¹
-19	linken	link	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	Case[regional]=Acc|lemma[gml]=link
+11	bolde	bolde	CCONJ	_	_	20	cc	_	lemma[gml]=bōlde
+12	mid	mid	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=mit
+13	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Case[regional]=Acc|lemma[gml]=dê¹
+14	rechten	recht	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	Case[regional]=Acc|lemma[gml]=recht²|SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	bolde	bolde	CCONJ	_	_	20	cc	_	lemma[gml]=bōlde
+17	mid	mid	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=mit
+18	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	Case[regional]=Acc|lemma[gml]=dê¹
+19	linken	link	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	Case[regional]=Acc|lemma[gml]=link
 20	voot	voot	NOUN	_	Number=Sing	10	obl	_	lemma[gml]=vôt²
 21	dat	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	lemma[gml]=dat²
 22	rad	rad	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	lemma[gml]=rat³
@@ -1512,7 +1512,7 @@
 52	lepen	loupen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	39	conj	_	lemma[gml]=lôpen¹|SpaceAfter=No
 53	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_042_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/8
+# sent_id = LSDC_042_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_08
 # text_orig = Een anner Lüd namm den Haspel un haspele dat Gar'n af un band dat Biend met'r Fissen to haupe, wenn't knacke.
 # text = En ander lüüd nam den haspel un haspele dat gaarn af un band dat bind mid der fitsen to houpe, wän et knakke.
 1	En	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma[gml]=êⁱn¹
@@ -1541,7 +1541,7 @@
 24	knakke	knokken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	advcl	_	lemma[gml]=knocken¹|SpaceAfter=No
 25	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_043_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/9
+# sent_id = LSDC_043_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_09
 # text_orig = Marigge gunk awwerst in de Kamern un hale eenen Kuarf met Vicksebaunen, de nau innen Sgauten seten un sia to Jüsken: ‘Hier häst du auk wat to dohn, de döppe, dann brukst du nich ümmer Wiesken an to glupen!
 # text = Marigge gung avers in de kameren un hale eynen korv mid viksebounen, dee nauw in den skouten saeten un sea to Jüsken: ‘Hyr hest du ouk wat to doon, de döppe, dan bruukst du nich immer Wiesken an to glupen!
 1	Marigge	Marigge	PROPN	_	Number=Sing	2	nsubj	_	_
@@ -1591,7 +1591,7 @@
 45	glupen	glupen	VERB	_	VerbForm=Inf	38	xcomp	_	lemma[gml]=glûpen|SpaceAfter=No
 46	!	!	PUNCT	_	_	27	punct	_	_
 
-# sent_id = LSDC_044_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/10
+# sent_id = LSDC_044_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_10
 # text_orig = Süh, dat is all dat drütte Mal, dat se den Fahm laupen lött!’
 # text = Sü, dat is al dat drüdde mål, dat see den vadem loupen löt!’
 1	Sü	seen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	lemma[gml]=sên|SpaceAfter=No
@@ -1612,7 +1612,7 @@
 16	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No
 17	’	’	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_045_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/11
+# sent_id = LSDC_045_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_11
 # text_orig = Alle lachen harre up, un Wiesken ward raut as Führ.
 # text = Alle lachen harde up, un Wiesken ward roud as vüür.
 1	Alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	2	nsubj	_	lemma[gml]=al
@@ -1628,7 +1628,7 @@
 11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma[gml]=vü̂r¹|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_046_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm.txt/12
+# sent_id = LSDC_046_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_12
 # text_orig = Jüsken namm den Kuarf, un Anton, Willem, Adolf un Paiter setten sick bi een, awwerst so, dat se de Lüdens konnen in't Gesicht sehn, un döppen.
 # text = Jüsken nam den korv, un Anton, Willem, Adolf un Paiter setten sik by ean, avers sou, dat see de lüdens konnen in't gesicht seen, un döppen.
 1	Jüsken	Jüsken	PROPN	_	Number=Sing	2	nsubj	_	_
