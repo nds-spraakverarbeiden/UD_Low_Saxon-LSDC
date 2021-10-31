@@ -2032,7 +2032,7 @@
 
 # sent_id = LSDC_055_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_11
 # text_orig = A'k de zin zon bittien naostudeeren, door 't in ofte biej ston, dan docht mien, det ut zoo iets van foppen of veur de gek hollen most hebben, mer 'k was niet zeker.
-# text = As ik de sin sou en bittyn nåstuderen, dår et in ofte by stun, dan docht myn, det et sou yts van fotten of vöär de gek holden must hebben, mer ik was neet seaker.
+# text = As ik de sin sou en bittyn nåstuderen, dår et in ofte by stun, dan docht myn, det et sou yts van foppen of vöär de gek holden must hebben, mer ik was neet seaker.
 1	As	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
 2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma[gml]=ik
 3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê¹
