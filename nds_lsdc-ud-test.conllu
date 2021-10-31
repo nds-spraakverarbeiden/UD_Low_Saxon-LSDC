@@ -5,7 +5,7 @@
 2	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹|Case[regional]=Acc
 3	stad	stad	NOUN	_	Gender=Fem|Number=Sing|Person=3	4	obl	_	lemma[gml]=stat⁴
 4	hove	höven	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	lemma[gml]=hö̂ven¹
-5	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs		4	nsubj	_	lemma[gml]=gî²
+5	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	lemma[gml]=gî²
 6	niks	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Neg	7	obj	_	lemma[gml]=nichtes
 7	eleyrd	leyren	VERB	_	Aspect=Perf|VerbForm=Part	4	xcomp	_	lemma[gml]=lêren
 8	te	to	PART	_	PartType=Inf	7	mark	_	lemma[gml]=tô⁵
@@ -30,7 +30,7 @@
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
 3	skoolmeister	skoolmeister	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	lemma[gml]=schôl(e)mêⁱster
 4	dat	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dat²
-5	hebräiske	hebräisk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	son=3	lemma[gml]=hebrêes(ch)
+5	hebräiske	hebräisk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	lemma[gml]=hebrêes(ch)
 6	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	lemma[gml]=hö̂ren²|SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	_
 8	sou	sou	ADV	_	_	13	advmod	_	lemma[gml]=sô²
@@ -43,7 +43,7 @@
 15	dat	dat	SCONJ	_	_	16	mark	_	lemma[gml]=dat²
 16	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	advcl	_	lemma[gml]=et¹
 17	keynen	keynen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Neg	16	nsubj	_	lemma[gml]=kêⁱn²
-18	anders	anders	ADJ	_	Gender=Neut|Number=Sing|Person=3|PronType=Ind	17	nmod	_	lemma[gml]=anders
+18	anders	anders	ADJ	_	Gender=Neut|Number=Sing	17	nmod	_	lemma[gml]=anders
 19	as	as	CCONJ	_	_	21	case	_	lemma[gml]=alsô
 20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma[gml]=dê¹
 21	her	heyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	lemma[gml]=hêre⁴
