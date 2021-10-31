@@ -1688,7 +1688,7 @@
 16	sag	seen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=sên
 17	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	lemma[gml]=ik
 18	wel	wol	ADV	_	_	16	advmod	_	lemma[gml]=wol²
-19	eyns	eyns	ADV	_	_	_	_	_	lemma[gml]=êⁱnes
+19	eyns	eyns	ADV	_	_	16	advmod	_	lemma[gml]=êⁱnes
 20	stån	stån	VERB	_	VerbForm=Inf	16	xcomp	_	lemma[gml]=stân
 21	‘	‘	PUNCT	_	_	24	punct	_	SpaceAfter=No
 22	mundus	mundus	X	_	Foreign=Yes	24	nsubj	_	_
@@ -1872,7 +1872,7 @@
 
 # sent_id = LSDC_051_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_07
 # text_orig = 'k ha, weet ie, un naeve, die op de Uterse schoele lag, noew is e proponent;
-# text = ik hadde, weat y, en neave, dee up de Uterske skole lag, nu is hee proponent;
+# text = ik hadde, weat y, en neave, dee up de uterske skole lag, nu is hee proponent;
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
 2	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=hebben|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
@@ -1897,7 +1897,7 @@
 
 # sent_id = LSDC_052_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_08
 # text_orig = 'k weet nog best, 't gink van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan zooveule as de verbuuginge van ‘taofel’ en ‘jonge’; wieder he'k ut er dan ok niet mee ebracht;
-# text = ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer un pueri, dat was dan souvöäle as de verbüginge van ‘tåfel’ en ‘junge’; wyder heb ik et der dan ouk neet meade ebracht;
+# text = ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan souvöäle as de verbüginge van ‘tåfel’ en ‘junge’; wyder heb ik et der dan ouk neet meade ebracht;
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
 2	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=wēten¹
 3	noch	noch	ADV	_	_	2	advmod	_	lemma[gml]=noch²
@@ -2036,7 +2036,7 @@
 1	As	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
 2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma[gml]=ik
 3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê¹
-4	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Mood=Ind|Number=Sing	8	obj	_	lemma[gml]=sin¹
+4	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma[gml]=sin¹
 5	sou	sou	ADV	_	_	7	advmod	_	lemma[gml]=sô²
 6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma[gml]=êⁱn¹
 7	bittyn	betken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
@@ -2049,7 +2049,7 @@
 14	by	by	ADP	_	_	12	conj	_	lemma[gml]=bî
 15	stun	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl	_	lemma[gml]=stân|SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
-17	dan	dan	ADV	_	_	18	advmod	As	as
+17	dan	dan	ADV	_	_	18	advmod	_	_
 18	docht	dünken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=dünken
 19	myn	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	18	obj	_	lemma[gml]=ik|SpaceAfter=No
 20	,	,	PUNCT	_	_	33	punct	_	_
