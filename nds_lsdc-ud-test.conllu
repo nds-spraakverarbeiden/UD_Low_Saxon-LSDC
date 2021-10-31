@@ -1273,7 +1273,7 @@
 
 # sent_id = LSDC_037_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_03
 # text_orig = Dat wören alle wackere un fiene Lüdens, de kart var Wiennachten Abens bi der aulen Marigge un Janhiarm, ïaren Mann, in der Stuaben seten un spünnen.
-# text = Dat weren alle wakkere un fyne lüdens, dee kort vöär wynachten åvends by der olden Marigge un Janhiarm, iarem man, in der stuaven saeten un spünnen.
+# text = Dat weren alle wakkere un fyne lüdens, dee kort vöär wynachten åvends by der olden Marigge un Janhiarm, iaren man, in der stuaven saeten un spünnen.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma[gml]=dat²
 2	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	cop	_	lemma[gml]=wēsen²
 3	alle	al	PRON	_	Case=Nom|Number=Plur	7	nsubj	_	lemma[gml]=al
@@ -1286,7 +1286,7 @@
 10	kort	kort	ADJ	_	Degree=Pos	27	advmod	_	lemma[gml]=kort¹
 11	vöär	vöär	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=vȫr³
 12	wynachten	wynachten	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	lemma[gml]=wînachten
-13	åvends	åvend	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	27	advmod	_	lemma[gml]=âvent
+13	åvends	åvend	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	27	obl	_	lemma[gml]=âvent
 14	by	by	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=bî
 15	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
 16	olden	old	ADJ	_	Case=Dat|Gender=Fem|Number=Sing	17	amod	_	lemma[gml]=ōlt
@@ -1457,7 +1457,7 @@
 
 # sent_id = LSDC_041_WFL-DE_1882_westfalen_bielefeld_-_in_der_spinnstuaben_bi_der_aulen_marigge_un_janhiarm_07
 # text_orig = Se seten alle vergnöglick to haupe un de Lüdens treh'n baule met den rechten, baule met den linken Foot dat Rad un de Finger tüögen ut'n Dieszen de fienen Spiers Flasz, de met Spigge natt makt wörten un dann dür de Sluken as'n Vuogel up de Spoole leepen.
-# text = See saeten alle vorgenööglik to houpe un de lüdens traeden bolde mid den rechten, bolde mid den linken voot dat rad un de vinger tüägen uut den dysen de fynen spyrs vlas, dee mid spye nat maked wörden un dan düär de sluken as en vuagel up de spole lepen.
+# text = See saeten alle vergenööglik to houpe un de lüdens traeden bolde mid den rechten, bolde mid den linken voot dat rad un de vinger tüägen uut den dysen de fynen spyrs vlas, dee mid spye nat maked wörden un dan düär de sluken as en vuagel up de spole lepen.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=sê²
 2	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=sitten
 3	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	_	_	_	lemma[gml]=al
@@ -1604,7 +1604,7 @@
 8	mål	mål	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	lemma[gml]=mâl¹|SpaceAfter=No
 9	,	,	PUNCT	_	_	15	punct	_	_
 10	dat	dat	SCONJ	_	_	15	mark	_	lemma[gml]=dat²
-11	se	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=sê¹
+11	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=sê¹
 12	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma[gml]=dê¹
 13	vadem	vadem	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	lemma[gml]=vādem
 14	loupen	loupen	VERB	_	VerbForm=Inf	15	xcomp	_	lemma[gml]=lôpen¹
@@ -1641,7 +1641,7 @@
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	Willem	Willem	PROPN	_	Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	Adolf	Adolf	PROPN	_	Number=Sing	7	conj	_	SpaceAfter=No
+11	Adolf	Adolf	PROPN	_	Number=Sing	7	conj	_	_
 12	un	un	DET	_	_	13	det	_	lemma[gml]=unde²
 13	Paiter	Paiter	PROPN	_	Number=Sing	7	conj	_	_
 14	setten	setten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	lemma[gml]=setten
