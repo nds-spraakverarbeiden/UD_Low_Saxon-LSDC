@@ -1690,11 +1690,11 @@
 18	wel	wol	ADV	_	_	16	advmod	_	lemma[gml]=wol²
 19	eyns	eyns	ADV	_	_	16	advmod	_	lemma[gml]=êⁱnes
 20	stån	stån	VERB	_	VerbForm=Inf	16	xcomp	_	lemma[gml]=stân
-21	‘	‘	PUNCT	_	_	24	punct	_	SpaceAfter=No
-22	mundus	mundus	X	_	Foreign=Yes	24	nsubj	_	_
-23	vult	vult	X	_	Foreign=Yes	24	aux	_	_
-24	decipi	decipi	X	_	Foreign=Yes	16	parataxis	_	SpaceAfter=No
-25	’	’	PUNCT	_	_	24	punct	_	SpaceAfter=No
+21	‘	‘	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	mundus	mundus	X	_	Foreign=Yes	16	parataxis	_	_
+23	vult	vult	X	_	Foreign=Yes	22	flat	_	_
+24	decipi	decipi	X	_	Foreign=Yes	22	flat	_	SpaceAfter=No
+25	’	’	PUNCT	_	_	22	punct	_	SpaceAfter=No
 26	;	;	PUNCT	_	_	16	punct	_	_
 27	dagen	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	32	obl	_	lemma[gml]=dach
 28	answyt	answyt	ADV	_	_	27	advmod	_	_
@@ -1897,7 +1897,7 @@
 
 # sent_id = LSDC_052_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_08
 # text_orig = 'k weet nog best, 't gink van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan zooveule as de verbuuginge van ‘taofel’ en ‘jonge’; wieder he'k ut er dan ok niet mee ebracht;
-# text = ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan souvöäle as de verbüginge van ‘tåfel’ en ‘junge’; wyder heb ik et der dan ouk neet meade ebracht;
+# text = ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan souvöäle as de verbüginge van ‘tåfel’ en ‘junge’; wyder hebbe ik et der dan ouk neet meade ebracht;
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
 2	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=wēten¹
 3	noch	noch	ADV	_	_	2	advmod	_	lemma[gml]=noch²
@@ -2032,7 +2032,7 @@
 
 # sent_id = LSDC_055_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_11
 # text_orig = A'k de zin zon bittien naostudeeren, door 't in ofte biej ston, dan docht mien, det ut zoo iets van foppen of veur de gek hollen most hebben, mer 'k was niet zeker.
-# text = As ik de sin sou en bittyn nåstuderen, dår et in ofte by stun, dan docht myn, dat et sou yts van fotten of vöär de gek holden must hebben, mer ik was neet seaker.
+# text = As ik de sin sou en bittyn nåstuderen, dår et in ofte by stun, dan docht myn, det et sou yts van fotten of vöär de gek holden must hebben, mer ik was neet seaker.
 1	As	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
 2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma[gml]=ik
 3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê¹
@@ -2071,7 +2071,7 @@
 36	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	39	nsubj	_	lemma[gml]=ik
 37	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	39	cop	_	lemma[gml]=wēsen²
 38	neet	nich	PART	_	PartType=Neg	39	advmod	_	lemma[gml]=nicht¹
-39	seaker	seaker	ADJ	_	Degree=Comp	18	conj	_	lemma[gml]=sēker|SpaceAfter=No
+39	seaker	seaker	ADJ	_	Degree=Cmp	18	conj	_	lemma[gml]=sēker|SpaceAfter=No
 40	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = LSDC_056_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_12
@@ -2128,7 +2128,7 @@
 49	De	de	X	_	Foreign=Yes	45	ccomp	_	_
 50	wereld	wereld	X	_	Foreign=Yes	49	flat	_	_
 51	wil	wil	X	_	Foreign=Yes	49	flat	_	_
-52	bedrogen	bedrogen	X	_	foreign=yes	49	flat	_	_
+52	bedrogen	bedrogen	X	_	Foreign=Yes	49	flat	_	_
 53	zijn	zijn	X	_	Foreign=Yes	49	flat	_	SpaceAfter=No
 54	.	.	PUNCT	_	_	49	punct	_	SpaceAfter=No
 55	’	’	PUNCT	_	_	2	punct	_	_
