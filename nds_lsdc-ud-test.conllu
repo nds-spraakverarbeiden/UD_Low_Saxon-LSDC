@@ -1778,7 +1778,7 @@
 56	dit	dit	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	55	ccomp	_	lemma[gml]=dit
 57	of	of	CCONJ	_	_	58	cc	_	lemma[gml]=of¹
 58	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	56	conj	_	_
-59	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	56	cop	_	lemma[gml]=wēsen²
+59	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	56	cop	_	lemma[gml]=wēsen²
 60	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	56	nsubj	_	lemma[gml]=et¹
 61	-	-	PUNCT	_	_	71	punct	_	_
 62	en	un	CCONJ	_	_	71	cc	_	lemma[gml]=unde²
@@ -1801,7 +1801,7 @@
 
 # sent_id = LSDC_049_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_05
 # text_orig = eindelik dacht ik: kom an, Knelis, zellens mer is an 't zuuken; plaog ie oew hersens ook al un bittien, a'j eigens onderzuukt, he'j ok gien nood, dat un aer oew bedrug.
-# text =  endelik dacht ik: kom an, Knelis, selvens mer eyns an et söken; plåg y uw hersens ouk al en bittyn, as y eygens undersöket, heb y ouk gyn noud, dat en ander uw bedrügt.
+# text =  endelik dacht ik: kom an, Knelis, selvens mer eyns an et söken; plåg y uw hersens ouk al en bittyn, as y eigens undersöket, heb y ouk gyn noud, dat en ander uw bedrügt.
 1	endelik	endelik	ADJ	_	Degree=Pos	2	advmod	_	lemma[gml]=endelĩk²
 2	dacht	denken	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=denken
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik|SpaceAfter=No
@@ -1818,7 +1818,7 @@
 14	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma[gml]=et²
 15	söken	söken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	parataxis	_	lemma[gml]=sö̂ken|SpaceAfter=No
 16	;	;	PUNCT	_	_	17	punct	_	_
-17	plåg	plågen	VERB	_	Mood=Ind|Person=2|Tense=Pres	5	parataxis	_	lemma[gml]=plâgen
+17	plåg	plågen	VERB	_	Mood=Ind|Person=2|Tense=Pres	31	advcl	_	lemma[gml]=plâgen
 18	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	lemma[gml]=gî²
 19	uw	juw	DET	_	Case=Acc|Number=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	20	det	_	lemma[gml]=iuwe
 20	hersens	herne	NOUN	_	Case=Acc|Number=Plur	17	obj	_	lemma[gml]=hē̆rne
@@ -1832,7 +1832,7 @@
 28	eigens	eygens	ADV	_	_	29	advmod	_	_
 29	undersöket	undersöken	VERB	_	Mood=Ind|Person=2|Tense=Pres	17	advcl	_	lemma[gml]=undersö̂ken¹|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
-31	heb	hebben	VERB	_	Mood=Ind|Person=2|Tense=Pres	83	parataxis	_	lemma[gml]=hebben
+31	heb	hebben	VERB	_	Mood=Ind|Person=2|Tense=Pres	5	parataxis	_	lemma[gml]=hebben
 32	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	31	nsubj	_	lemma[gml]=gî²
 33	ouk	ouk	ADV	_	_	31	advmod	_	lemma[gml]=ôk
 34	gyn	geyn	DET	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Neg	35	det	_	lemma[gml]=gêⁱn²
@@ -1842,7 +1842,7 @@
 38	en	en	DET	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Art	39	det	_	lemma[gml]=êⁱn¹
 39	ander	ander	ADJ	_	Case=Nom|Number=Sing	41	nsubj	_	lemma[gml]=ander
 40	uw	jy	PRON	_	Case=Acc|Person=2|PronType=Prs	41	obj	_	lemma[gml]=gî²
-41	bedrügt	bedregen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	acl	_	bedrêgen³|SpaceAfter=No
+41	bedrügt	bedregen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	acl	_	bedrêgen³|SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_050_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_06
@@ -1874,7 +1874,7 @@
 # text_orig = 'k ha, weet ie, un naeve, die op de Uterse schoele lag, noew is e proponent;
 # text = ik hadde, weat y, en neave, dee up de Uterske skole lag, nu is hee proponent;
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
-2	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	_	_	_	lemma[gml]=hebben|SpaceAfter=No
+2	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=hebben|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	weat	weaten	VERB	_	Mood=Ind|Person=2|Tense=Pres	2	parataxis	_	lemma[gml]=wēten¹
 5	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	lemma[gml]=gî²|SpaceAfter=No
@@ -1915,7 +1915,7 @@
 15	mensas	mensas	X	_	Foreign=Yes	9	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	puer	puer	X	_	Foreign=Yes	9	conj	_	_
-18	en	un	CCONJ	_	Number=Sing	19	cc	_	lemma[gml]=unde²
+18	en	un	CCONJ	_	_	19	cc	_	lemma[gml]=unde²
 19	pueri	pueri	X	_	Foreign=Yes	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	24	punct	_	_
 21	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	24	nsubj	_	lemma[gml]=dat²
@@ -1935,15 +1935,15 @@
 35	’	’	PUNCT	_	_	34	punct	_	SpaceAfter=No
 36	;	;	PUNCT	_	_	46	punct	_	_
 37	wyder	wyd	ADJ	_	Degree=Cmp	46	advmod	_	lemma[gml]=wît⁵
-38	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|PronType=Prs	46	aux	_	lemma[gml]=hebben
+38	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	46	aux	_	lemma[gml]=hebben
 39	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	46	nsubj	_	lemma[gml]=ik
-40	et	et	ADP	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	46	obj	_	lemma[gml]=et¹
+40	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	46	obj	_	lemma[gml]=et¹
 41	der	dår	ADV	_	_	46	obl	_	lemma[gml]=dâr¹
 42	dan	dan	ADV	_	_	46	advmod	_	lemma[gml]=dan¹
 43	ouk	ouk	ADV	_	_	46	advmod	_	lemma[gml]=ôk
 44	neet	nich	PART	_	PartType=Neg	46	advmod	_	lemma[gml]=nicht¹
 45	meade	mid	ADP	_	_	41	case	_	lemma[gml]=mid
-46	ebracht	bringen	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	lemma[gml]=bringen|SpaceAfter=No
+46	ebracht	bringen	VERB	_	Aspect=Perf|VerbForm=Part	2	parataxis	_	lemma[gml]=bringen|SpaceAfter=No
 47	;	;	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_053_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_09
@@ -1967,7 +1967,7 @@
 16	as	as	CCONJ	_	_	19	case	_	lemma[gml]=alsô|SpaceAfter=No
 17	:	:	PUNCT	_	_	19	punct	_	_
 18	‘	‘	PUNCT	_	_	19	punct	_	SpaceAfter=No
-19	Iovivat	Iovivat	X	_	Foreign=Tes	13	appos	_	SpaceAfter=No
+19	Iovivat	Iovivat	X	_	Foreign=Yes	13	appos	_	SpaceAfter=No
 20	’	’	PUNCT	_	_	19	punct	_	_
 21	en	un	CCONJ	_	_	23	cc	_	lemma[gml]=unde²
 22	‘	‘	PUNCT	_	_	23	punct	_	SpaceAfter=No
@@ -2005,7 +2005,7 @@
 7	toch	doch	ADV	_	_	8	advmod	_	lemma[gml]=doch¹
 8	spit	spyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	lemma[gml]=spîten
 9	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma[gml]=et¹
-10	myn	ik	PRON	_	Case=Dat,Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	lemma[gml]=ik
+10	myn	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	8	obj	_	lemma[gml]=ik
 11	noch	noch	ADV	_	_	8	advmod	_	lemma[gml]=noch²|SpaceAfter=No
 12	,	,	PUNCT	_	_	17	punct	_	_
 13	dat	dat	SCONJ	_	_	17	mark	_	lemma[gml]=dat²
@@ -2021,7 +2021,7 @@
 23	nu	nu	ADV	_	_	25	advmod	_	lemma[gml]=nû¹
 24	künnen	künnen	AUX	_	VerbForm=Inf	25	aux	_	lemma[gml]=künnen
 25	weaten	weaten	VERB	_	VerbForm=Inf	5	parataxis	_	lemma[gml]=wēten¹
-26	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	32	obj	_	lemma[gml]=wat(te)³|SpaceAfter=No
+26	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	32	obj	_	lemma[gml]=wat(te)³
 27	‘	‘	PUNCT	_	_	28	punct	_	SpaceAfter=No
 28	mundus	mundus	X	_	Foreign=Yes	32	nsubj	_	_
 29	vult	vult	X	_	Foreign=Yes	28	flat	_	_
@@ -2036,7 +2036,7 @@
 1	As	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
 2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma[gml]=ik
 3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê¹
-4	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	obj	_	lemma[gml]=sin¹
+4	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Mood=Ind|Number=Sing	8	obj	_	lemma[gml]=sin¹
 5	sou	sou	ADV	_	_	7	advmod	_	lemma[gml]=sô²
 6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma[gml]=êⁱn¹
 7	bittyn	betken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
@@ -2076,10 +2076,10 @@
 
 # sent_id = LSDC_056_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_12
 # text_orig = Later gebeuren ut is, da'k un oorig vertelseltien las; door ston 't weer; twee heuksies stonnen der achter, un kruussien doorin, dat wees mien nao onderen door net zoo'n dink ston, en jao man! daor las ik: ‘De wereld wil bedrogen zijn.’
-# text = Later geböären et eyns, dat ik en aardig vertelseltyn las; dår stun et wear; twey höäksys stunnen dår achter, en krüüssyn dårin, dat weys myn nå underen dår net sou en ding stun, en jå man! dår las ik: ‘De wereld wil bedrogen zijn.’
+# text = Later geböären et eyns, dat ik en aardig vertelseltyn las; dår stun et wear; twey höäksys stunnen der achter, en krüüssyn dårin, dat weys myn nå underen dår net sou en ding stun, en jå man! dår las ik: ‘De wereld wil bedrogen zijn.’
 1	Later	laat	ADJ	_	Degree=Cmp	2	advmod	_	lemma[gml]=lat³
 2	geböären	geböären	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=gebȫren²
-3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Neut|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=et¹
+3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=et¹
 4	eyns	eyns	ADV	_	_	2	advmod	_	lemma[gml]=êⁱnes|SpaceAfter=No
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	dat	dat	SCONJ	_	_	11	mark	_	lemma[gml]=dat²
@@ -2125,11 +2125,11 @@
 46	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	45	nsubj	_	lemma[gml]=ik|SpaceAfter=No
 47	:	:	PUNCT	_	_	45	punct	_	_
 48	‘	‘	PUNCT	_	_	49	punct	_	SpaceAfter=No
-49	De	de	X	_	foreign=yes	45	ccomp	_	_
-50	wereld	wereld	X	_	foreign=yes	49	flat	_	_
-51	wil	wil	X	_	foreign=yes	49	flat	_	_
+49	De	de	X	_	Foreign=Yes	45	ccomp	_	_
+50	wereld	wereld	X	_	Foreign=Yes	49	flat	_	_
+51	wil	wil	X	_	Foreign=Yes	49	flat	_	_
 52	bedrogen	bedrogen	X	_	foreign=yes	49	flat	_	_
-53	zijn	zijn	X	_	foreign=yes	49	flat	SpaceAfter=No	_
+53	zijn	zijn	X	_	Foreign=Yes	49	flat	_	SpaceAfter=No
 54	.	.	PUNCT	_	_	49	punct	_	SpaceAfter=No
 55	’	’	PUNCT	_	_	2	punct	_	_
 
