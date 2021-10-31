@@ -1461,7 +1461,7 @@
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=sê²
 2	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=sitten
 3	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	1	appos	_	lemma[gml]=al
-4	vergenööglick	vornööglik	ADJ	_	Degree=Pos	2	advmod	_	lemma[gml]=vornö̂chlĩk
+4	vergenööglik	vornööglik	ADJ	_	Degree=Pos	2	advmod	_	lemma[gml]=vornö̂chlĩk
 5	to	to	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=tô⁴
 6	houpe	houp	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	lemma[gml]=hôp
 7	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
