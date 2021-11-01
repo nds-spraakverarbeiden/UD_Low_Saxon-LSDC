@@ -11,7 +11,7 @@ Since there is no official interregional spelling, the interregional spelling su
 
 The dataset contains only sentences from copyright-free material from the 19th and early 20th century. Part of the sentences are already included in the first release of the LSDC dataset found here: https://github.com/Helsinki-NLP/LSDC/ See there for further information on the origin of the data. The other sentences originate mostly from Joh. A. Leopold's work 'Van de Schelde tot te Weichsel', a digitised version of which is accessible here: https://www.dbnl.org/titels/titel.php?id=leop008sche00 An exception constitutes the text 'Krisjaon Klaover' to be found in the Twentse Taalbank: http://www.twentsetaalbank.nl/docs/TWA.1894-Heinink-Krisjaon_Klaover-150.pdf These other sentences will be added to the next release of the LSDC dataset. 
 
-Due to the small size of the first version of the dataset, it has not yet been split into training, development and test sets. The morphological features and relation subtypes are still missing but will be included in the next release. 
+Due to the small size of the dataset, it has not yet been split into training, development and test sets.
 
 
 # Acknowledgments
