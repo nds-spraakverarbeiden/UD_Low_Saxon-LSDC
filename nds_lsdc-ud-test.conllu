@@ -2168,7 +2168,7 @@
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
 2	Now	Nu	ADV	_	_	3	advmod	_	_
 3	vertellet	vortellen	VERB	_	Mood=Imp|Person=2	21	ccomp	_	_
-4	et	et	AUX	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+4	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
 6	toch	doch	ADV	_	_	3	advmod	_	_
 7	eyns	eyns	ADV	_	_	3	advmod	_	SpaceAfter=No
@@ -2190,7 +2190,7 @@
 23	junge	jung	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
 24	burinne	burinne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
 25	an	an	ADP	_	AdpType=Prep	27	case	_	_
-26	höären	höär	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Fem|Person[psor]=3|Poss=Yes|PronType=Prs	27	det	_	_
+26	höären	höär	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	27	det	_	_
 27	man	man	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	38	punct	_	_
 29	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	38	nsubj	_	Case[regional]=Acc
@@ -2230,8 +2230,8 @@
 # sent_id = LSDC_060_WFL-NL_1894_twente_krisjan_klaover_jw_heinink_05
 # text_orig = Dat wèt y net zoo good as ikke, dat doo'j!
 # text = Dat wet y net sou good as ikke, dat do y!
-1	Dat	Dat 	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-2	wet	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+1	Dat	Dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	wet	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	_
 4	net	net	ADV	_	_	6	advmod	_	_
 5	sou	sou	ADV	_	_	6	advmod	_	_
@@ -2292,7 +2292,7 @@
 # text = "Och Heyre, jå!
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
 2	Och	och	INTJ	_	_	3	discourse	_	_
-3	Heyre	Heyre	PROPN	_	Number=Sing	_	_	_	SpaceAfter=No
+3	Heyre	Heyre	PROPN	_	Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	jå	jå	INTJ	_	_	3	discourse	_	lemma[gml]=jâ¹|SpaceAfter=No
 6	!	!	PUNCT	_	_	3	punct	_	_
@@ -2335,7 +2335,7 @@
 
 # sent_id = LSDC_066_WFL-NL_1894_twente_krisjan_klaover_jw_heinink_11
 # text_orig = Hard wèrken en dan nog half hongerlieden, daor bedànk ik veur, dat doo'k!
-# text = Hard werken en dan noch halv hunderlyden, dår bedanke ik vöär, dat do ik!
+# text = Hard werken en dan noch halv hungerlyden, dår bedanke ik vöär, dat do ik!
 1	Hard	hard	ADJ	_	Degree=Pos	2	advmod	_	_
 2	werken	werken	VERB	_	VerbForm=Inf	10	dislocated	_	_
 3	en	un	CCONJ	_	_	7	cc	_	_
