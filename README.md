@@ -21,20 +21,21 @@ The following people were involved in the creation of this dataset:
 
 ## References
 
-If you use this treebank, please cite this paper describing the LSDC dataset:
+If you use this treebank, please cite this paper:
 
 ```
-@inproceedings{siewert-etal-2020-lsdc,
-	abstract = "We present a new comprehensive dataset for the unstandardised West-Germanic language Low Saxon covering the last two centuries, the majority of modern dialects and various genres, which will be made openly available in connection with the final version of this paper. Since so far no such comprehensive dataset of contemporary Low Saxon exists, this provides a great contribution to NLP research on this language. We also test the use of this dataset for dialect classification by training a few baseline models comparing statistical and neural approaches. The performance of these models shows that in spite of an imbalance in the amount of data per dialect, enough features can be learned for a relatively high classification accuracy.",
-	address = "Barcelona, Spain (Online)",
-	author = "Siewert, Janine and Scherrer, Yves and Wieling, Martijn and Tiedemann, Jörg",
-	booktitle = "Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects",
-	month = dec,
-	pages = "25–35",
-	publisher = "International Committee on Computational Linguistics (ICCL)",
-	title = "{LSDC} - A comprehensive dataset for Low {S}axon Dialect Classification",
-	url = "https://www.aclweb.org/anthology/2020.vardial-1.3",
-	year = "2020"
+@inproceedings{siewert-etal-2021-towards,
+    title = "Towards a balanced annotated Low {S}axon dataset for diachronic investigation of dialectal variation",
+    author = {Siewert, Janine  and
+      Scherrer, Yves  and
+      Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)",
+    month = "6--9 " # sep,
+    year = "2021",
+    address = {D{\"u}sseldorf, Germany},
+    publisher = "KONVENS 2021 Organizers",
+    url = "https://aclanthology.org/2021.konvens-1.25",
+    pages = "242--246",
 }
 
 ```
