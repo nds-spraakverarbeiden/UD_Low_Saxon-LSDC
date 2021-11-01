@@ -2538,7 +2538,7 @@
 # text_orig = Et was grade sonne rüsige Winternacht, de Wind hühlde, dat de Bäume krakeden, de Riagen pliärde viör de Fensters, un kinnen Stähn wiör an en Hiemel te seihn, et was so düster, dat man kinne Hand viör Augen seihn konn.
 # text = Et was gerade sou ne rüsige winternacht, de wind hüülde, dat de böyme krakeden, de reagen plärde vöär de vensters, un kynen steern wöör an den hiamel te seen, et was sou düüster, dat man kyne hand vöär ougen seen kon.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
-2	was	weasen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+2	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
 3	gerade	gerade	ADJ	_	Degree=Pos	7	advmod	_	_
 4	sou	sou	ADV	_	_	5	advmod	_	_
 5	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
