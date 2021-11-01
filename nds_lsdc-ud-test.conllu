@@ -2212,7 +2212,7 @@
 45	up	up	ADP	_	AdpType=Prep	47	case	_	lemma[gml]=up²
 46	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	47	det	_	lemma[gml]=dê¹
 47	brandbak	brandbank	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	49	obl	_	_
-48	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	49	aux	_	_
+48	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	49	aux	_	lemma[gml]=hebben
 49	esmetten	smyten	VERB	_	Aspect=Perf|VerbForm=Part	38	conj	_	lemma[gml]=smîten|SpaceAfter=No
 50	.	.	PUNCT	_	_	21	punct	_	_
 
