@@ -2490,7 +2490,7 @@
 26	vöärbeaded	vöärbeaden	VERB	_	Aspect=Perf|VerbForm=Part	2	conj	_	lemma[gml]=vȫrbēden²
 27	un	un	CCONJ	_	_	30	cc	_	lemma[gml]=unde²
 28	syne	syn	DET	_	Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Art	29	det	_	lemma[gml]=sîn⁴
-29	kinder	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	30	orphan	_	lemma[gml]=kint
+29	kinder	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	lemma[gml]=kint
 30	antwoorded	antwoorden	VERB	_	Aspect=Perf|VerbForm=Part	26	conj	_	lemma[gml]=antwōrden²|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	_
 32	aver	avers	CCONJ	_	_	34	cc	_	lemma[gml]=āvers
