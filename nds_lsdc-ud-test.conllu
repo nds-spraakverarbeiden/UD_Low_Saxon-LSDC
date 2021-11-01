@@ -2534,3 +2534,55 @@
 14	doon	doon	VERB	_	VerbForm=Inf	3	xcomp	_	lemma[gml]=dôn¹|SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_074_WFL_1882_westfalen_munster_-_de_schatzgriawer_09
+# text_orig = Et was grade sonne rüsige Winternacht, de Wind hühlde, dat de Bäume krakeden, de Riagen pliärde viör de Fensters, un kinnen Stähn wiör an en Hiemel te seihn, et was so düster, dat man kinne Hand viör Augen seihn konn.
+# text = Et was gerade sou ne rüsige winternacht, de wind hüülde, dat de böyme krakeden, de reagen plärde vöär de vensters, un kynen steern wöör an den hiamel te seen, et was sou düüster, dat man kyne hand vöär ougen seen kon.
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+2	was	weasen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+3	gerade	gerade	ADJ	_	Degree=Pos	7	advmod	_	_
+4	sou	sou	ADV	_	_	5	advmod	_	_
+5	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	rüsige	rüsig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	winternacht	winternacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	wind	wind	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	hüülde	hülen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	dat	dat	SCONJ	_	_	16	mark	_	_
+14	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	böyme	boum	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
+16	krakeden	kraken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	reagen	reagen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+20	plärde	plärren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	conj	_	_
+21	vöär	vöär	ADP	_	AdpType=Prep	23	case	_	_
+22	de	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	23	det	_	Case[regional]=Acc
+23	vensters	venster	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	20	obl	_	Case[regional]=Acc|SpaceAfter=No
+24	,	,	PUNCT	_	_	33	punct	_	_
+25	un	un	CCONJ	_	_	33	cc	_	_
+26	kynen	keyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	27	det	_	_
+27	steern	steern	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	_
+28	wöör	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	33	aux	_	_
+29	an	an	ADP	_	AdpType=Prep	31	case	_	_
+30	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Case[regional]=Acc
+31	hiamel	heamel	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	33	obl	_	Case[regional]=Acc
+32	te	to	PART	_	PartType=Inf	33	mark	_	_
+33	seen	seen	VERB	_	VerbForm=Inf	7	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	38	punct	_	_
+35	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	38	nsubj	_	_
+36	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	38	cop	_	_
+37	sou	sou	ADV	_	_	38	advmod	_	_
+38	düüster	düüster	ADJ	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
+39	,	,	PUNCT	_	_	46	punct	_	_
+40	dat	dat	SCONJ	_	_	46	mark	_	_
+41	man	man	PRON	_	Number=Sing|PronType=Ind	46	nsubj	_	_
+42	kyne	keyn	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	43	det	_	_
+43	hand	hand	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	46	obj	_	_
+44	vöär	vöär	ADP	_	AdpType=Prep	45	case	_	_
+45	ougen	ouge	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	46	obl	_	_
+46	seen	seen	VERB	_	VerbForm=Inf	38	advcl	_	_
+47	kon	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	46	aux	_	SpaceAfter=No
+48	.	.	PUNCT	_	_	7	punct	_	_
+
