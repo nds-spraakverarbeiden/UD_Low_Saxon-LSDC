@@ -2447,3 +2447,90 @@
 21	helpen	helpen	VERB	_	VerbForm=Inf	18	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_071_WFL_1882_westfalen_munster_-_de_schatzgriawer_06
+# text_orig = Biäden und Flöken wesselde met enander aff.
+# text = Beaden un vlöken wesselde mid enander af.
+1	Beaden	beaden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+2	un	un	CCONJ	_	_	3	cc	_	_
+3	vlöken	vlöken	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+4	wesselde	wesselen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	mid	mid	ADP	_	AdpType=Prep	6	case	_	_
+6	enander	enander	PRON	_	Case=Dat,Acc|PronType=Rcp	4	obl	_	_
+7	af	af	ADV	_	_	4	compound	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = LSDC_072_WFL_1882_westfalen_munster_-_de_schatzgriawer_07
+# text_orig = Nu kamm et es enmaol, dat he des Nachts gar nich slaopen konn; denn den Aowend daoviör hadde sine Frau met grinenden Augen viörbiädet un sine Kinder antwortet, aower he biädde nig met, sunnern wenn he sick et alle iöwerdachte, dann flokte he der widder ächter hiar.
+# text = Nu kam et eyns eynmål, dat hee des nachts gaar nich slåpen kon; dän den åvend dårvöär hadde syne vrouw mid grynenden ougen vöärbeaded un syne kinder antwoorded, aver hee beadede nich mid, sunderen wän hee sik et alle öäverdachte, dan vlokede hee der wedder achterher.
+1	Nu	nu	ADV	_	_	2	advmod	_	_
+2	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+4	eyns	eyns	ADV	_	_	2	advmod	_	_
+5	eynmål	eynmål	ADV	_	_	2	advmod	_	_
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	dat	dat	SCONJ	_	_	13	mark	_	_
+8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+9	des	de	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Prs	10	det	_	_
+10	nachts	nacht	NOUN	_	Case=Gen|Gender=Fem,Masc|Number=Sing	13	obl	_	_
+11	gaar	gaar	ADV	_	_	12	advmod	_	_
+12	nich	nich	PART	_	PartType=Neg	13	advmod	_	_
+13	slåpen	slåpen	VERB	_	VerbForm=Inf	2	advcl	_	_
+14	kon	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux	_	_
+15	;	;	PUNCT	_	_	13	punct	_	_
+16	dän	dän	ADV	_	_	26	advmod	_	_
+17	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obl	_	_
+19	dårvöär	dårvöär	ADV	_	_	18	advmod	_	_
+20	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	26	aux	_	_
+21	syne	syn	DET	_	Case=Nom|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Art	22	det	_	_
+22	vrouw	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	_
+23	mid	mid	ADP	_	AdpType=Prep	25	case	_	_
+24	grynenden	grynend	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	_
+25	ougen	ouge	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	26	obl	_	_
+26	vöärbeaded	vöärbeaden	VERB	_	Aspect=Perf|VerbForm=Part	2	conj	_	_
+27	un	un	CCONJ	_	_	30	cc	_	_
+28	syne	syn	DET	_	Case=Nom|Gender=Neut|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Art	29	det	_	_
+29	kinder	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	_
+30	antwoorded	antwoorden	VERB	_	Aspect=Perf|VerbForm=Part	26	conj	_	_
+31	,	,	PUNCT	_	_	34	punct	_	_
+32	aver	avers	CCONJ	_	_	34	cc	_	_
+33	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	34	nsubj	_	_
+34	beadede	beaden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	26	conj	_	_
+35	nich	nich	PART	_	PartType=Neg	34	advmod	_	_
+36	mid	mid	ADP	_	_	34	compound	_	_
+37	,	,	PUNCT	_	_	44	punct	_	_
+38	sunderen	sunderen	CCONJ	_	_	44	cc	_	_
+39	wän	wan	SCONJ	_	_	44	mark	_	_
+40	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	_
+41	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	44	iobj	_	_
+42	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	44	obj	_	_
+43	alle	alle	PRON	_	Case=Acc|PronType=Tot	42	appos	_	_
+44	öäverdachte	öäverdenken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	47	advcl	_	_
+45	,	,	PUNCT	_	_	47	punct	_	_
+46	dan	dan	ADV	_	_	47	advmod	_	_
+47	vlokede	vlöken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	34	conj	_	_
+48	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	_
+49	der	dår	ADV	_	_	47	obl	_	_
+50	wedder	wedder	ADV	_	_	47	advmod	_	_
+51	ächterher	achterher	ADP	_	_	49	case	_	_
+52	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_073_1882_westfalen_munster_-_de_schatzgriawer_08
+# text_orig = - Nu leit em de baise Find düse Nacht kinn Auge an enander dohn.
+# text = - Nu leyt em de böyse vynd disse nacht kyn ouge an enander doon.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	Nu	nu	ADV	_	_	3	advmod	_	_
+3	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	böyse	böyse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	vynd	vyend	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma[gml]=vîent¹
+8	disse	disse	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+9	nacht	nacht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+10	kyn	keyn	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	11	det	_	_
+11	ouge	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+12	an	an	ADP	_	AdpType=Prep	13	advmod	_	_
+13	enander	enander	PRON	_	Case=Acc,Dat|PronType=Rcp	14	obl	_	_
+14	doon	doon	VERB	_	VerbForm=Inf	3	xcomp	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
