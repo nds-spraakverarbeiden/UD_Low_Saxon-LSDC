@@ -2461,7 +2461,7 @@
 
 # sent_id = LSDC_072_WFL_1882_westfalen_munster_-_de_schatzgriawer_07
 # text_orig = Nu kamm et es enmaol, dat he des Nachts gar nich slaopen konn; denn den Aowend daoviör hadde sine Frau met grinenden Augen viörbiädet un sine Kinder antwortet, aower he biädde nig met, sunnern wenn he sick et alle iöwerdachte, dann flokte he der widder ächter hiar.
-# text = Nu kam et eyns eynmål, dat hee des nachts gaar nich slåpen kon; dän den åvend dårvöär hadde syne vrouw mid grynenden ougen vöärbeaded un syne kinder antwoorded, aver hee beadede nich mid, sunderen wän hee sik et alle öäverdachte, dan vlokede hee der wedder achterher.
+# text = Nu kam et eyns eynmål, dat hee des nachts gaar nich slåpen kon; dän den åvend dårvöär hadde syne vrouw mid grynenden ougen vöärbeaded un syne kinder antwoorded, aver hee beadede nich mid, sunderen wän hee sik et alle öäverdachte, dan vlokede hee der wedder ächterher.
 1	Nu	nu	ADV	_	_	2	advmod	_	_
 2	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
