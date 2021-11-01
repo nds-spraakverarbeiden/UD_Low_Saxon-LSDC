@@ -2371,7 +2371,6 @@
 12	koupen	köypen	VERB	_	VerbForm=Inf	5	acl	_	lemma[gml]=kö̂pen|SpaceAfter=No
 13	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
 14	"	"	PUNCT	_	_	6	punct	_	_
-
 # sent_id = LSDC_068_WFL_1882_westfalen_munster_-_de_schatzgriawer_03
 # text_orig = Viör aollen Tiden dao wuhnde up de Luoden-Heide sonnen armen Kiöter, de hadde nix te biten noch te briäken.
 # text = Vöär olden tyden do woande up de Luoden-heide sou nen armen köäter, dee hadde niks te byten noch te breaken.
@@ -2389,7 +2388,7 @@
 12	köäter	köäter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
-15	hadde	hebben	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl	_	_
+15	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl	_	_
 16	niks	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	15	obj	_	_
 17	te	to	PART	_	PartType=Inf	18	mark	_	_
 18	byten	byten	VERB	_	VerbForm=Inf	16	acl	_	_
@@ -2400,9 +2399,9 @@
 
 # sent_id = LSDC_069_WFL_1882_westfalen_munster_-_de_schatzgriawer_04
 # text_orig = He hadde ene Frau mit fiev Kinder, de aower alle uutsaogen, äs wenn se Bast gnageden.
-# text = Hee hadde eyne vrouw mid vyv kinder, dee aver alle uutsågen, äs wän se bast gnageden.
+# text = Hee hadde eyne vrouw mid vyv kinder, dee aver alle uutsågen, äs wän see bast gnageden.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	hadde	hebben	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+2	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	eyne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	vrouw	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 5	mid	mid	ADP	_	AdpType=Prep	7	case	_	_
@@ -2446,3 +2445,4 @@
 20	te	to	PART	_	PartType=Inf	21	mark	_	_
 21	helpen	helpen	VERB	_	VerbForm=Inf	18	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
+
