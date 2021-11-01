@@ -2617,10 +2617,10 @@
 # sent_id = LSDC_076_1882_westfalen_munster_-_de_schatzgriawer_11
 # text_orig = Up enmaol häörde he sonn Knistern, äs wenn et uut de Kiüke keim.
 # text = Up eynmål höyrde hee sou en knisteren, äs wän et uut de küäke kaem.
-1	Up	up	ADP	_	Case=Dat,Acc	2	case	_	_
-2	eynmål	eynmål	ADV	_	Case=Dat,Acc|Number=Sing	3	obl	_	_
-3	höyrde	höyren	VERB	_	Inflection=Weak|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	hee	hee	PRON	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+1	Up	up	ADP	_	AdpType=Prep	2	case	_	_
+2	eynmål	eynmål	ADV	_	_	3	obl	_	_
+3	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	sou	sou	ADV	_	_	6	advmod	_	_
 6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	knisteren	knisteren	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
