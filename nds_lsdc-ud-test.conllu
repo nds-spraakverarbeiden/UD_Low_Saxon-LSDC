@@ -2376,8 +2376,8 @@
 # text_orig = Viör aollen Tiden dao wuhnde up de Luoden-Heide sonnen armen Kiöter, de hadde nix te biten noch te briäken.
 # text = Vöär olden tyden do woande up de Luoden-heide sou nen armen köäter, dee hadde niks te byten noch te breaken.
 1	Vöär	vöär	ADP	_	AdpType=Prep	3	case	_	_
-2	olden	old	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc,Fem|Number=Plur	3	amod	_	_
-3	tyden	tyd	NOUN	_	Case=Dat|Gender=Masc,Fem|Number=Plur	5	obl	_	_
+2	olden	old	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem,Masc|Number=Plur	3	amod	_	_
+3	tyden	tyd	NOUN	_	Case=Dat|Gender=Fem,Masc|Number=Plur	5	obl	_	_
 4	do	do	ADV	_	_	5	advmod	_	_
 5	woande	woanen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 6	up	up	ADP	_	AdpType=Prep	8	case	_	_
@@ -2386,7 +2386,7 @@
 9	sou	sou	ADV	_	_	10	advmod	_	_
 10	nen	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	armen	arm	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
-12	köäter	köäter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+12	köäter	köäter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	_
 15	hadde	hebben	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl	_	_
@@ -2395,7 +2395,7 @@
 18	byten	byten	VERB	_	VerbForm=Inf	16	acl	_	_
 19	noch	noch	CCONJ	_	_	21	cc	_	_
 20	te	to	PART	_	PartType=Inf	21	mark	_	_
-21	breaken	breaken	VERB	_	VerbForm=Inf	18	conj	_	_
+21	breaken	breaken	VERB	_	VerbForm=Inf	18	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_069_WFL_1882_westfalen_munster_-_de_schatzgriawer_04
@@ -2407,18 +2407,18 @@
 4	vrouw	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
 5	mid	mid	ADP	_	AdpType=Prep	7	case	_	_
 6	vyv	vyv	NUM	_	NumType=Card	7	nummod	_	_
-7	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	_
+7	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	_
 10	aver	avers	ADV	_	_	12	advmod	_	_
 11	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	9	appos	_	_
-12	uutsågen	uutseen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	acl	_	_
+12	uutsågen	uutseen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	acl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	äs	as	SCONJ	_	_	18	mark	_	_
 15	wän	wan	SCONJ	_	_	18	mark	_	_
 16	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
 17	bast	bast	NOUN	_	Case=Acc|Gender=Masc,Neut|Number=Sing	18	obj	_	_
-18	gnageden	gnagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	advcl	_	_
+18	gnageden	gnagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	advcl	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_070_WFL_1882_westfalen_munster_-_de_schatzgriawer_05
@@ -2428,10 +2428,10 @@
 2	dei	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Case[regional]=Acc
 4	armen	arm	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	Case[regional]=Acc
-5	köäter	köäter	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Case[regional]=Acc
+5	köäter	köäter	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Case[regional]=Acc
 6	gans	gans	ADJ	_	Degree=Pos	2	advmod	_	_
 7	famose	famoos	ADJ	_	Degree=Pos	2	advmod	_	_
-8	leyd	leyd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+8	leyd	leyd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
 10	un	un	CCONJ	_	_	11	cc	_	_
 11	wus	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
@@ -2444,6 +2444,5 @@
 18	råden	råden	VERB	_	VerbForm=Inf	11	xcomp	_	_
 19	noch	noch	CCONJ	_	_	21	cc	_	_
 20	te	to	PART	_	PartType=Inf	21	mark	_	_
-21	helpen	helpen	VERB	_	VerbForm=Inf	18	conj	_	_
+21	helpen	helpen	VERB	_	VerbForm=Inf	18	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
-
