@@ -2641,11 +2641,11 @@
 2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	nmod:poss	_	_
 3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	_
 4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
-5	gelouven	gelouven	NOUN 	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+5	gelouven	gelouven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	Henrick	Henrick	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 8	van	van	ADP	_	AdpType=Prep	9	case	_	_
-9	Zütphen	Zütphen	PROPN	_	Case=Acc,Dat|Number=Sing 	7	nmod	_	SpaceAfter=No
+9	Zütphen	Zütphen	PROPN	_	Case=Acc,Dat|Number=Sing 	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
 11	syn	syn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	12	det	_	_
 12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
@@ -2656,7 +2656,7 @@
 17	un	un	CCONJ	_	_	18	cc	_	_
 18	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
 19	in	in	ADP	_	AdpType=Prep	20	case	_	_
-20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing 	12	nmod	_	SpaceAfter=No
+20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing 	12	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = LSDC_078_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen_02
