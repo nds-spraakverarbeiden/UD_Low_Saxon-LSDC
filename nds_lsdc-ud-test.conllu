@@ -2706,10 +2706,10 @@
 
 # sent_id = LSDC_081_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Syt man anfungn hett, van dat hundertjäärige freudnfäst äwer de reformation to sprehkn, hef ick mi mennichmaal fraagt, – un je neeger de tyd komt, dat wi et fyrn schült, je eernshafter un duurlicher fraag ick mi: wo nehm wi de freud daarto hehr?
-# text = Syd man anvungen het van dat hunderdjärige vroidenvest öäver de reformatioon to spreaken, hev ik my männigmål vrågd, - un je naeger de tyd kumt, dat wy et vyren sküllet, je eernsthafter un duurliker vråge ik my: wår neam wy de vroide dårto her?
+# text = Syd man anvungen het van dat hunderdjärige vroidenvest öäver de reformatioon to spreaken, hev ik my männigmål vrågd, – un je naeger de tyd kumt, dat wy et vyren sküllet, je eernsthafter un duurliker vråge ik my: wår neam wy de vroide dårto her?
 1	Syd	syd	SCONJ	_	_	3	mark	_	_
 2	man	man	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
-3	anvungen	anvangen	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	19	advcl	_	_
+3	anvungen	anvangen	VERB	_	Aspect=Perf|VerbForm=Part	19	advcl	_	_
 4	het	hebben	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
 5	van	van	ADP	_	AdpType=Prep	8	case	_	_
 6	dat	dat	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
@@ -2719,27 +2719,27 @@
 10	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	reformatioon	reformatioon	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	appos	_	_
 12	to	to	PART	_	PartType=Inf	13	mark	_	_
-13	spreaken	spreaken	VERB	_	VerbForm=Inf	3	xcomp	_	_
+13	spreaken	spreaken	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	3	punct	_	_
 15	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	19	aux	_	_
-16	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Pers	19	nsubj	_	_
-17	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Pers	19	obj	_	_
+16	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+17	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	19	obj	_	_
 18	männigmål	männigmål	ADV	_	_	19	advmod	_	_
-19	vrågd	vrågen	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+19	vrågd	vrågen	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
-21	–	-	PUNCT	_	_	27	punct	_	_
+21	–	–	PUNCT	_	_	27	punct	_	_
 22	un	un	CCONJ	_	_	27	cc	_	_
 23	je	je	ADV	_	_	24	cc	_	_
 24	naeger	naeg	ADJ	_	Degree=Cmp	27	advmod	_	_
 25	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	tyd	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
-27	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+27	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	conj	_	_
 28	,	,	PUNCT	_	_	32	punct	_	_
 29	dat	dat	SCONJ	_	_	32	mark	_	_
 30	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	32	nsubj	_	_
 31	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	obj	_	_
 32	vyren	vyren	VERB	_	VerbForm=Inf	26	acl	_	_
-33	sküllet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	32	aux	_	_
+33	sküllet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	32	aux	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	32	punct	_	_
 35	je	je	ADV	_	_	36	advmod	_	_
 36	eernshafter	eernsthaft	ADJ	_	Degree=Cmp	39	advmod	_	_
@@ -2747,14 +2747,16 @@
 38	duurliker	duurlik	ADJ	_	Degree=Cmp	36	conj	_	_
 39	vråge	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	27	conj	_	_
 40	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
-41	my	my	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	39	obj	_	_
+41	my	my	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	39	obj	_	SpaceAfter=No
 42	:	:	PUNCT	_	_	39	punct	_	_
 43	wår	wår	ADV	_	_	44	obl	_	_
 44	neam	neamen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	19	ccomp	_	_
 45	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	44	nsubj	_	_
 46	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	_
 47	vroide	vroide	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	44	obj	_	_
-48	dårto	dårto	ADV	_	_	47	adbvm	_	_
-49	her	her	ADV	_	_	43	case	_	_
+48	dårto	dårto	ADV	_	_	47	advmod	_	_
+49	her	her	ADV	_	_	43	case	_	SpaceAfter=No
 50	?	?	PUNCT	_	_	19	punct	_	_
+
+
 
