@@ -2844,13 +2844,13 @@
 22	allerley	allerley	DET	_	Case=Acc|Gender=Neut	23	det	_	_
 23	kråmstükke	kråmstük	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	35	obj	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	29	punct	_	_
-25	wårvan	wårvan	ADV	_	PronType=Int	29	advmod	_	_
+25	wårvan	wårvan	ADV	_	_	29	advmod	_	_
 26	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	29	nsubj	_	_
 27	vröer	vrö	ADJ	_	Degree=Cmp	29	advmod	_	_
 28	niks	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	29	obj	_	_
 29	wus	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	acl	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	29	punct	_	_
-31	by	by	ADP	_	AdpType=Prep|Case=Acc,Dat	34	case	_	_
+31	by	by	ADP	_	AdpType=Prep	34	case	_	_
 32	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Sing	34	det	_	_
 33	leve	leev	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
 34	jugend	jugend	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	35	obl	_	_
@@ -2868,7 +2868,7 @@
 46	weasen	weasen	AUX	_	VerbForm=Inf	45	cop	_	_
 47	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	45	aux	_	SpaceAfter=No
 48	,	,	PUNCT	_	_	42	punct	_	_
-49	dårdoärch	dårdöärch	ADV	_	PronType=Rel	55	advmod	_	_
+49	dårdöärch	dårdöärch	ADV	_	_	55	advmod	_	_
 50	dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	_
 51	kristendoom	kristendoom	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
 52	meyr	veal	ADV	_	_	55	advmod	_	_
