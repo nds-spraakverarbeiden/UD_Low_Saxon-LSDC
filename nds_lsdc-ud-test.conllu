@@ -2798,7 +2798,7 @@
 35	vorskeal	vorskeal	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	40	obj	_	_
 36	twüsken	twüsken	ADP	_	AdpType=Prep	37	case	_	_
 37	luthersk	luthersk	ADJ	_	Case=Acc,Dat|Degree=Pos|Number=Sing	35	nmod	_	_
-38	und	un	CCONJ	_	_	39	cc	_	_
+38	un	un	CCONJ	_	_	39	cc	_	_
 39	katoolsk	katoolsk	ADJ	_	Case=Acc,Dat|Degree=Pos|Number=Sing	37	conj	_	_
 40	angeaven	angeaven	VERB	_	VerbForm=Inf	9	advcl	_	_
 41	köänet	künnen	AUX	_	Number=Plur	40	aux	_	SpaceAfter=No
@@ -2816,6 +2816,4 @@
 53	herkumst	herkumst	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	51	conj	_	_
 54	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	ccomp	_	SpaceAfter=No
 55	:	:	PUNCT	_	_	9	punct	_	_
-
-
 
