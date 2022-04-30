@@ -2742,7 +2742,7 @@
 33	sküllet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	32	aux	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	32	punct	_	_
 35	je	je	ADV	_	_	36	advmod	_	_
-36	eernshafter	eernsthaft	ADJ	_	Degree=Cmp	39	advmod	_	_
+36	eernsthafter	eernsthaft	ADJ	_	Degree=Cmp	39	advmod	_	_
 37	un	un	CCONJ	_	_	38	cc	_	_
 38	duurliker	duurlik	ADJ	_	Degree=Cmp	36	conj	_	_
 39	vråge	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	27	conj	_	_
