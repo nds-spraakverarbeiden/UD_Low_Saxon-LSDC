@@ -2636,9 +2636,9 @@
 
 # sent_id = LSDC_077_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Den bloodtüügn för, unsen gloobm, Henrick van Zütphen syn saak, arbeid, lydn un dood in Dithmarschen.
-# text = Den bloudtügen vöär unten gelouven, Henrick van Zütphen, syn sake, arbeid, lyden un doud in Dithmarschen.
+# text = Den bloudtügen vöär unsen gelouven, Henrick van Zütphen, syn sake, arbeid, lyden un doud in Dithmarschen.
 1	Den	de	DET	_	_	2	det	_	_
-2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	12	nmod:poss	_	_
+2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	nmod:poss	_	_
 3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	_
 4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	gelouven	gelouven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
@@ -2648,13 +2648,13 @@
 9	Zütphen	Zütphen	PROPN	_	Case=Acc,Dat|Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
 11	syn	syn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	12	det	_	_
-12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14	arbeid	arbeid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	lyden	lyden	NOUN	_	Case=Nom|Gender=Neut|Gender=Neut	12	conj	_	_
+16	lyden	lyden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
 17	un	un	CCONJ	_	_	18	cc	_	_
-18	doud	doud	VERB	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+18	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
 19	in	in	ADP	_	AdpType=Prep	20	case	_	_
 20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing	12	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	12	punct	_	_
@@ -2662,7 +2662,7 @@
 # sent_id = LSDC_078_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Beschrehbm un tom 31den October Ao. 1817 heruutgehbm van Claus Harms Archidiakonus an de St. Nicolaikark in Kiel.
 # text = Beskreaven un to'm 13. oktober ao. 1817 heruutgeaven van Claus Harms archidiakonus an de St. Nicolaikarke in Kiel.
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	_	_	_
+1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
 2	un	un	CCONJ	_	_	10	cc	_	_
 3-5	to'm	_	_	_	_	_	_	_	_
 3	to	to	ADP	_	AdpType=Prep	7	case	_	_
@@ -2688,7 +2688,7 @@
 # sent_id = LSDC_079_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Kiel, in de academische Bookhandlunk verlegt.
 # text = Kiel, in de akademiske bookhandeling vorlegd.
-1	Kiel	Kiel	PROPN	_	Number=Sing	0	_	_	SpaceAfter=No
+1	Kiel	Kiel	PROPN	_	Number=Sing	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	7	punct	_	_
 3	in	in	ADP	_	AdpType=Prep	6	case	_	_
 4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -2701,6 +2701,6 @@
 # text_orig = De vörrehd.
 # text = De vöärreade.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	vöärreade	vöärreade	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+2	vöärreade	vöärreade	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
