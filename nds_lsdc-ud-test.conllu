@@ -2634,11 +2634,11 @@
 15	kaem	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	acl	_	lemma[gml]=kōmen¹|SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_077_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen_01
+# sent_id = LSDC_077_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Den bloodtüügn för, unsen gloobm, Henrick van Zütphen syn saak, arbeid, lydn un dood in Dithmarschen.
 # text = Den bloudtügen vöär unten gelouven, Henrick van Zütphen, syn sake, arbeid, lyden un doud in Dithmarschen.
-1	Den	de	_	DET	_	2	det	_	_
-2	bloudtügen	bloudtüge	NOUN 	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	12	nmod:poss	_	_
+1	Den	de	DET	_	_	2	det	_	_
+2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	12	nmod:poss	_	_
 3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	_
 4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	gelouven	gelouven	NOUN 	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
@@ -2648,13 +2648,13 @@
 9	Zütphen	Zütphen	PROPN	_	Case=Acc,Dat|Number=Sing 	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
 11	syn	syn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	12	det	_	_
-12	sake	sake	NOUN 	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
+12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	_	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
-14	arbeid	arbeid	NOUN 	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+14	arbeid	arbeid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	lyden	lyden	NOUN 	_	Case=Nom|Gender=Neut|Gender=Neut	12	conj	_	_
+16	lyden	lyden	NOUN	_	Case=Nom|Gender=Neut|Gender=Neut	12	conj	_	_
 17	un	un	CCONJ	_	_	18	cc	_	_
-18	doud	doud	VERB	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+18	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
 19	in	in	ADP	_	AdpType=Prep	20	case	_	_
 20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing 	12	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	12	punct	_	_
