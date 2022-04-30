@@ -2638,7 +2638,7 @@
 # text_orig = Den bloodtüügn för, unsen gloobm, Henrick van Zütphen syn saak, arbeid, lydn un dood in Dithmarschen.
 # text = Den bloudtügen vöär unten gelouven, Henrick van Zütphen, syn sake, arbeid, lyden un doud in Dithmarschen.
 1	Den	de	DET	_	_	2	det	_	_
-2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	12	nmod:poss	_	_
+2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	nmod:poss	_	_
 3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	_
 4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	gelouven	gelouven	NOUN 	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
