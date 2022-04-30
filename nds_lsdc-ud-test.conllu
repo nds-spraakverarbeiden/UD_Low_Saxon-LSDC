@@ -2760,7 +2760,7 @@
 
 # sent_id = LSDC_082_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Den de unwehtenheit van de saak is so groot ünner vörnehme lüüd un ünner den gemeenen man (sons pleg de letzte alleen de las to drehgn) dat van hundert keene tein den verschehl twischn Luthersch und Kathoolsch angehbm könt, geschwige vertelln, wat luthersche gloof för en grund un hehrkomst hett:
-# text = Dän de unweatenheid van de sake is sou grout ünder vöärneame lüde un ünder den gemeynen man (sunst pleag de lätste alleyn de last to drägen) dat van hunderd keyne tein den vorskeal twüsken luthersk un katoolsk angeaven köänet, geswyge vortellen, wat de lutherske gelouve vöär en grund un herkumst het:
+# text = Dän de unweatenheid van de sake is sou grout ünder vöärneame lüde un ünder den gemeynen man (sunst pleag de lätste alleyn de last to drägen) dat van hunderd keyne tein den vorskeal twüsken luthersk un katoolsk angeaven köänet, geswyge vortellen, wat lutherske gelouve vöär en grund un herkumst het:
 1	Dän	dän	CCONJ	_	_	9	cc	_	_
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	unweatenheid	unweatenheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
