@@ -2634,3 +2634,254 @@
 15	kaem	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	acl	_	lemma[gml]=kōmen¹|SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_077_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Den bloodtüügn för, unsen gloobm, Henrick van Zütphen syn saak, arbeid, lydn un dood in Dithmarschen.
+# text = Den bloudtügen vöär unsen gelouven, Henrick van Zütphen, syn sake, arbeid, lyden un doud in Dithmarschen.
+1	Den	de	DET	_	_	2	det	_	_
+2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	nmod:poss	_	_
+3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	_
+4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	gelouven	gelouven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Henrick	Henrick	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
+8	van	van	ADP	_	AdpType=Prep	9	case	_	_
+9	Zütphen	Zütphen	PROPN	_	Case=Acc,Dat|Number=Sing	7	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	syn	syn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	12	det	_	_
+12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	arbeid	arbeid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	lyden	lyden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
+17	un	un	CCONJ	_	_	18	cc	_	_
+18	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
+19	in	in	ADP	_	AdpType=Prep	20	case	_	_
+20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing	12	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = LSDC_078_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Beschrehbm un tom 31den October Ao. 1817 heruutgehbm van Claus Harms Archidiakonus an de St. Nicolaikark in Kiel.
+# text = Beskreaven un to'm 31. oktober ao. 1817 heruutgeaven van Claus Harms archidiakonus an de St. Nicolaikarke in Kiel.
+1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	_
+2	un	un	CCONJ	_	_	10	cc	_	_
+3-5	to'm	_	_	_	_	_	_	_	_
+3	to	to	ADP	_	AdpType=Prep	7	case	_	_
+4	'	'	PUNCT	_	_	5	punct	_	_
+5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
+7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
+8	ao.	ao.	ADV	_	_	7	advmod	_	_
+9	1817	1817	NUM	_	_	8	appos	_	_
+10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
+11	van	van	ADP	_	AdpType=Prep	12	case	_	_
+12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
+13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
+14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
+15	an	an	ADP	_	AdpType=Prep	17	case	_	_
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
+18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
+19	in	in	ADP	_	AdpType=Prep	20	case	_	_
+20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = LSDC_079_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Kiel, in de academische Bookhandlunk verlegt.
+# text = Kiel, in de akademiske bookhandeling vorlegd.
+1	Kiel	Kiel	PROPN	_	Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	in	in	ADP	_	AdpType=Prep	6	case	_	_
+4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+5	akademiske	akademisk	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	bookhandeling	bookhandeling	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	_
+7	vorlegd	vorleggen	VERB	_	Aspect=Perf|VerbForm=Part	1	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = LSDC_080_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = De vörrehd.
+# text = De vöärreade.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	vöärreade	vöärreade	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_081_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Syt man anfungn hett, van dat hundertjäärige freudnfäst äwer de reformation to sprehkn, hef ick mi mennichmaal fraagt, – un je neeger de tyd komt, dat wi et fyrn schült, je eernshafter un duurlicher fraag ick mi: wo nehm wi de freud daarto hehr?
+# text = Syd man anvungen het van dat hunderdjärige vroidenvest öäver de reformatioon to spreaken, hev ik my männigmål vrågd, – un je naeger de tyd kumt, dat wy et vyren sküllet, je eernsthafter un duurliker vråge ik my: wår neam wy de vroide dårto her?
+1	Syd	syd	SCONJ	_	_	3	mark	_	_
+2	man	man	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+3	anvungen	anvangen	VERB	_	Aspect=Perf|VerbForm=Part	19	advcl	_	_
+4	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+5	van	van	ADP	_	AdpType=Prep	8	case	_	_
+6	dat	dat	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+7	hunderdjärige	hunderdjärig	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	vroidenvest	vroidenvest	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	13	obl	_	_
+9	öäver	öäver	ADP	_	AdpType=Prep	11	case	_	_
+10	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	reformatioon	reformatioon	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	appos	_	_
+12	to	to	PART	_	PartType=Inf	13	mark	_	_
+13	spreaken	spreaken	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	3	punct	_	_
+15	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	19	aux	_	_
+16	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+17	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	19	obj	_	_
+18	männigmål	männigmål	ADV	_	_	19	advmod	_	_
+19	vrågd	vrågen	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	–	–	PUNCT	_	_	27	punct	_	_
+22	un	un	CCONJ	_	_	27	cc	_	_
+23	je	je	ADV	_	_	24	cc	_	_
+24	naeger	naeg	ADJ	_	Degree=Cmp	27	advmod	_	_
+25	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	tyd	tyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+27	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	32	punct	_	_
+29	dat	dat	SCONJ	_	_	32	mark	_	_
+30	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	32	nsubj	_	_
+31	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	obj	_	_
+32	vyren	vyren	VERB	_	VerbForm=Inf	26	acl	_	_
+33	sküllet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	32	aux	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	32	punct	_	_
+35	je	je	ADV	_	_	36	advmod	_	_
+36	eernsthafter	eernsthaft	ADJ	_	Degree=Cmp	39	advmod	_	_
+37	un	un	CCONJ	_	_	38	cc	_	_
+38	duurliker	duurlik	ADJ	_	Degree=Cmp	36	conj	_	_
+39	vråge	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	27	conj	_	_
+40	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
+41	my	my	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	39	obj	_	SpaceAfter=No
+42	:	:	PUNCT	_	_	39	punct	_	_
+43	wår	wår	ADV	_	_	44	obl	_	_
+44	neam	neamen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	19	ccomp	_	_
+45	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	44	nsubj	_	_
+46	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	_
+47	vroide	vroide	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	44	obj	_	_
+48	dårto	dårto	ADV	_	_	47	advmod	_	_
+49	her	her	ADV	_	_	43	case	_	SpaceAfter=No
+50	?	?	PUNCT	_	_	19	punct	_	_
+
+# sent_id = LSDC_082_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Den de unwehtenheit van de saak is so groot ünner vörnehme lüüd un ünner den gemeenen man (sons pleg de letzte alleen de las to drehgn) dat van hundert keene tein den verschehl twischn Luthersch und Kathoolsch angehbm könt, geschwige vertelln, wat luthersche gloof för en grund un hehrkomst hett:
+# text = Dän de unweatenheid van de sake is sou grout ünder vöärneame lüde un ünder den gemeynen man (sunst pleag de lätste alleyn de last to drägen) dat van hunderd keyne tein den vorskeal twüsken luthersk un katoolsk angeaven köänet, geswyge vortellen, wat lutherske gelouve vöär en grund un herkumst het:
+1	Dän	dän	CCONJ	_	_	9	cc	_	_
+2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	unweatenheid	unweatenheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+4	van	van	ADP	_	AdpType=Prep	6	case	_	_
+5	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing	6	det	_	_
+6	sake	sake	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	3	nmod	_	_
+7	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
+8	sou	sou	ADV	_	_	9	advmod	_	_
+9	grout	grout	ADJ	_	Degree=Pos	0	root	_	_
+10	ünder	ünder	ADP	_	AdpType=Prep	12	case	_	_
+11	vöärneame	vöärneame	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	12	amod	_	_
+12	lüde	lüde	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	9	obl	_	_
+13	un	un	CCONJ	_	_	17	cc	_	_
+14	ünder	ünder	ADP	_	AdpType=Prep	17	case	_	_
+15	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	gemeynen	gemeyn	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
+17	man	man	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	conj	_	_
+18	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	sunst	sunst	ADV	_	_	20	advmod	_	_
+20	pleag	pleagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	parataxis	_	_
+21	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	lätste	laat	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	nsubj	_	_
+23	alleyn	alleyn	ADV	_	_	22	advmod	_	_
+24	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	last	last	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
+26	to	to	PART	_	PartType=Inf	27	mark	_	_
+27	drägen	drägen	VERB	_	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
+28	)	)	PUNCT	_	_	20	punct	_	_
+29	dat	dat	CCONJ	_	_	40	cc	_	_
+30	van	van	ADP	_	AdpType=Prep	31	case	_	_
+31	hunderd	hunderd	NUM	_	Case=Acc,Dat	33	nmod	_	_
+32	keyne	keyn	DET	_	Case=Nom|Number=Plur|PronType=Neg	33	det	_	_
+33	tein	tein	NUM	_	Case=Nom	40	nsubj	_	_
+34	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	vorskeal	vorskeal	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	40	obj	_	_
+36	twüsken	twüsken	ADP	_	AdpType=Prep	37	case	_	_
+37	luthersk	luthersk	ADJ	_	Case=Acc,Dat|Degree=Pos|Number=Sing	35	nmod	_	_
+38	un	un	CCONJ	_	_	39	cc	_	_
+39	katoolsk	katoolsk	ADJ	_	Case=Acc,Dat|Degree=Pos|Number=Sing	37	conj	_	_
+40	angeaven	angeaven	VERB	_	VerbForm=Inf	9	advcl	_	_
+41	köänet	künnen	AUX	_	Number=Plur	40	aux	_	SpaceAfter=No
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	geswyge	geswyge	CCONJ	_	_	44	cc	_	_
+44	vortellen	vortellen	VERB	_	VerbForm=Inf	40	conj	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	54	punct	_	_
+46	wat	wat	PRON	_	Gender=Neut|Number=Sing|PronType=Int	54	obj	_	_
+47	lutherske	luthersk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	amod	_	_
+48	gelouve	gelouve	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	54	nsubj	_	_
+49	vöär	vöär	ADP	_	AdpType=Prep	51	case	_	_
+50	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem,Masc|Number=Sing|PronType=Art	51	det	_	_
+51	grund	grund	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	46	nmod	_	_
+52	un	un	CCONJ	_	_	53	cc	_	_
+53	herkumst	herkumst	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	51	conj	_	_
+54	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	ccomp	_	SpaceAfter=No
+55	:	:	PUNCT	_	_	9	punct	_	_
+
+# sent_id = LSDC_083_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Süh! een is dat van de vehlen nadeeln, de daruut entspreeken mut, wen man syt twintig dörtig jaar allerley kraamstücke, wovan man fröher nicks wus, by de leewe jugend inschmuggelt un inföört, besonders in vörnehme familien oder de et wehsn wilt, dadorch dat christendoom meer un minder verdrängt ward, wat nich wol to möötn is.
+# text = Sü! eyn is dat van de vealen nådeylen, dee dåruut entspreaken mut, wän man syd twintig dörtig jår allerley kråmstükke, wårvan man vröer niks wus, by de leve jugend insmuggelt un invöört, besunders in vöärneame familien oder dee et weasen willet, dårdöärch dat kristendoom meyr un minder vordrängd wardt, wat nich wol to möten is.
+1	Sü	seen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	1	punct	_	_
+3	eyn	eyn	NUM	_	_	1	parataxis	_	_
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+5	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+6	van	van	ADP	_	AdpType=Prep	9	case	_	_
+7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+8	vealen	veal	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	_
+9	nådeylen	nådeyl	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	_
+12	dåruut	dåruut	ADV	_	_	13	advmod	_	_
+13	entspreaken	entspreaken	VERB	_	VerbForm=Inf	9	acl	_	_
+14	mut	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	aux	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	13	punct	_	_
+16	wän	wän	SCONJ	_	_	35	mark	_	_
+17	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	35	nsubj	_	_
+18	syd	syd	ADP	_	AdpType=Prep	21	case	_	_
+19	twintig	twintig	NUM	_	_	21	amod	_	_
+20	dörtig	dörtig	NUM	_	_	19	conj	_	_
+21	jår	jår	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	35	obl	_	_
+22	allerley	allerley	DET	_	Case=Acc|Gender=Neut	23	det	_	_
+23	kråmstükke	kråmstük	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	35	obj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	29	punct	_	_
+25	wårvan	wårvan	ADV	_	_	29	advmod	_	_
+26	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	29	nsubj	_	_
+27	vröer	vrö	ADJ	_	Degree=Cmp	29	advmod	_	_
+28	niks	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	29	obj	_	_
+29	wus	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	acl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	29	punct	_	_
+31	by	by	ADP	_	AdpType=Prep	34	case	_	_
+32	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+33	leve	leev	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
+34	jugend	jugend	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	35	obl	_	_
+35	insmuggelt	insmuggelen	VERB	_	Aspect=Perf|VerbForm=Part	13	advcl	_	_
+36	un	un	CCONJ	_	_	37	cc	_	_
+37	invöört	invören	VERB	_	_	35	conj	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	42	punct	_	_
+39	besunders	besunders	ADV	_	_	42	advmod	_	_
+40	in	in	ADP	_	AdpType=Prep	42	case	_	_
+41	vöärneame	vöärneam	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
+42	familien	familie	NOUN	_	Case=Acc,Dat|Number=Sing	35	obl	_	_
+43	oder	oder	CCONJ	_	_	45	cc	_	_
+44	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	45	nsubj	_	_
+45	et	et	PRON	_	Case=Nom|Number=Sing|PronType=Prs	42	conj	_	_
+46	weasen	weasen	AUX	_	VerbForm=Inf	45	cop	_	_
+47	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	45	aux	_	SpaceAfter=No
+48	,	,	PUNCT	_	_	42	punct	_	_
+49	dårdöärch	dårdöärch	ADV	_	_	55	advmod	_	_
+50	dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	_
+51	kristendoom	kristendoom	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
+52	meyr	veal	ADV	_	_	55	advmod	_	_
+53	un	un	CCONJ	_	_	54	cc	_	_
+54	minder	min	ADV	_	_	52	conj	_	_
+55	vordrängd	vordrängen	VERB	_	Aspect=Perf|VerbForm=Part	35	advcl	_	_
+56	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	55	aux	_	SpaceAfter=No
+57	,	,	PUNCT	_	_	62	punct	_	_
+58	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	62	nsubj	_	_
+59	nich	nich	PART	_	PartType=Neg	62	advmod	_	_
+60	wol	wol	ADV	_	_	62	advmod	_	_
+61	to	to	PART	_	PartType=Inf	62	mark	_	_
+62	möten	möten	VERB	_	VerbForm=Inf	55	advcl	_	_
+63	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	62	cop	_	SpaceAfter=No
+64	.	.	PUNCT	_	_	1	punct	_	_
+
