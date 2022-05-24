@@ -2819,7 +2819,7 @@
 
 # sent_id = LSDC_083_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Süh! een is dat van de vehlen nadeeln, de daruut entspreeken mut, wen man syt twintig dörtig jaar allerley kraamstücke, wovan man fröher nicks wus, by de leewe jugend inschmuggelt un inföört, besonders in vörnehme familien oder de et wehsn wilt, dadorch dat christendoom meer un minder verdrängt ward, wat nich wol to möötn is.
-# text = Sü! eyn is dat van de vealen nådeylen, dee dåruut entspreaken mut, wän man syd twintig dörtig jår allerley kråmstükke, wårvan man vröer niks wus, by de leve jugend insmuggelt un invöört, besunders in vöärneame familien oder dee et weasen willet, dårdöärch dat kristendoom meyr un minder vordrängd wardt, wat nich wol to möten is.
+# text = Sü! eyn is dat van de vealen nådeylen, dee dåruut entspreaken mut, wän man syd twintig dörtig jår allerley kråmstükke, wårvan man vröer niks wus, by de leve jugend insmuggelt un invöört, besunders in vöärneame familien oader dee et weasen willet, dårdöärch dat kristendoom meyr un minder vordrängd wardt, wat nich wol to möten is.
 1	Sü	seen	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 2	!	!	PUNCT	_	_	1	punct	_	_
 3	eyn	eyn	NUM	_	_	1	parataxis	_	_
@@ -2862,7 +2862,7 @@
 40	in	in	ADP	_	AdpType=Prep	42	case	_	_
 41	vöärneame	vöärneam	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
 42	familien	familie	NOUN	_	Case=Acc,Dat|Number=Sing	35	obl	_	_
-43	oder	oder	CCONJ	_	_	45	cc	_	_
+43	oader	oader	CCONJ	_	_	45	cc	_	_
 44	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	45	nsubj	_	_
 45	et	et	PRON	_	Case=Nom|Number=Sing|PronType=Prs	42	conj	_	_
 46	weasen	weasen	AUX	_	VerbForm=Inf	45	cop	_	_
