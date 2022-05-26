@@ -2995,7 +2995,7 @@
 26	koupen	koupen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 27	;	;	PUNCT	_	_	30	punct	_	_
 28	vellicht	vellicht	ADV	_	_	30	orphan	_	_
-29	den	den	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
+29	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	preester	preester	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	26	conj	_	_
 31	vyn	vyn	ADJ	_	_	30	orphan	_	_
 32	mid	mid	ADV	_	_	30	orphan	_	SpaceAfter=No
