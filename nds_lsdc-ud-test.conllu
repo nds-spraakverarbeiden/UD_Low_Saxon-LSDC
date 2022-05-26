@@ -2950,3 +2950,17 @@
 57	mag	möägen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	56	aux	_	SpaceAfter=No
 58	.	_	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_085_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = So segt de Apostel Paulus Röm. 10, 14:
+# text = Sou segt de apostel Paulus Röm. 10, 14:
+1	Sou	sou	ADV	_	_	2	advmod	_	_
+2	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	apostel	apostel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	Paulus	Paulus	PROPN	_	Gender=Masc|Number=Sing	4	flat	_	_
+6	Röm.	Röm.	PROPN	_	_	2	parataxis	_	_
+7	10	10	NUM	_	_	6	flat	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	14	14	NUM	_	_	7	flat	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	2	punct	_	_
+
