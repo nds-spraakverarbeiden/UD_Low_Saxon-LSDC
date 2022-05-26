@@ -2906,7 +2906,7 @@
 15	as	as	ADV	_	_	18	advmod	_	_
 16	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	18	nsubj	_	_
 17	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	18	obj	_	_
-18	nömen	nömen	VERB	_	VerbForm=Inf	12	conj	_	_
+18	nömen	nömen	VERB	_	VerbForm=Inf	12	advcl	_	_
 19	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	18	punct	_	_
 21	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	22	det	_	_
