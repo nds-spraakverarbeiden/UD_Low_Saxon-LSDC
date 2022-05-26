@@ -2897,7 +2897,7 @@
 6	m	m	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	deyl	deyl	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
 8	volgt	volgen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
-9	dåruut	dåruut	ADV	_	Case=Nom|Number=Sing	8	advmod	_	_
+9	dåruut	dåruut	ADV	_	_	8	advmod	_	_
 10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	det	_	_
 11	groute	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
 12	ungelouve	ungelouve	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
