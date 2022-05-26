@@ -2925,7 +2925,7 @@
 33	leve	leve	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	22	conj	_	_
 34-36	to'm	_	_	_	_	_	_	_	_
 34	to	to	ADP	_	AdpType=Prep	37	case	_	_
-35	'	'	_	_	_	36	punct	_	_
+35	'	'	PUNCT	_	_	36	punct	_	_
 36	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	gelouven	gelouve	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	56	punct	_	_
