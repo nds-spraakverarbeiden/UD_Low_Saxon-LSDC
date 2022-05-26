@@ -2989,7 +2989,7 @@
 20	tein	tein	NUM	_	_	21	nummod	_	_
 21	daler	daler	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	26	obl	_	_
 22	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	24	det	_	_
-23	ganses	gans	NOUN	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
+23	ganses	gans	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
 24	karspeal	kerspeal	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	26	obj	_	_
 25	leddig	leddig	ADJ	_	_	26	xcomp	_	_
 26	koupen	koupen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -3014,5 +3014,4 @@
 45	snuupdook	snuupdook	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	46	obl	_	_
 46	beknütted	beknütten	VERB	_	Aspect=Perf|VerbForm=Part	41	advcl	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	26	punct	_	_
-
 
