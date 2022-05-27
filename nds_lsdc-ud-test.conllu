@@ -3162,6 +3162,6 @@
 4	vernuut	vernuut	ADV	_	_	6	advmod	_	_
 5	leven	leev	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
 6	vründen	vründ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	conj	_	_
-7	toedacht	todenken	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	SpaceAfter=No
+7	toedacht	todenken	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
