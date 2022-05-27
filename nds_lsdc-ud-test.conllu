@@ -3015,3 +3015,48 @@
 46	beknütted	beknütten	VERB	_	Aspect=Perf|VerbForm=Part	41	advcl	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	26	punct	_	_
 
+# sent_id = LSDC_087_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Man ward seggn, ick äwerdryf – laat se! – de nich van buutn de welt ansücht sondern van binn un mit de minschen sprickt, wen se ehr alldaaschtüüg anhebt, de weet bescheed un ward mi volboordn.
+# text = Man wardt seggen, ik öäverdryve – laat se! - dee nich van buten de weld ansügt sunderen van binnen un mid de minsken sprikt, wän see ear aldaagsk tüüg anhebbet, dee weyt beskeyd un wardt my vulboorden.
+1	Man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	_
+2	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
+3	seggen	seggen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	öäverdryve	öäverdryven	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	parataxis	_	_
+7	–	–	PUNCT	_	_	8	punct	_	_
+8	låt	låten	VERB	_	Mood=Imp|Number=Sing	3	parataxis	_	_
+9	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+10	!	!	PUNCT	_	_	8	punct	_	_
+11	–	–	PUNCT	_	_	8	punct	_	_
+12	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Plur|PronType=Dem	18	nsubj	_	_
+13	nich	nich	PART	_	PartType=Neg	18	advmod	_	_
+14	van	van	ADP	_	AdpType=Prep	15	case	_	_
+15	buten	buten	ADV	_	_	18	obl	_	_
+16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	weld	wearld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
+18	ansügt	anseen	VERB	_	Mood=Ing|Number=Sing|Person=3|Tense=Pres	34	acl	_	_
+19	sunderen	sunderen	CCONJ	_	_	21	cc	_	_
+20	van	van	ADP	_	AdpType=Prep	21	case	_	_
+21	binnen	binnen	ADV	_	_	18	obl	_	_
+22	un	un	CCONJ	_	_	26	cc	_	_
+23	mid	mid	ADP	_	AdpType=Prep	25	case	_	_
+24	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	minsken	minske	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	26	obj	_	_
+26	sprikt	spreaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	conj	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	32	punct	_	_
+28	wän	wän	SCONJ	_	_	32	mark	_	_
+29	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
+30	ear	ear	DET	_	Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	31	det	_	_
+31	aldaagsktüüg	aldaagsktüüg	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	32	obj	_	_
+32	anhebbet	anhebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	26	advcl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	35	punct	_	_
+34	dee	dee	DET	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	35	det	_	_
+35	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	parataxis	_	_
+36	beskeyd	beskeyd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	obj	_	_
+37	un	un	CCONJ	_	_	40	cc	_	_
+38	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	aux	_	_
+39	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	40	obj	_	_
+40	vulboorden	vulboorden	VERB	_	VerbForm=Inf	35	conj	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	3	punct	_	_
+
