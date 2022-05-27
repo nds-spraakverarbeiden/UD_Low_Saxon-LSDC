@@ -3165,3 +3165,12 @@
 7	toedacht	todenken	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_093_1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
+# text_orig = Leiwe lantlüe un lantslüe!
+# text = Leve landlüde un landslüde!
+1	Leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	amod	_	_
+2	landlüde	landlüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	_
+3	un	un	CCONJ	_	_	4	cc	_	_
+4	landslüde	landslüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	conj	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	2	punct	_	_
+
