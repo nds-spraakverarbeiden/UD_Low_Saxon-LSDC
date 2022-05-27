@@ -3112,7 +3112,7 @@
 
 # sent_id = LSDC_090_1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # text_orig = Wer de klokke lüen hört, mott ok wetten, wu se hänget, un wenn se noch sau hoch hänget.
-# text = Wer de klokke lüden höyrt, mot ouk wetten, wo se hängt, un wän see noch sou houg hängt.
+# text = Wer de klokke lüden höyrt, mot ouk wetten, wo see hängt, un wän see noch sou houg hängt.
 1	Wer	wer	PRON	_	Case=Nom|Number=Sing|PronType=Int	5	nsubj	_	_
 2	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	klokke	klokke	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
