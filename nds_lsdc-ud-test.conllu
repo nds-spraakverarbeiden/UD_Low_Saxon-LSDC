@@ -3174,3 +3174,56 @@
 4	landslüde	landslüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	conj	_	SpaceAfter=No
 5	!	!	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_094_1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
+# text_orig = Et jifft nist op er welt, wat sau fin un sau künstlig tesammesett un sau wise inericht is, ar de minschlige körper; et jifft awer ok nist, wat sau ofte durch dummheit un owermuth forr immer verhudelt un verprudelt wart, ar grade dei.
+# text = Et givt nist up der weld, wat so vyn un so künstlik tesammensetted un sou wyse inerichted is, ar de minsklike körper; et givt aver ouk nist, wat sou ofte durch dumheid un oavermood voar immer vorhudeld un vorprudeld wardt, ar gerade dee.
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	givt	geaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	nist	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	2	obj	_	_
+4	up	up	ADP	_	AdpType=Prep	6	case	_	_
+5	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	weld	wearld	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	14	nsubj	_	_
+9	sou	sou	ADV	_	_	10	advmod	_	_
+10	vyn	vyn	ADJ	_	Degree=Pos	14	advmod	_	_
+11	un	un	CCONJ	_	_	13	cc	_	_
+12	sou	sou	ADV	_	_	13	advmod	_	_
+13	künstlik	künstlik	ADJ	_	Degree=Pos	10	conj	_	_
+14	tesammensetted	tosamensetten	VERB	_	Aspect=Perf|VerbForm=Part	3	acl	_	_
+15	un	un	CCONJ	_	_	18	cc	_	_
+16	sou	sou	ADV	_	_	17	advmod	_	_
+17	wyse	wyse	ADJ	_	Degree=Pos	18	advmod	_	_
+18	inerichted	inrichten	VERB	_	Aspect=Perf|VerbForm=Part	14	conj	_	_
+19	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	ar	as	CCONJ	_	_	24	case	_	_
+22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+23	minsklike	minsklik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	körper	körper	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+25	;	;	PUNCT	_	_	24	punct	_	_
+26	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	expl	_	_
+27	givt	geaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	parataxis	_	_
+28	aver	aver	ADV	_	_	27	advmod	_	_
+29	ouk	ouk	ADV	_	_	27	advmod	_	_
+30	nist	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	27	obj	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	41	punct	_	_
+32	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	41	nsubj	_	_
+33	sou	sou	ADV	_	_	34	advmod	_	_
+34	ofte	ofte	ADV	_	_	41	advmod	_	_
+35	durch	döär	ADP	_	AdpType=Prep	36	case	_	_
+36	dumheid	dumheid	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	41	obl	_	_
+37	un	un	CCONJ	_	_	38	cc	_	_
+38	oavermood	öävermood	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	36	conj	_	_
+39	voar	vöär	ADP	_	AdpType=Prep	40	case	_	_
+40	immer	immer	ADV	_	_	41	obl	_	_
+41	vorhudeld	vorhudelen	VERB	_	Aspect=Perf|VerbForm=Part	30	acl	_	_
+42	un	un	CCONJ	_	_	43	cc	_	_
+43	vorprudeld	vorprudelen	VERB	_	Aspect=Perf|VerbForm=Part	41	conj	_	_
+44	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	aux	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	41	punct	_	_
+46	ar	as	CCONJ	_	_	48	case	_	_
+47	gerade	gerade	ADV	_	_	48	advmod	_	_
+48	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	41	obl	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	2	punct	_	_
+
