@@ -3050,7 +3050,7 @@
 30	ear	ear	DET	_	Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	aldaagsktüüg	aldaagsktüüg	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	32	obj	_	_
 32	anhebbet	anhebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	26	advcl	_	SpaceAfter=No
-33	,	,	PUNCT	_	_	35	punct	_	_
+33	,	,	PUNCT	_	_	32	punct	_	_
 34	dee	dee	DET	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	35	det	_	_
 35	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	parataxis	_	_
 36	beskeyd	beskeyd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	obj	_	_
