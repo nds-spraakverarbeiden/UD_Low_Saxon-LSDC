@@ -3146,7 +3146,7 @@
 5	Friedrich	Friedrich	PROPN	_	Gender=Masc|Number=Sing	3	obl	_	_
 6	Otto	Otto	PROPN	_	Number=Sing	5	flat	_	_
 7	un	un	CCONJ	_	_	9	cc	_	_
-8	te	te	PART	_	PartType=Inf	9	mark	_	_
+8	te	to	PART	_	PartType=Inf	9	mark	_	_
 9	hebben	hebben	VERB	_	VerbForm=Inf	3	conj	_	_
 10	by	by	ADP	_	AdpType=Prep	11	case	_	_
 11	G.	G.	PROPN	_	Number=Sing	9	obl	_	_
