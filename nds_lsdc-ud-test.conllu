@@ -3176,7 +3176,7 @@
 
 # sent_id = LSDC_094_1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # text_orig = Et jifft nist op er welt, wat sau fin un sau künstlig tesammesett un sau wise inericht is, ar de minschlige körper; et jifft awer ok nist, wat sau ofte durch dummheit un owermuth forr immer verhudelt un verprudelt wart, ar grade dei.
-# text = Et givt nist up der weld, wat so vyn un so künstlik tesammensetted un sou wyse inerichted is, ar de minsklike körper; et givt aver ouk nist, wat sou ofte durch dumheid un oavermood voar immer vorhudeld un vorprudeld wardt, ar gerade dee.
+# text = Et givt nist up der weld, wat sou vyn un so künstlik tesammensetted un sou wyse inerichted is, ar de minsklike körper; et givt aver ouk nist, wat sou ofte durch dumheid un oavermood voar immer vorhudeld un vorprudeld wardt, ar gerade dee.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	givt	geaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	nist	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	2	obj	_	_
