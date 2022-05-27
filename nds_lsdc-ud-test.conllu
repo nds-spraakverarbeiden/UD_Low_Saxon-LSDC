@@ -3035,7 +3035,7 @@
 15	buten	buten	ADV	_	_	18	obl	_	_
 16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	weld	wearld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
-18	ansügt	anseen	VERB	_	Mood=Ing|Number=Sing|Person=3|Tense=Pres	34	acl	_	_
+18	ansügt	anseen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	acl	_	_
 19	sunderen	sunderen	CCONJ	_	_	21	cc	_	_
 20	van	van	ADP	_	AdpType=Prep	21	case	_	_
 21	binnen	binnen	ADV	_	_	18	obl	_	_
