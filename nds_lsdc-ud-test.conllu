@@ -3060,3 +3060,39 @@
 40	vulboorden	vulboorden	VERB	_	VerbForm=Inf	35	conj	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_088_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
+# text_orig = Wen et nu aber an freud feilt to dat freudenfesd, so muss wi de saak van en anner syt anseen, dat nämlich de freud schall maakt un hervörroopm wardn.
+# text = Wän et nu aver an vroide feylt to dat vroidenvest, sou mus wy de sake van en ander syde anseen, dat näämlik de vroide skal maked un hervöärropen warden.
+1	Wän	wän	SCONJ	_	_	7	mark	_	_
+2	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+3	nu	nu	ADV	_	_	7	advmod	_	_
+4	aver	aver	ADV	_	_	7	advmod	_	_
+5	an	an	ADP	_	AdpType=Prep	6	case	_	_
+6	vroide	vroide	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+7	feylt	feylen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	advcl	_	_
+8	to	to	ADP	_	AdpType=Prep	10	case	_	_
+9	dat	dat	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	vroidenvest	vroidenvest	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	6	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	7	punct	_	_
+12	sou	sou	ADV	_	_	21	advmod	_	_
+13	mus	möten	AUX	_	Mood=Ind,Sub|Number=Plur|Person=1|Tense=Past	21	aux	_	_
+14	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
+15	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	sake	sake	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+17	van	van	ADP	_	AdpType=Prep	20	case	_	_
+18	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+19	ander	ander	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	_
+20	syde	syde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	21	obl	_	_
+21	anseen	anseen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	28	punct	_	_
+23	dat	dat	CCONJ	_	_	28	cc	_	_
+24	näämlik	näämlik	ADV	_	_	28	advmod	_	_
+25	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
+26	vroide	vroide	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
+27	skal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	28	aux	_	_
+28	maked	maken	VERB	_	Aspect=Perf|VerbForm=Part	21	advcl	_	_
+29	un	un	CCONJ	_	_	30	cc	_	_
+30	hervöärropen	hervöärropen	VERB	_	Aspect=Perf|VerbForm=Part	28	conj	_	_
+31	warden	werden	AUX	_	VerbForm=Inf	28	aux	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	21	punct	_	_
+
