@@ -3017,7 +3017,7 @@
 
 # sent_id = LSDC_087_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Man ward seggn, ick äwerdryf – laat se! – de nich van buutn de welt ansücht sondern van binn un mit de minschen sprickt, wen se ehr alldaaschtüüg anhebt, de weet bescheed un ward mi volboordn.
-# text = Man wardt seggen, ik öäverdryve – låt see! – dee nich van buten de weld ansügt sunderen van binnen un mid de minsken sprikt, wän see ear aldaagsk tüüg anhebbet, dee weyt beskeyd un wardt my vulboorden.
+# text = Man wardt seggen, ik öäverdryve – låt see! – dee nich van buten de weld ansügt sunderen van binnen un mid de minsken sprikt, wän see ear aldaagsktüüg anhebbet, dee weyt beskeyd un wardt my vulboorden.
 1	Man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	_
 2	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux	_	_
 3	seggen	seggen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
