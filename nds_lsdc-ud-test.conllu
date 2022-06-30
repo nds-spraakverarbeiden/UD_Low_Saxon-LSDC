@@ -2639,24 +2639,24 @@
 # text = Den bloudtügen vöär unsen gelouven, Henrick van Zütphen, syn sake, arbeid, lyden un doud in Dithmarschen.
 1	Den	de	DET	_	_	2	det	_	lemma[gml]=dê¹
 2	bloudtügen	bloudtüge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	nmod:poss	_	_
-3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	_
-4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
-5	gelouven	gelouven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
+3	vöär	vöär	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=vȫr³
+4	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	lemma[gml]=unse¹
+5	gelouven	gelouve	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod	_	lemma[gml]=gelôve|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	Henrick	Henrick	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 8	van	van	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=van¹
 9	Zütphen	Zütphen	PROPN	_	Case=Acc,Dat|Number=Sing	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
-11	syn	syn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	12	det	_	_
-12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+11	syn	syn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Poss=Yes|PronType=Prs	12	det	_	lemma[gml]=sîn⁴
+12	sake	sake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma[gml]=sāke|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
-14	arbeid	arbeid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	SpaceAfter=No
+14	arbeid	arbeid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	lemma[gml]=arbêⁱt|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	lyden	lyden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
+16	lyden	lyden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	conj	_	lemma[gml]=lîden(t)
 17	un	un	CCONJ	_	_	18	cc	_	lemma[gml]=unde²
-18	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	_
-20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing	12	nmod	_	SpaceAfter=No
+18	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	conj	_	lemma[gml]=dôt²
+19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
+20	Dithmarschen	Dithmarschen	PROPN	_	Number=Sing	12	nmod	_	lemma[gml]=Ditmerschen|SpaceAfter=No
 21	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = LSDC_078_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
