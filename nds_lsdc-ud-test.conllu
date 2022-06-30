@@ -3229,7 +3229,7 @@
 
 # sent_id = LSDC_095_1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # text_orig = Bestünne de schae alleene darinne, dat einder mal vorr smarzen de wänne heruplöppt, oder keim' et immer wirklig taun enne, dat et mit einen male awemaket wörre, sau möcht' et noch angahn; awer sau lichte lett sik de natur nich underkriegen; et mott jefährlig veel escheihn sin, eier se sik taun doe entslütt vorr er tit; un de smarzen sint bi er krankheit allemal et wennigste, ik möchte seggen grade et beste; woll dene, dei se hat!
-# text = Bestünde de skade alleyne dårinne, dat eynder mål voar smartsen de wände heruplöpt, oder kaeme et immer wirklik to'n ende, dat et mid eynen måle afemaked wörde, sou möchte et noch angån; aver sou lichte let sik de natuur nich underkrygen; et mot geväärlik veal eskeen syn, eyr see sik to'n doude entslüt voar ear tyd; un de smartsen sint by der krankheid allemål et wennigste, ik möchte seggen gerade et beste; wol deane, dee see hat!
+# text = Bestünde de skade alleyne dårinne, dat eynder mål voar smartsen de wände heruplöpt, oder kaeme et immer wirklik to'n ende, dat et mid eynen måle afemaked wörde, sou möchte et noch angån; aver sou lichte let sik de natuur nich underkrygen; et mot geväärlik veal eskeen syn, eyr see sik to'n doude entslüt voar der tyd; un de smartsen sint by der krankheid allemål et wennigste, ik möchte seggen gerade et beste; wol deane, dee see hat!
 1	Bestünde	bestån	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	38	advcl	_	_
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
 3	skade	skade	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
