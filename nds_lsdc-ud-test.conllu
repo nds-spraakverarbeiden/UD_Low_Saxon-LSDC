@@ -2694,7 +2694,7 @@
 4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma[gml]=dê¹
 5	akademiske	akademisk	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
 6	bookhandeling	bookhandeling	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	_
-7	vorlegd	vorleggen	VERB	_	Aspect=Perf|VerbForm=Part	1	parataxis	_	lemma[gml]=vorleggen²SpaceAfter=No
+7	vorlegd	vorleggen	VERB	_	Aspect=Perf|VerbForm=Part	1	parataxis	_	lemma[gml]=vorleggen²|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = LSDC_080_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
