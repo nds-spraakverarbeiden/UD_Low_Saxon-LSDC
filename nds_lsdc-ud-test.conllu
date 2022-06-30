@@ -3317,7 +3317,7 @@
 83	gerade	gerade	ADV	_	_	85	advmod	_	_
 84	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	85	det	_	lemma[gml]=et²
 85	beste	good	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	78	conj	_	SpaceAfter=No
-86	;	;	PUNCT	_	_	92	punct	_	_
+86	;	;	PUNCT	_	_	78	punct	_	_
 87	wol	wol	ADJ	_	_	78	parataxis	_	_
 88	deane	dee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	87	obj	_	lemma[gml]=dê¹|SpaceAfter=No
 89	,	,	PUNCT	_	_	92	punct	_	_
