@@ -1,0 +1,24 @@
+1888_Doerr_Goederschlaechter_p2_11
+	Julius Dörr (1888). De Göderschlächter. Dörpgeschicht ut de Uckermark. p.2, sentence 11
+1884_Hill_Eekbom_Krienke_p111_4
+	Rudolf Hill (1884). Ut Großvaders Tid. De Eekbom 1884 (16-24), cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.111, sentence 4
+1901_Post_Falks_Krienke_p122_2
+	Karl Post (1901). Woans Fru Bertha Falks üm ehren Dokterum käm. Jahrbuch des Allgemeinen Plattdeutschen Verbandes, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.122, sentence 2
+1930_Sydow_Koester_Krienke_p208_10
+	Albert Sydow (between 1920 and 1940). En Köster, as't hüt nich mehr giwt. Prenzlauer Heimatkalender, Prenzlau, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.208, sentence 10
+
+
+
+questions/remarks:
+- annotation of "as"+nominal: annotated as ADP/case here, but note that the "case" label is more than questionable as this is more like a conjunction in not governing a particular case (like "wie" in German)
+- possessive pronouns annotated as PRON, not DET, but with det
+- anotation of "to"(+inf) as PART/mark, attached with xcomp
+- annotation of relative pronouns as PRON, not SCONJ
+- annotation of predeterminers (al anner) as DET/det
+- annotation of anner (other) as ADJ (not CARD)
+- obj/iobj: by analogy: obj if standard German accusative, iobj if dative
+- obj:pobj: prepositonal object
+- no annotation of gender in plural
+
+annotation to be confirmed:
+- "so as de Kluck ehr Küken" this involves elision, here annotated Küken as (clausal) head, using `nsubj`.

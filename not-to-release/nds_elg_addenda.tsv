@@ -1,0 +1,172 @@
+# sent_id = 1888_Doerr_Goederschlaechter_p2_11																																	
+# text_orig = Dat Röberpack hett hier Anno Söss to gottlos hus't, wat ik as Jung betügen kann, denn mi hett dunmals en Schafför en Ohrfieg staken, as se mi min Lewdag nich wedder an den Kopp flagen is.																																	
+# remark = "to gottlos" is likely a structural borrowing from Standard German ("zu gottlos"). This is characteristic for 19th c. written Low German.																																	
+# variety = East Low German, North Markian (Nordmärkisch)																																	
+1	Dat	DET	_	2	det	_	dat		 					Def			Nom	Neut	Sing														
+2	Röberpack	NOUN	_	9	nsubj	_	rover+packêl										Nom	Neut	Sing														
+3	hett	AUX	_	9	aux	_	hebben													Fin	Aux	3	Ind	Pres									
+4	hier	ADV	_	9	adv	_																											
+5	Anno	X	_	9	obl:tmp	_				la		Yes																					
+6	Söss	NUM	_	5	flat	_	sos																										
+7	to	PART	_	8	advmod	_	to																										
+8	gottlos	ADV	_	9	advmod	_	_			de																							
+9	hus't	VERB	_	0	root	_	husen				No	No								Part					Perf								
+10	,	PUNCT	_	9	punct	_																											
+11	wat	PRON	_	15	obj	_	wat(te)³																										
+12	ik	PRON	_	15	nsubj	_											Nom		Sing			1							Prs				
+13	as	ADP	_	14	case	_																											
+14	Jung	NOUN	_	15	obl	_	junge										Nom	Masc	Sing														
+15	betügen	VERB	_	9	acl	_	tugen													Inf													
+16	kann	AUX	_	15	aux	_	kunnen				No								Sing	Fin	Aux	1	Ind	Pres									
+17	,	PUNCT	_	15	punct	_																											
+18	denn	CCONJ	_	26	mark	_																											
+19	mi	PRON	_	26	iobj	_											Acc		Sing			1							Prs				
+20	hett	AUX	_	26	aux	_	hebben													Fin	Aux	3	Ind	Pres									
+21	dunmals	ADV	_	26	advmod:tmp	_																											
+22	en	DET	_	23	det	_								Ind			Nom	Masc	Sing														
+23	Schafför	NOUN	_	26	nsubj	_	_			fr		Yes					Nom	Masc	Sing														
+24	en	DET	_	25	det	_								Ind			Acc	Fem	Sing														
+25	Ohrfieg	NOUN	_	26	obj	_	ore+vige										Acc	Fem	Sing														
+26	staken	VERB	_	15	advcl	_	steken				No									Part					Perf								
+27	,	PUNCT	_	15	punct	_																											
+28	as	SCONJ	_	38	mark	_																											
+29	se	PRON	_	38	nsubj	_											Nom	Fem	Sing			3											
+30	mi	PRON	_	38	obj	_		Acc									Dat		Sing			1							Prs				
+31	min	DET	_	32	det	_											Acc	Masc	Sing			1						Yes	Poss			Sing	1
+32	Lewdag	NOUN	_	38	obl:tmp	_	leve-dage										Acc	Masc	Sing														
+33	nich	ADV	_	34	advmod	_																				Neg							
+34	wedder	ADV	_	38	advmod	_																											
+35	an	ADP	_	37	case	_							Prep																				
+36	den	DET	_	37	det	_								Def			Acc	Masc	Sing														
+37	Kopp	NOUN	_	38	obl	_	kop										Acc	Masc	Sing														
+38	flagen	VERB	_	25	appos	_	vlêgen													Part					Perf								
+39	is	AUX	_	38	aux	_					No									Fin	Aux	3	Ind	Pres									
+40	.	PUNCT	_	9	punct	_																											
+																																	
+# sent_id = 1884_Hill_Eekbom_Krienke_p111_4																																	
+# text_orig = Fritz un Gottfried weern twungen, still to hollen un müßten Tokiker sin von de Ding', de da vör sik gahn sullen.																																	
+# remark = Influenced by Fritz Reuter, Hill writes /a/ instead of conventional å (oa)																																	
+# variety = East Low German, Central Pomeranian (Mittelpommersch)																																	
+1	Fritz	PROPN	_	5	nsubj	_											Nom	Masc	Sing														
+2	un	CCONJ	_	1	cc	_	unde²																										
+3	Gottfried	PROPN	_	1	conj	_											Nom	Masc	Sing														
+4	weern	AUX	_	5	aux	_	sin¹													Fin	Aux	3	Ind	Past									
+5	twungen	VERB	_	0	root	_	dwingen				No									Part					Perf								
+6	,	PUNCT	_	5	punct	_																											
+7	still	ADV	_	9	advmod	_	still																										
+8	to	PART	_	9	mark	_	to																										
+9	hollen	VERB	_	5	xcomp	_	holden													Inf													
+10	un	CCONJ	_	5	cc	_	unde²																										
+11	müßten	AUX	_	12	aux	_														Fin	Aux	3	Ind	Past									
+12	Tokiker	NOUN	_	5	conj	_	to+kiken+-er										Nom		Plur														
+13	sin	AUX	_	12	cop	_	sin¹													Inf	Aux												
+14	von	ADP	_	16	case	_							Prep																				
+15	de	DET	_	16	det	_								Def																			
+16	Ding'	NOUN	_	12	obl	_	dinc	Acc			No						Dat		Plur														
+17	,	PUNCT	_	16	punct	_																											
+18	de	PRON	_	22	nsubj	_											Nom		Plur			3							Rel				
+19	da	ADV	_	22	advmod	_																											
+20	vör	PART	_	21	case	_							Prep																				
+21	sik	PRON	_	22	obj:pobj	_	sik¹										Acc					3							Prs	Reflex			
+22	gahn	VERB	_	16	acl:relcl	_	gân													Inf													
+23	sullen	AUX	_	22	aux	_					No									Fin	Aux		Ind	Past									
+24	.	PUNCT	_	5	punct	_																											
+																																	
+# sent_id = 1901_Post_Falks_Krienke_p122_2																																	
+# text_orig = Dag's un nachts was se immer prat, ehr Schützling', so as de Kluck ehr Küken, vör Undœg' to bewohren, un dat müsst ehr de Neid laten, dat se met ehr Husmiddel gegen Kinnerkrankheiten al anner Frugens in'n Urt den Dum upt Og' drücken ded'.																																	
+# remark = “dag’s un nachts” could be influenced by standard German, a modern equivalent would be “Dach un Nacht” (no case)																																	
+# variety = East Low German, North Markian (Nordmärkisch)																																	
+1	Dag's	ADV	_	7	advmod	_	dach										Gen	Masc	Sing														
+2	un	CCONJ	_	1	cc	_	unde²																										
+3	nachts	ADV	_	1	conj	_	nacht¹										Gen	Fem	Sing														
+4	was	AUX	_	7	cop	_	sin¹												Sing	Fin	Aux		Ind	Past									
+5	se	PRON	_	7	nsubj	_											Nom	Fem	Sing			3							Prs				
+6	immer	ADV	_	7	advmod	_																											
+7	prat	ADJ	_	0	root	_				la	No	Yes																					
+8	,	PUNCT	_	7	punct	_																											
+9	ehr	PRON	_	10	det	_		Acc									Dat		Plur									Yes	Poss		Fem	Sing	3
+10	Schützling'	NOUN	_	22	obj	_		Acc		de	No	Yes					Dat		Plur														
+11	,	PUNCT	_	22	punct	_																											
+12	so	ADV	_	17	mark	_																											
+13	as	ADP	_	15	case	_							Prep																				
+14	de	DET	_	15	det	_								Def			Nom	Fem	Sing														
+15	Kluck	NOUN	_	17	nsubj	_	klucke										Nom	Fem	Sing														
+16	ehr	PRON	_	17	det	_		Acc									Dat		Plur										Poss		Fem	Sing	3
+17	Küken	NOUN	_	22	advcl	_	kuken	Acc			No						Dat		Plur														
+18	,	PUNCT	_	22	punct	_																											
+19	vör	ADP	_	20	case	_							Prep																				
+20	Undœg'	NOUN	_	22	obl	_		Acc									Dat		Plur														
+21	to	PART	_	22	mark	_																											
+22	bewohren	VERB	_	7	xcomp	_	bewaren				No									Inf													
+23	,	PUNCT	_	7	punct	_																											
+24	un	CCONJ	_	7	cc	_																											
+25	dat	PRON	_	30	obj	_								Def			Acc	Neut	Sing			3							Dem				
+26	müsst	AUX	_	30	aux	_													Sing	Fin	Aux		Ind	Pres									
+27	ehr	PRON	_	30	iobj	_		Acc									Dat	Fem	Sing			3							Prs		Fem	Sing	3
+28	de	DET	_	29	det	_								Def			Nom	Masc	Sing														
+29	Neid	NOUN	_	30	nsubj	_				de?		Yes?					Nom	Masc	Sing														
+30	laten	VERB	_	7	conj	_					No									Inf													
+31	,	PUNCT	_	30	punct	_																											
+32	dat	SCONJ	_	50	mark	_																											
+33	se	PRON	_	50	nsubj	_											Nom	Fem	Sing			3							Prs				
+34	met	ADP	_	36	case	_							Prep																				
+35	ehr	PRON	_	36	det	_		Acc									Dat		Plur									Yes	Poss		Fem	Sing	3
+36	Husmiddel	NOUN	_	50	obl	_		Acc									Dat		Plur														
+37	gegen	ADP	_	38	case	_							Prep																				
+38	Kinnerkrankheiten	NOUN	_	36	nmod	_	kint+krankheit										Acc		Plur														
+39	al	DET	_	41	det	_		Acc									Dat		Plur														
+40	anner	ADJ	_	41	amod	_		Acc									Dat		Plur														
+41	Frugens	NOUN	_	50	iobj	_	vrouwe²	Acc									Dat		Plur														
+42	in	ADP	_	44	case	_					No		Prep																				
+43	'n	DET	_	44	det	_		Acc						Def			Dat	Masc	Sing														
+44	Urt	NOUN	_	41	nmod	_	ort	Acc									Dat	Masc	Sing														
+45	den	DET	_	46	det	_								Def			Acc	Masc	Sing														
+46	Dum	NOUN	_	50	obj	_											Acc	Masc	Sing														
+47	up	ADP	_	49	case	_					No		Prep																				
+48	t	DET	_	49	det	_								Def			Acc	Neut	Sing														
+49	Og'	NOUN	_	50	obl	_	ôge										Acc	Neut	Sing														
+50	drücken	VERB	_	30	ccomp	_				de?		Yes?							Sing	Inf													
+51	ded'	AUX	_	50	aux	_					No									Fin	Aux		Ind	Past									
+52	.	PUNCT	_	30	punct	_																											
+																																	
+# sent_id = 1930_Sydow_Koester_Krienke_p208_10																																	
+# text_orig = He was as 'n armen Jungen nah Berlin kamen und hadd sich dörch Singen in 'd Domchor un nohstens an de Oper verdeenen müßt, um so väl to hebben, dat he stodeeren lehren künn. 																																	
+# remark = “um” is possibly a typo for Low German üm, “und” is certainly one for “un”																																	
+# variety = East Low German, Central Pomeranian (Mittelpommersch)																																	
+1	He	PRON	_	9	nsubj	_											Nom	Masc	Sing			3							Prs				
+2	was	AUX	_	9	aux	_	sin¹												Sing	Fin	Aux	3	Ind	Past									
+3	as	ADP	_	6	case	_							Prep																				
+4	'n	DET	_	6	det	_								Ind			Nom	Masc	Sing														
+5	armen	ADJ	_	6	adj	_	arm¹										Nom	Masc	Sing														
+6	Jungen	NOUN	_	9	obl	_	junc										Nom	Masc	Sing														
+7	nah	ADP	_	8	case	_							Prep																				
+8	Berlin	PROPN	_	9	obl	_											Acc	Neut															
+9	kamen	VERB	_	0	root	_														Part					Perf								
+10	und	CCONJ	_	9	cc	_																											
+11	hadd	AUX	_	23	aux	_														Fin	Aux	3	Ind	Past									
+12	sich	PRON	_	23	iobj	_											Acc		Sing			3							Refl	Yes			
+13	dörch	ADP	_	14	case	_																											
+14	Singen	NOUN	_	23	obl	_											Acc	Neut	Sing														
+15	in	ADP	_	17	case	_							Prep																				
+16	'd	DET	_	17	det	_		Acc						Def			Dat	Masc	Sing														
+17	Domchor	NOUN	_	23	obl	_		Acc		de		Yes					Dat	Masc	Sing														
+18	un	CCONJ	_	14	cc	_																											
+19	nohstens	ADV	_	22	advmod	_											Gen																
+20	an	ADP	_	22	case	_							Prep																				
+21	de	DET	_	22	det	_		Acc						Def			Dat	Fem	Sing														
+22	Oper	NOUN	_	23	obl	_		Acc		la		Yes					Dat	Fem	Sing														
+23	verdeenen	VERB	_	9	conj	_														Inf													
+24	müßt	AUX	_	23	aux	_					No									Part	Aux				Perf								
+25	,	PUNCT	_	23	punct	_																											
+26	um	SCONJ	_	30	mark	_																											
+27	so	ADV	_	28	advmod	_																											
+28	väl	ADV	_	30	advmod	_																											
+29	to	PART	_	30	mark	_																											
+30	hebben	AUX	_	23	xcomp	_					No									Inf	Aux												
+31	,	PUNCT	_	30	punct	_																											
+32	dat	SCONJ	_	34	mark	_																											
+33	he	PRON	_	34	nsubj	_											Nom	Masc	Sing	Inf		3							Prs				
+34	stodeeren	VERB	_	30	ccomp	_				fr		Yes								Inf													
+35	lehren	VERB	_	34	flat	_														Fin													
+36	künn	AUX	_	34	aux	_					No								Sing		Aux	3	Subj	Past									
+37	.	PUNCT	_	9	punct	_																											
