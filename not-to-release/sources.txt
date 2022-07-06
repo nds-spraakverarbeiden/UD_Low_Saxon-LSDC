@@ -6,19 +6,29 @@
 	Karl Post (1901). Woans Fru Bertha Falks üm ehren Dokterum käm. Jahrbuch des Allgemeinen Plattdeutschen Verbandes, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.122, sentence 2
 1930_Sydow_Koester_Krienke_p208_10
 	Albert Sydow (between 1920 and 1940). En Köster, as't hüt nich mehr giwt. Prenzlauer Heimatkalender, Prenzlau, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.208, sentence 10
-
-
+1843_Arndt_Maehrchen_p6_2
+	E.M. Arndt (1843), Mährchen und Jugenderinnerungen. Zweiter Theil, G. Reimer, Berlin 1843, p.6, sentence 2
+1854_Firmenich_Pudmin_p87_1
+	Anonymous (1854), De soewen Müüs to Pudmin. In: Johannes Matthias Firmenich (ed.), Germaniens Völkerstimmen: Sammlung der deutschen Mundarten in Dichtungen, Sagen, Märchen, Volksliedern u.s.w, Band 1, Friedberg & Mode, Berlin, p.87, sentence 1
+	
 
 questions/remarks:
 - annotation of "as"+nominal: annotated as ADP/case here, but note that the "case" label is more than questionable as this is more like a conjunction in not governing a particular case (like "wie" in German)
 - possessive pronouns annotated as PRON, not DET, but with det
 - anotation of "to"(+inf) as PART/mark, attached with xcomp
 - annotation of relative pronouns as PRON, not SCONJ
-- annotation of predeterminers (al anner) as DET/det
+- annotation of predeterminers (al anner) as DET/det; however, note that "all" can also be an adverb, to be contextually determined
 - annotation of anner (other) as ADJ (not CARD)
 - obj/iobj: by analogy: obj if standard German accusative, iobj if dative
 - obj:pobj: prepositonal object
 - no annotation of gender in plural
+- if auxiliary verbs act as main (only) verbs, they are tagged as VERB, not AUX
+- "de anner" ("the other", without nominal): annotation follows original orthography, if upper case, then NOUN, if lower case then ADJ
+- cased adverbs: adverbs in -s (oewereens, nachts) are original genitive nouns. This is the only constellation in which genitive survived, annotated as Case=Gen
 
 annotation to be confirmed:
 - "so as de Kluck ehr Küken" this involves elision, here annotated Küken as (clausal) head, using `nsubj`.
+- "...Buursfru, de harr soewen Kinner": annotated as `acl` (but not `acl:relcl`), check globally whether not better to be annotated as `parataxis`. It depends on our assumptions about the grammaticalization of word order in relative clauses. The pattern is normal in Low German and acceptable in standard German, but in German, it would not be understood as a relative clause proper.
+- "Dierns, een ümmer 'n bēten lütter as de anner" annotated as `advcl`, assuming this is a copular clause with elision of copula.
+- "heel se smuck in Kleding": annotated as `nmod` modifier of an adverb. This was of annotation is necessary because *"heel se in Kleding" would be non-sensical/ungrammatical. Possible that this breaks UD validation.
+- "'n bäten" (German "ein bisschen") annotated as DET+ADV. This might fail UD validation, if so, annotate as DET+NOUN, but the form isn't nowadays recognized as nominal.
