@@ -1,23 +1,31 @@
-1888_Doerr_Goederschlaechter_p2_11
-	Julius Dörr (1888). De Göderschlächter. Dörpgeschicht ut de Uckermark. p.2, sentence 11
-1884_Hill_Eekbom_Krienke_p111_4
-	Rudolf Hill (1884). Ut Großvaders Tid. De Eekbom 1884 (16-24), cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.111, sentence 4
-1901_Post_Falks_Krienke_p122_2
-	Karl Post (1901). Woans Fru Bertha Falks üm ehren Dokterum käm. Jahrbuch des Allgemeinen Plattdeutschen Verbandes, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.122, sentence 2
-1930_Sydow_Koester_Krienke_p208_10
-	Albert Sydow (between 1920 and 1940). En Köster, as't hüt nich mehr giwt. Prenzlauer Heimatkalender, Prenzlau, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.208, sentence 10
-1843_Arndt_Maehrchen_p6_2
-	E.M. Arndt (1843), Mährchen und Jugenderinnerungen. Zweiter Theil, G. Reimer, Berlin 1843, p.6, sentence 2
-1854_Firmenich_Pudmin_p87_1
-	Anonymous (1854), De soewen Müüs to Pudmin. In: Johannes Matthias Firmenich (ed.), Germaniens Völkerstimmen: Sammlung der deutschen Mundarten in Dichtungen, Sagen, Märchen, Volksliedern u.s.w, Band 1, Friedberg & Mode, Berlin, p.87, sentence 1
-1868_Englien_Schpizbuowen_p155_3 
-	A. Englien und W. Lahn (Hg., 1868), Der Volksmund in der Mark Brandenburg -- Sagen. Märchen, Spiele, Sprichwörter und Gebräuche. 1. Teil, Berlin, Wilhelm-Schulze-Verlag, p.155, sentence 3
-1854_Firmenich3_Hohenwalde_p118_8
-	Anonymous (1854), Gespräch zwischen zwei Schäfern. (Mundart von Hohenwalde in der Neumark). In: Johannes Matthias Firmenich (ed.), Germaniens Völkerstimmen: Sammlung der deutschen Mundarten in Dichtungen, Sagen, Märchen, Volksliedern u.s.w, Band 3, Friedberg & Mode, Berlin, p.118 sentence 8
-Na Bröderkin, nu sie mi ook willkoam vom Duum bes an 'n Ellboan, un bes an't holle Lief.
+For each variety, I try to find two relatively complex sentences from two independent sources.
+All sources are clarified for copyright, i.e., author died more than 75 years ago.
+
+1. Central Pommeranian (Mittelpommersch), Uckermark
+	1888_Doerr_Goederschlaechter_p2_11
+		Julius Dörr (1888). De Göderschlächter. Dörpgeschicht ut de Uckermark. p.2, sentence 11
+	1884_Hill_Eekbom_Krienke_p111_4
+		Rudolf Hill (1884). Ut Großvaders Tid. De Eekbom 1884 (16-24), cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.111, sentence 4
+
+2. North Markian (Nordmärkisch), Uckermark
+	1901_Post_Falks_Krienke_p122_2
+		Karl Post (1901). Woans Fru Bertha Falks üm ehren Dokterum käm. Jahrbuch des Allgemeinen Plattdeutschen Verbandes, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.122, sentence 2
+	1930_Sydow_Koester_Krienke_p208_10
+		Albert Sydow (between 1920 and 1940). En Köster, as't hüt nich mehr giwt. Prenzlauer Heimatkalender, Prenzlau, cited after Eberhard Krienke (1996), Uns Uckermark. Sprache und mundartliche Literatur einer Region. Schibri-Verlag, Mirow, p.208, sentence 10
+
+3. Western Pomerarian (Vorpommersch), Rügen
+	1843_Arndt_Maehrchen_p6_2
+		E.M. Arndt (1843), Mährchen und Jugenderinnerungen. Zweiter Theil, G. Reimer, Berlin 1843, p.6, sentence 2
+	1854_Firmenich_Pudmin_p87_1
+		Anonymous (1854), De soewen Müüs to Pudmin. In: Johannes Matthias Firmenich (ed.), Germaniens Völkerstimmen: Sammlung der deutschen Mundarten in Dichtungen, Sagen, Märchen, Volksliedern u.s.w, Band 1, Friedberg & Mode, Berlin, p.87, sentence 1
+
+4. Central Markian (Mittelmärkisch), Neumark
+	1868_Englien_Schpizbuowen_p155_3 
+		A. Englien und W. Lahn (Hg., 1868), Der Volksmund in der Mark Brandenburg -- Sagen. Märchen, Spiele, Sprichwörter und Gebräuche. 1. Teil, Berlin, Wilhelm-Schulze-Verlag, p.155, sentence 3
+	1854_Firmenich3_Hohenwalde_p118_8
+		Anonymous (1854), Gespräch zwischen zwei Schäfern. (Mundart von Hohenwalde in der Neumark). In: Johannes Matthias Firmenich (ed.), Germaniens Völkerstimmen: Sammlung der deutschen Mundarten in Dichtungen, Sagen, Märchen, Volksliedern u.s.w, Band 3, Friedberg & Mode, Berlin, p.118 sentence 8
 
 questions/remarks:
-- annotation of "as"+nominal: annotated as ADP/case here, but note that the "case" label is more than questionable as this is more like a conjunction in not governing a particular case (like "wie" in German)
 - possessive pronouns annotated as PRON, not DET, but with det
 - anotation of "to"(+inf) as PART/mark, attached with xcomp
 - annotation of relative pronouns as PRON, not SCONJ
