@@ -1,7 +1,7 @@
 # sent_id = 1888_Doerr_Goederschlaechter_p2_11
 # text_orig = Dat Röberpack hett hier Anno Söss to gottlos hus't, wat ik as Jung betügen kann, denn mi hett dunmals en Schafför en Ohrfieg staken, as se mi min Lewdag nich wedder an den Kopp flagen is.
 # remark = "to gottlos" is likely a structural borrowing from Standard German ("zu gottlos"). This is characteristic for 19th c. written Low German.
-# variety = East Low German, North Markian (Nordmärkisch)
+# variety = East Low German, North Markian (Nordmärkisch), Uckermark
 1	Dat	DET	_	Definite=Def|Case=Nom|Gender=Neut|Number=Sing	2	det	_	lemma[gml]=dat
 2	Röberpack	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	lemma[gml]=rover+packêl
 3	hett	AUX	_	VerbForm=Fin|PartType=Aux|VerbType=3|Person=Ind|Mood=Pres	9	aux	_	lemma[gml]=hebben
@@ -46,7 +46,7 @@
 # sent_id = 1884_Hill_Eekbom_Krienke_p111_4
 # text_orig = Fritz un Gottfried weern twungen, still to hollen un müßten Tokiker sin von de Ding', de da vör sik gahn sullen.
 # remark = Influenced by Fritz Reuter, Hill writes /a/ instead of conventional å (oa)
-# variety = East Low German, Central Pomeranian (Mittelpommersch)
+# variety = East Low German, Central Pomeranian (Mittelpommersch), Uckermark
 1	Fritz	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	un	CCONJ	_	_	1	cc	_	lemma[gml]=unde²
 3	Gottfried	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
@@ -75,7 +75,7 @@
 # sent_id = 1901_Post_Falks_Krienke_p122_2
 # text_orig = Dag's un nachts was se immer prat, ehr Schützling', so as de Kluck ehr Küken, vör Undœg' to bewohren, un dat müsst ehr de Neid laten, dat se met ehr Husmiddel gegen Kinnerkrankheiten al anner Frugens in'n Urt den Dum upt Og' drücken ded'.
 # remark = “dag’s un nachts” could be influenced by standard German, a modern equivalent would be “Dach un Nacht” (no case)
-# variety = East Low German, North Markian (Nordmärkisch)
+# variety = East Low German, North Markian (Nordmärkisch), Uckermark
 1	Dag's	ADV	_	Case=Gen|Gender=Masc|Number=Sing	7	advmod	_	lemma[gml]=dach
 2	un	CCONJ	_	_	1	cc	_	lemma[gml]=unde²
 3	nachts	ADV	_	Case=Gen|Gender=Fem|Number=Sing	1	conj	_	lemma[gml]=nacht¹
@@ -132,7 +132,7 @@
 # sent_id = 1930_Sydow_Koester_Krienke_p208_10
 # text_orig = He was as 'n armen Jungen nah Berlin kamen und hadd sich dörch Singen in 'd Domchor un nohstens an de Oper verdeenen müßt, um so väl to hebben, dat he stodeeren lehren künn.
 # remark = “um” is possibly a typo for Low German üm, “und” is certainly one for “un”
-# variety = East Low German, Central Pomeranian (Mittelpommersch)
+# variety = East Low German, Central Pomeranian (Mittelpommersch), Uckermark
 1	He	PRON	_	Case=Nom|Gender=Masc|Number=Sing|VerbType=3|PronType=Prs	9	nsubj	_	_
 2	was	AUX	_	Number=Sing|VerbForm=Fin|PartType=Aux|VerbType=3|Person=Ind|Mood=Past	9	aux	_	lemma[gml]=sin¹
 3	as	ADP	_	AdpType=Prep	6	case	_	_
@@ -299,3 +299,83 @@
 56	Hüllen	NOUN	_	Case=Acc|Number=Plur	49	conj	_	_
 57	up	PART	_	_	46	flat	_	SpaceAfter=No
 58	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1868_Englien_Schpizbuowen_p155_3
+# text_orig = Ees woar deär Jonge met sine Schoape dicht annen Busch, doa kam in Jäer ruet, deär hadde inne Flinte un inne Vijjeline un wulle met eäm tueschen; heä sulle eäm diä 5 Schoape jeäwen, doaveär sul er diä Flinte un diä Vijjeline hebben.
+# variety = East Low German, Central Markian (Mittelmärkisch), Neumark
+1	Ees	ADV	_	_	11	advmod	_	_
+2	woar	AUX	_	Number=Sing|VerbForm=Fin|VerbType=3|Person=Ind|Mood=Past	11	cop	_	_
+3	deär	DET	_	Definite=Def|Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
+4	Jonge	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+5	met	ADP	_	AdpType=Prep	7	case	_	_
+6	sine	PRON	_	Case=Dat|Number=Plur|Poss=Yes|PronType=Poss|Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	7	det	_	Case[regional]=Acc
+7	Schoape	NOUN	_	Case=Dat|Number=Plur	11	obl	_	Case[regional]=Acc
+8	dicht	ADV	_	_	11	advmod	_	_
+9	an	ADP	_	AdpType=Prep	11	case	_	SpaceAfter=No
+10	nen	DET	_	Definite=Ind|Case=Dat|Gender=Masc|Number=Sing	11	det	_	Case[regional]=Acc
+11	Busch	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	Case[regional]=Acc|SpaceAfter=No
+12	,	PUNCT	_	_	11	punct	_	_
+13	doa	ADV	_	_	14	advmod	_	_
+14	kam	VERB	_	Number=Sing|VerbForm=Fin|VerbType=3|Person=Ind|Mood=Past	11	parataxis	_	_
+15	in	DET	_	Definite=Ind|Case=Nom|Gender=Masc|Number=Sing	16	det	_	_
+16	Jäer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+17	ruet	PART	_	_	14	flat	_	SpaceAfter=No
+18	,	PUNCT	_	_	14	punct	_	_
+19	deär	PRON	_	Case=Nom|Gender=Masc|Number=Sing|VerbType=3|PronType=Dem	20	nsubj	_	_
+20	hadde	VERB	_	Number=Sing|VerbForm=Fin|VerbType=3|Person=Ind|Mood=Past	14	appos	_	_
+21	inne	DET	_	Definite=Ind|Case=Acc|Gender=Fem|Number=Sing	22	det	_	_
+22	Flinte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+23	un	CCONJ	_	_	22	cc	_	_
+24	inne	DET	_	Definite=Ind|Case=Acc|Gender=Fem|Number=Sing	25	det	_	_
+25	Vijjeline	NOUN	_	Foreign=Yes|Case=Acc|Gender=Fem|Number=Sing	22	conj	_	Loan=it
+26	un	CCONJ	_	_	20	cc	_	_
+27	wulle	AUX	_	Number=Sing|VerbForm=Fin|PartType=Aux|VerbType=3|Person=Ind|Mood=Past	30	aux	_	_
+28	met	ADP	_	AdpType=Prep	29	case	_	_
+29	eäm	PRON	_	Case=Dat|Gender=Masc|Number=Sing|VerbType=3|PronType=Prs	30	obl	_	Case[regional]=Acc
+30	tueschen	VERB	_	VerbForm=Inf	20	conj	_	SpaceAfter=No
+31	;	PUNCT	_	_	30	punct	_	_
+32	heä	PRON	_	Case=Nom|Gender=Masc|Number=Sing|VerbType=3|PronType=Prs	39	nsubj	_	_
+33	sulle	AUX	_	Number=Sing|VerbForm=Fin|PartType=Aux|VerbType=3|Person=Sub|Mood=Past	39	aux	_	_
+34	eäm	PRON	_	Case=Dat|Gender=Masc|Number=Sing|VerbType=3|PronType=Prs	39	iobj	_	Case[regional]=Acc
+35	diä	DET	_	Definite=Def|Case=Acc|Number=Plur	37	det	_	_
+36	5	NUM	_	Case=Acc|Number=Plur	37	nummod	_	_
+37	Schoape	NOUN	_	Case=Acc|Number=Plur	39	obj	_	_
+38	jeäwen	VERB	_	VerbForm=Inf	30	parataxis	_	SpaceAfter=No
+39	,	PUNCT	_	_	38	punct	_	_
+40	doaveär	ADV	_	_	48	obl	_	_
+41	sul	AUX	_	Number=Sing|VerbForm=Fin|PartType=Aux|VerbType=3|Person=Sub|Mood=Pres	48	aux	_	_
+42	er	PRON	_	Case=Nom|Gender=Masc|Number=Sing|VerbType=3|PronType=Prs	49	nsubj	_	_
+43	diä	DET	_	Definite=Def|Case=Acc|Gender=Fem|Number=Sing	44	det	_	_
+44	Flinte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	49	obj	_	_
+45	un	CCONJ	_	_	44	cc	_	_
+46	diä	DET	_	Definite=Def|Case=Acc|Gender=Fem|Number=Sing	47	det	_	_
+47	Vijjeline	NOUN	_	Foreign=Yes|Case=Acc|Gender=Fem|Number=Sing	44	conj	_	Loan=it
+48	hebben	VERB	_	VerbForm=Inf	38	appos	_	SpaceAfter=No
+49	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 1854_Firmenich3_Hohenwalde_p118_8
+# text_orig = Na Bröderkin, nu sie mi ook willkoam vom Duum bes an 'n Ellboan, un bes an't holle Lief.
+# variety = East Low German, Central Markian (Mittelmärkisch), Neumark
+1	Na	INTJ	_	_	8	discourse	_	_
+2	Bröderkin	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	vocative	_	SpaceAfter=No
+3	,	PUNCT	_	_	8	punct	_	_
+4	nu	ADV	_	_	8	advmod	_	_
+5	sie	AUX	_	Number=Sing|VerbForm=Fin|PartType=Aux|VerbType=2|Person=Imp|Mood=Pres	8	aux	_	_
+6	mi	PRON	_	Case=Dat|Number=Sing|VerbType=1|PronType=Prs	8	iobj	_	_
+7	ook	ADV	_	_	8	adv	_	_
+8	willkoam	VERB	_	VerbForm=Inf	0	root	_	_
+9	vo	ADP	_	AdpType=Prep	11	case	_	SpaceAfter=No
+10	m	DET	_	Definite=Def|Case=Dat|Gender=Masc|Number=Sing	11	det	_	_
+11	Duum	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
+12	bes	ADP	_	_	15	case	_	_
+13	an	ADP	_	AdpType=Prep	15	case	_	SpaceAfter=No
+14	'n	DET	_	Definite=Def|Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+15	Ellboan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+16	,	PUNCT	_	_	15	punct	_	_
+17	un	CONJ	_	_	15	cc	_	_
+18	bes	ADP	_	_	22	case	_	_
+19	an	ADP	_	AdpType=Prep	22	case	_	SpaceAfter=No
+20	't	DET	_	Definite=Def|Case=Acc|Gender=Neut|Number=Sing	22	det	_	_
+21	holle	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	22	amod	_	_
+22	Lief	NOUN	_	_	15	conj	_	SpaceAfter=No
+23	.	PUNCT	_	_	8	punct	_	_

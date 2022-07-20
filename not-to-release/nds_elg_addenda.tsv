@@ -1,7 +1,7 @@
 # sent_id = 1888_Doerr_Goederschlaechter_p2_11																																	
 # text_orig = Dat Röberpack hett hier Anno Söss to gottlos hus't, wat ik as Jung betügen kann, denn mi hett dunmals en Schafför en Ohrfieg staken, as se mi min Lewdag nich wedder an den Kopp flagen is.																																	
 # remark = "to gottlos" is likely a structural borrowing from Standard German ("zu gottlos"). This is characteristic for 19th c. written Low German.																																	
-# variety = East Low German, North Markian (Nordmärkisch)																																	
+# variety = East Low German, North Markian (Nordmärkisch), Uckermark																																	
 1	Dat	DET	_	2	det	_	dat		 					Def			Nom	Neut	Sing														
 2	Röberpack	NOUN	_	9	nsubj	_	rover+packêl										Nom	Neut	Sing														
 3	hett	AUX	_	9	aux	_	hebben													Fin	Aux	3	Ind	Pres									
@@ -46,7 +46,7 @@
 # sent_id = 1884_Hill_Eekbom_Krienke_p111_4																																	
 # text_orig = Fritz un Gottfried weern twungen, still to hollen un müßten Tokiker sin von de Ding', de da vör sik gahn sullen.																																	
 # remark = Influenced by Fritz Reuter, Hill writes /a/ instead of conventional å (oa)																																	
-# variety = East Low German, Central Pomeranian (Mittelpommersch)																																	
+# variety = East Low German, Central Pomeranian (Mittelpommersch), Uckermark																																	
 1	Fritz	PROPN	_	5	nsubj	_											Nom	Masc	Sing														
 2	un	CCONJ	_	1	cc	_	unde²																										
 3	Gottfried	PROPN	_	1	conj	_											Nom	Masc	Sing														
@@ -75,7 +75,7 @@
 # sent_id = 1901_Post_Falks_Krienke_p122_2																																	
 # text_orig = Dag's un nachts was se immer prat, ehr Schützling', so as de Kluck ehr Küken, vör Undœg' to bewohren, un dat müsst ehr de Neid laten, dat se met ehr Husmiddel gegen Kinnerkrankheiten al anner Frugens in'n Urt den Dum upt Og' drücken ded'.																																	
 # remark = “dag’s un nachts” could be influenced by standard German, a modern equivalent would be “Dach un Nacht” (no case)																																	
-# variety = East Low German, North Markian (Nordmärkisch)																																	
+# variety = East Low German, North Markian (Nordmärkisch), Uckermark																																	
 1	Dag's	ADV	_	7	advmod	_	dach										Gen	Masc	Sing														
 2	un	CCONJ	_	1	cc	_	unde²																										
 3	nachts	ADV	_	1	conj	_	nacht¹										Gen	Fem	Sing														
@@ -132,7 +132,7 @@
 # sent_id = 1930_Sydow_Koester_Krienke_p208_10																																	
 # text_orig = He was as 'n armen Jungen nah Berlin kamen und hadd sich dörch Singen in 'd Domchor un nohstens an de Oper verdeenen müßt, um so väl to hebben, dat he stodeeren lehren künn. 																																	
 # remark = “um” is possibly a typo for Low German üm, “und” is certainly one for “un”																																	
-# variety = East Low German, Central Pomeranian (Mittelpommersch)																																	
+# variety = East Low German, Central Pomeranian (Mittelpommersch), Uckermark																																	
 1	He	PRON	_	9	nsubj	_											Nom	Masc	Sing			3							Prs				
 2	was	AUX	_	9	aux	_	sin¹												Sing	Fin	Aux	3	Ind	Past									
 3	as	ADP	_	6	case	_							Prep																				
@@ -299,3 +299,83 @@
 56	Hüllen	NOUN	_	49	conj	_											Acc		Plur														
 57	up	PART	_	46	flat	_					No																						
 58	.	PUNCT	_	7	punct	_																											
+																																	
+# sent_id = 1868_Englien_Schpizbuowen_p155_3																																	
+# text_orig = Ees woar deär Jonge met sine Schoape dicht annen Busch, doa kam in Jäer ruet, deär hadde inne Flinte un inne Vijjeline un wulle met eäm tueschen; heä sulle eäm diä 5 Schoape jeäwen, doaveär sul er diä Flinte un diä Vijjeline hebben.																																	
+# variety = East Low German, Central Markian (Mittelmärkisch), Neumark																																	
+1	Ees	ADV	_	11	advmod	_																											
+2	woar	AUX	_	11	cop	_													Sing	Fin		3	Ind	Past									
+3	deär	DET	_	4	det	_								Def			Nom	Masc	Sing														
+4	Jonge	NOUN	_	11	nsubj	_											Nom	Masc	Sing														
+5	met	ADP	_	7	case	_							Prep																				
+6	sine	PRON	_	7	det	_		Acc									Dat		Plur									Yes	Poss		Masc	Sing	3
+7	Schoape	NOUN	_	11	obl	_		Acc									Dat		Plur														
+8	dicht	ADV	_	11	advmod	_																											
+9	an	ADP	_	11	case	_					No		Prep																				
+10	nen	DET	_	11	det	_		Acc						Ind			Dat	Masc	Sing														
+11	Busch	NOUN	_	0	root	_		Acc			No						Dat	Masc	Sing														
+12	,	PUNCT	_	11	punct	_																											
+13	doa	ADV	_	14	advmod	_																											
+14	kam	VERB	_	11	parataxis	_													Sing	Fin		3	Ind	Past									
+15	in	DET	_	16	det	_								Ind			Nom	Masc	Sing														
+16	Jäer	NOUN	_	14	nsubj	_											Nom	Masc	Sing														
+17	ruet	PART	_	14	flat	_					No																						
+18	,	PUNCT	_	14	punct	_																											
+19	deär	PRON	_	20	nsubj	_											Nom	Masc	Sing			3							Dem				
+20	hadde	VERB	_	14	appos	_													Sing	Fin		3	Ind	Past									
+21	inne	DET	_	22	det	_								Ind			Acc	Fem	Sing														
+22	Flinte	NOUN	_	20	obj	_											Acc	Fem	Sing														
+23	un	CCONJ	_	22	cc	_																											
+24	inne	DET	_	25	det	_								Ind			Acc	Fem	Sing														
+25	Vijjeline	NOUN	_	22	conj	_				it		Yes					Acc	Fem	Sing														
+26	un	CCONJ	_	20	cc	_																											
+27	wulle	AUX	_	30	aux	_													Sing	Fin	Aux	3	Ind	Past									
+28	met	ADP	_	29	case	_							Prep																				
+29	eäm	PRON	_	30	obl	_		Acc									Dat	Masc	Sing			3							Prs				
+30	tueschen	VERB	_	20	conj	_					No									Inf													
+31	;	PUNCT	_	30	punct	_																											
+32	heä	PRON	_	39	nsubj	_											Nom	Masc	Sing			3							Prs				
+33	sulle	AUX	_	39	aux	_													Sing	Fin	Aux	3	Sub	Past									
+34	eäm	PRON	_	39	iobj	_		Acc									Dat	Masc	Sing			3							Prs				
+35	diä	DET	_	37	det	_								Def			Acc		Plur														
+36	5	NUM	_	37	nummod	_											Acc		Plur														
+37	Schoape	NOUN	_	39	obj	_											Acc		Plur														
+38	jeäwen	VERB	_	30	parataxis	_					No									Inf													
+39	,	PUNCT	_	38	punct	_																											
+40	doaveär	ADV	_	48	obl	_																											
+41	sul	AUX	_	48	aux	_													Sing	Fin	Aux	3	Sub	Pres									
+42	er	PRON	_	49	nsubj	_											Nom	Masc	Sing			3							Prs				
+43	diä	DET	_	44	det	_								Def			Acc	Fem	Sing														
+44	Flinte	NOUN	_	49	obj	_											Acc	Fem	Sing														
+45	un	CCONJ	_	44	cc	_																											
+46	diä	DET	_	47	det	_								Def			Acc	Fem	Sing														
+47	Vijjeline	NOUN	_	44	conj	_				it		Yes					Acc	Fem	Sing														
+48	hebben	VERB	_	38	appos	_					No									Inf													
+49	.	PUNCT	_	11	punct	_																											
+																																	
+# sent_id = 1854_Firmenich3_Hohenwalde_p118_8																																	
+# text_orig = Na Bröderkin, nu sie mi ook willkoam vom Duum bes an 'n Ellboan, un bes an't holle Lief. 																																	
+# variety = East Low German, Central Markian (Mittelmärkisch), Neumark																																	
+1	Na	INTJ	_	8	discourse	_																											
+2	Bröderkin	NOUN	_	8	vocative	_					No						Nom	Neut	Sing														
+3	,	PUNCT	_	8	punct	_																											
+4	nu	ADV	_	8	advmod	_																											
+5	sie	AUX	_	8	aux	_													Sing	Fin	Aux	2	Imp	Pres									
+6	mi	PRON	_	8	iobj	_											Dat		Sing			1							Prs				
+7	ook	ADV	_	8	adv	_																											
+8	willkoam	VERB	_	0	root	_														Inf													
+9	vo	ADP	_	11	case	_					No		Prep																				
+10	m	DET	_	11	det	_								Def			Dat	Masc	Sing														
+11	Duum	NOUN	_	8	obl	_											Dat	Masc	Sing														
+12	bes	ADP	_	15	case	_																											
+13	an	ADP	_	15	case	_					No		Prep																				
+14	'n	DET	_	15	det	_								Def			Acc	Masc	Sing														
+15	Ellboan	NOUN	_	8	obl	_					No						Acc	Masc	Sing														
+16	,	PUNCT	_	15	punct	_																											
+17	un	CONJ	_	15	cc	_																											
+18	bes	ADP	_	22	case	_																											
+19	an	ADP	_	22	case	_					No		Prep																				
+20	't	DET	_	22	det	_								Def			Acc	Neut	Sing														
+21	holle	ADJ	_	22	amod	_											Acc	Neut	Sing														
+22	Lief	NOUN	_	15	conj	_					No																						
+23	.	PUNCT	_	8	punct	_																											
