@@ -3344,3 +3344,55 @@
 13	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	cop	_	lemma[gml]=wēsen|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_097_1882_OVY_zwolle_hoe-andries-aan-een-varken-kwam
+# text_orig = In 't eerste wel, mâer dat bedâerden gaauw, toen ze zaggen, da'k er mie niet an steuurde, en boavendien weten ze allemoale wel, dat ze niet zoo heel gemakkelik un leupien met mie kunnen nâemen: dat hef et Iekertien ondervunden.
+# text = In et eyrste wel, mår dat bedaarden gauw, dun see saggen, dat ik der my neet an stöyrde, en boavendean weaten see allemåle wel, dat see neet sou heyl gemakkelik en löypken med my künnen neamen: dat hevt et Eykerken undervünden. 
+1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=in
+2	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê,dê,dat
+3	eyrste	eyrst	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	0	root	_	lemma[gml]=êrst
+4	wel	wol	ADV	_	_	3	advmod	_	lemma[gml]=wol|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	mår	mår	CCONJ	_	_	8	cc	_	lemma[gml]=mêr
+7	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	lemma[gml]=dê,dê,dat
+8	bedaarden	bedaren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma[gml]=bedāren
+9	gauw	gauw	ADJ	_	Degree=Pos	8	advmod	_	lemma[gml]=gouwe|SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	dun	dun	SCONJ	_	_	13	mark	_	lemma[gml]=dô
+12	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	lemma[gml]=sê
+13	saggen	seen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	advcl	_	lemma[gml]=sên|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	dat	dat	SCONJ	_	_	21	mark	_	lemma[gml]=dat
+16	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	lemma[gml]=ik
+17	der	der	ADV	_	_	21	advmod	_	lemma[gml]=dâr
+18	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	21	obj	_	lemma[gml]=ik
+19	neet	nich	PART	_	PartType=Neg	21	advmod	_	lemma[gml]=nicht
+20	an	an	ADP	_	_	17	case	_	lemma[gml]=an
+21	stöyrde	stöyren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	advcl	_	lemma[gml]=stö̂ren|SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	en	un	CCONJ	_	_	25	cc	_	lemma[gml]=ende
+24	boavendean	boavendat	ADV	_	_	25	advmod	_	lemma[gml]=bōvendat
+25	weaten	weaten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	conj	_	lemma[gml]=wēten
+26	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	lemma[gml]=sê
+27	allemåle	allemål	ADV	_	_	25	advmod	_	lemma[gml]=altômâle
+28	wel	wol	ADV	_	_	25	advmod	_	lemma[gml]=wol|SpaceAfter=No
+29	,	,	PUNCT	_	_	41	punct	_	_
+30	dat	dat	SCONJ	_	_	41	mark	_	lemma[gml]=dat
+31	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	41	nsubj	_	lemma[gml]=sê
+32	neet	nich	PART	_	PartType=Neg	41	advmod	_	lemma[gml]=nicht
+33	sou	sou	ADV	_	_	35	advmod	_	lemma[gml]=sô
+34	heyl	heyl	ADJ	_	Degree=Pos	35	advmod	_	lemma[gml]=hêil
+35	gemakkelik	gemaklik	ADJ	_	Degree=Pos	41	advmod	_	lemma[gml]=gemaklĩk
+36	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	37	det	_	lemma[gml]=êin,êine,êin
+37	löypken	löypken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	41	obj	_	lemma[gml]=lö̂pken
+38	mid	mid	ADP	_	AdpType=Prep	39	case	_	lemma[gml]=mit
+39	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	41	obl	_	lemma[gml]=ik
+40	künnen	künnen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	41	aux	_	lemma[gml]=künnen
+41	neamen	neamen	VERB	_	VerbForm=Inf	25	ccomp	_	lemma[gml]=nēmen|SpaceAfter=No
+42	:	:	PUNCT	_	_	43	punct	_	_
+43	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	47	obj	_	lemma[gml]=dê,dê,dat
+44	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	47	aux	_	lemma[gml]=hebben
+45	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3|PronType=Art	46	det	_	lemma[gml]=dê,dê,dat
+46	Eykerken	eykerken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	47	nsubj	_	lemma[gml]=êikerken
+47	undervünden	undervinden	VERB	_	Tense=Past|VerbForm=Part	41	parataxis	_	lemma[gml]=undervinden|SpaceAfter=No
+48	.	.	PUNCT	_	_	3	punct	_	_
+
