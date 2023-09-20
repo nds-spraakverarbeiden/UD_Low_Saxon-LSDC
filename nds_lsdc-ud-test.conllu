@@ -3346,7 +3346,7 @@
 
 # sent_id = LSDC_097_1882_OVY_zwolle_hoe-andries-aan-een-varken-kwam
 # text_orig = In 't eerste wel, mâer dat bedâerden gaauw, toen ze zaggen, da'k er mie niet an steuurde, en boavendien weten ze allemoale wel, dat ze niet zoo heel gemakkelik un leupien met mie kunnen nâemen: dat hef et Iekertien ondervunden.
-# text = In et eyrste wel, mår dat bedaarden gauw, dun see saggen, dat ik der my neet an stöyrde, en boavendean weaten see allemåle wel, dat see neet sou heyl gemakkelik en löypken med my künnen neamen: dat hevt et Eykerken undervünden. 
+# text = In et eyrste wel, mår dat bedaarden gauw, dun see saggen, dat ik der my neet an stöyrde, en boavendean weaten see allemåle wel, dat see neet sou heyl gemakkelik en löypken mid my künnen neamen: dat hevt et Eykerken undervünden.
 1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=in
 2	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê,dê,dat
 3	eyrste	eyrst	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing|NumType=Ord	0	root	_	lemma[gml]=êrst
@@ -3391,7 +3391,7 @@
 42	:	:	PUNCT	_	_	43	punct	_	_
 43	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	47	obj	_	lemma[gml]=dê,dê,dat
 44	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	47	aux	_	lemma[gml]=hebben
-45	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|Person=3|PronType=Art	46	det	_	lemma[gml]=dê,dê,dat
+45	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	46	det	_	lemma[gml]=dê,dê,dat
 46	Eykerken	eykerken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	47	nsubj	_	lemma[gml]=êikerken
 47	undervünden	undervinden	VERB	_	Tense=Past|VerbForm=Part	41	parataxis	_	lemma[gml]=undervinden|SpaceAfter=No
 48	.	.	PUNCT	_	_	3	punct	_	_
