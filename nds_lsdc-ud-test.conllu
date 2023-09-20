@@ -3326,3 +3326,20 @@
 92	hat	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	88	acl	_	lemma[gml]=hebben|SpaceAfter=No
 93	!	!	PUNCT	_	_	38	punct	_	_
 
+# sent_id = LSDC_096_20XX_ACH_ton-wazzen-ze-alle-een
+# text_orig = Samen atten ze van de lekkere dinge, dee wieters zo betuun wazzen.
+# text = Tosamen atten see van de lekkere dinge, dee wyders sou betüün wassen.
+1	Tosamen	tosamen	ADV	_	_	2	advmod	_	lemma[gml]=tôsāmen
+2	atten	eaten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma[gml]=ēten
+3	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=sê
+4	van	van	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=van
+5	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	lemma[gml]=dê,dê,dat
+6	lekkere	lekker	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	7	amod	_	lemma[gml]=lecker
+7	dinge	ding	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	2	obl	_	lemma[gml]=dinc|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	lemma[gml]=dê,dê,dat
+10	wyders	wyder	ADV	_	_	12	advmod	_	lemma[gml]=wît
+11	sou	sou	ADV	_	_	12	advmod	_	lemma[gml]=sô
+12	betüün	betuun	ADJ	_	Degree=Pos	7	acl:relcl	_	lemma[gml]=betûn
+13	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	cop	_	lemma[gml]=wēsen|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
