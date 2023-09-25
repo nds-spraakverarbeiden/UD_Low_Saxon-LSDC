@@ -3898,7 +3898,7 @@
 2	böyg	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=bö̂gen
 3	up	up	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=uppe
 4	den	de	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
-5	Buurknüll	buurknulle	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma[gml]=bûrknulle
+5	buurknülle	buurknulle	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma[gml]=bûrknulle
 6	af	af	ADP	_	_	2	compound:prt	_	lemma[gml]=af|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	woor	woor	ADV	_	_	12	advmod	_	lemma[gml]=wôre
