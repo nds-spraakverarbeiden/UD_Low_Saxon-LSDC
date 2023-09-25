@@ -3621,3 +3621,19 @@
 33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	cop	_	lemma[gml]=wēsen|SpaceAfter=No
 34	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_106_1921_hamborg_de_rode_unnerrock
+# text_orig = Och, Minsch, glöövst, ik kann en twede maken?
+# text = Och, minske, gelöyvst, ik kan en tweyde maken?
+1	Och	och	INTJ	_	_	5	discourse	_	lemma[gml]=och|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	minske	minske	NOUN	_	Case=Nom|Gender=Masc,Neut|Number=Sing	5	vocative	_	lemma[gml]=minsche|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	gelöyvst	gelöyven	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	lemma[gml]=gelö̂ven|SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma[gml]=ik
+8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	aux	_	lemma[gml]=künnen
+9	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma[gml]=êin,êine,êin
+10	tweyde	tweyde	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	11	obj	_	lemma[gml]=twêde
+11	maken	maken	VERB	_	VerbForm=Inf	5	ccomp	_	lemma[gml]=māken|SpaceAfter=No
+12	?	?	PUNCT	_	_	5	punct	_	_
+
