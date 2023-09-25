@@ -3891,3 +3891,49 @@
 17	wöör	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	cop	_	lemma[gml]=wēsen|SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_119_1907_HOL_holstein_maren
+# text_orig = Neels böög op 'n Buurknüll af, wo noch veel Lüüd rümluren, woll üm den Buurvaagt mit de Herrn kamen to seen; he sleek den Stigg, de achter Paul Struck sien Gewees rümgung, dal na den Möölnbeek.
+# text = Neels böyg up den buurknülle af, woor noch veal lüde rümluren, wol üm den buurvoagd mid de heyren koamen to seen; hee sleyk den stig, dee achter Paul Struck syn gewease rümgung, dale nå den möälenbeake.
+1	Neels	Neels	PROPN	_	Number=Sing	2	nsubj	_	lemma[gml]=Neels
+2	böög	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=bö̂gen
+3	op	up	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=uppe
+4	'n	de	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
+5	Buurknüll	buurknulle	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma[gml]=bûrknulle
+6	af	af	ADP	_	_	2	compound:prt	_	lemma[gml]=af|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	wo	woor	ADV	_	_	12	advmod	_	lemma[gml]=wôre
+9	noch	noch	ADV	_	_	12	advmod	_	lemma[gml]=noch
+10	veel	veale	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	lemma[gml]=vēle
+11	Lüüd	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	lemma[gml]=lü̂de
+12	rümluren	herümluren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	advcl:relcl	_	lemma[gml]=hērümmelûren|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	woll	wol	ADV	_	_	23	advmod	_	lemma[gml]=wol
+15	üm	üm	SCONJ	_	_	23	mark	_	lemma[gml]=ümme
+16	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê,dê,dat
+17	Buurvaagt	buurvoagd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	lemma[gml]=bûrvōget
+18	mit	mid	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=mit
+19	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	lemma[gml]=dê,dê,dat
+20	Herrn	heyre	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	23	obl	_	lemma[gml]=hêre
+21	kamen	koamen	VERB	_	VerbForm=Inf	23	xcomp	_	lemma[gml]=kōmen
+22	to	to	PART	_	PartType=Inf	23	mark	_	lemma[gml]=tô
+23	seen	seen	VERB	_	VerbForm=Inf	2	advcl	_	lemma[gml]=sên|SpaceAfter=No
+24	;	;	PUNCT	_	_	26	punct	_	_
+25	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	lemma[gml]=hê,sê,et
+26	sleek	slyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	parataxis	_	lemma[gml]=slîken
+27	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	lemma[gml]=dê,dê,dat
+28	Stigg	steg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	lemma[gml]=stîch|SpaceAfter=No
+29	,	,	PUNCT	_	_	36	punct	_	_
+30	de	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	36	nsubj	_	lemma[gml]=dê,dê,dat
+31	achter	achter	ADP	_	AdpType=Prep	35	obl	_	lemma[gml]=achter
+32	Paul	Paul	PROPN	_	Number=Sing	35	nmod	_	lemma[gml]=Paul
+33	Struck	Struck	PROPN	_	Number=Sing	32	flat	_	lemma[gml]=Struck
+34	sien	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	35	det	_	lemma[gml]=sîn,ēr,sîn
+35	Gewees	gewease	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	36	obj	_	lemma[gml]=gewēse
+36	rümgung	rümgån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl:relcl	_	lemma[gml]=hērümmegân|SpaceAfter=No
+37	,	,	PUNCT	_	_	38	punct	_	_
+38	dal	dale	ADV	_	_	28	case	_	lemma[gml]=dāle
+39	na	nå	ADP	_	AdpType=Prep	41	case	_	lemma[gml]=nâ
+40	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	lemma[gml]=dê,dê,dat
+41	Möölnbeek	möälenbeake	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	26	obl	_	lemma[gml]=mȫlenbēke|SpaceAfter=No
+42	.	.	PUNCT	_	_	2	punct	_	_
+
