@@ -3404,7 +3404,7 @@
 3	månd	månd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=mânt|SpaceAfter=No
 4	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSPM_1939_00143_NWF
+# sent_id = LSDC_099_1882_OVY_zwolle_hoe-andries-aan-een-varken-kwam
 # text_orig = - Ja, meneer, zei'k, liegen doe'k nooit.
 # text = - Jå, meneyr, sei ik, legen do ik nooit.
 1	-	-	PUNCT	_	_	2	punct	_	_
