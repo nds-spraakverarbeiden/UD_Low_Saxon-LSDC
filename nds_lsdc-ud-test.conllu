@@ -3583,3 +3583,41 @@
 15	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 16	”	”	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_105_GRO_1872_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Vlak noast hom zat Loeks Poester, of, zoo as 'e altied nuimd wör, de Farmsommertoren, omdat zien neuze, net as dij toren, an alle kanten scheif was.
+# text = Vlak nåst hum sat Loeks Poester, of, sou as he altyd nöömd wör, de Farmsommertoren, umdat syn nöäse, net as dee toorn, an alle kanten skeyv was.
+1	Vlak	vlak	ADJ	_	Degree=Pos	3	amod	_	lemma[gml]=vlak
+2	nåst	nåst	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=nâ
+3	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	lemma[gml]=hê,sê,et
+4	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=sitten
+5	Loeks	Loeks	PROPN	_	Number=Sing	4	nsubj	_	lemma[gml]=Loeks
+6	Poester	Poester	PROPN	_	Number=Sing	5	flat	_	lemma[gml]=Poester|SpaceAfter=No
+7	,	,	PUNCT	_	_	18	punct	_	_
+8	of	of	CCONJ	_	_	18	cc	_	lemma[gml]=eft|SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	sou	sou	ADV	_	_	14	advmod	_	lemma[gml]=sô
+11	as	as	SCONJ	_	_	14	mark	_	lemma[gml]=alsô
+12	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	lemma[gml]=hê,sê,et
+13	altyd	altyd	ADV	_	_	14	advmod	_	lemma[gml]=alletît
+14	nöömd	nömen	VERB	_	Tense=Past|VerbForm=Part	18	acl	_	lemma[gml]=nö̂men
+15	wör	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux	_	lemma[gml]=wērden|SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma[gml]=dê,dê,dat
+18	Farmsommertoren	Farmsommertoren	PROPN	_	Number=Sing	5	conj	_	lemma[gml]=Farmsommertoren|SpaceAfter=No
+19	,	,	PUNCT	_	_	32	punct	_	_
+20	umdat	ümdat	SCONJ	_	_	32	mark	_	lemma[gml]=ümmedat
+21	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	lemma[gml]=sîn,ēr,sîn
+22	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	lemma[gml]=nēse|SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	net	net	ADV	_	_	27	nmod	_	lemma[gml]=net
+25	as	as	ADP	_	_	27	case	_	lemma[gml]=alsô
+26	dee	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma[gml]=dê,dê,dat
+27	toorn	toorn	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	acl	_	lemma[gml]=tōrne|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	_
+29	an	an	ADP	_	AdpType=Prep	31	case	_	lemma[gml]=an
+30	alle	al 	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	31	det	_	lemma[gml]=al
+31	kanten	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	32	obl	_	lemma[gml]=kant
+32	skeyv	skeyv	ADJ	_	Degree=Pos	4	advcl	_	lemma[gml]=schêf
+33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	cop	_	lemma[gml]=wēsen|SpaceAfter=No
+34	.	.	PUNCT	_	_	4	punct	_	_
+
