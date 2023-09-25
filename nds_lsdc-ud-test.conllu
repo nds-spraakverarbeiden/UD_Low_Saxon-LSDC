@@ -3541,3 +3541,25 @@
 65	vorneamstig	vorneamstig	ADJ	_	Degree=Pos	51	parataxis	_	lemma[gml]=vornēmstich|SpaceAfter=No
 66	.	.	PUNCT	_	_	12	punct	_	_
 
+# sent_id = LSDC_103_20XX_DRE_drentsk_daphne
+# text_orig = Joke holdt mij nog een paar maol oetermaote plezerig gezelschap as Jaap weer naor belangrieke klanten mot.
+# text = Joke holdt my noch en pår mål utermåte pleserig geselskop as Jaap weader når belangryke klanten mut.
+1	Joke	Joke	PROPN	_	Number=Sing	2	nsubj	_	lemma[gml]=Joke
+2	holdt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=hōlden
+3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma[gml]=ik
+4	noch	noch	ADV	_	_	2	advmod	_	lemma[gml]=noch
+5	en	en	DET	_	Definite=Ind|PronType=Art	7	det	_	lemma[gml]=êin,êine,êin
+6	pår	pår	ADJ	_	_	7	amod	_	lemma[gml]=pâr
+7	mål	mål	NOUN	_	Case=Acc|Gender=Neut	2	obj	_	lemma[gml]=mâl
+8	utermåte	utermåte	ADV	_	_	9	advmod	_	lemma[gml]=ûtermâte
+9	pleserig	pleserig	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	lemma[gml]=plêsîrich
+10	geselskop	geselskop	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma[gml]=geselschop
+11	as	as	SCONJ	_	_	17	mark	_	lemma[gml]=alsô
+12	Jaap	Jaap	PROPN	_	Number=Sing	17	nsubj	_	lemma[gml]=Jaap
+13	weader	wedder	ADV	_	_	17	advmod	_	lemma[gml]=wedder
+14	når	nå	ADP	_	AdpType=Prep	16	case	_	lemma[gml]=nâ
+15	belangryke	belangryk	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	lemma[gml]=belancrîk
+16	klanten	klant	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	17	obl	_	lemma[gml]=klant
+17	mut	möten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	lemma[gml]=mö̂ten|SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
