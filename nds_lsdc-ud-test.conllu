@@ -3657,7 +3657,7 @@
 15	dröög	dragen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	acl:relcl	_	lemma[gml]=drāgen|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_108_1851_drentsk_Ho-baos-Julgring-meende-den-Duvel-in-hoes-te-hebben
+# sent_id = LSDC_108_1851_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
 # text_orig = Is e niet wies worden, wat 't west hef?
 # text = Is he neet wys worden, wat et west hevt?
 1	Is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=wēsen
