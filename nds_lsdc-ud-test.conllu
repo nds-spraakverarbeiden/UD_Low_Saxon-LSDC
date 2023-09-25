@@ -3667,7 +3667,7 @@
 5	worden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=wērden|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	lemma[gml]=watte
-8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Definite=Prs	7	nsubj	_	lemma[gml]=hê,sê,et
+8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	7	nsubj	_	lemma[gml]=hê,sê,et
 9	west	weasen	AUX	_	Tense=Past|VerbForm=Part	7	cop	_	lemma[gml]=wēsen
 10	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=hebben|SpaceAfter=No
 11	?	?	PUNCT	_	_	5	punct	_	_
