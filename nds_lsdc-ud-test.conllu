@@ -3504,7 +3504,7 @@
 28	der	der	ADV	_	_	27	advmod	_	lemma[gml]=dâr
 29	noch	noch	ADV	_	_	27	advmod	_	lemma[gml]=noch
 30	geld	geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	27	obj	_	lemma[gml]=gelt
-31	oaver	öäver	ADP	_	_	27	advmod	_	lemma[gml]=ȫver
+31	oaver	öäver	ADP	_	_	27	compound:prt	_	lemma[gml]=ȫver
 32	en	un	CCONJ	_	_	44	cc	_	lemma[gml]=ende
 33	dår	dår	ADV	_	_	44	obl	_	lemma[gml]=dâr
 34	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	aux	_	lemma[gml]=hebben
