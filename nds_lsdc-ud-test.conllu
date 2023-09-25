@@ -3929,7 +3929,7 @@
 33	Struck	Struck	PROPN	_	Number=Sing	32	flat	_	lemma[gml]=Struck
 34	syn	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	35	det	_	lemma[gml]=sîn,ēr,sîn
 35	gewease	gewease	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	36	obj	_	lemma[gml]=gewēse
-36	rümgung	rümgån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl:relcl	_	lemma[gml]=hērümmegân|SpaceAfter=No
+36	rümgung	herümgån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl:relcl	_	lemma[gml]=hērümmegân|SpaceAfter=No
 37	,	,	PUNCT	_	_	38	punct	_	_
 38	dale	dale	ADV	_	_	28	case	_	lemma[gml]=dāle
 39	nå	nå	ADP	_	AdpType=Prep	41	case	_	lemma[gml]=nâ
