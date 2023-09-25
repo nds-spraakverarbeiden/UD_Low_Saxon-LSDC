@@ -3738,13 +3738,13 @@
 
 # sent_id = LSDC_112_1866_MKB_meakelenborg_dorchlauchting
 # text_orig = De Konrekter was upsprungen un kek äwer Kägebeinen sine Schuller un kau'te mit vulle Backen de Würd' dörch de Heitwecken 'rute: »»De Soltmannen!«« –
-# text = De konrektor was upsprungen un keyl öäver Kägebeinen syne skulder un kauwde mid vulle bakken de wöörde döärch de heytwekken rute: »De Soltmannen!« -
+# text = De konrektor was upsprungen un keyk öäver Kägebeinen syne skulder un kauwde mid vulle bakken de wöörde döärch de heytwekken rute: »De Soltmannen!« -
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
 2	konrektor	konrektor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma[gml]=conrêctor
 3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	lemma[gml]=wēsen
 4	upsprungen	upspringen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=upspringen
 5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
-6	keuk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	lemma[gml]=kîken
+6	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	lemma[gml]=kîken
 7	öäver	öäver	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=ȫver
 8	Kägebeinen	Kägebein	PROPN	_	Number=Sing	10	nmod	_	lemma[gml]=Kägebein
 9	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma[gml]=sîn,ēr,sîn
