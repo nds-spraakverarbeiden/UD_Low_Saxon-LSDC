@@ -3787,3 +3787,19 @@
 14	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	aux	_	lemma[gml]=hebben|SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_114_1868_MKB_meakelenborgsk_de-reis-nah-konstantinopel
+# text_orig = Aewer ok dese unschüllige Unnerhollung süll em tau 'ne Pin warden.
+# text = Aver ouk dease unsküldige underholdinge sül em to ne pyne warden.
+1	Aver	aver	ADV	_	_	11	advmod	_	lemma[gml]=āver
+2	ouk	ouk	ADV	_	_	11	advmod	_	lemma[gml]=ôk
+3	dease	disse	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	lemma[gml]=desse,desse,dit
+4	unsküldige	unskuldig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	lemma[gml]=unschuldich
+5	underholdinge	underholdinge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	lemma[gml]=underhōldinge
+6	sül	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	aux	_	lemma[gml]=schȫlen
+7	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	lemma[gml]=hê,sê,et
+8	to	to	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=tô
+9	ne	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma[gml]=êin,êine,êin
+10	pyne	pyne	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	11	obl	_	lemma[gml]=pîne
+11	warden	werden	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=wērden|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
