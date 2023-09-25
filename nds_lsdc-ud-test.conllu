@@ -3761,7 +3761,7 @@
 20	heytwekken	heytwekke	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	12	obl	_	lemma[gml]=hêitwegge
 21	rute	heruut	ADV	_	_	12	advmod	_	lemma[gml]=hērût|SpaceAfter=No
 22	:	:	PUNCT	_	_	25	punct	_	_
-23	»	»	PUNCT	_	_	25	case	_	SpaceAfter=No
+23	»	»	PUNCT	_	_	25	punct	_	SpaceAfter=No
 24	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	lemma[gml]=dê,dê,dat
 25	Soltmannen	Soltmannen	NOUN	_	Number=Sing	12	parataxis	_	lemma[gml]=Soltman|SpaceAfter=No
 26	!	!	PUNCT	_	_	25	punct	_	SpaceAfter=No
