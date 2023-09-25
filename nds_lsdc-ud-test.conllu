@@ -3949,7 +3949,7 @@
 7	nåher	nåher	ADV	_	_	5	advmod	_	lemma[gml]=nâhēr
 8	mål	mål	ADV	_	_	5	advmod	_	lemma[gml]=mâl|SpaceAfter=No
 9	:	:	PUNCT	_	_	11	punct	_	_
-10	»	»	PUNCT	_	_	11	punct	_	_
+10	»	»	PUNCT	_	_	11	punct	_	SpaceAfter=No
 11	Hyr	hyr	ADV	_	_	17	advmod	_	lemma[gml]=hîr
 12	mussen	möten	AUX	_	Mood=Ind,Sub|Number=Plur|Person=3|Tense=Past	17	aux	_	lemma[gml]=mö̂ten
 13	veal	veale	ADJ	_	Degree=Pos	14	advmod	_	lemma[gml]=vēle
