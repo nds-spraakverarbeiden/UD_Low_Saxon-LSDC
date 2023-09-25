@@ -3421,3 +3421,34 @@
 12	nooit	nooit	ADV	_	_	9	advmod	_	lemma[gml]=nôit|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_100_20XX_ACH_achterhoek_sprookjen
+# text_orig = Maor Jehan kon gin kwaod heuren van zienen zönne en dee der het zwiegen to, al wisse eigelijk wal dat ziene vrouwe geliek had.
+# text = Mår Jehan kun gin kwåd höyren van synen sönne en dea der et swygen to, al wis he eigenlik wal dat syne vrouwe gelyk had.
+1	Mår	mår	CCONJ	_	_	6	cc	_	lemma[gml]=mêr
+2	Jehan	Jehan	PROPN	_	Number=Sing	6	nsubj	_	lemma[gml]=Jehan
+3	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	aux	_	lemma[gml]=künnen
+4	gin	geyn	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	5	det	_	lemma[gml]=gêin
+5	kwåd	kwåd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	lemma[gml]=kwât
+6	höyren	höyren	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=hö̂ren
+7	van	van	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=van
+8	synen	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma[gml]=sîn,ēr,sîn
+9	sönne	söäne	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	6	obl	_	lemma[gml]=sȫne
+10	en	un	CCONJ	_	_	11	cc	_	lemma[gml]=ende
+11	dea	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	lemma[gml]=dôn
+12	der	dår	ADV	_	_	11	advmod	_	lemma[gml]=dâr
+13	et	et	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma[gml]=dê,dê,dat
+14	swygen	swygen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	lemma[gml]=swîgent
+15	to	to	ADP	_	_	12	case	_	lemma[gml]=tô|SpaceAfter=No
+16	,	,	PUNCT	_	_	11	punct	_	_
+17	al	al	ADV	_	_	18	advmod	_	lemma[gml]=al
+18	wis	weaten	VERB	_	_	11	advcl	_	lemma[gml]=wēten
+19	he	hee	PRON	_	_	18	nsubj	_	lemma[gml]=hê,sê,et
+20	eigenlik	eygenlik	ADJ	_	Degree=Pos	18	advmod	_	lemma[gml]=êigentlĩk
+21	wal	wol	ADV	_	_	18	advmod	_	lemma[gml]=wol
+22	dat	dat	SCONJ	_	_	26	mark	_	lemma[gml]=dat
+23	syne	syn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det	_	lemma[gml]=sîn,ēr,sîn
+24	vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	lemma[gml]=vrouwe
+25	gelyk	gelyk	ADJ	_	Degree=Pos	26	compound:prt	_	lemma[gml]=gelîk
+26	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	ccomp	_	lemma[gml]=hebben|SpaceAfter=No
+27	.	.	PUNCT	_	_	6	punct	_	_
+
