@@ -3637,3 +3637,23 @@
 11	maken	maken	VERB	_	VerbForm=Inf	5	ccomp	_	lemma[gml]=māken|SpaceAfter=No
 12	?	?	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_107_GRO_1872_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Vort achter ons an kwam Mans Pikmans, 'n halve meneer, dij hansken druig.
+# text = Voord achter uns an kwam Mans Pikmans, en halve meneyr, dee handsken dröög.
+1	Voord	voord	ADV	_	_	2	advmod	_	lemma[gml]=vōrt
+2	achter	achter	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=achter
+3	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	5	obl	_	lemma[gml]=wî
+4	an	an	ADP	_	AdpType=Post	3	case	_	lemma[gml]=an
+5	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=kōmen
+6	Mans	Mans	PROPN	_	Number=Sing	5	nsubj	_	lemma[gml]=Mans
+7	Pikmans	Pikmans	PROPN	_	Number=Sing	6	flat	_	lemma[gml]=Pikmans|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma[gml]=êin,êine,êin
+10	halve	halv	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	lemma[gml]=half
+11	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	lemma[gml]=mînhêre|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	lemma[gml]=dê,dê,dat
+14	handsken	handske	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	obj	_	lemma[gml]=hantsche
+15	dröög	dragen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	acl:relcl	_	lemma[gml]=drāgen|SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
