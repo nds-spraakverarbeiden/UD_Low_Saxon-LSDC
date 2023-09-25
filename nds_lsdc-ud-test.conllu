@@ -3672,3 +3672,33 @@
 10	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=hebben|SpaceAfter=No
 11	?	?	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_109_1907_holstein_maren
+# text_orig = »Ja ja, Stina blifft hier, is mi jo ganz recht, aver wat schüllt wi mit all dat leve Broot opstellen?«
+# text = »Jå, jå, Stina blivt hyr, is my jo gans recht, aver wat sküllet wy mid al dat leve broud upstellen?«
+1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Jå	ja	INTJ	_	_	6	discourse	_	lemma[gml]=jâ
+3	jå	ja	INTJ	_	_	2	discourse	_	lemma[gml]=jâ|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	Stina	Stina	PROPN	_	Number=Sing	6	nsubj	_	lemma[gml]=Stina
+6	blivt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=blîven
+7	hyr	hyr	ADV	_	_	6	advmod	_	lemma[gml]=hîr|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	lemma[gml]=wēsen
+10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	13	obj	_	lemma[gml]=ik
+11	jo	jo	ADV	_	_	13	advmod	_	lemma[gml]=io
+12	gans	gans	ADJ	_	Degree=Pos	13	advmod	_	lemma[gml]=gans
+13	recht	recht	ADJ	_	Degree=Pos	6	parataxis	_	lemma[gml]=recht|SpaceAfter=No
+14	,	,	PUNCT	_	_	24	punct	_	_
+15	aver	aver	CCONJ	_	_	24	cc	_	lemma[gml]=āver
+16	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	24	obj	_	lemma[gml]=watte
+17	sküllet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	24	aux	_	lemma[gml]=schȫlen
+18	wy	wy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	lemma[gml]=wî
+19	mid	mid	ADP	_	AdpType=Prep	23	case	_	lemma[gml]=mit
+20	al	alle	PRON	_	Case=Acc,Dat|Gender=Neut|Number=Sing|PronType=Tot	23	det	_	lemma[gml]=al
+21	dat	dat	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	23	det	_	lemma[gml]=dê,dê,dat
+22	leve	leev	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	23	amod	_	lemma[gml]=lêf
+23	broud	broud	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	24	obj	_	lemma[gml]=brôt
+24	upstellen	upstellen	VERB	_	VerbForm=Inf	6	conj	_	lemma[gml]=upstellen|SpaceAfter=No
+25	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
+26	«	«	PUNCT	_	_	6	punct	_	_
+
