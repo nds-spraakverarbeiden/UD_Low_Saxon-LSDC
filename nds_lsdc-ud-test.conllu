@@ -3583,7 +3583,7 @@
 15	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 16	”	”	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_105_GRO_1872_gronningen_n_oetmiening_ien_n_jachtwaide
+# sent_id = LSDC_105_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Vlak noast hom zat Loeks Poester, of, zoo as 'e altied nuimd wör, de Farmsommertoren, omdat zien neuze, net as dij toren, an alle kanten scheif was.
 # text = Vlak nåst hum sat Loeks Poester, of, sou as he altyd nöömd wör, de Farmsommertoren, umdat syn nöäse, net as dee toorn, an alle kanten skeyv was.
 1	Vlak	vlak	ADJ	_	Degree=Pos	3	amod	_	lemma[gml]=vlak
@@ -3621,7 +3621,7 @@
 33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	cop	_	lemma[gml]=wēsen|SpaceAfter=No
 34	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_106_1921_hamborg_de_rode_unnerrock
+# sent_id = LSDC_106_1921_HAM_hamborg_de_rode_unnerrock
 # text_orig = Och, Minsch, glöövst, ik kann en twede maken?
 # text = Och, minske, gelöyvst, ik kan en tweyde maken?
 1	Och	och	INTJ	_	_	5	discourse	_	lemma[gml]=och|SpaceAfter=No
@@ -3637,7 +3637,7 @@
 11	maken	maken	VERB	_	VerbForm=Inf	5	ccomp	_	lemma[gml]=māken|SpaceAfter=No
 12	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_107_GRO_1872_gronningen_n_oetmiening_ien_n_jachtwaide
+# sent_id = LSDC_107_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Vort achter ons an kwam Mans Pikmans, 'n halve meneer, dij hansken druig.
 # text = Voord achter uns an kwam Mans Pikmans, en halve meneyr, dee handsken dröög.
 1	Voord	voord	ADV	_	_	2	advmod	_	lemma[gml]=vōrt
@@ -3657,7 +3657,7 @@
 15	dröög	dragen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	acl:relcl	_	lemma[gml]=drāgen|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_108_1851_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
+# sent_id = LSDC_108_1851_DRE_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
 # text_orig = Is e niet wies worden, wat 't west hef?
 # text = Is he neet wys worden, wat et west hevt?
 1	Is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=wēsen
@@ -3672,7 +3672,7 @@
 10	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=hebben|SpaceAfter=No
 11	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_109_1907_holstein_maren
+# sent_id = LSDC_109_1907_HOL_holstein_maren
 # text_orig = »Ja ja, Stina blifft hier, is mi jo ganz recht, aver wat schüllt wi mit all dat leve Broot opstellen?«
 # text = »Jå jå, Stina blivt hyr, is my jo gans recht, aver wat sküllet wy mid al dat leve broud upstellen?«
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -3702,7 +3702,7 @@
 25	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 26	«	«	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_110_1876_holstein_mien-jungsparadies
+# sent_id = LSDC_110_1876_HOL_holstein_mien-jungsparadies
 # text_orig = Dar bell en Hund un keem vun de Au rop neger.
 # text = Dår bel en hund un kaem van de auwe rup naeger.
 1	Dår	dår	ADV	_	_	2	advmod	_	lemma[gml]=dâr
@@ -3717,4 +3717,22 @@
 10	rup	herup	ADV	_	_	6	advmod	_	lemma[gml]=hēruppe
 11	naeger	naeg	ADJ	_	Degree=Cmp	6	advmod	_	lemma[gml]=nâ|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_111_1862_MKB_meakelenborg_ut-mine-festungstid
+# text_orig = Nu hadden sei em iserne Hanschen antagen, nu müßt hei sick gewen!
+# text = Nu hadden see em yserne handsken antoagen, nu müst hee sik geaven!
+1	Nu	nu	ADV	_	_	7	advmod	_	lemma[gml]=nû
+2	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	lemma[gml]=hebben
+3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma[gml]=sê
+4	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	lemma[gml]=hê,sê,et
+5	yserne	yseren	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	lemma[gml]=îseren
+6	handsken	handske	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	lemma[gml]=hantsche
+7	antoagen	anteen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=antên|SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	nu	nu	ADV	_	_	13	advmod	_	lemma[gml]=nû
+10	müst	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux	_	lemma[gml]=mö̂ten
+11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	lemma[gml]=hê,sê,et
+12	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obj	_	lemma[gml]=sik
+13	geaven	geaven	VERB	_	VerbForm=Inf	7	parataxis	_	lemma[gml]=gēven|SpaceAfter=No
+14	!	!	PUNCT	_	_	7	punct	_	_
 
