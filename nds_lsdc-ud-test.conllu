@@ -3398,9 +3398,9 @@
 
 # sent_id = LSDC_098_1882_OVY_zwolle_hoe-andries-aan-een-varken-kwam
 # text_orig = Met un moand!
-# text = Mid en månd! 
-1	Met	mid	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=mit
-2	un	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=êin,êine,êin
-3	moand	månd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=mânt|SpaceAfter=No
+# text = Mid en månd!
+1	Mid	mid	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=mit
+2	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=êin,êine,êin
+3	månd	månd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=mânt|SpaceAfter=No
 4	!	!	PUNCT	_	_	3	punct	_	lemma[gml]=!
 
