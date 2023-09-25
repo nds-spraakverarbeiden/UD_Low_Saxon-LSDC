@@ -3841,7 +3841,7 @@
 18	weaten	weaten	VERB	_	VerbForm=Inf	5	parataxis	_	lemma[gml]=wēten|SpaceAfter=No
 19	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_117_1911_hamborg_hein_godenwind_de_admirol_von_moskitonien
+# sent_id = LSDC_117_1911_HAM_hamborg_hein_godenwind_de_admirol_von_moskitonien
 # text_orig = As se em wedder ut Friedrichsbarg rutleeten, do wör he een ganz stillen Dräumelpeter worden, de kum noch Minschen kennt harr.
 # text = As se em wedder uut Friedrichsbarg ruutleyten, do wöör hee en gans stillen dröymelpeter worden, dee kuum noch minsken kend had.
 1	As	as	SCONJ	_	_	7	mark	_	lemma[gml]=alsô
