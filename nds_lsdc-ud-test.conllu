@@ -3768,3 +3768,22 @@
 27	«	«	PUNCT	_	_	25	punct	_	_
 28	–	–	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_113_1907_HOL_holstein_maren
+# text_orig = Aver denn hett se mi vörsmeten, dat ik mi al mal verköfft harr.
+# text = Aver dän het see my vöärsmeaten, dat ik my al mål vorköft had.
+1	Aver	aver	CCONJ	_	_	6	cc	_	lemma[gml]=āver
+2	dän	dän	ADV	_	_	6	advmod	_	lemma[gml]=den
+3	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	lemma[gml]=hebben
+4	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma[gml]=hê,sê,et
+5	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	lemma[gml]=ik
+6	vöärsmeaten	vöärsmyten	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=vȫrsmîten|SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	dat	dat	SCONJ	_	_	13	mark	_	lemma[gml]=dat
+9	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	lemma[gml]=ik
+10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	13	obj	_	lemma[gml]=ik
+11	al	al	ADV	_	_	13	advmod	_	lemma[gml]=al
+12	mål	mål	ADV	_	_	13	advmod	_	lemma[gml]=mâl
+13	vorköft	vorköypen	VERB	_	Tense=Past|VerbForm=Part	6	ccomp	_	lemma[gml]=vorkôpen
+14	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	aux	_	lemma[gml]=hebben|SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	_
+
