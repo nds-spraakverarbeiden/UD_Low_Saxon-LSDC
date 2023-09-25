@@ -3871,7 +3871,7 @@
 
 # sent_id = LSDC_118_1911_HAM_hamborg_hein_godenwind_de_admirol_von_moskitonien
 # text_orig = De Seilmoker snupper bannig in de Luft rum un wuß erst gornich, wat los weur.
-# text = De seilmaker snupper bannig in de luf rum un wus eyrst gaar nich, wat lous wöör.
+# text = De seilmaker snupper bannig in de luft rum un wus eyrst gaar nich, wat lous wöör.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
 2	seilmaker	seilmaker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma[gml]=sêilmāker
 3	snupper	snupperen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=snopperen
