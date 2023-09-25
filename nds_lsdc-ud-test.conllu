@@ -3471,7 +3471,7 @@
 14	broud	broud	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	lemma[gml]=brôt|SpaceAfter=No
 15	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_102__1882_OVY_zwolle_hoe-andries-aan-een-varken-kwam
+# sent_id = LSDC_102_1882_OVY_zwolle_hoe-andries-aan-een-varken-kwam
 # text_orig = Jonges, ai zo'n varkentien in huus hebt, goai de winter zoo rustig in; - toe 'k Toone betaeld had, bleef er nog geld oaver en doar hef mien vrouwe Derk un pâer skoenen en koisen van ekogt en un nije pette, doar giet ie zundags mâe noa de karke - et jongien is dan ook biester vernâemstig.
 # text = Junges, as jy sou en varkentyn in hüüs hebbet, gå jy de winter sou rüstig in; - to ik Toone betaald had, bleyv der noch geld oaver en dår hevt myn vrouwe Derk en pår skonen en koisen van ekocht en en nye pette, dår geyt hee sündags mea nå de karke - et jungyn is dan ouk byster vorneamstig.
 1	Junges	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	lemma[gml]=junge|SpaceAfter=No
