@@ -3657,3 +3657,18 @@
 15	dröög	dragen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	acl:relcl	_	lemma[gml]=drāgen|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_108_1851_drentsk_Ho-baos-Julgring-meende-den-Duvel-in-hoes-te-hebben
+# text_orig = Is e niet wies worden, wat 't west hef?
+# text = Is he neet wys worden, wat et west hevt?
+1	Is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=wēsen
+2	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma[gml]=hê,sê,et
+3	neet	nich	PART	_	PartType=Neg	5	advmod	_	lemma[gml]=nicht
+4	wys	wys	ADJ	_	Degree=Pos	5	xcomp	_	lemma[gml]=wîse
+5	worden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=wērden|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	lemma[gml]=watte
+8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Definite=Prs	7	nsubj	_	lemma[gml]=hê,sê,et
+9	west	weasen	AUX	_	Tense=Past|VerbForm=Part	7	cop	_	lemma[gml]=wēsen
+10	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=hebben|SpaceAfter=No
+11	?	?	PUNCT	_	_	5	punct	_	_
+
