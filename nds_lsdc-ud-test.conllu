@@ -3674,7 +3674,7 @@
 
 # sent_id = LSDC_109_1907_holstein_maren
 # text_orig = »Ja ja, Stina blifft hier, is mi jo ganz recht, aver wat schüllt wi mit all dat leve Broot opstellen?«
-# text = »Jå, jå, Stina blivt hyr, is my jo gans recht, aver wat sküllet wy mid al dat leve broud upstellen?«
+# text = »Jå jå, Stina blivt hyr, is my jo gans recht, aver wat sküllet wy mid al dat leve broud upstellen?«
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Jå	ja	INTJ	_	_	6	discourse	_	lemma[gml]=jâ
 3	jå	ja	INTJ	_	_	2	discourse	_	lemma[gml]=jâ|SpaceAfter=No
