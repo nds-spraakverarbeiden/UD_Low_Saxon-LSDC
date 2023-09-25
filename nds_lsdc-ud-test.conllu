@@ -3563,3 +3563,23 @@
 17	mut	möten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	lemma[gml]=mö̂ten|SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_104_20XX_DRE_drentsk_daphne
+# text_orig = Maor ien ding is zeker, het levert zowat altied een bult ellende op.”
+# text = Mår eyn ding is seaker, et leavert souwat altyd en bült ellende up.”
+1	Mår	mår	CCONJ	_	_	5	cc	_	lemma[gml]=mêr
+2	eyn	eyn	NUM	_	Case=Nom|Gender=Neut|NumType=Card	3	nummod	_	lemma[gml]=êin,êine,êin
+3	ding	ding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma[gml]=dinc
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma[gml]=wēsen
+5	seaker	seaker	ADJ	_	Degree=Pos	0	root	_	lemma[gml]=sēker|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma[gml]=hê,sê,et
+8	leavert	leaveren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	lemma[gml]=lēveren
+9	souwat	souwat	ADV	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	10	advmod	_	lemma[gml]=sôwat
+10	altyd	altyd	ADV	_	_	8	advmod	_	lemma[gml]=alletît
+11	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma[gml]=êin,êine,êin
+12	bült	bült	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma[gml]=bulte
+13	ellende	ealende	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	nmod	_	lemma[gml]=elende
+14	up	up	ADP	_	_	8	compound:prt	_	lemma[gml]=uppe|SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
+16	”	”	PUNCT	_	_	5	punct	_	_
+
