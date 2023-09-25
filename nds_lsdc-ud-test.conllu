@@ -3969,6 +3969,6 @@
 27	um	üm	ADP	_	AdpType=Prep	28	case	_	lemma[gml]=ümme
 28	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	21	obl	_	lemma[gml]=wî
 29	rum	herüm	ADV	_	_	21	advmod	_	lemma[gml]=hērümme|SpaceAfter=No
-30	.	.	PUNCT	_	_	5	punct	_	_
+30	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 31	«	«	PUNCT	_	_	5	punct	_	_
 
