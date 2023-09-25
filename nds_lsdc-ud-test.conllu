@@ -3402,5 +3402,22 @@
 1	Mid	mid	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=mit
 2	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=êin,êine,êin
 3	månd	månd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=mânt|SpaceAfter=No
-4	!	!	PUNCT	_	_	3	punct	_	lemma[gml]=!
+4	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = LSPM_1939_00143_NWF
+# text_orig = - Ja, meneer, zei'k, liegen doe'k nooit.
+# text = - Jå, meneyr, sei ik, legen do ik nooit.
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Jå	jå	INTJ	_	_	6	discourse	_	lemma[gml]=jâ|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	lemma[gml]=mînhêre|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	lemma[gml]=,
+6	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=seggen
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma[gml]=ik|SpaceAfter=N0
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	legen	legen	VERB	_	VerbForm=Inf	6	parataxis	_	lemma[gml]=lêgen
+10	do	doon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	lemma[gml]=dôn
+11	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma[gml]=ik
+12	nooit	nooit	ADV	_	_	9	advmod	_	lemma[gml]=nôit|SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
 
