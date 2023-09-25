@@ -3905,7 +3905,7 @@
 9	noch	noch	ADV	_	_	12	advmod	_	lemma[gml]=noch
 10	veal	veale	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	lemma[gml]=vēle
 11	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	lemma[gml]=lü̂de
-12	rümluren	herümluren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	advcl:relcl	_	lemma[gml]=hērümmelûren|SpaceAfter=No
+12	rümluren	herümluren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	acl:relcl	_	lemma[gml]=hērümmelûren|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	wol	wol	ADV	_	_	23	advmod	_	lemma[gml]=wol
 15	üm	üm	SCONJ	_	_	23	mark	_	lemma[gml]=ümme
