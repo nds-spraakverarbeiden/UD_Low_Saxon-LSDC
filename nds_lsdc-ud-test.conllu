@@ -3841,3 +3841,31 @@
 18	weaten	weaten	VERB	_	VerbForm=Inf	5	parataxis	_	lemma[gml]=wēten|SpaceAfter=No
 19	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_117_1911_hamborg_hein_godenwind_de_admirol_von_moskitonien
+# text_orig = As se em wedder ut Friedrichsbarg rutleeten, do wör he een ganz stillen Dräumelpeter worden, de kum noch Minschen kennt harr.
+# text = As se em wedder uut Friedrichsbarg ruutleyten, do wöör hee en gans stillen dröymelpeter worden, dee kuum noch minsken kend had.
+1	As	as	SCONJ	_	_	7	mark	_	lemma[gml]=alsô
+2	se	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma[gml]=sê
+3	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	lemma[gml]=hê,sê,et
+4	wedder	wedder	ADV	_	_	7	advmod	_	lemma[gml]=wedder
+5	uut	uut	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=ût
+6	Friedrichsbarg	Friedrichsbarg	PROPN	_	Number=Sing	7	obl	_	lemma[gml]=Friedrichsbarg
+7	ruutleyten	heruutlåten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	16	advcl	_	lemma[gml]=hērûtlâten|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	do	do	ADV	_	_	16	advmod	_	lemma[gml]=dô
+10	wöör	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	lemma[gml]=wēsen
+11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma[gml]=hê,sê,et
+12	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma[gml]=êin,êine,êin
+13	gans	gans	ADV	_	_	14	advmod	_	lemma[gml]=gans
+14	stillen	stil	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	lemma[gml]=stille
+15	dröymelpeter	dröymelpeter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	xcomp	_	lemma[gml]=drö̂melpêter
+16	worden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=wērden|SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	_	lemma[gml]=dê,dê,dat
+19	kuum	kume	ADV	_	_	20	advmod	_	lemma[gml]=kûme
+20	noch	noch	ADV	_	_	22	advmod	_	lemma[gml]=noch
+21	minsken	minske	NOUN	_	Case=Acc|Gender=Masc,Neut|Number=Plur	22	obj	_	lemma[gml]=minsche
+22	kend	kennen	VERB	_	Tense=Past|VerbForm=Part	15	acl:relcl	_	lemma[gml]=kennen
+23	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma[gml]=hebben|SpaceAfter=No
+24	.	.	PUNCT	_	_	16	punct	_	_
+
