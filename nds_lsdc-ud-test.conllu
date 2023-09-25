@@ -3895,7 +3895,7 @@
 # text_orig = Neels böög op 'n Buurknüll af, wo noch veel Lüüd rümluren, woll üm den Buurvaagt mit de Herrn kamen to seen; he sleek den Stigg, de achter Paul Struck sien Gewees rümgung, dal na den Möölnbeek.
 # text = Neels böyg up den buurknülle af, woor noch veal lüde rümluren, wol üm den buurvoagd mid de heyren koamen to seen; hee sleyk den stig, dee achter Paul Struck syn gewease rümgung, dale nå den möälenbeake.
 1	Neels	Neels	PROPN	_	Number=Sing	2	nsubj	_	lemma[gml]=Neels
-2	böög	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=bö̂gen
+2	böyg	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=bö̂gen
 3	op	up	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=uppe
 4	'n	de	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
 5	Buurknüll	buurknulle	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma[gml]=bûrknulle
