@@ -3738,7 +3738,7 @@
 
 # sent_id = LSDC_112_1866_MKB_meakelenborg_dorchlauchting
 # text_orig = De Konrekter was upsprungen un kek äwer Kägebeinen sine Schuller un kau'te mit vulle Backen de Würd' dörch de Heitwecken 'rute: »»De Soltmannen!«« –
-# text = De konrektor was upsprungen un keyk öäver Kägebeinen syne skulder un kauwde mid vulle bakken de wöörde döärch de heytwekken rute: »De Soltmannen!« -
+# text = De konrektor was upsprungen un keyk öäver Kägebeinen syne skulder un kauwde mid vulle bakken de wöörde döärch de heytwekken rute: »De Soltmannen!« –
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
 2	konrektor	konrektor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma[gml]=conrêctor
 3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	lemma[gml]=wēsen
