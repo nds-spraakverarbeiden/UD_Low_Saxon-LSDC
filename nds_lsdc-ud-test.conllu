@@ -3937,3 +3937,38 @@
 41	möälenbeake	möälenbeake	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	26	obl	_	lemma[gml]=mȫlenbēke|SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_120_1911_HAM_hamborg_hein_godenwind_de_admirol_von_moskitonien
+# text_orig = Bloß to den Seilmoker si he noher mol: »Hier mussen veel mehr hollandsche Fischers togangen sien; ik seh ober bloß ingelsche un dütsche um uns rum.«
+# text = Blouts to den seilmaker sea hee nåher mål: »Hyr mussen veal meyr hollandske viskers togangen syn; ik see aver blouts ingelske un düütske um uns rum.«
+1	Blouts	blout	ADV	_	_	5	advmod	_	lemma[gml]=blôt
+2	to	to	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=tô
+3	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê,dê,dat
+4	seilmaker	seilmaker	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma[gml]=sêilmāker
+5	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=seggen
+6	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma[gml]=hê,sê,et
+7	nåher	nåher	ADV	_	_	5	advmod	_	lemma[gml]=nâhēr
+8	mål	mål	ADV	_	_	5	advmod	_	lemma[gml]=mâl|SpaceAfter=No
+9	:	:	PUNCT	_	_	11	punct	_	_
+10	»	»	PUNCT	_	_	11	punct	_	_
+11	Hyr	hyr	ADV	_	_	17	advmod	_	lemma[gml]=hîr
+12	mussen	möten	AUX	_	Mood=Ind,Sub|Number=Plur|Person=3|Tense=Past	17	aux	_	lemma[gml]=mö̂ten
+13	veal	veale	ADJ	_	Degree=Pos	14	advmod	_	lemma[gml]=vēle
+14	meyr	veale	ADJ	_	Degree=Cmp	16	amod	_	lemma[gml]=vēle
+15	hollandske	hollandsk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	lemma[gml]=hollanderesch
+16	viskers	visker	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	lemma[gml]=vischêre
+17	togangen	togange	ADV	_	_	5	ccomp	_	lemma[gml]=tôgange
+18	syn	weasen	AUX	_	VerbForm=Inf	17	cop	_	lemma[gml]=wēsen|SpaceAfter=No
+19	;	;	PUNCT	_	_	21	punct	_	_
+20	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	lemma[gml]=ik
+21	see	seen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	conj	_	lemma[gml]=sên
+22	aver	aver	ADV	_	_	21	advmod	_	lemma[gml]=āver
+23	blouts	blout	ADV	_	_	21	advmod	_	lemma[gml]=blôt
+24	ingelske	engelsk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	21	obj	_	lemma[gml]=engelesch
+25	un	un	CCONJ	_	_	26	cc	_	lemma[gml]=unde
+26	düütske	düütsk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	24	conj	_	lemma[gml]=dü̂desch
+27	um	üm	ADP	_	AdpType=Prep	28	case	_	lemma[gml]=ümme
+28	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	21	obl	_	lemma[gml]=wî
+29	rum	herüm	ADV	_	_	21	advmod	_	lemma[gml]=hērümme|SpaceAfter=No
+30	.	.	PUNCT	_	_	5	punct	_	_
+31	«	«	PUNCT	_	_	5	punct	_	_
+
