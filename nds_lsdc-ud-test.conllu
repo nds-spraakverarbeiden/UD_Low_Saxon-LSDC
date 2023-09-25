@@ -3702,3 +3702,19 @@
 25	?	?	PUNCT	_	_	6	punct	_	SpaceAfter=No
 26	«	«	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_110_1876_holstein_mien-jungsparadies
+# text_orig = Dar bell en Hund un keem vun de Au rop neger.
+# text = Dår bel en hund un kaem van de auwe rup naeger.
+1	Dår	dår	ADV	_	_	2	advmod	_	lemma[gml]=dâr
+2	bel	bellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=bellen
+3	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=êin,êine,êin
+4	hund	hund	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma[gml]=hunt
+5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
+6	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma[gml]=kōmen
+7	van	van	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=van
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma[gml]=dê,dê,dat
+9	auwe	auwe	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	6	obl	_	lemma[gml]=ouwe
+10	rup	herup	ADV	_	_	6	advmod	_	lemma[gml]=hēruppe
+11	naeger	naeg	ADJ	_	Degree=Cmp	6	advmod	_	lemma[gml]=nâ|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
