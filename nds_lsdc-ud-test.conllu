@@ -3615,7 +3615,7 @@
 27	toorn	toorn	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	acl	_	lemma[gml]=tōrne|SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	_
 29	an	an	ADP	_	AdpType=Prep	31	case	_	lemma[gml]=an
-30	alle	al 	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	31	det	_	lemma[gml]=al
+30	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	31	det	_	lemma[gml]=al
 31	kanten	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	32	obl	_	lemma[gml]=kant
 32	skeyv	skeyv	ADJ	_	Degree=Pos	4	advcl	_	lemma[gml]=schêf
 33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	cop	_	lemma[gml]=wēsen|SpaceAfter=No
