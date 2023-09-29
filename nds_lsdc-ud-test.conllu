@@ -4097,7 +4097,7 @@
 6	reise	reise	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma[gml]=rêise
 7	un	un	CCONJ	_	_	15	cc	_	lemma[gml]=unde
 8	dat	dat	SCONJ	_	_	15	mark	_	lemma[gml]=dat
-9	wi	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	lemma[gml]=wî
+9	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	lemma[gml]=wî
 10	morgen	morgen	ADV	_	_	15	advmod	_	lemma[gml]=morgen
 11	vöär	vöär	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=vȫr
 12	dauw	dauw	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	15	obl	_	lemma[gml]=douwe
