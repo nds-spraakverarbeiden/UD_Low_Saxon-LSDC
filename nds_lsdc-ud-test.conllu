@@ -4005,3 +4005,15 @@
 10	enttükken	enttükken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	obl	_	lemma[gml]=enttückent|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_123_1876_holstein_1876_mien-jungsparadies
+# text_orig = Ick wag nich, ehr to fragen.
+# text = Ik wåg nich, ear to vrågen.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
+2	wåg	wågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=wâgen
+3	nich	nich	PART	_	PartType=Neg	2	advmod	_	lemma[gml]=nicht|SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	ear	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	lemma[gml]=hê,sê,et
+6	to	to	PART	_	PartType=Inf	7	mark	_	lemma[gml]=tô
+7	vrågen	vrågen	VERB	_	VerbForm=Inf	2	ccomp	_	lemma[gml]=vrâgen|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
