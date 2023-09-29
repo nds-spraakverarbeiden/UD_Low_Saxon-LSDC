@@ -4002,6 +4002,6 @@
 7	saeg	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma[gml]=sên
 8	hendale	hendale	ADV	_	_	7	advmod	_	lemma[gml]=hendāle
 9	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=mit
-10	enttükken	enttükken	NOUN	_	Case=Acc,Dat|Foreign=Yes|Gender=Neut|Number=Sing	7	obl	_	lemma[gml]=enttückent|SpaceAfter=No
+10	enttükken	enttükken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	obl	_	lemma[gml]=enttückent|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
