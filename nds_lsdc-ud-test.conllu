@@ -4169,3 +4169,41 @@
 78	.	.	PUNCT	_	_	61	punct	_	SpaceAfter=No
 79	«	«	PUNCT	_	_	61	punct	_	_
 
+
+# sent_id = LSDC_130_1866_MKB_meakelenborg_dorchlauchting
+# text_orig = Woans de Dichter Kägebein de Mamsell Soltmannen 'ne Kußhand up den Puckel smitt, un de Herr Konrekter in sinen Bregen afstöhmen un utuhlen deiht.
+# text = Woans de dichter Kägebein de mamsel Soltmannen ne kushand up den pukkel smit, un de heyre konrektor in synen breagen afstöymen un uutulen deit.
+1	Woans	woas	ADV	_	_	13	advmod	_	lemma[gml]=wôas
+2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê,dê,dat
+3	dichter	dichter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	lemma[gml]=dichter
+4	Kägebein	Kägebein	PROPN	_	_	3	flat	_	lemma[gml]=kägebein
+5	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma[gml]=dê,dê,dat
+6	mamsel	mamsel	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	13	iobj	_	lemma[gml]=mamsel
+7	Soltmannen	Soltmannen	PROPN	_	Number=Sing	6	flat	_	lemma[gml]=Soltmannen
+8	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma[gml]=êin,êine,êin
+9	kushand	kushand	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	lemma[gml]=kushant
+10	up	up	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=uppe
+11	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma[gml]=dê,dê,dat
+12	pukkel	pukkel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	lemma[gml]=puckel
+13	smit	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=smîten|SpaceAfter=No
+14	,	,	PUNCT	_	_	22	punct	_	_
+15	un	un	CCONJ	_	_	22	cc	_	lemma[gml]=unde
+16	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê,dê,dat
+17	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	flat	_	lemma[gml]=hêre
+18	konrektor	konrektor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	lemma[gml]=conrēctor
+19	in	in	ADP	_	AdpType=Prep	21	case	_	lemma[gml]=in
+20	synen	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	21	det	_	lemma[gml]=sîn,ēr,sîn
+21	breagen	breagen	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	22	obl	_	lemma[gml]=brēgen
+22	afstöymen	afstöymen	VERB	_	VerbForm=Inf	13	conj	_	lemma[gml]=afstö̂men
+23	un	un	CCONJ	_	_	24	cc	_	lemma[gml]=unde
+24	uutulen	uutulen	VERB	_	VerbForm=Inf	22	conj	_	lemma[gml]=ûtûlen
+25	deit	doon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	aux	_	lemma[gml]=dôn|SpaceAfter=No
+26	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = LSDC_131_1868_meakelenborg_de-reis-nah-konstantinopel
+# text_orig = »Wo?
+# text = »Wo?
+1	»	»	PUNCT	_	_	2	punct	_	lemma[gml]=»
+2	Wo	wo	ADV	_	_	0	root	_	lemma[gml]=wô
+3	?	?	PUNCT	_	_	2	punct	_	lemma[gml]=?
+
