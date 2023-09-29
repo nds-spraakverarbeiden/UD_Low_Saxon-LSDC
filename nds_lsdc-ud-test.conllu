@@ -4117,7 +4117,7 @@
 26	to	to	ADV	_	_	27	advmod	_	lemma[gml]=tô
 27	slecht	slecht	ADJ	_	Degree=Pos	28	xcomp	_	lemma[gml]=slicht
 28	worden	werden	VERB	_	Tense=Past|VerbForm=Part	15	advcl	_	lemma[gml]=wērden|SpaceAfter=No
-29	,	,	PUNCT	_	_	33	punct	_	_
+29	,	,	PUNCT	_	_	28	punct	_	_
 30	un	un	CCONJ	_	_	40	cc	_	lemma[gml]=unde
 31	as	as	SCONJ	_	_	33	mark	_	lemma[gml]=alsô
 32	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	lemma[gml]=ik
