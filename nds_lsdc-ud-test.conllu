@@ -4044,3 +4044,18 @@
 22	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 23	“	“	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_125_1921_HAM_hamborg_de_rode_unnerrock
+# text_orig = Öch – wat en Hitt – to'n Eier leggen!
+# text = Öch – wat en hitte – to'n eier leggen!
+1	Öch	och	INTJ	_	_	5	discourse	_	lemma[gml]=och
+2	–	–	PUNCT	_	_	5	punct	_	_
+3	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	det	_	lemma[gml]=watte
+4	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	fixed	_	lemma[gml]=êin,êine,êin
+5	hitte	hitte	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma[gml]=hitte
+6	–	–	PUNCT	_	_	10	punct	_	_
+7	to	to	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=tô|SpaceAfter=No
+8	'n	dat	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma[gml]=dê,dê,dat
+9	eier	ei	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	nmod	_	lemma[gml]=ey
+10	leggen	leggen	VERB	_	VerbForm=Inf	5	parataxis	_	lemma[gml]=leggen|SpaceAfter=No
+11	!	!	PUNCT	_	_	5	punct	_	_
+
