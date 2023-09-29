@@ -4202,7 +4202,7 @@
 # sent_id = LSDC_131_1868_meakelenborg_de-reis-nah-konstantinopel
 # text_orig = »Wo?
 # text = »Wo?
-1	»	»	PUNCT	_	_	2	punct	_	lemma[gml]=»
-2	Wo	wo	ADV	_	_	0	root	_	lemma[gml]=wô
-3	?	?	PUNCT	_	_	2	punct	_	lemma[gml]=?
+1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Wo	wo	ADV	_	_	0	root	_	lemma[gml]=wô|SpaceAfter?No
+3	?	?	PUNCT	_	_	2	punct	_	_
 
