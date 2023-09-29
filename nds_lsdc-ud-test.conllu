@@ -4086,7 +4086,7 @@
 9	binnen	binnen	ADV	_	_	7	advmod	_	lemma[gml]=binnen|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_129_00248_MVP
+# sent_id = LSDC_129_1861_MKB_meakelenborg_wat-bi-ne-aewerraschung-rute-kamen-kann
 # text_orig = Wi reden nu von uns’ Reis’ un dat wi morgen vör Dau un Dag’ afreisen müßten, denn de Weg’ wiren bi dat Däuweder gor tau slicht worden, un as ick mark, dat hei gahn will, segg ick - denn de Gir=Aff=Geschicht kettelt mi doch hellschen: - »Herr Rathsherr,« segg ick, »setten S’ sick hir leiwerst up en Staul, Sei künnen den Deckel von de Kist insitten.«
 # text = Wy readen nu van unse reise un dat wy morgen vöär dauw un dage afreisen müsten, dän de weage weren by dat dauwweader gaar to slecht worden, un as ik marke, dat hee gån wil, segge ik - dän de gir-af-geskigde kettelt my doch helsken: - »Heyre rådsheyre,« segge ik, »setten See sik hyr leverst up en stool, See künnen den dekkel van de kiste insitten.«
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=wî
