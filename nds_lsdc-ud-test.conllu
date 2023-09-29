@@ -4089,7 +4089,7 @@
 # sent_id = LSDC_129_00248_MVP
 # text_orig = Wi reden nu von uns’ Reis’ un dat wi morgen vör Dau un Dag’ afreisen müßten, denn de Weg’ wiren bi dat Däuweder gor tau slicht worden, un as ick mark, dat hei gahn will, segg ick - denn de Gir=Aff=Geschicht kettelt mi doch hellschen: - »Herr Rathsherr,« segg ick, »setten S’ sick hir leiwerst up en Staul, Sei künnen den Deckel von de Kist insitten.«
 # text = Wy readen nu van unse reise un dat wy morgen vöär dauw un dage afreisen müsten, dän de weage weren by dat dauwweader gaar to slecht worden, un as ik marke, dat hee gån wil, segge ik - dän de gir-aff-geskigde kettelt my doch helsken: - »Heyre rådsheyre,« segge ik, »setten See sik hyr leverst up en stool, See künnen den dekkel van de kiste insitten.«
-1	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=wî
+1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=wî
 2	readen	readen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma[gml]=rēden
 3	nu	nu	ADV	_	_	2	advmod	_	lemma[gml]=nû
 4	van	van	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=van
