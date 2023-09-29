@@ -4102,7 +4102,7 @@
 11	vöär	vöär	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=vȫr
 12	dauw	dauw	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	15	obl	_	lemma[gml]=douwe
 13	un	un	CCONJ	_	_	14	cc	_	lemma[gml]=unde
-14	daga	dag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	conj	_	lemma[gml]=dach
+14	dage	dag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	12	conj	_	lemma[gml]=dach
 15	afreisen	afreisen	VERB	_	VerbForm=Inf	6	conj	_	lemma[gml]=afrêisen
 16	müsten	möten	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	15	aux	_	lemma[gml]=mö̂ten|SpaceAfter=No
 17	,	,	PUNCT	_	_	28	punct	_	_
