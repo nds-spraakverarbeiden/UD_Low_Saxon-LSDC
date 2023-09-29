@@ -4059,3 +4059,16 @@
 10	leggen	leggen	VERB	_	VerbForm=Inf	5	parataxis	_	lemma[gml]=leggen|SpaceAfter=No
 11	!	!	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_126_1910_HOL_holstein_as-noch-de-trankrusel-brenn
+# text_orig = De Lamp köm, awer de Scholmeister nich.
+# text = De lampe köym, aver de skoolmeyster nich.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
+2	lampe	lampe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma[gml]=lampe
+3	köym	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=kōmen|SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	aver	aver	CCONJ	_	_	7	cc	_	lemma[gml]=āver
+6	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê,dê,dat
+7	skoolmeyster	skoolmeyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	lemma[gml]=schôlemeyster
+8	nich	nich	PART	_	PartType=Neg	7	advmod	_	lemma[gml]=nicht|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
