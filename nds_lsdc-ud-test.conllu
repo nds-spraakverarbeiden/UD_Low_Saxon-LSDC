@@ -4083,6 +4083,6 @@
 6	sköyne	sköyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	lemma[gml]=schö̂ne
 7	menagerye	menagerye	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma[gml]=menagerîe
 8	dår	dår	ADV	_	_	7	advmod	_	lemma[gml]=dâr
-9	binnen	binnen	ADP	_	_	7	advmod	_	lemma[gml]=binnen|SpaceAfter=No
+9	binnen	binnen	ADV	_	_	7	advmod	_	lemma[gml]=binnen|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	_
 
