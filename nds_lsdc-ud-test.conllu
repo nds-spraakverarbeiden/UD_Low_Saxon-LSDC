@@ -4081,7 +4081,7 @@
 4	jo	ja	ADV	_	_	7	advmod	_	lemma[gml]=io
 5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	lemma[gml]=êin,êine,êin
 6	sköyne	sköyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	lemma[gml]=schö̂ne
-7	menagerye	menagerye	NOUN	_	Case=Nom|Foreign=Yes|Gender=Fem|Number=Sing	0	root	_	lemma[gml]=menagerîe
+7	menagerye	menagerye	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma[gml]=menagerîe
 8	dår	dår	ADV	_	_	7	advmod	_	lemma[gml]=dâr
 9	binnen	binnen	ADP	_	_	7	advmod	_	lemma[gml]=binnen|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	_
