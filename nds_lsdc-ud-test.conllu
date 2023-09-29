@@ -3987,6 +3987,6 @@
 10	un	un	CCONJ	_	_	11	cc	_	lemma[gml]=unde
 11	Hans	Hans	PROPN	_	Number=Sing	8	conj	_	lemma[gml]=Hans
 12	Holtfräter	Holtfräter	NOUN	_	Number=Sing	11	flat	_	lemma[gml]=holtvrēter
-13	tosamen	tosamen	ADV	_	VerbForm=Inf	2	compound:prt	_	lemma[gml]=tôsāmen|SpaceAfter=No
+13	tosamen	tosamen	ADV	_	_	2	compound:prt	_	lemma[gml]=tôsāmen|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
