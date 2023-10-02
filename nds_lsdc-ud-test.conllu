@@ -4305,10 +4305,10 @@
 # text = De meyster skikkede ouk en anderen; hee selver määk sik up den weag nå Slaumayers.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
 2	meyster	meyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma[gml]=meyster
-3	skickede	skikken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=schicken
+3	skikkede	skikken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=schicken
 4	ouk	ouk	ADV	_	_	3	advmod	_	lemma[gml]=ôk
 5	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma[gml]=êin,êine,êin
-6	anderen	ander	PRON	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	lemma[gml]=ander|SpaceAfter=No
+6	anderen	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	lemma[gml]=ander|SpaceAfter=No
 7	;	;	PUNCT	_	_	10	punct	_	_
 8	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma[gml]=hê,sê,et
 9	selver	sülve	ADV	_	_	10	advmod	_	lemma[gml]=sülve
