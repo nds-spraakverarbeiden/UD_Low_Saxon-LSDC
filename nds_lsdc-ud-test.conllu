@@ -4235,3 +4235,14 @@
 10	koamen	koamen	VERB	_	Tense=Past|VerbForm=Part	5	conj	_	lemma[gml]=kōmen|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_134_2010_SUD_suderland_horst-ludwigsen_ut-diäm-ollen-testament-1
+# text_orig = Üm düese Tîd dao sturf Samuel.
+# text = Üm düäse tyd do sturv Samuel.
+1	Üm	üm	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=ümme
+2	düäse	disse	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	lemma[gml]=desse,desse,dit
+3	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	lemma[gml]=tît
+4	do	do	ADV	_	_	5	advmod	_	lemma[gml]=dô
+5	sturv	sterven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=sterven
+6	Samuel	Samuel	PROPN	_	Number=Sing	5	nsubj	_	lemma[gml]=Samuel|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
+
