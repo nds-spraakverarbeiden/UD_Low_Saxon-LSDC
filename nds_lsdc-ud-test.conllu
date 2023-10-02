@@ -4206,3 +4206,17 @@
 2	Wo	wo	ADV	_	_	0	root	_	lemma[gml]=wô|SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_132_00263_1862_MKB_meakelenborg_ut-mine-festungstid
+# text_orig = – Heww ick all dörchmakt, Kapteihn!« –
+# text = – Hev ik al döärchmaked, kaptein!« –
+1	–	–	PUNCT	_	_	5	punct	_	_
+2	Hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	lemma[gml]=hebben
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma[gml]=ik
+4	al	al	ADV	_	_	5	advmod	_	lemma[gml]=al
+5	döärchmaked	döärmaken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=dȫrmāken|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	kaptein	kaptein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	vocative	_	lemma[gml]=kapiteyne|SpaceAfter=No
+8	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+9	«	«	PUNCT	_	_	5	punct	_	_
+10	–	–	PUNCT	_	_	5	punct	_	_
+
