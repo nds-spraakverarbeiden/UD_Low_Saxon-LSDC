@@ -4261,7 +4261,7 @@
 10	råd	råd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	compound	_	lemma[gml]=rât|SpaceAfter=No
 11	,	,	PUNCT	_	_	21	punct	_	_
 12	wo	wo	ADV	_	_	21	advmod	_	lemma[gml]=wô
-13	see	see	DET	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	lemma[gml]=sê
+13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	lemma[gml]=sê
 14	Jesus	Jesus	PROPN	_	Number=Sing	21	obj	_	lemma[gml]=jêsus
 15-16	am	_	_	_	_	_	_	_	_
 15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
