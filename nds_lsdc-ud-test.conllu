@@ -4310,7 +4310,7 @@
 5	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma[gml]=êin,êine,êin
 6	anderen	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	lemma[gml]=ander|SpaceAfter=No
 7	;	;	PUNCT	_	_	10	punct	_	_
-8	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma[gml]=hê,sê,et
+8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma[gml]=hê,sê,et
 9	selver	sülve	ADV	_	_	10	advmod	_	lemma[gml]=sülve
 10	määk	maken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	lemma[gml]=māken
 11	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	lemma[gml]=sik
