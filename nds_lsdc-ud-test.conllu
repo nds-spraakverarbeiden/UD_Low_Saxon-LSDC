@@ -4321,3 +4321,21 @@
 16	Slaumayers	_	NOUN	_	Number=Plur	14	nmod	_	lemma[gml]=slaumayer|SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_138_201X_OWL_lipsk_werner-zahn_kür-mol-wedder-lippisch-platt_die-klassenfahrt
+# text_orig = Küssen fleuget annen Dääz, einige kreijt auk wat vörn Ees.
+# text = Küssen vleget an den dääts, eynige kryget ouk wat vöär den äärs.
+1	Küssen	küssen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma[gml]=küssen
+2	vleget	vlegen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma[gml]=vlêgen
+3	an	an	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=an
+4	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
+5	dääts	döäts	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma[gml]=dȫts|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	eynige	eynig	PRON	_	Case=Nom|Number=Plur|PronType=Ind	8	nsubj	_	lemma[gml]=êinich
+8	kryget	krygen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	parataxis	_	lemma[gml]=krîgen
+9	ouk	ouk	ADV	_	_	8	advmod	_	lemma[gml]=ôk
+10	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	8	obj	_	lemma[gml]=watte
+11	vöär	vöär	ADP	_	AdpType=Prep	13	case	_	lemma[gml]=vȫr
+12	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma[gml]=dê,dê,dat
+13	äärs	aars	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	lemma[gml]=ārs|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
