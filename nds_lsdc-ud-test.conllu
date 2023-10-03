@@ -4339,3 +4339,15 @@
 13	äärs	aars	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	lemma[gml]=ārs|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_139_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Do ferloeden en doe Jünger un flüchten.
+# text = Do vorleyten en de jünger un vlüchten.
+1	Do	do	ADV	_	_	2	advmod	_	lemma[gml]=dô
+2	vorleyten	vorlåten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=vorlâten
+3	en	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma[gml]=hê,sê,et
+4	de	de	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
+5	jünger	jünger	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	lemma[gml]=jünger
+6	un	un	CCONJ	_	_	7	cc	_	lemma[gml]=unde
+7	vlüchten	vlüchten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	lemma[gml]=vlüchten|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
