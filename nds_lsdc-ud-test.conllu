@@ -4519,7 +4519,7 @@
 
 # sent_id = LSDC_148_1933_OWL_ravensberg_heinrich-stolte_das-neue-testament
 # text_orig = Wer höllt Foe un drinket ninne Mialke dofan?
-# text = Wel höldt vee un drinket ninne melke dårvan? 
+# text = Wel höldt vee un drinket ninne melke dårvan?
 1	Wel	wee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	lemma[gml]=we
 2	höldt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=hōlden
 3	vee	vee	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma[gml]=vê
@@ -4582,7 +4582,7 @@
 21	eywigen	eywig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	lemma[gml]=êwich
 22	troust	troust	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	lemma[gml]=trôst
 23	un	un	CCONJ	_	_	25	cc	_	lemma[gml]=unde
-24	siaker	seaker	DET	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	det	_	lemma[gml]=sēker
+24	siaker	seaker	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	det	_	lemma[gml]=sēker
 25	hoapen	hoapen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	conj	_	lemma[gml]=hȫpent
 26	giaven	geaven	VERB	_	Tense=Past|VerbForm=Part	14	conj	_	lemma[gml]=gēven
 27	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	lemma[gml]=hebben|SpaceAfter=No
