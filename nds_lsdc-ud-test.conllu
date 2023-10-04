@@ -4621,7 +4621,7 @@
 13	alsou	alsou	ADV	_	_	14	advmod	_	lemma[gml]=alsô
 14	Daniel	Daniel	PROPN	_	Number=Sing	8	ccomp	_	lemma[gml]=daniel|SpaceAfter=No
 15	,	,	PUNCT	_	_	23	punct	_	_
-16	hwekken	wekker	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	23	nsubj	_	lemma[gml]=welk
+16	hwekken	wekker	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	23	obj	_	lemma[gml]=welk
 17	myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma[gml]=mîn
 18	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	lemma[gml]=vāder
 19	uut	uut	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=ût
