@@ -4388,3 +4388,17 @@
 13	…	…	PUNCT	_	_	5	punct	_	SpaceAfter=No
 14	“	“	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_1980_00234_DWF
+# text_orig = Marleen, Marleen, wat häff ik di daon?
+# text = Marleen, Marleen, wat hev ik dy dån?
+1	Marleen	Marleen	PROPN	_	Number=Sing	9	vocative	_	lemma[gml]=marleen|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Marleen	Marleen	PROPN	_	Number=Sing	1	conj	_	lemma[gml]=marleen|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	lemma[gml]=watte
+6	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	lemma[gml]=hebben
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma[gml]=ik
+8	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	9	obj	_	lemma[gml]=dû
+9	dån	doon	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=dôn|SpaceAfter=No
+10	?	?	PUNCT	_	_	9	punct	_	_
+
