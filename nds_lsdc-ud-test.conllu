@@ -4530,3 +4530,194 @@
 8	dårvan	dårvan	ADV	_	_	5	advmod	_	lemma[gml]=dârvan|SpaceAfter=No
 9	?	?	PUNCT	_	_	2	punct	_	-
 
+# sent_id = LSDC_149_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Wenn oen Minske Wiarke upwuisen kann, dann kümmet em doe Gerechtigkoet os Laun un Ferdenst teo un nich os Gnade.
+# text = Wän en minske werke upwysen kan, dan kümmet em de gerechtigheid as loun un vordeenst to un nich as genåde.
+1	Wän	wän	SCONJ	_	_	5	mark	_	lemma[gml]=wan
+2	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=êin,êine,êin
+3	minske	minske	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma[gml]=minsche
+4	werke	werk	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	lemma[gml]=werk
+5	upwysen	upwysen	VERB	_	VerbForm=Inf	9	advcl	_	lemma[gml]=upwîsen
+6	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma[gml]=künnen|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	dan	dan	ADV	_	_	9	advmod	_	lemma[gml]=dan
+9	kümmet	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=kōmen
+10	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	lemma[gml]=hê,sê,et
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma[gml]=dê,dê,dat
+12	gerechtigheid	gerechtigheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	lemma[gml]=gerechtichhêit
+13	as	as	ADP	_	_	14	case	_	lemma[gml]=alsô
+14	loun	loun	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	lemma[gml]=lôn
+15	un	un	CCONJ	_	_	16	cc	_	lemma[gml]=unde
+16	vordeenst	vordeenst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	lemma[gml]=vordênst
+17	to	to	ADP	_	_	9	compound:prt	_	lemma[gml]=tô
+18	un	un	CCONJ	_	_	21	cc	_	lemma[gml]=unde
+19	nich	nich	PART	_	PartType=Neg	21	advmod	_	lemma[gml]=nicht
+20	as	as	CCONJ	_	_	21	cc	_	lemma[gml]=alsô
+21	genåde	genåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	conj	_	lemma[gml]=genâde|SpaceAfter=No
+22	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = LSDC_150_1933_ravensberg_heinrich-stolte_das-neue-testament
+# text_orig = Iuse Her Jesus Christus un Gott, iuse Fadder, doe us loef hät un doe us in suiner Gnade oewigen Traust un sieker Huapen giewen hät, doe traiste jiue Hadden un make jiu in ollen geoen Woören un Wiarken stark.
+# text = Use heyre Jesus Kristus un God, use vadder, dee uus leev het un dee uus in syner genåde eywigen troust un siaker hoapen giaven het, dee tröyste juwe harten un make juw in allen goden wöörden un werken stark.
+1	Use	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma[gml]=unse
+2	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	lemma[gml]=hêre
+3	Jesus	Jesus	PROPN	_	Number=Sing	2	flat	_	lemma[gml]=jêsus
+4	Kristus	Kristus	PROPN	_	Number=Sing	3	flat	_	lemma[gml]=krist
+5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
+6	God	god	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	lemma[gml]=got|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	use	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma[gml]=unse
+9	vadder	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	lemma[gml]=vāder|SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	lemma[gml]=dê,dê,dat
+12	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	14	obj	_	lemma[gml]=wî
+13	leev	leev	ADJ	_	Degree=Pos	14	xcomp	_	lemma[gml]=lêf
+14	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	acl:relcl	_	lemma[gml]=hebben
+15	un	un	CCONJ	_	_	26	cc	_	lemma[gml]=unde
+16	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	26	nsubj	_	lemma[gml]=dê,dê,dat
+17	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	26	iobj	_	lemma[gml]=wî
+18	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in
+19	syner	syn	DET	_	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	lemma[gml]=sîn,ēr,sîn
+20	genåde	genåde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	26	obl	_	lemma[gml]=genâde
+21	eywigen	eywig	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	lemma[gml]=êwich
+22	troust	troust	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	lemma[gml]=trôst
+23	un	un	CCONJ	_	_	25	cc	_	lemma[gml]=unde
+24	siaker	seaker	DET	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	det	_	lemma[gml]=sēker
+25	hoapen	hoapen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	conj	_	lemma[gml]=hȫpent
+26	giaven	geaven	VERB	_	Tense=Past|VerbForm=Part	14	conj	_	lemma[gml]=gēven
+27	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	lemma[gml]=hebben|SpaceAfter=No
+28	,	,	PUNCT	_	_	26	punct	_	_
+29	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	30	nsubj	_	lemma[gml]=dê,dê,dat
+30	tröyste	tröysten	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=trö̂sten
+31	juwe	juw	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	32	det	_	lemma[gml]=iuwe
+32	harten	herte	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	30	obj	_	lemma[gml]=herte
+33	un	un	CCONJ	_	_	34	cc	_	lemma[gml]=unde
+34	make	maken	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	30	conj	_	lemma[gml]=māken
+35	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	34	obj	_	lemma[gml]=gî
+36	in	in	ADP	_	AdpType=Prep	39	case	_	lemma[gml]=in
+37	allen	alle	DET	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Tot	39	det	_	lemma[gml]=al
+38	goden	good	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur	39	amod	_	lemma[gml]=gôt
+39	wöörden	woord	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	34	obl	_	lemma[gml]=wōrt
+40	un	un	CCONJ	_	_	41	cc	_	lemma[gml]=unde
+41	werken	werk	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	39	conj	_	lemma[gml]=werk
+42	stark	stark	ADJ	_	Degree=Pos	34	xcomp	_	lemma[gml]=stark|SpaceAfter=No
+43	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = LSDC_151_2010_SUD_suderland_horst-ludwigsen_ut-diäm-ollen-testament-4
+# text_orig = Fotts reip me Daniel un de Küönig sağğe: »Du büs also Daniel, bekken min Vâer ut Juda nao hi 'ehuolt hiät.
+# text = Voords reyp man Daniel un de küänig sagde: »Du büst alsou Daniel, hwekken myn vader uut Juda nå hyr ehaald het.
+1	Voords	voord	ADV	_	_	2	advmod	_	lemma[gml]=vōrt
+2	reyp	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=rôpen
+3	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	lemma[gml]=man
+4	Daniel	Daniel	PROPN	_	Number=Sing	2	obj	_	lemma[gml]=daniel
+5	un	un	CCONJ	_	_	7	cc	_	lemma[gml]=unde
+6	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê,dê,dat
+7	küänig	köäning	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	lemma[gml]=kȫninc
+8	sagde	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma[gml]=seggen|SpaceAfter=No
+9	:	:	PUNCT	_	_	14	punct	_	_
+10	»	»	PUNCT	_	_	14	punct	_	SpaceAfter=No
+11	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	lemma[gml]=dû
+12	büst	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	14	cop	_	lemma[gml]=wēsen
+13	alsou	alsou	ADV	_	_	14	advmod	_	lemma[gml]=alsô
+14	Daniel	Daniel	PROPN	_	Number=Sing	8	ccomp	_	lemma[gml]=daniel|SpaceAfter=No
+15	,	,	PUNCT	_	_	23	punct	_	_
+16	hwekken	wekker	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	23	nsubj	_	lemma[gml]=welk
+17	myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma[gml]=mîn
+18	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	lemma[gml]=vāder
+19	uut	uut	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=ût
+20	Juda	Juda	PROPN	_	Number=Sing	23	obl	_	lemma[gml]=juda
+21	nå	nå	ADP	_	AdpType=Prep	22	case	_	lemma[gml]=nâ
+22	hyr	hyr	ADV	_	_	23	obl	_	lemma[gml]=hîr
+23	ehaald	halen	VERB	_	Tense=Past|VerbForm=Part	14	acl:relcl	_	lemma[gml]=hālen
+24	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	aux	_	lemma[gml]=hebben|SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_152_<1977_MON_mönsterland_august-hollweg_rheine_familge-lünings
+# text_orig = Häöert di allene How un Feld?
+# text = Höyrt dy alleyne hov un veld?
+1	Höyrt	höyren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma[gml]=hö̂ren
+2	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	1	obj	_	lemma[gml]=dû
+3	alleyne	alleyn	ADV	_	_	1	advmod	_	lemma[gml]=allêine
+4	hov	hov	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	lemma[gml]=hof
+5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
+6	veld	veld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma[gml]=velt
+7	?	?	PUNCT	_	_	1	punct	_	lemma[gml]=?
+
+# sent_id = LSDC_153_1931_OWL_ravensberg_heinrich-stolte_der-bauernhof-um-1870
+# text_orig = Dat schog erst, wenn et nüdde fraus, dat doe Kleppen teomaket un doe Ställe warme haulen weren mössen.
+# text = Dat skåg eyrst, wän et nütte vrous, dat de kläppen tomaked un de ställe warme holden werden mösten.
+1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma[gml]=dê,dê,dat
+2	skåg	skeen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=schên
+3	eyrst	eyrst	ADV	_	_	2	advmod	_	lemma[gml]=êrst|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	wän	wän	SCONJ	_	_	8	mark	_	lemma[gml]=wan
+6	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	8	expl	_	lemma[gml]=hê,sê,et
+7	nütte	nütte	ADJ	_	Degree=Pos	8	advmod	_	lemma[gml]=nütte
+8	vrous	vreren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	lemma[gml]=vrêsen|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	dat	dat	SCONJ	_	_	13	mark	_	lemma[gml]=dat
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	lemma[gml]=dê,dê,dat
+12	kläppen	klappe	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	nsubj	_	lemma[gml]=klappe
+13	tomaked	tomaken	VERB	_	Tense=Past|VerbForm=Part	8	advcl	_	lemma[gml]=tômāken
+14	un	un	CCONJ	_	_	16	cc	_	lemma[gml]=unde
+15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	lemma[gml]=dê,dê,dat
+16	ställe	stal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma[gml]=stal
+17	warme	warm	ADJ	_	Degree=Pos	18	compound:prt	_	lemma[gml]=warem
+18	holden	holden	VERB	_	Tense=Past|VerbForm=Part	13	conj	_	lemma[gml]=hōlden
+19	werden	werden	AUX	_	VerbForm=Inf	13	aux	_	lemma[gml]=wērden
+20	mösten	möten	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	aux	_	lemma[gml]=mö̂ten|SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_154_1931_OWL_ravensberg_heinrich-stolte_der-bauernhof-um-1870
+# text_orig = Achter dem Hagen rechts lagg dem Nower suin Breok un hoel den Goren warm.
+# text = Achter dem hagen rechts lag dem nåver syn brook un heeld den gården warm.
+1	Achter	achter	ADP	_	AdpType=Prep	3	case	_	lemma[gml]=achter
+2	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê,dê,dat
+3	hagen	hage	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	lemma[gml]=hāgen
+4	rechts	rechts	ADV	_	_	3	advmod	_	lemma[gml]=rechts
+5	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=liggen
+6	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê,dê,dat
+7	nåver	nåber	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	lemma[gml]=nâber
+8	syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma[gml]=sîn,ēr,sîn
+9	brook	brook	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nsubj	_	lemma[gml]=brôk
+10	un	un	CCONJ	_	_	11	cc	_	lemma[gml]=unde
+11	heeld	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma[gml]=hōlden
+12	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma[gml]=dê,dê,dat
+13	gården	gården	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma[gml]=gārde
+14	warm	warm	ADJ	_	Degree=Pos	11	compound:prt	_	lemma[gml]=warem|SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = LSDC_155_1933_OWL_ravensberg_heinrich-stolte_das-neue-testament
+# text_orig = Ik will iar Gott suin un soe süöt muin Folk suin.
+# text = Ik wil ear God syn un see süälet myn volk syn.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma[gml]=ik
+2	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	lemma[gml]=willen
+3	ear	ear	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	lemma[gml]=sîn,ēr,sîn
+4	God	god	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=got
+5	syn	weasen	AUX	_	VerbForm=Inf	4	cop	_	lemma[gml]=wēsen
+6	un	un	CCONJ	_	_	7	cc	_	lemma[gml]=unde
+7	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	lemma[gml]=sê
+8	süälet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	aux	_	lemma[gml]=schȫlen
+9	myn	myn	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	10	det	_	lemma[gml]=mîn
+10	volk	volk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma[gml]=volk
+11	syn	weasen	AUX	_	VerbForm=Inf	10	cop	_	lemma[gml]=wēsen|SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = LSDC_156_1933_OWL_ravensbergsk_heinrich-stolte_das-neue-testament
+# text_orig = Suin Erbarmen goet fan Geslecht teo Geslecht bui ollen, doe en fürchtet.
+# text = Syn erbarmen geyt van geslächt to geslächt by allen, dee en vürchtet.
+1	Syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma[gml]=sîn,ēr,sîn
+2	erbarmen	erbarmen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma[gml]=erbarment
+3	geyt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=gân
+4	van	van	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=van
+5	geslächt	geslächte	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	lemma[gml]=geslechte
+6	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô
+7	geslächt	geslächte	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	lemma[gml]=geslechte
+8	by	by	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=bî
+9	allen	alle	PRON	_	Case=Dat|Number=Plur|PronType=Tot	3	obl	_	lemma[gml]=al|SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	13	nsubj	_	lemma[gml]=dê,dê,dat
+12	en	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	lemma[gml]=hê,sê,et
+13	vürchtet	vrüchten	VERB	_	Mood=Ind|Number=Plur|Person=3	9	acl:relcl	_	lemma[gml]=vrüchten|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
