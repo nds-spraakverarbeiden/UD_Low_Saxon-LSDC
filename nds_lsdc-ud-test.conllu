@@ -4517,3 +4517,16 @@
 22	klårmaken	klårmaken	VERB	_	VerbForm=Inf	2	parataxis	_	lemma[gml]=klârmāken|SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_148_1933_OWL_ravensberg_heinrich-stolte_das-neue-testament
+# text_orig = Wer höllt Foe un drinket ninne Mialke dofan?
+# text = Wel höldt vee un drinket ninne melke dårvan? 
+1	Wel	wee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	lemma[gml]=we
+2	höldt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=hōlden
+3	vee	vee	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma[gml]=vê
+4	un	un	CCONJ	_	_	5	cc	_	lemma[gml]=unde
+5	drinket	drinken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma[gml]=drinken
+6	ninne	neyn	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	7	det	_	lemma[gml]=nêin
+7	melke	melk	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	lemma[gml]=melk
+8	dårvan	dårvan	ADV	_	_	5	advmod	_	lemma[gml]=dârvan|SpaceAfter=No
+9	?	?	PUNCT	_	_	2	punct	_	-
+
