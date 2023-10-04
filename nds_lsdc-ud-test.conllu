@@ -4431,3 +4431,15 @@
 24	dårin	dårin	ADV	_	_	22	advmod	_	lemma[gml]=dârin|SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_144_<1993_SUD_suderland_änne-nöcker_plattdeutsche-gedichte-und-prosa
+# text_orig = Awwer aanschmiärt hewwek ne doch nau.
+# text = Aver ansmeard hevve ik ne doch noch.
+1	Aver	aver	CCONJ	_	_	2	cc	_	lemma[gml]=āver
+2	ansmeard	ansmearen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=ansmēren
+3	hevve	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	aux	_	lemma[gml]=hebben
+4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
+5	ne	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma[gml]=hê,sê,et
+6	doch	doch	ADV	_	_	2	advmod	_	lemma[gml]=doch
+7	noch	noch	ADV	_	_	2	advmod	_	lemma[gml]=noch|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
