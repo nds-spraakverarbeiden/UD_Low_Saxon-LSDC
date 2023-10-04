@@ -4721,3 +4721,88 @@
 13	vürchtet	vrüchten	VERB	_	Mood=Ind|Number=Plur|Person=3	9	acl:relcl	_	lemma[gml]=vrüchten|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_157_1995_SUD_suderland_hubert-wacker_reineke-voss
+# text_orig = Un acht Dage woren verbi (et harre dei Küenig Tau diar Tofel siék satt met sinen éisten Baronen, Niawen diar Küenigin sat hei), un blau'rig kam dat Karnikel Viar dian Küenig ânschrién un sprôk met trurigem Sinne: Hêrr!
+# text = Un acht dage wåren vearby (et hadde de küänig to dear tåfel sik sat mid synen eyrsten baronen, neaven dear küänigin sat hee), un blodig kam dat karnikkel vear dean küänig anskriaden un sprouk mid trurigem sinne: heyre!
+1	Un	un	CCONJ	_	_	5	conj	_	lemma[gml]=unde
+2	acht	achten	NUM	_	NumType=Card	3	nummod	_	lemma[gml]=achte
+3	dage	dag	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	lemma[gml]=dach
+4	wåren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	cop	_	lemma[gml]=wēsen
+5	vearby	vöärby	ADV	_	_	0	root	_	lemma[gml]=vȫrbî
+6	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Art	15	expl	_	lemma[gml]=hê,sê,et
+8	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	aux	_	lemma[gml]=hebben
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma[gml]=dê,dê,dat
+10	küänig	köäning	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	lemma[gml]=kȫninc
+11	to	to	ADP	_	AdpType=Prep	13	case	_	lemma[gml]=tô
+12	dear	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma[gml]=dê,dê,dat
+13	tåfel	tåfel	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	15	obl	_	lemma[gml]=tâfel
+14	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	obj	_	lemma[gml]=sik
+15	sat	sitten	VERB	_	Tense=Past|VerbForm=Part	5	parataxis	_	lemma[gml]=sitten
+16	mid	mid	ADP	_	AdpType=Prep	19	case	_	lemma[gml]=mit
+17	synen	syn	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	19	det	_	lemma[gml]=sîn,ēr,sîn
+18	eyrsten	eyrst	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|NumType=Ord	19	amod	_	lemma[gml]=êrst
+19	baronen	baroon	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	15	obl	_	lemma[gml]=barôn|SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	neaven	neaven	ADP	_	AdpType=Prep	23	case	_	lemma[gml]=nēven
+22	dear	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	lemma[gml]=dê,dê,dat
+23	küänigin	köäningin	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	24	obl	_	lemma[gml]=kȫninginne
+24	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	parataxis	_	lemma[gml]=sitten
+25	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	lemma[gml]=hê,sê,et|SpaceAfter=No
+26	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	30	punct	_	_
+28	un	un	CCONJ	_	_	30	cc	_	lemma[gml]=unde
+29	blodig	blödig	ADJ	_	Degree=Pos	30	advcl	_	lemma[gml]=blö̂dich
+30	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma[gml]=kōmen
+31	dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	32	det	_	lemma[gml]=dê,dê,dat
+32	karnikkel	karnikkel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	lemma[gml]=konînekel
+33	vear	vöär	ADP	_	AdpType=Prep	35	case	_	lemma[gml]=vȫr
+34	dean	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Prs	35	det	_	lemma[gml]=dê,dê,dat
+35	küänig	köäning	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obl	_	lemma[gml]=kȫninc
+36	anskriaden	anskryden	VERB	_	Tense=Past|VerbForm=Part	30	xcomp	_	lemma[gml]=anschrîden
+37	un	un	CCONJ	_	_	38	cc	_	lemma[gml]=unde
+38	sprouk	spreaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	conj	_	lemma[gml]=sprēken
+39	mid	mid	ADP	_	AdpType=Prep	41	case	_	lemma[gml]=mit
+40	trurigem	trurig	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	lemma[gml]=trûrich
+41	sinne	sin	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	38	obl	_	lemma[gml]=sin|SpaceAfter=No
+42	:	:	PUNCT	_	_	43	punct	_	_
+43	Heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	38	ccomp	_	lemma[gml]=hêre|SpaceAfter=No
+44	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = LSDC_158_2018_MON_mönsterland_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
+# text_orig = Dat is de junge Frau Hopsasa.
+# text = Dat is de junge vrouwe Hopsasa.
+1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	lemma[gml]=dê,dê,dat
+2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma[gml]=wēsen
+3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
+4	junge	jung	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	lemma[gml]=junc
+5	vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma[gml]=vrouwe
+6	Hopsasa	Hopsasa	PROPN	_	Number=Sing	5	flat	_	lemma[gml]=hopsasa|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = LSDC_159_1999_SUD_suderland_walter-höher_rüümstraote-erster-teil
+# text_orig = Wä de Welt verbiättern well, dä maut bi siëck selwer anfangen.
+# text = Wee de werld vorbeateren wil, dee moot by sik selver anvangen.
+1	Wee	wee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	4	nsubj	_	lemma[gml]=we
+2	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê,dê,dat
+3	werld	werld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	lemma[gml]=werlt
+4	vorbeateren	vorbeateren	VERB	_	VerbForm=Inf	7	acl	_	lemma[gml]=vorbēteren
+5	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	lemma[gml]=willen|SpaceAfter=No
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	lemma[gml]=dê,dê,dat
+8	moot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	lemma[gml]=mö̂ten
+9	by	by	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=bî
+10	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	lemma[gml]=sik
+11	seler	selv	ADV	_	_	10	advmod	_	lemma[gml]=sülve
+12	anvangen	anvangen	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=anvân|SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = LSDC_160_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Saugluiks können soe soen.
+# text = Sougelyks könden see seen.
+1	Sougelyks	sougelyk	ADV	_	_	4	advmod	_	lemma[gml]=sôgelîkes
+2	könden	künnen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	aux	_	lemma[gml]=künnen
+3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	lemma[gml]=sê
+4	seen	seen	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=sên|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
