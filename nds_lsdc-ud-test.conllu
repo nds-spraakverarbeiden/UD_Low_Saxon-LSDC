@@ -4492,7 +4492,7 @@
 
 # sent_id = LSDC_147_1933_OWL_ravensberg_heinrich-stolte_das-neue-testament
 # text_orig = Ik sto in der Gemoene iarem Denste; Gott hät mui dat Amt giewen; ik sall der Gemoene suin Weort klormaken.
-# text = Ik stå in der gemeynde earem deenste; God het my dat ambt geaven; ik sal der gemeynde syn woord klårmaken.
+# text = Ik stå in der gemeynde earem deenste; God het my dat ambt giaven; ik sal der gemeynde syn woord klårmaken.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
 2	stå	stån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=stân
 3	in	in	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=in
