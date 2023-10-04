@@ -4793,7 +4793,7 @@
 8	moot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	lemma[gml]=mö̂ten
 9	by	by	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=bî
 10	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	lemma[gml]=sik
-11	seler	selv	ADV	_	_	10	advmod	_	lemma[gml]=sülve
+11	selver	sülve	ADV	_	_	10	advmod	_	lemma[gml]=sülve
 12	anvangen	anvangen	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=anvân|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
