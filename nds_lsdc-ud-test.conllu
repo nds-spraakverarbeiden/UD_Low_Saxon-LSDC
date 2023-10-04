@@ -4490,3 +4490,30 @@
 27	ear	see	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obl	_	lemma[gml]=hê,sê,et|SpaceAfter=No
 28	?	?	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_147_1933_OWL_ravensberg_heinrich-stolte_das-neue-testament
+# text_orig = Ik sto in der Gemoene iarem Denste; Gott hät mui dat Amt giewen; ik sall der Gemoene suin Weort klormaken.
+# text = Ik stå in der gemeynde earen deenste; God het my dat ambt geaven; ik sal der gemeynde syn woord klårmaken.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
+2	stå	stån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=stân
+3	in	in	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=in
+4	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
+5	gemeynde	gemeynde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	lemma[gml]=gemêinde
+6	earem	ear	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	lemma[gml]=sîn,ēr,sîn
+7	deenste	deenst	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	obj	_	lemma[gml]=dênst|SpaceAfter=No
+8	;	;	PUNCT	_	_	14	punct	_	_
+9	God	god	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	lemma[gml]=got
+10	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	lemma[gml]=hebben
+11	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	14	iobj	_	lemma[gml]=ik
+12	dat	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	lemma[gml]=dê,dê,dat
+13	ambt	ambt	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	lemma[gml]=ambacht
+14	giaven	geaven	VERB	_	Tense=Past|VerbForm=Part	2	parataxis	_	lemma[gml]=gēven|SpaceAfter=No
+15	;	;	PUNCT	_	_	22	punct	_	_
+16	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	lemma[gml]=ik
+17	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	22	aux	_	lemma[gml]=schȫlen
+18	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	lemma[gml]=dê,dê,dat
+19	gemeynde	gemeynde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	22	iobj	_	lemma[gml]=gemêinde
+20	syn	syn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	21	det	_	lemma[gml]=sîn,ēr,sîn
+21	woord	woord	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	lemma[gml]=wōrt
+22	klårmaken	klårmaken	VERB	_	VerbForm=Inf	2	parataxis	_	lemma[gml]=klârmāken|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
