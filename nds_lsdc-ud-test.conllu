@@ -4560,7 +4560,7 @@
 # text_orig = Iuse Her Jesus Christus un Gott, iuse Fadder, doe us loef hät un doe us in suiner Gnade oewigen Traust un sieker Huapen giewen hät, doe traiste jiue Hadden un make jiu in ollen geoen Woören un Wiarken stark.
 # text = Use heyre Jesus Kristus un God, use vadder, dee uus leev het un dee uus in syner genåde eywigen troust un siaker hoapen giaven het, dee tröyste juwe harten un make juw in allen goden wöörden un werken stark.
 1	Use	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma[gml]=unse
-2	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	lemma[gml]=hêre
+2	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	dislocated	_	lemma[gml]=hêre
 3	Jesus	Jesus	PROPN	_	Number=Sing	2	flat	_	lemma[gml]=jêsus
 4	Kristus	Kristus	PROPN	_	Number=Sing	3	flat	_	lemma[gml]=krist
 5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
