@@ -4724,7 +4724,7 @@
 # sent_id = LSDC_157_1995_SUD_suderland_hubert-wacker_reineke-voss
 # text_orig = Un acht Dage woren verbi (et harre dei Küenig Tau diar Tofel siék satt met sinen éisten Baronen, Niawen diar Küenigin sat hei), un blau'rig kam dat Karnikel Viar dian Küenig ânschrién un sprôk met trurigem Sinne: Hêrr!
 # text = Un acht dage wåren vearby (et hadde de küänig to dear tåfel sik sat mid synen eyrsten baronen, neaven dear küänigin sat hee), un blodig kam dat karnikkel vear dean küänig anskriaden un sprouk mid trurigem sinne: Heyre!
-1	Un	un	CCONJ	_	_	5	conj	_	lemma[gml]=unde
+1	Un	un	CCONJ	_	_	5	cc	_	lemma[gml]=unde
 2	acht	achten	NUM	_	NumType=Card	3	nummod	_	lemma[gml]=achte
 3	dage	dag	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	lemma[gml]=dach
 4	wåren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	cop	_	lemma[gml]=wēsen
