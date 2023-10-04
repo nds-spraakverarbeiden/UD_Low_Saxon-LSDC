@@ -4445,7 +4445,7 @@
 
 # sent_id = LSDC_145_1931_OWL_ravensberg_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = Doe weort lichte faste un wuoß rask met Gräss teo.
-# text = Dee word lichte vaste un wus rask mid gräs to. 
+# text = Dee word lichte vaste un wus rask mid gräs to.
 1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma[gml]=dô
 2	word	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=wērden
 3	lichte	licht	ADJ	_	_	2	advmod	_	lemma[gml]=licht
