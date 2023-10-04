@@ -4370,3 +4370,21 @@
 13	Benjamin	Benjamin	PROPN	_	Number=Sing	12	flat	_	lemma[gml]=benjamin|SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_141_1900+-_SUD_suderland_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup
+# text_orig = „Kind, ick hewwe noch en Woort met dyi te kuiern …“
+# text = „Kind, ik hevve noch en woord mid dy to köären…“
+1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Kind	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	vocative	_	lemma[gml]=kint|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	lemma[gml]=,
+4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma[gml]=ik
+5	hevve	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=hebben
+6	noch	noch	ADV	_	_	5	advmod	_	lemma[gml]=noch
+7	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma[gml]=êin,êine,êin
+8	woord	woord	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	lemma[gml]=wōrt
+9	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=mit
+10	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	12	obl	_	lemma[gml]=dû
+11	to	to	PART	_	PartType=Inf	12	mark	_	lemma[gml]=tô
+12	köären	köären	VERB	_	VerbForm=Inf	5	xcomp	_	lemma[gml]=kȫderen|SpaceAfter=No
+13	…	…	PUNCT	_	_	5	punct	_	SpaceAfter=No
+14	“	“	PUNCT	_	_	5	punct	_	_
+
