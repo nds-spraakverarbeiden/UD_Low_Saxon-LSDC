@@ -4443,3 +4443,18 @@
 7	noch	noch	ADV	_	_	2	advmod	_	lemma[gml]=noch|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_145_1931_OWL_ravensberg_heinrich-stolte_ravensberg_der-bauernhof-um-1870
+# text_orig = Doe weort lichte faste un wuoß rask met Gräss teo.
+# text = Dee word lichte vaste un wus rask mid gräs to. 
+1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma[gml]=dô
+2	word	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=wērden
+3	lichte	licht	ADJ	_	_	2	advmod	_	lemma[gml]=licht
+4	vaste	vast	ADJ	_	Degree=Pos	2	xcomp	_	lemma[gml]=vaste
+5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
+6	wus	wassen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma[gml]=wassen
+7	rask	rask	ADJ	_	Degree=Pos	6	advmod	_	lemma[gml]=rasch
+8	mid	mid	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=mit
+9	gräs	gras	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	6	obl	_	lemma[gml]=gras
+10	to	to	ADP	_	_	6	compound:prt	_	lemma[gml]=tô|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
