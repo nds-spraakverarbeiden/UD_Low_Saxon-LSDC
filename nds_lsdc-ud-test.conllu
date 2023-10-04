@@ -4640,7 +4640,7 @@
 3	alleyne	alleyn	ADV	_	_	1	advmod	_	lemma[gml]=allêine
 4	hov	hov	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	lemma[gml]=hof
 5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
-6	veld	veld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma[gml]=velt
+6	veld	veld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma[gml]=velt|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	lemma[gml]=?
 
 # sent_id = LSDC_153_1931_OWL_ravensberg_heinrich-stolte_der-bauernhof-um-1870
