@@ -4969,3 +4969,68 @@
 11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 12	«	«	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_167_1931_OWL_ravensberg_heinrich-stolte_der-bauernhof-um-1870
+# text_orig = Nüöde wüößen do nich.
+# text = Nüäte wüssen dår nich.
+1	Nüäte	nut	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	lemma[gml]=nut
+2	wüssen	wassen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=wassen
+3	dår	dår	ADV	_	_	2	advmod	_	lemma[gml]=dô
+4	nich	nich	PART	_	PartType=Neg	2	advmod	_	lemma[gml]=nicht|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_168_2010_SUD_suderland_horst-ludwigsen_ut-diäm-ollen-testament-3
+# text_orig = Drop säğğen dei anneren tiëger Josua :»Vi wellt dine Knechte sin un di ungerdaon sin.«
+# text = Dårup segden de anderen teager Josua: »Wy wellet dyne kneche syn un dy underdån syn.«
+1	Dårup	dårup	ADV	_	_	2	advmod	_	lemma[gml]=dârup
+2	segden	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=seggen
+3	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	lemma[gml]=dê,dê,dat
+4	anderen	ander	PRON	_	Case=Nom|Degree=Pos|Number=Plur|PronType=Ind	2	nsubj	_	lemma[gml]=ander
+5	teager	teagen	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=tēgen
+6	Josua	Josua	PROPN	_	Number=Sing	2	obl	_	lemma[gml]=josua|SpaceAfter=No
+7	:	:	PUNCT	_	_	12	punct	_	_
+8	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
+9	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	lemma[gml]=wî
+10	wellet	willen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	12	aux	_	lemma[gml]=willen
+11	dyne	dyn	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	12	det	_	lemma[gml]=dîn
+12	knechte	knecht	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	lemma[gml]=knecht
+13	syn	weasen	AUX	_	VerbForm=Inf	12	cop	_	lemma[gml]=wēsen
+14	un	un	CCONJ	_	_	16	cc	_	lemma[gml]=unde
+15	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	16	obj	_	lemma[gml]=dû
+16	underdån	underdån	ADJ	_	Degree=Pos	12	conj	_	lemma[gml]=underdân
+17	syn	weasen	AUX	_	VerbForm=Inf	16	cop	_	lemma[gml]=wēsen|SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+19	«	«	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_169_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Diu bis standhaft bliewen, häs dui ümme muinen Namen Moögge giewen un bis nich moöe weoren.
+# text = Du bis standhaft bliaven, hes dy ümme mynen namen möge giaven un bis nich möde worden.
+1	Diu	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	lemma[gml]=dû
+2	bis	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	aux	_	lemma[gml]=wēsen
+3	standhaft	standhaft	ADJ	_	Degree=Pos	4	xcomp	_	lemma[gml]=stanthaftich
+4	bliewen	blyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=blîven|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	häs	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	aux	_	lemma[gml]=hebben
+7	dui	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	12	iobj	_	lemma[gml]=dû
+8	ümme	üm	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=ümme
+9	muinen	myn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma[gml]=mîn
+10	Namen	name	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	lemma[gml]=nāme
+11	Moögge	möge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	lemma[gml]=mö̂ge
+12	giewen	geaven	VERB	_	Tense=Past|VerbForm=Part	4	conj	_	lemma[gml]=gēven
+13	un	un	CCONJ	_	_	17	cc	_	lemma[gml]=unde
+14	bis	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|PronType=Prs	17	aux	_	lemma[gml]=wēsen
+15	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma[gml]=nicht
+16	moöe	möde	ADJ	_	Degree=Pos	17	xcomp	_	lemma[gml]=mö̂ye
+17	weoren	werden	VERB	_	Tense=Past|VerbForm=Part	12	conj	_	lemma[gml]=wērden|SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = LSDC_170_1905_SUD_suderland_gottfried-heine_krümeln-un-kuasten-nigge-vertellekes-iutem-surlande
+# text_orig = „Bo feyf- oder säßmol.“
+# text = „Hwo vyv- oader sesmål.“
+1	„	„	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Hwo	wo	ADV	_	_	3	advmod	_	lemma[gml]=wô
+3	vyv-	vyv	ADV	_	_	0	root	_	lemma[gml]=vîf-
+4	oader	edder	CCONJ	_	_	5	cc	_	lemma[gml]=edder
+5	sesmål	sesmål	ADV	_	_	3	conj	_	lemma[gml]=sesmâl|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+7	“	“	PUNCT	_	_	3	punct	_	_
+
