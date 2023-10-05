@@ -4965,7 +4965,7 @@
 7	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	conj	_	lemma[gml]=dê,dê,dat
 8	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=mit
 9	veerhunderd	veerhunderd	NUM	_	_	10	nummod	_	lemma[gml]=vêrhundert
-10	man	man	NOUN	_	_	7	nmod	_	lemma[gml]=man|SpaceAfter=No
-11	.	.	PUNCT	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	punct	_	SpaceAfter=No
+10	man	man	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	nmod	_	lemma[gml]=man|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 12	«	«	PUNCT	_	_	2	punct	_	_
 
