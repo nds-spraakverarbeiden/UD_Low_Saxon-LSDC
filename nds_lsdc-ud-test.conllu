@@ -4980,7 +4980,7 @@
 
 # sent_id = LSDC_168_2010_SUD_suderland_horst-ludwigsen_ut-diäm-ollen-testament-3
 # text_orig = Drop säğğen dei anneren tiëger Josua :»Vi wellt dine Knechte sin un di ungerdaon sin.«
-# text = Dårup segden de anderen teager Josua: »Wy wellet dyne kneche syn un dy underdån syn.«
+# text = Dårup segden de anderen teager Josua: »Wy wellet dyne knechte syn un dy underdån syn.«
 1	Dårup	dårup	ADV	_	_	2	advmod	_	lemma[gml]=dârup
 2	segden	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=seggen
 3	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	lemma[gml]=dê,dê,dat
