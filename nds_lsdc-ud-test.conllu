@@ -4906,7 +4906,7 @@
 
 # sent_id = LSDC_165_1933_OWL_ravensbergsk_heinrich-stolte_das-neue-testament
 # text_orig = Ik will jiu doran erinnern un jiuen Sinn dofor wachch haulen, dat jui an doe Woöre denket, doe jiu doe Prophoeden forhiar seggt häwwet, un dat Gebott nich fergiedet, dat jiu doe Her un Hoeland duür suine Apostel giewen hät.
-# text = Ik wil juw dåran erinneren un juwen sin dårvoar wake holden, da jy an de wöörde denket, dee juw de profeten voarhear segd hevvet, un dat gebod nich vorgeatet, dat juw de heyre un heiland düär syne apostel giaven het.
+# text = Ik wil juw dåran erinneren un juwen sin dårvoar wake holden, dat jy an de wöörde denket, dee juw de profeten voarhear segd hevvet, un dat gebod nich vorgeatet, dat juw de heyre un heiland düär syne apostel giaven het.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma[gml]=ik
 2	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	lemma[gml]=willen
 3	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	5	obj	_	lemma[gml]=gî
