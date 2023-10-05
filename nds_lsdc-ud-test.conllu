@@ -4808,7 +4808,7 @@
 
 # sent_id = LSDC_161_1900+-_SUD_suderland_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup
 # text_orig = Hiärmen deh et wyier gutt, dat et iähme de Schaffner füör Dummheit rak, süs wör hai, statt met me Zuge te foihern, verhaftet woren.
-# text = Hiärmen dea et wyder good, dat et eame de skafner vöär dumheid rak, süs wöör hee, staad mid me tauge to vören, vorhafted worden.
+# text = Hiärmen dea et wyder good, dat et eame de skafner vöär dumheid rak, süs wöör hee, staad mid me tuage to vören, vorhafted worden.
 1	Hiärmen	Hiärmen	PRON	_	Number=Sing	2	obj	_	lemma[gml]=hiärmen
 2	dea	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=dôn
 3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	lemma[gml]=hê,sê,et
@@ -4916,7 +4916,7 @@
 7	juwen	juw	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	lemma[gml]=iuwe
 8	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma[gml]=sin
 9	dårvoar	dårvöär	ADV	_	_	11	advmod	_	lemma[gml]=dârvȫr
-10	wake	wake	ADJ	_	Degree=Pos|Foreign=Yes	11	xcomp	_	lemma[gml]=wāke
+10	wake	wake	ADJ	_	Degree=Pos	11	xcomp	_	lemma[gml]=wāke
 11	holden	holden	VERB	_	VerbForm=Inf	5	conj	_	lemma[gml]=hōlden|SpaceAfter=No
 12	,	,	PUNCT	_	_	18	punct	_	_
 13	dat	dat	SCONJ	_	_	18	mark	_	lemma[gml]=dat
