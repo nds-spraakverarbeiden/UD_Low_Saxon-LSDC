@@ -5017,7 +5017,7 @@
 11	Moögge	möge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	lemma[gml]=mö̂ge
 12	giewen	geaven	VERB	_	Tense=Past|VerbForm=Part	4	conj	_	lemma[gml]=gēven
 13	un	un	CCONJ	_	_	17	cc	_	lemma[gml]=unde
-14	bis	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|PronType=Prs	17	aux	_	lemma[gml]=wēsen
+14	bis	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	17	aux	_	lemma[gml]=wēsen
 15	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma[gml]=nicht
 16	moöe	möde	ADJ	_	Degree=Pos	17	xcomp	_	lemma[gml]=mö̂ye
 17	weoren	werden	VERB	_	Tense=Past|VerbForm=Part	12	conj	_	lemma[gml]=wērden|SpaceAfter=No
