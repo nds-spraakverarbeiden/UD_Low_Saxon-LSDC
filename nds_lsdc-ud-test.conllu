@@ -5296,7 +5296,7 @@
 # sent_id = LSDC_183_1905_SUD_suderland_gottfried-heine_krümeln-un-kuasten-nigge-vertellekes-iutem-surlande
 # text_orig = „Jo, Heer Pastauer, wann Ey sau gutt seyn wellt!“
 # text = „Jo, heyre pastor, wan Jy sou gud syn willet!“
-1	„	„	PUNCT	_	_	10	punct	_	lemma[gml]=„
+1	„	„	PUNCT	_	_	10	punct	_	SpaceAfter=No
 2	Jo	jo	INTJ	_	_	10	discourse	_	lemma[gml]=io|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	lemma[gml]=,
 4	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma[gml]=hêre
@@ -5358,7 +5358,7 @@
 # text_orig = Maak di man al wedder wichtig, as wenn du de Apenborung Johannis utleggen künnst.
 # text = Maak dy man al wedder wichtig, as wän du de oapenbåringe Johannis uutleggen künst.
 1	Maak	maken	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma[gml]=māken
-2	di	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	1	obj	_	lemma[gml]=dû
+2	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	1	obj	_	lemma[gml]=dû
 3	man	men	ADV	_	_	1	advmod	_	lemma[gml]=men
 4	al	al	ADV	_	_	5	advmod	_	lemma[gml]=al
 5	wedder	wedder	ADV	_	_	1	advmod	_	lemma[gml]=wedder
