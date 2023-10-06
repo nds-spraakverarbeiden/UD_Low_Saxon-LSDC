@@ -5410,7 +5410,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_189_1909_NNI_noordneddersassen_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
-# text = Willt se us nich 'n Groten gäwen,
+# text_orig = Willt se us nich 'n Groten gäwen,
 # text = Willet see uus nich en grouten geaven,
 1	Willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	aux	_	lemma[gml]=willen
 2	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma[gml]=sê
