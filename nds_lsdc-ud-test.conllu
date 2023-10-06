@@ -5307,7 +5307,7 @@
 9	sou	sou	ADV	_	_	10	advmod	_	lemma[gml]=sô
 10	gud	good	ADJ	_	Degree=Pos	0	root	_	lemma[gml]=gôt
 11	syn	weasen	AUX	_	VerbForm=Inf	10	cop	_	lemma[gml]=wēsen
-12	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	cop	_	lemma[gml]=willen|SpaceAfter=No
+12	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	aux	_	lemma[gml]=willen|SpaceAfter=No
 13	!	!	PUNCT	_	_	10	punct	_	lemma[gml]=!|SpaceAfter=No
 14	“	“	PUNCT	_	_	10	punct	_	_
 
