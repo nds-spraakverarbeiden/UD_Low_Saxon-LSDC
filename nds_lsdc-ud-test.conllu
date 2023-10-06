@@ -5147,7 +5147,7 @@
 
 # sent_id = LSDC_176_1931_OWL_ravensberg_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = Schope häwwet oen ferfriaden Miul, owwer oenen gollnen Feot.
-# text = Skåpe hevvet en vorvreaten muul, aver en goldenen voot.
+# text = Skåpe hevvet en vorvreaten muul, aver eynen goldenen voot.
 1	Skåpe	skåp	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma[gml]=schâp
 2	hevvet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma[gml]=hebben
 3	en	en	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma[gml]=êin,êine,êin
