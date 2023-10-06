@@ -5354,3 +5354,103 @@
 19	sollen	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	aux	_	lemma[gml]=schȫlen|SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_186_1904_HAM_hamborg_bahnmeester_dood
+# text_orig = Maak di man al wedder wichtig, as wenn du de Apenborung Johannis utleggen künnst.
+# text = Maak dy man al wedder wichtig, as wän du de oapenbåringe Johannis uutleggen künst.
+1	Maak	maken	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma[gml]=māken
+2	di	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	1	obj	_	lemma[gml]=dû
+3	man	men	ADV	_	_	1	advmod	_	lemma[gml]=men
+4	al	al	ADV	_	_	5	advmod	_	lemma[gml]=al
+5	wedder	wedder	ADV	_	_	1	advmod	_	lemma[gml]=wedder
+6	wichtig	wichtig	ADJ	_	Degree=Pos	1	amod	_	lemma[gml]=wichtich|SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	as	as	SCONJ	_	_	14	mark	_	lemma[gml]=alsô
+9	wenn	wän	SCONJ	_	_	14	mark	_	lemma[gml]=wan
+10	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	lemma[gml]=dû
+11	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma[gml]=dê,dê,dat
+12	Apenborung	oapenbåringe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma[gml]=ōpenbâringe
+13	Johannis	Johannis	PROPN	_	Number=Sing	12	nmod	_	lemma[gml]=jôhannes
+14	utleggen	uutleggen	VERB	_	VerbForm=Inf	1	advcl	_	lemma[gml]=ûtleggen
+15	künnst	künnen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=2|Tense=Past	14	aux	_	lemma[gml]=künnen|SpaceAfter=No
+16	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = LSDC_187_<1899_HOL_holstein_klaus-groth_in-t-fahrhus
+# text_orig = Eerst wenn man een vun de swaren Deckel ophev, seeg man darin de glatte Figur vun en Kros oder Fatt.
+# text = Eyrst wän man eyn van de swåren dekkel upheav, saeg man dårin de gladde figuur van en kroos oader vat.
+1	Eyrst	eyrst	ADV	_	_	11	advmod	_	lemma[gml]=êrst
+2	wän	wän	SCONJ	_	_	9	mark	_	lemma[gml]=wan
+3	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	lemma[gml]=man
+4	eyn	eyn	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	obj	_	lemma[gml]=êin,êine,êin
+5	van	van	ADP	_	AdpType=Prep	8	case	_	lemma[gml]=van
+6	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	lemma[gml]=dê,dê,dat
+7	swåren	swår	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	lemma[gml]=swâr
+8	dekkel	dekkel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	4	nmod	_	lemma[gml]=deckel
+9	upheav	upheaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	advcl	_	lemma[gml]=uphēven|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	saeg	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=sên
+12	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	lemma[gml]=man
+13	dårin	dårin	ADV	_	_	11	advmod	_	lemma[gml]=dârinne
+14	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	lemma[gml]=dê,dê,dat
+15	gladde	glad	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	lemma[gml]=glat
+16	figuur	figuur	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	lemma[gml]=figure
+17	van	van	ADP	_	AdpType=Prep	19	case	_	lemma[gml]=van
+18	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	19	det	_	lemma[gml]=êin,êine,êin
+19	kroos	kroos	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	16	nmod	_	lemma[gml]=krôs
+20	oader	edder	CCONJ	_	_	21	cc	_	lemma[gml]=edder
+21	vat	vat	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	19	conj	_	lemma[gml]=vat|SpaceAfter=No
+22	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = LSDC_188_1907_HOL_holstein_maren
+# text_orig = He meen de Rabbhöner.
+# text = Hee meyn de raphöner.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=hê,sê,et
+2	meyn	meynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=mêinen
+3	de	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	lemma[gml]=dê,dê,dat
+4	raphöner	raphoon	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	lemma[gml]=raphôn|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_189_1909_NNI_noordneddersassen_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
+# text = Willt se us nich 'n Groten gäwen,
+# text = Willet see uus nich en grouten geaven,
+1	Willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	aux	_	lemma[gml]=willen
+2	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma[gml]=sê
+3	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	7	iobj	_	lemma[gml]=wî
+4	nich	nich	PART	_	PartType=Neg	7	advmod	_	lemma[gml]=nicht
+5	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma[gml]=êin,êine,êin
+6	grouten	grout	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma[gml]=grôt
+7	geaven	geaven	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=gēven|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+
+# sent_id = LSDC_190_1927_HOL_holstein_kumm-rin-kiek-rut
+# text_orig = As he nu dat halwe Dorp all affkloppt hett, un von'n Dörpsplatz nah de Achterhörn rin bögt – wer steiht dar un snackt mit Korl Göben?
+# text = As hee nu dat halve dorp al afklopped het, un van den dörpsplats nå de achterhöörn rin böygt – wel steit dår un snakt mid Korl Göben?
+1	As	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
+2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma[gml]=hê,sê,et
+3	nu	nu	ADV	_	_	8	advmod	_	lemma[gml]=nû
+4	dat	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma[gml]=dê,dê,dat
+5	halve	halv	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	lemma[gml]=half
+6	dorp	dorp	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	lemma[gml]=dorp
+7	al	al	ADV	_	_	8	advmod	_	lemma[gml]=al
+8	afklopped	afkloppen	VERB	_	Tense=Past|VerbForm=Part	22	advcl	_	lemma[gml]=afkloppen
+9	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	lemma[gml]=hebben|SpaceAfter=No
+10	,	,	PUNCT	_	_	19	punct	_	_
+11	un	un	CCONJ	_	_	19	cc	_	lemma[gml]=unde
+12	van	van	ADP	_	AdpType=Prep	14	case	_	lemma[gml]=van
+13	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma[gml]=dê,dê,dat
+14	dörpsplats	dorpsplaats	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	19	obl	_	lemma[gml]=dorpsplas
+15	nå	nå	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=nâ
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê,dê,dat
+17	achterhöörn	achterhöörn	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	19	obl	_	lemma[gml]=achterhōrn
+18	rin	herin	ADV	_	_	19	compound:prt	_	lemma[gml]=hērîn
+19	böygt	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	lemma[gml]=bö̂gen
+20	–	–	PUNCT	_	_	22	punct	_	_
+21	wel	wee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	22	nsubj	_	lemma[gml]=we
+22	steit	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=stân
+23	dår	dår	ADV	_	_	22	advmod	_	lemma[gml]=dâr
+24	un	un	CCONJ	_	_	25	cc	_	lemma[gml]=unde
+25	snakt	snakken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	conj	_	lemma[gml]=snacken
+26	mid	mid	ADP	_	AdpType=Prep	27	case	_	lemma[gml]=mit
+27	Korl	Korl	PROPN	_	Number=Sing	25	obl	_	lemma[gml]=korl
+28	Göben	Göben	PROPN	_	Number=Sing	27	flat	_	lemma[gml]=göben|SpaceAfter=No
+29	?	?	PUNCT	_	_	22	punct	_	_
+
