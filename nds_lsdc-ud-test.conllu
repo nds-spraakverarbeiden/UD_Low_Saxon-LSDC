@@ -5129,7 +5129,7 @@
 
 # sent_id = LSDC_175_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Doe Woöre, doe ik jiu soegge, doe send Goest un Liewen.
-# text = De wöörde, dee ik juw segge, dee sent geyst un liaven.
+# text = De wöörde, dee ik juw segge, dee sint geyst un liaven.
 1	De	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
 2	wöörde	woord	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	dislocated	_	lemma[gml]=wōrt|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
@@ -5139,7 +5139,7 @@
 7	segge	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	acl:relcl	_	lemma[gml]=seggen|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	dee	dat	PRON	_	Case=Nom|Number=Plur|PronType=Dem	11	nsubj	_	lemma[gml]=dê,dê,dat
-10	sent	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	lemma[gml]=wēsen
+10	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	lemma[gml]=wēsen
 11	geyst	geyst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=gêist
 12	un	un	CCONJ	_	_	13	cc	_	lemma[gml]=unde
 13	liaven	leaven	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	lemma[gml]=lēvent|SpaceAfter=No
@@ -5148,7 +5148,7 @@
 # sent_id = LSDC_176_1931_OWL_ravensberg_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = Schope häwwet oen ferfriaden Miul, owwer oenen gollnen Feot.
 # text = Skåpe hevvet en vorvreaten muul, aver en goldenen voot.
-1	skåpe	skåp	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma[gml]=schâp
+1	Skåpe	skåp	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma[gml]=schâp
 2	hevvet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma[gml]=hebben
 3	en	en	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma[gml]=êin,êine,êin
 4	vorvreaten	vorvreaten	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	lemma[gml]=vorvrēten
