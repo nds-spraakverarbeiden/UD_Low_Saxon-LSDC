@@ -5232,3 +5232,125 @@
 15	slecht	slecht	ADJ	_	Degree=Pos	1	parataxis	_	lemma[gml]=slicht|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_181_1933_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Wenn et hett: Fandage, wenn jui suine Stimme hairt, dannn sliudet jiue Hadde nich teo, os jiue Aulen inner Ferbidderung daien; dann froge ik: Wecke wören et denn, doe suine Stimme hairen un sik doch wuirsedden?
+# text = Wän et het: Vandage, wän jy syne simme höyret, dan slutet juwe harte nich to, as juwe olden in der vorbitteringe deaden; dan vråge ik: Wekke wören et dän, dee syne stimme höyren un sik doch wiadersetten?
+1	Wän	wän	SCONJ	_	_	3	mark	_	lemma[gml]=wan
+2	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma[gml]=hê,sê,et
+3	het	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	29	advcl	_	lemma[gml]=hêiten|SpaceAfter=No
+4	:	:	PUNCT	_	_	3	punct	_	_
+5	Vandage	vandage	ADV	_	_	14	advmod	_	lemma[gml]=vandāge|SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	wän	wän	SCONJ	_	_	11	mark	_	lemma[gml]=wan
+8	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	lemma[gml]=gî
+9	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma[gml]=sîn,ēr,sîn
+10	stimme	stimme	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	lemma[gml]=stemme
+11	höyret	höyren	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	14	advcl	_	lemma[gml]=hö̂ren|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	dan	dan	ADV	_	_	14	advmod	_	lemma[gml]=dan
+14	slutet	sluten	VERB	_	Mood=Imp|Number=Plur	3	ccomp	_	lemma[gml]=slûten
+15	juwe	juw	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	lemma[gml]=iuwe
+16	hartee	herte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	lemma[gml]=herte
+17	nich	nich	PART	_	PartType=Neg	14	advmod	_	lemma[gml]=nicht
+18	to	to	ADP	_	_	14	compound:prt	_	lemma[gml]=tô|SpaceAfter=No
+19	,	,	PUNCT	_	_	26	punct	_	_
+20	as	as	ADV	_	_	26	cc	_	lemma[gml]=alsô
+21	juwe	juw	DET	_	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	22	det	_	lemma[gml]=iuwe
+22	olden	old	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	26	nsubj	_	lemma[gml]=ōlt
+23	in	in	ADP	_	AdpType=Prep	25	case	_	lemma[gml]=in
+24	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	lemma[gml]=dê,dê,dat
+25	vorbitteringe	vorbitteringe	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	26	obl	_	lemma[gml]=vorbitteringe
+26	deaden	doon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	14	advcl	_	lemma[gml]=dôn|SpaceAfter=No
+27	;	;	PUNCT	_	_	29	punct	_	_
+28	dan	dan	ADV	_	_	29	advmod	_	lemma[gml]=dan
+29	vråge	vråge	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=vrâgen
+30	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	lemma[gml]=ik|SpaceAfter=No
+31	:	:	PUNCT	_	_	29	punct	_	_
+32	Wekke	wekker	NOUN	_	Case=Nom|Number=Plur|PronType=Int	34	nsubj	_	lemma[gml]=welk
+33	wören	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	34	aux	_	lemma[gml]=wēsen
+34	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	ccomp	_	lemma[gml]=hê,sê,et
+35	dän	dän	ADV	_	_	34	advmod	_	lemma[gml]=den|SpaceAfter=No
+36	,	,	PUNCT	_	_	40	punct	_	_
+37	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	40	nsubj	_	lemma[gml]=dê,dê,dat
+38	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	39	det	_	lemma[gml]=sîn,ēr,sîn
+39	stimme	stimme	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	40	obj	_	lemma[gml]=stemme
+40	höyren	höyren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	34	acl:relcl	_	lemma[gml]=hö̂ren
+41	un	un	CCONJ	_	_	44	cc	_	lemma[gml]=unde
+42	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	44	nsubj	_	lemma[gml]=sik
+43	doch	doch	ADV	_	_	44	advmod	_	lemma[gml]=doch
+44	wiadersetten	weddersetten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	40	conj	_	lemma[gml]=weddersetten|SpaceAfter=No
+45	?	?	PUNCT	_	_	29	punct	_	_
+
+# sent_id = LSDC_182_1995_SUD_suderland_hubert-wacker_reineke-voss
+# text_orig = Reineke sagte: Sou is et woget!
+# text = Reineke sagde: Sou is et wåged!
+1	Reineke	Reineke	PROPN	_	Number=Sing	2	nsubj	_	lemma[gml]=reyneke
+2	sagde	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=seggen|SpaceAfter=No
+3	:	:	PUNCT	_	_	7	punct	_	_
+4	Sou	sou	ADV	_	_	7	advmod	_	lemma[gml]=sô
+5	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma[gml]=wēsen
+6	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma[gml]=hê,sê,et
+7	wåged	wågen	VERB	_	Tense=Past|VerbForm=Part	2	ccomp	_	lemma[gml]=wâgen|SpaceAfter=No
+8	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_183_1905_SUD_suderland_gottfried-heine_krümeln-un-kuasten-nigge-vertellekes-iutem-surlande
+# text_orig = „Jo, Heer Pastauer, wann Ey sau gutt seyn wellt!“
+# text = „Jo, heyre pastor, wan Jy sou gud syn willet!“
+1	„	„	PUNCT	_	_	10	punct	_	lemma[gml]=„
+2	Jo	jo	INTJ	_	_	10	discourse	_	lemma[gml]=io
+3	,	,	PUNCT	_	_	4	punct	_	lemma[gml]=,
+4	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma[gml]=hêre
+5	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	lemma[gml]=pâstôr
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	wan	wän	ADV	_	_	10	advmod	_	lemma[gml]=wan
+8	Jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	lemma[gml]=gî
+9	sou	sou	ADV	_	_	10	advmod	_	lemma[gml]=sô
+10	gud	good	ADJ	_	Degree=Pos	0	root	_	lemma[gml]=gôt
+11	syn	weasen	AUX	_	VerbForm=Inf	10	cop	_	lemma[gml]=wēsen
+12	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	cop	_	lemma[gml]=willen|SpaceAfter=No
+13	!	!	PUNCT	_	_	10	punct	_	lemma[gml]=!|SpaceAfter=No
+14	“	“	PUNCT	_	_	10	punct	_	_
+
+# sent_id = LSDC_184_<1993_SUD_änne-nöcker_plattdeutsche-gedichte-und-prosa
+# text_orig = Awwer gloiwet mey, dät usse laiwe Heer nau seyne Last dermet kritt.“
+# text = Aver gelöyvet my, dat usse leve heyre noch syne last dermid krigt.“
+1	Aver	aver	CCONJ	_	_	2	cc	_	lemma[gml]=āver
+2	gelöyvet	gelöyven	VERB	_	Mood=Imp|Number=Plur	0	root	_	lemma[gml]=gelö̂ven
+3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	obj	_	lemma[gml]=ik|SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	_	_
+5	dat	dat	SCONJ	_	_	13	mark	_	lemma[gml]=dat
+6	usse	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	lemma[gml]=unse
+7	leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma[gml]=lêf
+8	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	lemma[gml]=hêre
+9	noch	noch	ADV	_	_	13	advmod	_	lemma[gml]=noch
+10	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	lemma[gml]=sîn,ēr,sîn
+11	last	last	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	lemma[gml]=last
+12	dermid	dårmid	ADV	_	_	13	advmod	_	lemma[gml]=dârmēde
+13	krigt	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma[gml]=krîgen|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+15	“	“	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_185_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Hoe fertelle nen oen Gluiknis un woll nen domedde soeggen, dat soe olltuit bian un nich noloden sollen.
+# text = Hee vortelle nen en gelyknisse un wol nen dårmidde seggen, dat see altyd beaden un nich nålåten sollen.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=hê,sê,et
+2	vortelle	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=vortellen
+3	nen	see	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	iobj	_	lemma[gml]=sê
+4	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma[gml]=êin,êine,êin
+5	gelyknisse	gelyknisse	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma[gml]=gelîkenisse
+6	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde
+7	wol	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	lemma[gml]=willen
+8	nen	see	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	iobj	_	lemma[gml]=sê
+9	dårmidde	dårmid	ADV	_	_	10	advmod	_	lemma[gml]=dârmēde
+10	seggen	seggen	VERB	_	VerbForm=Inf	2	conj	_	lemma[gml]=seggen|SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	dat	dat	SCONJ	_	_	15	mark	_	lemma[gml]=dat
+13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=sê
+14	altyd	altyd	ADV	_	_	15	advmod	_	lemma[gml]=alletît
+15	beaden	beaden	VERB	_	VerbForm=Inf	10	ccomp	_	lemma[gml]=bēden
+16	un	un	CCONJ	_	_	18	cc	_	lemma[gml]=unde
+17	nich	nich	PART	_	PartType=Neg	18	advmod	_	lemma[gml]=nicht
+18	nålåten	nålåten	VERB	_	VerbForm=Inf	15	conj	_	lemma[gml]=nâlâten
+19	sollen	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	aux	_	lemma[gml]=schȫlen|SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
