@@ -5149,7 +5149,7 @@
 # text_orig = Schope häwwet oen ferfriaden Miul, owwer oenen gollnen Feot.
 # text = Skåpe hevvet en vorvreaten muul, aver en goldenen voot.
 1	skåpe	skåp	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma[gml]=schâp
-2	hevvet	hebben	VERB	_	Mood=Ind|Number=Neut|Person=3|Tense=Pres	0	root	_	lemma[gml]=hebben
+2	hevvet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma[gml]=hebben
 3	en	en	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma[gml]=êin,êine,êin
 4	vorvreaten	vorvreaten	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	lemma[gml]=vorvrēten
 5	muul	muul	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma[gml]=mûl|SpaceAfter=No
