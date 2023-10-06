@@ -5250,7 +5250,7 @@
 13	dan	dan	ADV	_	_	14	advmod	_	lemma[gml]=dan
 14	slutet	sluten	VERB	_	Mood=Imp|Number=Plur	3	ccomp	_	lemma[gml]=slûten
 15	juwe	juw	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	lemma[gml]=iuwe
-16	hartee	herte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	lemma[gml]=herte
+16	harte	herte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	lemma[gml]=herte
 17	nich	nich	PART	_	PartType=Neg	14	advmod	_	lemma[gml]=nicht
 18	to	to	ADP	_	_	14	compound:prt	_	lemma[gml]=tô|SpaceAfter=No
 19	,	,	PUNCT	_	_	26	punct	_	_
@@ -5297,10 +5297,10 @@
 # text_orig = „Jo, Heer Pastauer, wann Ey sau gutt seyn wellt!“
 # text = „Jo, heyre pastor, wan Jy sou gud syn willet!“
 1	„	„	PUNCT	_	_	10	punct	_	lemma[gml]=„
-2	Jo	jo	INTJ	_	_	10	discourse	_	lemma[gml]=io
+2	Jo	jo	INTJ	_	_	10	discourse	_	lemma[gml]=io|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	lemma[gml]=,
 4	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma[gml]=hêre
-5	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	lemma[gml]=pâstôr
+5	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	lemma[gml]=pâstôr|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	wan	wän	ADV	_	_	10	advmod	_	lemma[gml]=wan
 8	Jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	lemma[gml]=gî
