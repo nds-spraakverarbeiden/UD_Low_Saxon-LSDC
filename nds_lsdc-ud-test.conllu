@@ -5234,7 +5234,7 @@
 
 # sent_id = LSDC_181_1933_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Wenn et hett: Fandage, wenn jui suine Stimme hairt, dannn sliudet jiue Hadde nich teo, os jiue Aulen inner Ferbidderung daien; dann froge ik: Wecke wören et denn, doe suine Stimme hairen un sik doch wuirsedden?
-# text = Wän et het: Vandage, wän jy syne simme höyret, dan slutet juwe harte nich to, as juwe olden in der vorbitteringe deaden; dan vråge ik: Wekke wören et dän, dee syne stimme höyren un sik doch wiadersetten?
+# text = Wän et het: Vandage, wän jy syne stimme höyret, dan slutet juwe harte nich to, as juwe olden in der vorbitteringe deaden; dan vråge ik: Wekke wören et dän, dee syne stimme höyren un sik doch wiadersetten?
 1	Wän	wän	SCONJ	_	_	3	mark	_	lemma[gml]=wan
 2	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma[gml]=hê,sê,et
 3	het	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	29	advcl	_	lemma[gml]=hêiten|SpaceAfter=No
@@ -5266,7 +5266,7 @@
 29	vråge	vråge	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=vrâgen
 30	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	lemma[gml]=ik|SpaceAfter=No
 31	:	:	PUNCT	_	_	29	punct	_	_
-32	Wekke	wekker	NOUN	_	Case=Nom|Number=Plur|PronType=Int	34	nsubj	_	lemma[gml]=welk
+32	Wekke	wekker	PRON	_	Case=Nom|Number=Plur|PronType=Int	34	nsubj	_	lemma[gml]=welk
 33	wören	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	34	aux	_	lemma[gml]=wēsen
 34	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	ccomp	_	lemma[gml]=hê,sê,et
 35	dän	dän	ADV	_	_	34	advmod	_	lemma[gml]=den|SpaceAfter=No
