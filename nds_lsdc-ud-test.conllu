@@ -5226,7 +5226,7 @@
 9	vorlåten	vorloaten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	7	conj	_	lemma[gml]=vorlâten
 10	−	−	PUNCT	_	_	7	punct	_	_
 11	Nich	nich	PART	_	PartType=Neg	12	advmod	_	lemma[gml]=nicht
-12	al	alle	PRON	_	Case=Nom|Number=Plur|PronType=Tot	15	advmod	_	lemma[gml]=al
+12	al	alle	PRON	_	Case=Nom|Number=Plur|PronType=Tot	14	det	_	lemma[gml]=al
 13	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	cop	_	lemma[gml]=wēsen
 14	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	lemma[gml]=sê
 15	slecht	slecht	ADJ	_	Degree=Pos	1	parataxis	_	lemma[gml]=slicht|SpaceAfter=No
