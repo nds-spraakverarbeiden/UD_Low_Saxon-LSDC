@@ -5365,13 +5365,13 @@
 6	wichtig	wichtig	ADJ	_	Degree=Pos	1	amod	_	lemma[gml]=wichtich|SpaceAfter=No
 7	,	,	PUNCT	_	_	14	punct	_	_
 8	as	as	SCONJ	_	_	14	mark	_	lemma[gml]=alsô
-9	wenn	wän	SCONJ	_	_	14	mark	_	lemma[gml]=wan
+9	wän	wän	SCONJ	_	_	14	mark	_	lemma[gml]=wan
 10	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	lemma[gml]=dû
 11	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma[gml]=dê,dê,dat
-12	Apenborung	oapenbåringe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma[gml]=ōpenbâringe
+12	oapenbåringe	oapenbåringe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma[gml]=ōpenbâringe
 13	Johannis	Johannis	PROPN	_	Number=Sing	12	nmod	_	lemma[gml]=jôhannes
-14	utleggen	uutleggen	VERB	_	VerbForm=Inf	1	advcl	_	lemma[gml]=ûtleggen
-15	künnst	künnen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=2|Tense=Past	14	aux	_	lemma[gml]=künnen|SpaceAfter=No
+14	uutleggen	uutleggen	VERB	_	VerbForm=Inf	1	advcl	_	lemma[gml]=ûtleggen
+15	künst	künnen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=2|Tense=Past	14	aux	_	lemma[gml]=künnen|SpaceAfter=No
 16	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = LSDC_187_<1899_HOL_holstein_klaus-groth_in-t-fahrhus
