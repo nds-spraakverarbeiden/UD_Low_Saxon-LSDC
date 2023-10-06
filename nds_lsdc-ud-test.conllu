@@ -5111,3 +5111,37 @@
 21	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 22	“	“	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_174_1931_OWL_ravensberg_heinrich-stolte_ravensberg_der-bauernhof-um-1870
+# text_orig = Doe nich stiur blaif un lachche, mosse oenen Stiuden betalen.
+# text = Dee nich stuur bleyv un lachde, moste eynen stuten betalen.
+1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	4	nsubj	_	lemma[gml]=dê,dê,dat
+2	nich	nich	PART	_	PartType=Neg	4	advmod	_	lemma[gml]=nicht
+3	stuur	stuur	ADJ	_	Degree=Pos	4	xcomp	_	lemma[gml]=stûr
+4	bleyv	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	csubj	_	lemma[gml]=blîven
+5	un	un	CCONJ	_	_	6	cc	_	lemma[gml]=unde
+6	lachde	lachen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	lemma[gml]=lachen|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	moste	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	aux	_	lemma[gml]=mö̂ten
+9	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma[gml]=êin,êine,êin
+10	stuten	stute	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma[gml]=stûte
+11	betalen	betalen	VERB	_	VerbForm=Inf	0	root	_	lemma[gml]=betālen|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = LSDC_175_1933_OWL_ravensberg_heinrich-stolte_ravensberg_das-neue-testament
+# text_orig = Doe Woöre, doe ik jiu soegge, doe send Goest un Liewen.
+# text = De wöörde, dee ik juw segge, dee sent geyst un liaven.
+1	De	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	lemma[gml]=dê,dê,dat
+2	wöörde	woord	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	dislocated	_	lemma[gml]=wōrt|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	dee	dat	PRON	_	Case=Acc|Number=Plur|PronType=Rel	7	obj	_	lemma[gml]=dê,dê,dat
+5	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	lemma[gml]=ik
+6	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	7	iobj	_	lemma[gml]=gî
+7	segge	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	acl:relcl	_	lemma[gml]=seggen|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	dee	dat	PRON	_	Case=Nom|Number=Plur|PronType=Dem	11	nsubj	_	lemma[gml]=dê,dê,dat
+10	sent	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	lemma[gml]=wēsen
+11	geyst	geyst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma[gml]=gêist
+12	un	un	CCONJ	_	_	13	cc	_	lemma[gml]=unde
+13	liaven	leaven	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	lemma[gml]=lēvent|SpaceAfter=No
+14	.	.	PUNCT	_	_	11	punct	_	_
+
