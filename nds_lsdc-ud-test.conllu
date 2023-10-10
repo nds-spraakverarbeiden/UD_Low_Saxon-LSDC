@@ -562,7 +562,7 @@
 22	'e	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	lemma_gml=hê¹
 23	syn	syn	DET	_	Case=Acc|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	25	det	_	lemma_gml=sîn⁴
 24	eyrste	eyrst	ADJ	_	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	25	amod	_	lemma_gml=êrst¹
-25	vrouwe	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	obj	_	lemma_gml=vrouwe²
+25	vrouwe	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	obj	_	lemma_gml=vrouwe²
 26	nå	nå	ADP	_	AdpType=Prep	27	case	_	lemma_gml=nâ
 27	Marten	Marten	PROPN	_	_	29	obl	_	_
 28	Eskes	Eskes	PROPN	_	_	27	flat	_	_
