@@ -1496,7 +1496,7 @@
 37	spye	spye	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	39	obl	_	lemma_gml=spî(e)¹
 38	nat	nat	ADJ	_	Degree=Pos	39	xcomp	_	lemma_gml=nat²
 39	maked	maken	VERB	_	Aspect=Perf|VerbForm=Part	32	acl	_	lemma_gml=māken
-40	wörden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	39	aux	_	lemma_gml=wērden¹
+40	wörden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	39	aux:pass	_	lemma_gml=wērden¹
 41	un	un	CCONJ	_	_	52	cc	_	lemma_gml=unde²
 42	dan	dan	ADV	_	_	52	advmod	_	lemma_gml=dan¹
 43	düär	döär	ADP	_	AdpType=Prep	45	case	_	lemma_gml=dȫr¹
@@ -2873,7 +2873,7 @@
 53	un	un	CCONJ	_	_	54	cc	_	lemma_gml=unde²
 54	minder	min	ADV	_	_	52	conj	_	_
 55	vordrängd	vordrängen	VERB	_	Aspect=Perf|VerbForm=Part	35	advcl	_	_
-56	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	55	aux	_	SpaceAfter=No
+56	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	55	aux:pass	_	SpaceAfter=No
 57	,	,	PUNCT	_	_	62	punct	_	_
 58	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	62	nsubj	_	_
 59	nich	nich	PART	_	PartType=Neg	62	advmod	_	_
@@ -3091,7 +3091,7 @@
 28	maked	maken	VERB	_	Aspect=Perf|VerbForm=Part	21	advcl	_	_
 29	un	un	CCONJ	_	_	30	cc	_	lemma_gml=unde²
 30	hervöärropen	hervöärropen	VERB	_	Aspect=Perf|VerbForm=Part	28	conj	_	_
-31	warden	werden	AUX	_	VerbForm=Inf	28	aux	_	SpaceAfter=No
+31	warden	werden	AUX	_	VerbForm=Inf	28	aux:pass	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = LSDC_089_OFL_1846_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
@@ -3218,7 +3218,7 @@
 41	vorhudeld	vorhudelen	VERB	_	Aspect=Perf|VerbForm=Part	30	acl	_	_
 42	un	un	CCONJ	_	_	43	cc	_	lemma_gml=unde²
 43	vorprudeld	vorprudelen	VERB	_	Aspect=Perf|VerbForm=Part	41	conj	_	_
-44	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	aux	_	SpaceAfter=No
+44	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	aux:pass	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	41	punct	_	_
 46	ar	as	SCONJ	_	_	48	mark	_	_
 47	gerade	gerade	ADV	_	_	48	advmod	_	_
@@ -3260,7 +3260,7 @@
 29	eynen	eyn	NUM	_	Case=Dat|Gender=Neut|Number=Sing	30	nummod	_	lemma_gml=êⁱn¹
 30	måle	mål	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	31	obl	_	_
 31	afemaked	afmaken	VERB	_	Aspect=Perf|VerbForm=Part	17	advcl	_	_
-32	wörde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	31	aux	_	SpaceAfter=No
+32	wörde	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	31	aux:pass	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	31	punct	_	_
 34	sou	sou	ADV	_	_	38	advmod	_	_
 35	möchte	möägen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	38	aux	_	_
@@ -3598,7 +3598,7 @@
 12	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	lemma_gml=hê
 13	altyd	altyd	ADV	_	_	14	advmod	_	lemma_gml=alletît
 14	nöömd	nömen	VERB	_	Tense=Past|VerbForm=Part	18	acl	_	lemma_gml=nö̂men
-15	wör	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux	_	lemma_gml=wērden|SpaceAfter=No
+15	wör	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux:pass	_	lemma_gml=wērden|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	_
 17	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê
 18	Farmsommertoren	Farmsommertoren	PROPN	_	Number=Sing	5	conj	_	lemma_gml=Farmsommertoren|SpaceAfter=No
@@ -4662,7 +4662,7 @@
 16	ställe	stal	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma_gml=stal
 17	warme	warm	ADJ	_	Degree=Pos	18	compound:prt	_	lemma_gml=warem
 18	holden	holden	VERB	_	Tense=Past|VerbForm=Part	13	conj	_	lemma_gml=hōlden
-19	werden	werden	AUX	_	VerbForm=Inf	13	aux	_	lemma_gml=wērden
+19	werden	werden	AUX	_	VerbForm=Inf	13	aux:pass	_	lemma_gml=wērden
 20	mösten	möten	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	aux	_	lemma_gml=mö̂ten|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -4834,7 +4834,7 @@
 25	vören	vören	VERB	_	VerbForm=Inf	27	advcl	_	lemma_gml=vö̂ren|SpaceAfter=No
 26	,	,	PUNCT	_	_	25	punct	_	_
 27	vorhafted	vorhaften	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=vorhaften
-28	worden	werden	AUX	_	Tense=Past|VerbForm=Part	27	aux	_	lemma_gml=wērden|SpaceAfter=No
+28	worden	werden	AUX	_	Tense=Past|VerbForm=Part	27	aux:pass	_	lemma_gml=wērden|SpaceAfter=No
 29	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_162_DWF_1933_OWL_ravensberg_heinrich-stolte_das-neue-testament
