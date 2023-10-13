@@ -4675,7 +4675,7 @@
 4	rechts	rechts	ADV	_	_	3	advmod	_	lemma_gml=rechts
 5	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=liggen
 6	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê
-7	nåver	nåber	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	lemma_gml=nâber
+7	nåver	nåber	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nmod:poss	_	lemma_gml=nâber
 8	syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
 9	brook	brook	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=brôk
 10	un	un	CCONJ	_	_	11	cc	_	lemma_gml=unde
