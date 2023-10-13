@@ -3744,7 +3744,7 @@
 5	un	un	CCONJ	_	_	6	cc	_	lemma_gml=unde
 6	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	lemma_gml=kîken
 7	öäver	öäver	ADP	_	AdpType=Prep	10	case	_	lemma_gml=ȫver
-8	Kägebeinen	Kägebein	PROPN	_	Number=Sing	10	nmod	_	lemma_gml=Kägebein
+8	Kägebeinen	Kägebein	PROPN	_	Number=Sing	9	nmod:poss	_	lemma_gml=Kägebein
 9	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=sîn,ēr,sîn
 10	skulder	skulder	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	lemma_gml=schulder
 11	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
