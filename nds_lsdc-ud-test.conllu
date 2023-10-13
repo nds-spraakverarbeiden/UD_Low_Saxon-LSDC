@@ -4495,7 +4495,7 @@
 2	stå	stån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=stân
 3	in	in	ADP	_	AdpType=Prep	7	case	_	lemma_gml=in
 4	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê
-5	gemeynde	gemeynde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	lemma_gml=gemêinde
+5	gemeynde	gemeynde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nmod:poss	_	lemma_gml=gemêinde
 6	earem	ear	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	lemma_gml=sîn,ēr,sîn
 7	deenste	deenst	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=dênst|SpaceAfter=No
 8	;	;	PUNCT	_	_	14	punct	_	_
