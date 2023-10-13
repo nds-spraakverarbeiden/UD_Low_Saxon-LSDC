@@ -4841,7 +4841,7 @@
 # text_orig = Dem Zeus suin Pruister, doe biuden for der Statt oenen Tempel hadde, brochte Ossen un Kränße for doe Porden un woll oll met dem Folke offern.
 # text = Dem Zeus syn preester, dee buten voar der stad eynen tempel hadde, brochte ossen un kränse voar de poorten un wol al mid dem volke offeren.
 1	Dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê
-2	Zeus	Zeus	NOUN	_	Number=Sing	4	nmod	_	lemma_gml=zeus
+2	Zeus	Zeus	NOUN	_	Number=Sing	3	nmod:poss	_	lemma_gml=zeus
 3	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=sîn,ēr,sîn
 4	preester	preester	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	lemma_gml=prêster|SpaceAfter=No
 5	,	,	PUNCT	_	_	13	punct	_	_
