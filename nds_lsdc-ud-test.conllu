@@ -3923,7 +3923,7 @@
 29	,	,	PUNCT	_	_	36	punct	_	_
 30	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	36	nsubj	_	lemma_gml=dê
 31	achter	achter	ADP	_	AdpType=Prep	35	obl	_	lemma_gml=achter
-32	Paul	Paul	PROPN	_	Number=Sing	35	nmod	_	lemma_gml=Paul
+32	Paul	Paul	PROPN	_	Number=Sing	34	nmod:poss	_	lemma_gml=Paul
 33	Struck	Struck	PROPN	_	Number=Sing	32	flat	_	lemma_gml=Struck
 34	syn	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	35	det	_	lemma_gml=sîn,ēr,sîn
 35	gewease	gewease	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	36	obj	_	lemma_gml=gewēse
