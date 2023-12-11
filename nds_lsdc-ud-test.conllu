@@ -5456,13 +5456,13 @@
 # text_orig = Maak doch, dat du ut'n Huus' kummst!
 # text = Maak doch, dat du uut den huse kumst!
 1	Maak	maken	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma[gml]=māken
-2	doch	doch	ADV	_	_	1	advmod	_	lemma[gml]=doch
+2	doch	doch	ADV	_	_	1	advmod	_	lemma[gml]=doch|SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	lemma[gml]=,
 4	dat	dat	SCONJ	_	_	9	mark	_	lemma[gml]=dat
 5	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	lemma[gml]=dû
 6	uut	uut	ADP	_	AdpType=Prep	8	case	_	lemma[gml]=ût
 7	den	dat	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma[gml]=dê,dê,dat
 8	huse	huus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	obl	_	lemma[gml]=hûs
-9	kumst	koamen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	lemma[gml]=kōmen
+9	kumst	koamen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	lemma[gml]=kōmen|SpaceAfter=No
 10	!	!	PUNCT	_	_	1	punct	_	lemma[gml]=!
 
