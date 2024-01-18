@@ -5480,7 +5480,17 @@
 9	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 10	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	lemma_gml=kint
 11	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux	_	lemma_gml=hebben
-12	Jochen	Jochen	NOUN	_	Number=Sing	13	nsubj	_	lemma_gml=jochen
+12	Jochen	Jochen	NOUN	_	Number=Sing	13	nsubj	_	_
 13	wegjaagd	wegjagen	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=wechjāgen|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_193_DNS_1921_HAM_hamborg_1921_de_rode_unnerrock
+# text_orig = BOHLE dreiht den Stohl anners.
+# text = Bohle drait den stool anders
+1	Bohle	Bohle	PROPN	_	Number=Sing	2	nsubj	_	_
+2	drait	draien	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=dreyen
+3	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+4	stool	stool	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=stôl
+5	anders	anders	ADV	_	_	2	advmod	_	lemma_gml=anders|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
 
