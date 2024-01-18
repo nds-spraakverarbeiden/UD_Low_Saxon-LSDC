@@ -5466,3 +5466,21 @@
 9	kumst	koamen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	lemma[gml]=kōmen|SpaceAfter=No
 10	!	!	PUNCT	_	_	1	punct	_	lemma[gml]=!
 
+# sent_id = LSDC_1939_00142_DNS
+# text_orig = Noch stunnen dar veel Lüüd rüm, aver de Kinner harr Jochen wegjaagt.
+# text = Noch stunden dår veal lüde herüm, aver de kinder hadde Jochen wegjaagd.
+1	Noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
+2	stunden	stån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=stân
+3	dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
+4	veal	veale	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	lemma_gml=vēle
+5	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma_gml=lü̂de
+6	herüm	herüm	ADV	_	_	2	compound:prt	_	lemma_gml=hērümme|SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	aver	aver	CCONJ	_	_	13	cc	_	lemma_gml=āver
+9	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	lemma_gml=kint
+11	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux	_	lemma_gml=hebben
+12	Jochen	Jochen	NOUN	_	Number=Sing	13	nsubj	_	lemma_gml=jochen
+13	wegjaagd	wegjagen	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=wechjāgen|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
