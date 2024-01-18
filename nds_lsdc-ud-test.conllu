@@ -5466,7 +5466,7 @@
 9	kumst	koamen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	lemma[gml]=kōmen|SpaceAfter=No
 10	!	!	PUNCT	_	_	1	punct	_	lemma[gml]=!
 
-# sent_id = LSDC_1939_00142_DNS
+# sent_id = LSDC_192_DNS_1907_HOL_holstein_maren
 # text_orig = Noch stunnen dar veel Lüüd rüm, aver de Kinner harr Jochen wegjaagt.
 # text = Noch stunden dår veal lüde herüm, aver de kinder hadde Jochen wegjaagd.
 1	Noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
