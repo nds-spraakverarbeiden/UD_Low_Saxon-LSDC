@@ -5494,3 +5494,24 @@
 5	anders	anders	ADV	_	_	2	advmod	_	lemma_gml=anders|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_194_DNS_1904_HAM_hamborg_bahnmeester_dood
+# text_orig = De weren aver ook miendaag nich so, dat en Minsch dorvan so duun warden kunn.
+# text = Dee weren aver ouk myndage nich sou, dat en minske dårvan sou duun warden kun.
+1	Dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	7	nsubj	_	lemma_gml=dê,dê,dat
+2	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen
+3	aver	aver	ADV	_	_	7	advmod	_	lemma_gml=āver
+4	ouk	ouk	ADV	_	_	7	advmod	_	lemma_gml=ôk
+5	myndage	myndage	ADV	_	_	7	advmod	_	lemma_gml=mîndāge
+6	nich	nich	PART	_	PartType=Neg	7	advmod	_	lemma_gml=nicht
+7	sou	sou	ADV	_	_	0	root	_	lemma_gml=sô|SpaceAfter=No
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	dat	dat	SCONJ	_	_	15	mark	_	lemma_gml=dat
+10	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+11	minske	minske	NOUN	_	Case=Nom|Gender=Masc,Neut|Number=Sing	15	nsubj	_	lemma_gml=minsche
+12	dårvan	dårvan	ADV	_	_	15	advmod	_	lemma_gml=dârvan
+13	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sô
+14	duun	duun	ADJ	_	Degree=Pos	15	xcomp	_	lemma_gml=dûn
+15	warden	werden	VERB	_	VerbForm=Inf	7	advcl	_	lemma_gml=wērden
+16	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	aux	_	lemma_gml=künnen|SpaceAfter=No
+17	.	.	PUNCT	_	_	7	punct	_	_
+
