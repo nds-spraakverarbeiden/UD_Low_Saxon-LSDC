@@ -5562,3 +5562,27 @@
 5	nich	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_199_DNS_1919_HOL_holstein_1919_minschen-bi-hamborg-rum
+# text_orig = En Mäten erschien un vertell mi, dat de Herr sik wegen veele Arbeit garnich stören laten kunn.
+# text = En mäden erskyn un vortel my, dat de her sik weagen veale arbeid gaar nich stöyren låten kun.
+1	En	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
+2	mäden	määdken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=māgedeken
+3	erskyn	erskynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=erschînen
+4	un	un	CCONJ	_	_	5	cc	_	lemma_gml=unde
+5	vortel	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=vortellen
+6	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	lemma_gml=ik|SpaceAfter=No
+7	,	,	PUNCT	_	_	18	punct	_	_
+8	dat	dat	SCONJ	_	_	18	mark	_	lemma_gml=dat
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma_gml=hêre
+11	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	obj	_	lemma_gml=sik
+12	weagen	weagen	ADP	_	AdpType=Prep	14	case	_	lemma_gml=wegene
+13	veale	veale	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	lemma_gml=vēle
+14	arbeid	arbeid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	18	obl	_	lemma_gml=arbêit
+15	gaar	gaar	ADV	_	_	16	advmod	_	lemma_gml=gār
+16	nich	nich	PART	_	PartType=Neg	18	advmod	_	lemma_gml=nicht
+17	stöyren	stöyren	VERB	_	VerbForm=Inf	18	xcomp	_	lemma_gml=stö̂ren
+18	låten	låten	VERB	_	VerbForm=Inf	5	ccomp	_	lemma_gml=lâten
+19	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	aux	_	lemma_gml=künnen|SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	_
+
