@@ -5544,3 +5544,11 @@
 14	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	6	csubj	_	lemma_gml=hebben|SpaceAfter=No
 15	?	?	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_197_DNS_1909_NNI_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
+# text_orig = »Warför?«
+# text = »Woorvöär?«
+1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Woorvöär	woorvöär	ADV	_	_	0	root	_	lemma_gml=wôrvȫr|SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
+
