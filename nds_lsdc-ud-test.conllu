@@ -5486,7 +5486,7 @@
 
 # sent_id = LSDC_193_DNS_1921_HAM_hamborg_1921_de_rode_unnerrock
 # text_orig = BOHLE dreiht den Stohl anners.
-# text = Bohle drait den stool anders
+# text = Bohle drait den stool anders.
 1	Bohle	Bohle	PROPN	_	Number=Sing	2	nsubj	_	_
 2	drait	draien	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=dreyen
 3	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
