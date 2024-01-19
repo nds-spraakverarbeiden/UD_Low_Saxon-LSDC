@@ -5552,3 +5552,13 @@
 3	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
 4	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
 
+# sent_id = LSDC_198_DNS_1911_HAM_hamborg_hein_godenwind_de_admirol_von_moskitonien
+# text_orig = Se dät ober nich.
+# text = See dea et aver nich.
+1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	dea	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=dôn
+3	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
+4	aver	aver	ADV	_	_	2	advmod	_	lemma_gml=āver
+5	nich	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
