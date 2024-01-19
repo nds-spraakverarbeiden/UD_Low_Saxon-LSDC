@@ -5525,3 +5525,22 @@
 5	up	up	ADP	_	AdpType=Prep	3	compound:prt	_	lemma_gml=uppe|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_196_DNS_1921_hamborg_de_rode_unnerrock
+# text_orig = Fru Harder, is dat wohr, dat Se al veer Mannslüüd dood hebbt?
+# text = Vrouwe Harder, is dat wår, dat See al veer manslüde doud hebbet?
+1	Vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	vocative	_	lemma_gml=vrouwe
+2	Harder	Harder	PROPN	_	Number=Sing	1	flat	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
+5	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	expl	_	lemma_gml=dê,dê,dat
+6	wår	wår	ADJ	_	Degree=Pos	0	root	_	lemma_gml=wâr|SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	dat	dat	SCONJ	_	_	14	mark	_	lemma_gml=dat
+9	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	14	nsubj	_	lemma_gml=sê
+10	al	al	ADV	_	_	14	advmod	_	lemma_gml=al
+11	veer	veer	NUM	_	NumType=Card	12	nummod	_	lemma_gml=vêr
+12	manslüde	man	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	lemma_gml=man
+13	doud	doud	ADJ	_	Degree=Pos	14	xcomp	_	lemma_gml=dôt
+14	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	6	csubj	_	lemma_gml=hebben|SpaceAfter=No
+15	?	?	PUNCT	_	_	6	punct	_	_
+
