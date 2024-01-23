@@ -5658,7 +5658,7 @@
 
 # sent_id = LSDC_204_MVP_1866_meakelenborg_dorchlauchting
 # text_orig = – De Fürsten-Gnad' is de Krück, woran de lahme Gerechtigkeit 'rümmer hinkt, un wenn Fürsten gnedig warden, willen sei entweder oll Unrecht gaud maken un dorför noch Dank austen, oder sei begahn niges Unrecht, taum wenigsten an de, gegen de sei nich gnedig sünd.
-# text = – De vörstengenåde is de krükke,wooran de lame gerechtigheid herümmer hinkt, un wän vörsten genaedig warden, willen see entweader old unrecht good maken un dårvöär noch dank oosten, oader see begån nydes unrecht, to'm weynigsten an dee, geagen dee see nich genaedig sünt.
+# text = – De vörstengenåde is de krükke, wooran de lame gerechtigheid herümmer hinkt, un wän vörsten genaedig warden, willen see entweader old unrecht good maken un dårvöär noch dank oosten, oader see begån nydes unrecht, to'm weynigsten an dee, geagen dee see nich genaedig sünt.
 1	–	–	PUNCT	_	_	6	punct	_	_
 2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	vörstengenåde	vörstengenåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	lemma_gml=vörstengenâde
