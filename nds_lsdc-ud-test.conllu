@@ -5633,3 +5633,14 @@
 4	nich	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_203_DNS_1909_NNI_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
+# text_orig = De Düwel kamm bolle wedder un sä:
+# text = De düvel kam bolde wedder un sea:
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=dü̂vel
+3	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+4	bolde	bolde	ADV	_	_	3	advmod	_	lemma_gml=bōlde
+5	wedder	wedder	ADV	_	_	3	compound:prt	_	lemma_gml=wedder
+6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
+7	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=seggen|SpaceAfter=No
+8	:	:	PUNCT	_	_	3	punct	_	_
