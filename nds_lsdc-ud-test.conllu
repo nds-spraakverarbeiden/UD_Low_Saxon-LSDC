@@ -5645,3 +5645,14 @@
 7	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=seggen|SpaceAfter=No
 8	:	:	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_204_DNS_1907_HOL_holstein_maren
+# text_orig = »Wo sünd s' bleben?«
+# text = »Woor sünt see bleaven?«
+1	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	Woor	woor	ADV	_	_	5	advmod	_	lemma_gml=wôre
+3	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux	_	lemma_gml=wēsen
+4	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=sê
+5	bleaven	blyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=blîven|SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	«	«	PUNCT	_	_	5	punct	_	_
+
