@@ -5656,3 +5656,59 @@
 6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
 7	«	«	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_204_MVP_1866_meakelenborg_dorchlauchting
+# text_orig = – De Fürsten-Gnad' is de Krück, woran de lahme Gerechtigkeit 'rümmer hinkt, un wenn Fürsten gnedig warden, willen sei entweder oll Unrecht gaud maken un dorför noch Dank austen, oder sei begahn niges Unrecht, taum wenigsten an de, gegen de sei nich gnedig sünd.
+# text = – De vörsten-genåde is de krükke,wooran de lame gerechtigheid herümmer hinkt, un wän vörsten genaedig warden, willen see entweader old unrecht good maken un dårvöär noch dank oosten, oader see begån nydes unrecht, to'm weynigsten an dee, geagen dee see nich genaedig sünt.
+1	–	–	PUNCT	_	_	6	punct	_	_
+2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	vörstengenåde	vörstengenåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	lemma_gml=vörstengenâde
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
+5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+6	krükke	krükke	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma_gml=krücke|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	wooran	wooran	ADV	_	_	13	advmod	_	lemma_gml=wôranne
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
+10	lame	lam	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	lemma_gml=lam
+11	gerechtigheid	gerechtigheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	lemma_gml=gerechtichhêit
+12	herümmer	herüm	ADV	_	_	13	compound:prt	_	lemma_gml=hērümme
+13	hinkt	hinken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	acl:relcl	_	lemma_gml=hinken|SpaceAfter=No
+14	,	,	PUNCT	_	_	27	punct	_	_
+15	un	un	CCONJ	_	_	27	cc	_	lemma_gml=unde
+16	wän	wän	SCONJ	_	_	19	mark	_	lemma_gml=wan
+17	vörsten	vörste	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	lemma_gml=vörste
+18	genaedig	genaedig	ADJ	_	Degree=Pos	19	xcomp	_	lemma_gml=genêdich
+19	warden	werden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	27	advcl	_	lemma_gml=wērden|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	willen	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	27	aux	_	lemma_gml=willen
+22	see	see	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	lemma_gml=sê
+23	entweader	entweader	CCONJ	_	_	27	cc	_	lemma_gml=êntwēder
+24	old	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	25	amod	_	lemma_gml=ōlt
+25	unrecht	unrecht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	27	obj	_	lemma_gml=unrecht
+26	good	good	ADJ	_	Degree=Pos	27	xcomp	_	lemma_gml=gôt
+27	maken	maken	VERB	_	VerbForm=Inf	6	conj	_	lemma_gml=māken
+28	un	un	CCONJ	_	_	32	cc	_	lemma_gml=unde
+29	dårvöär	dårvöär	ADV	_	_	32	advmod	_	lemma_gml=dârvȫr
+30	noch	noch	ADV	_	_	32	advmod	_	lemma_gml=noch
+31	dank	dank	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obj	_	lemma_gml=dank
+32	oosten	oosten	VERB	_	VerbForm=Inf	27	conj	_	lemma_gml=ôsten|SpaceAfter=No
+33	,	,	PUNCT	_	_	36	punct	_	_
+34	oader	edder	CCONJ	_	_	36	cc	_	lemma_gml=edder
+35	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	36	nsubj	_	lemma_gml=sê
+36	begån	begån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	27	conj	_	lemma_gml=begân
+37	nyges	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	lemma_gml=nîe
+38	unrecht	unrecht	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	36	obj	_	lemma_gml=unrecht|SpaceAfter=No
+39	,	,	PUNCT	_	_	42	punct	_	_
+40	to	to	ADP	_	AdpType=Prep	42	case	_	lemma_gml=tô|SpaceAfter=No
+41	'm	de	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
+42	weynigsten	weynig	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	36	obl	_	lemma_gml=weinich
+43	an	an	ADP	_	AdpType=Prep	44	case	_	lemma_gml=an
+44	dee	dee	PRON	_	Case=Acc,Dat|Number=Plur|PronType=Dem	36	obl	_	lemma_gml=dê,dê,dat|SpaceAfter=No
+45	,	,	PUNCT	_	_	50	punct	_	_
+46	geagen	geagen	ADP	_	AdpType=Prep	47	case	_	lemma_gml=gēgen
+47	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	50	obl	_	lemma_gml=dê,dê,dat
+48	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	50	nsubj	_	lemma_gml=sê
+49	nich	nich	PART	_	PartType=Neg	50	advmod	_	lemma_gml=nicht
+50	genaedig	genaedig	ADJ	_	Degree=Pos	44	acl:relcl	_	lemma_gml=genêdich
+51	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	50	cop	_	lemma_gml=wēsen|SpaceAfter=No
+52	.	.	PUNCT	_	_	6	punct	_	_
+
