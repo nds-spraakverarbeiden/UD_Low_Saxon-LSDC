@@ -5597,3 +5597,30 @@
 6	anvroaren	anvroaren	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	0	root	_	lemma_gml=anvrōren|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_201_DNS_1907_holstein_maren
+# text_orig = He schrökel na de Hoffsteed, un se seeg em na, ni glücklich, ni trurig, aver mööd un drömerig.
+# text = Hee skröäkel nå de hovsteade, un see saeg em nå, nich gelükkelig, nich trurig, aver möde un dröymerig.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	skröäkel	skröäkelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=schrȫkelen
+3	nå	nå	ADP	_	AdpType=Prep	5	case	_	lemma_gml=nâ
+4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
+5	hovsteade	hovsteade	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=hofstēde|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
+8	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê,sê,et
+9	saeg	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=sên
+10	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	lemma_gml=hê,sê,et
+11	nå	nå	ADP	_	_	9	compound:prt	_	lemma_gml=nâ|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	nich	nich	PART	_	PartType=Neg	14	advmod	_	lemma_gml=nicht
+14	gelükkelig	gelükkelik	ADJ	_	Degree=Pos	9	advmod	_	lemma_gml=gelückelĩk|SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma_gml=nicht
+17	trurig	trurig	ADJ	_	Degree=Pos	14	conj	_	lemma_gml=trûrich|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	aver	aver	CCONJ	_	_	20	cc	_	lemma_gml=āver
+20	möde	möde	ADJ	_	Degree=Pos	17	conj	_	lemma_gml=mö̂de
+21	un	un	CCONJ	_	_	22	cc	_	lemma_gml=unde
+22	dröymerig	dröymerig	ADJ	_	Degree=Pos	20	conj	_	lemma_gml=drö̂merich|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
