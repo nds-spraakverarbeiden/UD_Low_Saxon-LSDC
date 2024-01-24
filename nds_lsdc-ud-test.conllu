@@ -5721,3 +5721,16 @@
 4	vated	vated	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	lemma_gml=vāten|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_206_DNS_1907_HOL_holstein_maren
+# text_orig = wo heet de, kenn ik em?«
+# text = wo heyt dee, kenne ik em?«
+1	wo	wo	ADV	_	_	2	advmod	_	lemma_gml=wô
+2	heyt	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hêiten
+3	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	kenne	kennen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	parataxis	_	lemma_gml=kennen
+6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
+7	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+8	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
+9	«	«	PUNCT	_	_	2	punct	_	_
+
