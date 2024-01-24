@@ -5972,5 +5972,5 @@
 53	steynkollen	steynkoale	NOUN	_	Case=Acc,Dat|Number=Plur	51	conj	_	lemma_gml=stêinkōle
 54	beasig	beasig	ADJ	_	Degree=Pos	45	advcl	_	lemma_gml=bēsich
 55	bint	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	54	cop	_	lemma_gml=wēsen|SpaceAfter=No
-56	.	.	PUNCT	_	_	1	punct	_	_
+56	.	.	PUNCT	_	_	3	punct	_	_
 
