@@ -5819,6 +5819,6 @@
 15	weader	wedder	ADV	_	_	12	advmod	_	lemma_gml=wedder
 16	van	van	ADP	_	AdpType=Prep	17	case	_	lemma_gml=van
 17	achteren	achteren	ADV	_	_	12	advmod	_	lemma_gml=achtere
-18	afan	afan	ADV	_	_	17	advmod	_	lemma_gml=afan|SpaceAfter=No
+18	ofan	afan	ADV	_	_	17	advmod	_	lemma_gml=afan|SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
