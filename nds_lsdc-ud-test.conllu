@@ -5764,3 +5764,38 @@
 8	swak	swak	ADJ	_	Degree=Pos	5	advmod	_	lemma_gml=swak|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_209_DNS_1919_HOL_holstein_minschen-bi-hamborg-rum
+# text_orig = Ik klatter flink öwer de Swattsuerspütt ut de Onibus, löp nah den Bahnhoff un steeg in de Hochbahn, de erst vör en paar Dag in Bedriev sett weer.
+# text = Ik kladdere vlink öäver de swartsuurspütte uut de onibus, löyp nå den baanhov un steyg in de hougbaan, dee eyrst vöär en pår dage in bedryv setted weer.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	kladdere	kledderen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=klatteren
+3	vlink	vlink	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=flink
+4	öäver	öäver	ADP	_	AdpType=Prep	6	case	_	lemma_gml=ȫver
+5	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+6	swartsuurspütte	swartsuurspot	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	lemma_gml=swartsûrspot
+7	uut	uut	ADP	_	AdpType=Prep	9	case	_	lemma_gml=ût
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+9	onibus	onibus	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=onibus|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	conj	_	lemma_gml=lôpen
+12	nå	nå	ADP	_	AdpType=Prep	14	case	_	lemma_gml=nâ
+13	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+14	baanhov	baanhov	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=bānhof
+15	un	un	CCONJ	_	_	16	cc	_	lemma_gml=unde
+16	steyg	stygen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	11	conj	_	lemma_gml=stîgen
+17	in	in	ADP	_	AdpType=Prep	19	case	_	lemma_gml=in
+18	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
+19	hougbaan	hougbaan	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	lemma_gml=hôchbān|SpaceAfter=No
+20	,	,	PUNCT	_	_	29	punct	_	_
+21	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	29	nsubj	_	lemma_gml=dê,dê,dat
+22	eyrst	eyrst	ADV	_	_	29	advmod	_	lemma_gml=êrst
+23	vöär	vöär	ADP	_	AdpType=Prep	26	case	_	lemma_gml=vȫr
+24	en	en	DET	_	Definite=Ind|PronType=Art	26	det	_	lemma_gml=êin,êine,êin
+25	pår	pår	ADJ	_	_	26	amod	_	lemma_gml=pâr
+26	dage	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	29	obl	_	lemma_gml=dach
+27	in	in	ADP	_	AdpType=Prep	28	case	_	lemma_gml=in
+28	bedryv	bedryv	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	29	obl	_	lemma_gml=bedrîf
+29	setted	setten	VERB	_	Tense=Past|VerbForm=Part	19	acl:relcl	_	lemma_gml=setten
+30	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	29	aux	_	lemma_gml=wēsen|SpaceAfter=No
+31	.	.	PUNCT	_	_	2	punct	_	_
+
