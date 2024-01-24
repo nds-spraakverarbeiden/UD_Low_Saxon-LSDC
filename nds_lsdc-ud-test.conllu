@@ -5751,3 +5751,16 @@
 12	af	af	ADP	_	_	11	orphan	_	lemma_gml=af|SpaceAfter=No
 13	!	!	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_208_MVP_1866_meakelenborg_dorchlauchting
+# text_orig = »So,« säd Dörchläuchting ganz swack,
+# text = »Sou,« sead Dörchläuchting gans swak,
+1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Sou	sou	ADV	_	_	5	ccomp	_	lemma_gml=sô|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	«	«	PUNCT	_	_	2	punct	_	_
+5	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+6	Dörchläuchting	Dörchläuchting	PROPN	_	Number=Sing	5	nsubj	_	_
+7	gans	gans	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=gans
+8	swak	swak	ADJ	_	Degree=Pos	5	advmod	_	lemma_gml=swak|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	_
+
