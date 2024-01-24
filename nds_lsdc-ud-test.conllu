@@ -5822,7 +5822,7 @@
 18	ofan	afan	ADV	_	_	17	advmod	_	lemma_gml=afan|SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_2011_NWF_20XX_DRE_drentsk_Daphne
+# sent_id = LSDC_211_NWF_20XX_DRE_drentsk_Daphne
 # text_orig = Ik leg de handen plat op taofel en zucht een maol diep.
 # text = Ik legge de handen plat up tåfel en süchte eyn mål deep.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
