@@ -5822,3 +5822,20 @@
 18	ofan	afan	ADV	_	_	17	advmod	_	lemma_gml=afan|SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_2011_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Ik leg de handen plat op taofel en zucht een maol diep.
+# text = Ik legge de handen plat up tåfel en süchte eyn mål deep.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	legge	leggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=leggen
+3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+4	handen	hand	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	lemma_gml=hant
+5	plat	plat	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=plat
+6	up	up	ADP	_	AdpType=Prep	7	case	_	lemma_gml=uppe
+7	tåfel	tåfel	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=tāfele
+8	en	un	CCONJ	_	_	9	cc	_	lemma_gml=ende
+9	süchte	süchten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	lemma_gml=süchten
+10	eyn	eyn	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+11	mål	mål	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	lemma_gml=mâl
+12	deep	deep	ADJ	_	Degree=Pos	9	advmod	_	lemma_gml=dêp|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	_
+
