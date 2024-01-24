@@ -5839,3 +5839,66 @@
 12	deep	deep	ADJ	_	Degree=Pos	9	advmod	_	lemma_gml=dêp|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_212_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = - Da mot dissen verwierden heerschop oak nie vremd ziin, hoe zunig hi kiiken kan, maor hi teutelt mit oe, um oew rooie wängkes en oew blaouwe eugkes, en as i oe in d' ellene hef ebrocht, zal i oe handelen as en lapzalver; waor veinde dan heul veur oew hartepiin?
+# text = - Dat mot dissen vorweerden heyrskop ouk neet vremd syn, ho sünig hee kyken kan, mår hee töätelt mid u, üm uw roude wängkes en uw blauwe öygkes, en as hee u in de ellende hevt ebrocht, sal hee u handelen as en lapsalver; wår veind y dan höyl vöär uw hartepyn?
+1	-	-	PUNCT	_	_	9	punct	_	_
+2	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	expl	_	lemma_gml=dâr
+3	mot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	lemma_gml=mö̂ten
+4	dissen	disse	DET	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing|PronType=Dem	6	det	_	lemma_gml=desse,desse,dit
+5	vorweerden	vorweerd	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem,Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	lemma_gml=vorwert
+6	heyrskop	heyrskop	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	9	obj	_	lemma_gml=hêrschop
+7	ouk	ouk	ADV	_	_	9	advmod	_	lemma_gml=ôk
+8	neet	nich	PART	_	PartType=Neg	9	advmod	_	lemma_gml=nicht
+9	vremd	vrömd	ADJ	_	Degree=Pos	0	root	_	lemma_gml=vrȫmede
+10	syn	weasen	AUX	_	VerbForm=Inf	9	aux	_	lemma_gml=wēsen|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	ho	wo	ADV	_	_	13	advmod	_	lemma_gml=wô
+13	sünig	sünig	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=sü̂nich
+14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=hê,sê,et
+15	kyken	kyken	VERB	_	VerbForm=Inf	9	csubj	_	lemma_gml=kîken
+16	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	lemma_gml=künnen|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	mår	mår	CCONJ	_	_	20	cc	_	lemma_gml=mêr
+19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=hê,sê,et
+20	töätelt	töätelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	lemma_gml=tȫtelen
+21	mid	mid	ADP	_	AdpType=Prep	22	case	_	lemma_gml=mit
+22	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	20	obl	_	lemma_gml=gî|SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	üm	üm	ADP	_	AdpType=Prep	27	case	_	lemma_gml=ümme
+25	uw	juw	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	27	det	_	lemma_gml=iuwe
+26	roude	roud	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	27	amod	_	lemma_gml=rôt
+27	wängkes	wängken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	20	obl	_	lemma_gml=wengeken
+28	en	un	CCONJ	_	_	31	cc	_	lemma_gml=ende
+29	uw	juw	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	31	det	_	lemma_gml=iuwe
+30	blauwe	blauw	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	31	amod	_	lemma_gml=blâ
+31	öygkes	öygken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	27	conj	_	lemma_gml=ö̂geken|SpaceAfter=No
+32	,	,	PUNCT	_	_	20	punct	_	_
+33	en	un	CCONJ	_	_	46	cc	_	lemma_gml=ende
+34	as	as	SCONJ	_	_	41	mark	_	lemma_gml=alsô
+35	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	lemma_gml=hê,sê,et
+36	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	41	obj	_	lemma_gml=gî
+37	in	in	ADP	_	AdpType=Prep	39	case	_	lemma_gml=in
+38	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	lemma_gml=dê,dê,dat
+39	ellende	ealende	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	41	obl	_	lemma_gml=elende
+40	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	41	aux	_	lemma_gml=hebben
+41	ebrocht	bringen	VERB	_	Tense=Past|VerbForm=Part	46	advcl	_	lemma_gml=bringen|SpaceAfter=No
+42	,	,	PUNCT	_	_	41	punct	_	_
+43	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	46	aux	_	lemma_gml=schȫlen
+44	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	46	nsubj	_	lemma_gml=hê,sê,et
+45	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	46	obj	_	lemma_gml=gî
+46	handelen	handelen	VERB	_	VerbForm=Inf	20	conj	_	lemma_gml=handelen
+47	as	as	ADP	_	_	49	cc	_	lemma_gml=alsô
+48	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	49	det	_	lemma_gml=êin,êine,êin
+49	lapsalver	lapsalver	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	46	obl	_	lemma_gml=lapsalver|SpaceAfter=No
+50	;	;	PUNCT	_	_	52	punct	_	_
+51	wår	woor	ADV	_	_	52	advmod	_	lemma_gml=wôre
+52	veind	vinden	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	9	parataxis	_	lemma_gml=vinden
+53	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	52	nsubj	_	lemma_gml=gî
+54	dan	dan	ADV	_	_	52	advmod	_	lemma_gml=dan
+55	heyl	heyl	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	52	obj	_	lemma_gml=hêil
+56	vöär	vöär	ADP	_	AdpType=Prep	58	case	_	lemma_gml=vȫr
+57	uw	juw	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	58	det	_	lemma_gml=iuwe
+58	hartepyn	hertepyn	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	55	nmod	_	lemma_gml=hertepîn|SpaceAfter=No
+59	?	?	PUNCT	_	_	52	punct	_	_
+
