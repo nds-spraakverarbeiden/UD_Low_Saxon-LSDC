@@ -5974,3 +5974,29 @@
 55	bint	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	54	cop	_	lemma_gml=wēsen|SpaceAfter=No
 56	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_215_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = - Wii passen mekaor, waor je et beziet, um saomen genuuglik te läven en onzen staot te bliiven vuren.
+# text = - Wy passen mekare, wår jy et beseet, üm samen genööglik te leaven en unsen ståt te blyven vören.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	lemma_gml=wî
+3	passen	passen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma_gml=passen
+4	mekare	makare	ADV	_	_	3	advmod	_	lemma_gml=malkander|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	wår	woor	ADV	_	_	9	advmod	_	lemma_gml=wôre
+7	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	9	nsubj	_	lemma_gml=gî
+8	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	lemma_gml=hê,sê,et
+9	beseet	beseen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	3	advcl	_	lemma_gml=besên|SpaceAfter=No
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	üm	üm	SCONJ	_	_	15	mark	_	lemma_gml=ümme
+12	samen	tosamen	ADV	_	_	15	advmod	_	lemma_gml=tôsāmen
+13	genööglik	genööglik	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=genö̂chlĩk
+14	te	to	PART	_	PartType=Inf	15	mark	_	lemma_gml=tô
+15	leaven	leaven	VERB	_	VerbForm=Inf	3	advcl	_	lemma_gml=lēven
+16	en	un	CCONJ	_	_	20	cc	_	lemma_gml=ende
+17	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma_gml=unse
+18	ståt	ståt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	lemma_gml=stât
+19	te	to	PART	_	PartType=Inf	20	mark	_	lemma_gml=tô
+20	blyven	blyven	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=blîven
+21	vören	vören	VERB	_	VerbForm=Inf	20	xcomp	_	lemma_gml=vö̂ren|SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
