@@ -5896,7 +5896,7 @@
 52	veind	vinden	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	9	parataxis	_	lemma_gml=vinden
 53	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	52	nsubj	_	lemma_gml=gî
 54	dan	dan	ADV	_	_	52	advmod	_	lemma_gml=dan
-55	heyl	heyl	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	52	obj	_	lemma_gml=hêil
+55	höyl	heyl	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	52	obj	_	lemma_gml=hêil
 56	vöär	vöär	ADP	_	AdpType=Prep	58	case	_	lemma_gml=vȫr
 57	uw	juw	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	58	det	_	lemma_gml=iuwe
 58	hartepyn	hertepyn	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	55	nmod	_	lemma_gml=hertepîn|SpaceAfter=No
