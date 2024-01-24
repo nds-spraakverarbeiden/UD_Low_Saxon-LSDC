@@ -5902,3 +5902,15 @@
 58	hartepyn	hertepyn	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	55	nmod	_	lemma_gml=hertepîn|SpaceAfter=No
 59	?	?	PUNCT	_	_	52	punct	_	_
 
+# sent_id = LSDC_213_NWF_1901_ACH_achterhook_1901_ho-ze-knikkert-in-eibarge
+# text_orig = "Melken, melken" röp e!
+# text = "Melken, melken" röpt hee!
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Melken	melken	VERB	_	VerbForm=Inf	6	ccomp	_	lemma_gml=melken|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	melken	melken	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=melken|SpaceAfter=No
+5	"	"	PUNCT	_	_	2	punct	_	_
+6	röpt	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=rôpen
+7	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+8	!	!	PUNCT	_	_	6	punct	_	_
+
