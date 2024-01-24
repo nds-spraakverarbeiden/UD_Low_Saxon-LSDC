@@ -5916,7 +5916,7 @@
 
 # sent_id = LSDC_214_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Zie, zei'k, ai hard mut sjouwen en vreuten en warken, det oew soms de galle berst, dan meui wel een borrel drinken, en 't is wel verknupt, dai anders de stof uut de kâele holden kunt ai in de torf of stienkollen bâezig bint.
-# text = See, sea ik, as y hard müt sjouwen en wröten en warken, dat uw sums de galle berst, dan mö y wel en borrel drinken, en et is wel vorknüpped, dat y anders de stov üüt de keale holden künnet as y in de torv of steynkollen beasig bint.
+# text = See, sea ik, as y hard müttet sjouwen en wröten en warken, dat uw sums de galle berst, dan mö y wel en borrel drinken, en et is wel vorknüpped, dat y anders de stov üüt de keale holden künnet as y in de torv of steynkollen beasig bint.
 1	See	seen	VERB	_	Mood=Imp|Number=Sing	3	ccomp	_	lemma_gml=sên|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=seggen
