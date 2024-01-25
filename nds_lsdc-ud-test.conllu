@@ -6143,3 +6143,12 @@
 14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
 15	?	?	PUNCT	_	_	13	punct	_	_
 
+# sent_id = LSDC_222_NWF_2017_TWE_twentsk_leawenskrachtig-bodbreef-HAN-meart-2017
+# text_orig = Elkeen is evven belangriek.
+# text = Elkeyn is evven belangryk.
+1	Elkeyn	elkeyn	PRON	_	Case=Nom|Number=Sing|PronType=Tot	4	nsubj	_	lemma_gml=elkêin
+2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	lemma_gml=wēsen
+3	evven	eaven	ADV	_	_	4	advmod	_	lemma_gml=ēvene
+4	belangryk	belangryk	ADJ	_	Degree=Pos	0	root	_	lemma_gml=belancrîk|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
