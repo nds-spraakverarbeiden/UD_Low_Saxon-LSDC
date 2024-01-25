@@ -6311,7 +6311,7 @@
 # text_orig = waor dwaolen ouw zinnen; hoe kan i zoa bot ziin?
 # text = wår dwalen uw sinnen; ho kan y sou but syn?
 1	wår	woor	ADV	_	_	2	advmod	_	lemma_gml=wôre
-2	dwalen	dwalen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=P	0	root	_	lemma_gml=dwālen
+2	dwalen	dwalen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=dwālen
 3	uw	juw	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=iuwe
 4	sinnen	sin	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	lemma_gml=sin|SpaceAfter=No
 5	;	;	PUNCT	_	_	10	punct	_	_
