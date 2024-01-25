@@ -6421,7 +6421,7 @@
 36	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
 37	koffy	koffy	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	parataxis	_	lemma_gml=koffî
 38	hen	hen	ADV	_	_	37	advmod	_	lemma_gml=hen
-39	en	un	CCONJ	_	_	46	cc	_	lemma_gml=ende|SpaceAfter=no
+39	en	un	CCONJ	_	_	46	cc	_	lemma_gml=ende|SpaceAfter=No
 40	,	,	PUNCT	_	_	42	punct	_	_
 41	des	de	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
 42	junges	junge	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	46	vocative	_	lemma_gml=junge|SpaceAfter=No
