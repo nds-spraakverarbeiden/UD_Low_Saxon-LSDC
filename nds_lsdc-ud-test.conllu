@@ -6031,3 +6031,49 @@
 26	ofleyren	afleyren	VERB	_	VerbForm=Inf	16	conj	_	lemma_gml=aflêren|SpaceAfter=No
 27	.	.	PUNCT	_	_	16	punct	_	_
 
+# sent_id = LSDC_217_NWF_20XX_ACH_achterhook_ne-angstige-geschiedenis
+# text_orig = Daor bleef e ne hele tied zitten, veulen of e ok wat ebrokkene had, dat leek allemaole met te vallen en ton reed e langzaam naor d'n eigenaar van d'n kleinen bolle, den vlak in de buurte wonnen. 
+# text = Dår bleyv hee ne heyle tyd sitten, völen of hee ouk wat ebrokkene had, dat leyk allemåle med te vallen en ton reyd hee langsaam når den eigenaar van den kleinen bolle, den vlak in de büürde wonnen.
+1	Dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
+2	bleyv	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=blîven
+3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+4	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem,Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+5	heyle	hdyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	6	amod	_	lemma_gml=hêil
+6	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	2	obl	_	lemma_gml=tît
+7	sitten	sitten	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=sitten|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	völen	völen	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=vö̂len
+10	of	of	SCONJ	_	_	14	mark	_	lemma_gml=of
+11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	lemma_gml=hê,sê,et
+12	ouk	ouk	ADV	_	_	14	advmod	_	lemma_gml=ôk
+13	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	14	obj	_	lemma_gml=watte
+14	ebrokkene	breaken	VERB	_	Tense=Past|VerbForm=Part	9	advcl	_	lemma_gml=brēken
+15	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux	_	lemma_gml=hebben|SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=dê,dê,dat
+18	leyk	lyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	parataxis	_	lemma_gml=lîken
+19	allemåle	allemål	ADV	_	_	18	advmod	_	lemma_gml=altômâle
+20	med	mid	ADP	_	_	22	compound:prt	_	lemma_gml=mit
+21	te	to	PART	_	PartType=Inf	22	mark	_	lemma_gml=tô
+22	vallen	vallen	VERB	_	VerbForm=Inf	18	advcl	_	lemma_gml=vallen
+23	en	un	CCONJ	_	_	25	cc	_	lemma_gml=ende
+24	ton	do	ADV	_	_	25	advmod	_	lemma_gml=dô
+25	reyd	ryden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=rîden
+26	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=hê,sê,et
+27	langsaam	langsaam	ADJ	_	Degree=Pos	25	advmod	_	lemma_gml=lancsam
+28	når	nå	ADP	_	AdpType=Prep	30	case	_	lemma_gml=nâ
+29	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	lemma_gml=dê,dê,dat
+30	eigenaar	eygener	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	25	obl	_	lemma_gml=êigener
+31	van	van	ADP	_	AdpType=Prep	34	case	_	lemma_gml=van
+32	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	lemma_gml=dê,dê,dat
+33	kleinen	kleyne	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	lemma_gml=klêin
+34	bolle	bolle	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	30	nmod	_	lemma_gml=bolle|SpaceAfter=No
+35	,	,	PUNCT	_	_	41	punct	_	_
+36	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	41	nsubj	_	lemma_gml=dê,dê,dat
+37	vlak	vlak	ADJ	_	Degree=Pos	40	advmod	_	lemma_gml=vlak
+38	in	in	ADP	_	AdpType=Prep	40	case	_	lemma_gml=in
+39	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	lemma_gml=dê,dê,dat
+40	büürde	buurde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	41	obl	_	lemma_gml=bü̂rete
+41	wonnen	woanen	VERB	_	Mood=Ind|Number=Sing|Person=5|Tense=Past	30	acl:relcl	_	lemma_gml=wōnen|SpaceAfter=No
+42	.	.	PUNCT	_	_	2	punct	_	_
+
