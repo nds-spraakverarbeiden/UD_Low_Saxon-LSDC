@@ -6108,3 +6108,19 @@
 11	Andries	Andries	PROPN	_	Number=Sing	9	vocative	_	lemma_gml=andries|SpaceAfter=No
 12	?	?	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_220_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = Altiids bliift oew hart nog rechtevoort tägen mii as stiif linnen.
+# text = Altyds blyvt uw harte noch rechtevoord teagen my as styv linnen.
+1	Altyds	altyds	ADV	_	_	2	advmod	_	lemma_gml=alletît
+2	blyvt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=blîven
+3	uw	juw	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	det	_	lemma_gml=iuwe
+4	harte	herte	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	lemma_gml=herte
+5	noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
+6	rechtevoord	rechtevoord	ADV	_	_	2	advmod	_	lemma_gml=rechtevōrt
+7	teagen	geagen	ADP	_	AdpType=Prep	8	case	_	lemma_gml=tēgen
+8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	lemma_gml=ik
+9	as	as	ADV	_	_	11	case	_	lemma_gml=alsô
+10	styv	styv	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=stîf
+11	linnen	linnen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=lîn|SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
