@@ -6167,7 +6167,7 @@
 10	liggen	liggen	VERB	_	VerbForm=Inf	3	advcl	_	lemma_gml=liggen
 11	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
 12	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
-13	anderen	ander	PRON	_	Case=Nom|Degree=Pos|Number=Plur|PronType=Ind	3	conj	_	lemma_gml=ander
+13	anderen	ander	PRON	_	Case=Nom|Number=Plur|PronType=Ind	3	conj	_	lemma_gml=ander
 14	ouk	ouk	ADV	_	_	13	advmod	_	lemma_gml=ôk
 15	allemåle	allemål	ADV	_	_	13	advmod	_	lemma_gml=altômâle
 16	der	dår	ADV	_	_	13	advmod	_	lemma_gml=dâr
