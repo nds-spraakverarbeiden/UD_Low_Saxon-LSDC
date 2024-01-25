@@ -6307,3 +6307,19 @@
 4	snydersknecht	snydersknecht	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	1	nmod	_	lemma_gml=snîdersknecht|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_226_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = waor dwaolen ouw zinnen; hoe kan i zoa bot ziin?
+# text = wår dwalen uw sinnen; ho kan y sou but syn?
+1	wår	woor	ADV	_	_	2	advmod	_	lemma_gml=wôre
+2	dwalen	dwalen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=P	0	root	_	lemma_gml=dwālen
+3	uw	juw	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=iuwe
+4	sinnen	sin	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	lemma_gml=sin|SpaceAfter=No
+5	;	;	PUNCT	_	_	10	punct	_	_
+6	ho	wo 	ADV	_	_	10	advmod	_	lemma_gml=wô
+7	kan	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	10	aux	_	lemma_gml=künnen
+8	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	10	nsubj	_	lemma_gml=gî
+9	sou	sou	ADV	_	_	10	advmod	_	lemma_gml=sô
+10	but	but	ADJ	_	Degree=Pos	2	parataxis	_	lemma_gml=but
+11	syn	weasen	AUX	_	VerbForm=Inf	10	cop	_	lemma_gml=wēsen|SpaceAfter=No
+12	?	?	PUNCT	_	_	2	punct	_	_
+
