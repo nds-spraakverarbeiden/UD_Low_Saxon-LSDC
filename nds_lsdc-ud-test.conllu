@@ -6092,3 +6092,19 @@
 10	an	an	ADP	_	_	4	case	_	lemma_gml=an|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_219_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Wanneer muk er dan met de borrel uutscheijen, Andries?
+# text = Waneyr mut ik der dan med de borrel üütskeyden, Andries?
+1	Waneyr	waneyr	ADV	_	_	9	advmod	_	lemma_gml=wannêre
+2	mut	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	lemma_gml=mö̂ten
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
+4	der	dår	ADV	_	_	9	advmod	_	lemma_gml=dâr
+5	dan	dan	ADV	_	_	9	advmod	_	lemma_gml=dan
+6	med	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
+7	de	de 	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
+8	borrel	borrel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=borrel
+9	üütskeyden	uutskeyden	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=ûtschêiden|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Andries	Andries	PROPN	_	Number=Sing	9	vocative	_	lemma_gml=andries|SpaceAfter=No
+12	?	?	PUNCT	_	_	9	punct	_	_
+
