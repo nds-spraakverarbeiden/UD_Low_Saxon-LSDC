@@ -6418,7 +6418,7 @@
 33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
 34	der	der	ADV	_	_	37	advmod	_	lemma_gml=dâr
 35	döär	döärch	ADP	_	AdpType=Prep	37	case	_	lemma_gml=dȫr
-36	de	de 	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
+36	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
 37	koffy	koffy	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	parataxis	_	lemma_gml=koffî
 38	hen	hen	ADV	_	_	37	advmod	_	lemma_gml=hen
 39	en	un	CCONJ	_	_	46	cc	_	lemma_gml=ende|SpaceAfter=no
