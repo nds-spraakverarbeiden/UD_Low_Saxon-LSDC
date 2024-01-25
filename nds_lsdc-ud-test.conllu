@@ -6074,6 +6074,6 @@
 38	in	in	ADP	_	AdpType=Prep	40	case	_	lemma_gml=in
 39	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	lemma_gml=dê,dê,dat
 40	büürde	buurde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	41	obl	_	lemma_gml=bü̂rete
-41	wonnen	woanen	VERB	_	Mood=Ind|Number=Sing|Person=5|Tense=Past	30	acl:relcl	_	lemma_gml=wōnen|SpaceAfter=No
+41	wonnen	woanen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	acl:relcl	_	lemma_gml=wōnen|SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	_
 
