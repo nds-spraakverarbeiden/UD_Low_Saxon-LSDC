@@ -6472,3 +6472,14 @@
 12	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	lemma_gml=watte|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_230_NWF_20XX_ACH_achterhook_kleine-voetballertjes
+# text_orig = ’t Veld was altied ‘n weie.
+# text = Et veld was altyd en weide.
+1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=et
+2	veld	veld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	lemma_gml=velt
+3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	lemma_gml=wēsen
+4	altyd	altyd	ADV	_	_	6	advmod	_	lemma_gml=alletît
+5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+6	weide	weide	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma_gml=weide|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
