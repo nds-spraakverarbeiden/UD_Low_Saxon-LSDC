@@ -6219,7 +6219,7 @@
 
 # sent_id = LSDC_224_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Dat kui edoan kriegen, Diekes, en maggie met mie meêgoan, mits dai mie beloaft, dai ook ofstand doet van de borrels, want zie, ie bint anders gien kwoaije kâerel; mâer 't is met oew net als vrogger met mie - ie pruuft te veulle, en ai de jenevercenten bespoard, kui 't ander joar net zoo goed en verkentien slagten as ikke.
-# text = Dat kün y edån krygen, Diekes, en mag y med my meagån, mids dat y my beloavet, dat y ouk ofstand doot van de borrels, want see, y bint anders dyn kwåde kearel; mår et is med uw net als vrogger med my - y prövet te völle, en as y de jenevercenten besparet, kün y et ander jår net sou good en verkentyn slachten as ikke.
+# text = Dat kün y edån krygen, Diekes, en mag y med my meagån, mids dat y my beloavet, dat y ouk ofstand doot van de borrels, want see, y bint anders gyn kwåde kearel; mår et is med uw net als vrogger med my - y prövet te völle, en as y de jenevercenten besparet, kün y et ander jår net sou good en verkentyn slachten as ikke.
 1	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	lemma_gml=dê,dê,dat
 2	kün	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	5	aux	_	lemma_gml=künnen
 3	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	5	nsubj	_	lemma_gml=gî
@@ -6286,7 +6286,7 @@
 64	kün	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	74	aux	_	lemma_gml=künnen
 65	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	74	nsubj	_	lemma_gml=gî
 66	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	68	det	_	lemma_gml=dê,dê,dat
-67	ander	ander 	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	68	amod	_	lemma_gml=ander
+67	ander	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	68	amod	_	lemma_gml=ander
 68	jår	jår	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	74	obl	_	lemma_gml=jâr
 69	net	net	ADV	_	_	71	advmod	_	lemma_gml=net
 70	sou	sou	ADV	_	_	71	advmod	_	lemma_gml=sô
