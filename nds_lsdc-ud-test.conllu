@@ -6124,3 +6124,22 @@
 11	linnen	linnen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=lîn|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_221_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = - Holdie niet meer van oew vrouwe en kinderen, - vroeg ie?
+# text = - Hold y neet meyr van uw vrouwe en kinderen, - vroog hee?
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Hold	holden	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	13	ccomp	_	lemma_gml=hōlden
+3	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî
+4	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
+5	meyr	meyr	ADV	_	_	2	advmod	_	lemma_gml=mêr
+6	van	van	ADP	_	AdpType=Prep	8	case	_	lemma_gml=van
+7	uw	juw	DET	_	Case=Acc,Dat|Gender=Fem|Poss=Yes|PronType=Prs	8	det	_	lemma_gml=iuwe
+8	vrouwe	vrouwe	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=vrouwe
+9	en	un	CCONJ	_	_	10	cc	_	lemma_gml=ende
+10	kinderen	kind	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	8	conj	_	lemma_gml=kint|SpaceAfter=No
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	-	-	PUNCT	_	_	2	punct	_	_
+13	vroog	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vrâgen
+14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+15	?	?	PUNCT	_	_	13	punct	_	_
+
