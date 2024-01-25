@@ -6382,7 +6382,7 @@
 
 # sent_id = LSDC_228_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = - Kwam ik dan in mien kertier, dan stond in mien heukien altied un konkeltien met koffie op un teste met vuur en un skoon wit kummechien er noast; melk was er deur de koffie hen en, 's jonges, dan was doar zon lakkere koaksmâek an, da'k zoo zachies an net zoo veulle van die koffie as van un borrel begon te holden.
-# text = - Kwam ik dan in myn kwarteer, dan stund in myn hökyn altyd en kunkeltyn med koffy up en teste med vüür en en skoun wit kümmechyn der nåst; melk was der döär de koffy hen en, des junges, dan was dår sou en lakkere kooksmaak an, dat ik sou sachtys an net sou völle van dee koffy as van en borrel begun te holden.
+# text = - Kwam ik dan in myn kerteer, dan stund in myn hökyn altyd en kunkeltyn med koffy up en teste med vüür en en skoun wit kümmechyn der nåst; melk was der döär de koffy hen en, des junges, dan was dår sou en lakkere kooksmaak an, dat ik sou sachtys an net sou völle van dee koffy as van en borrel begun te holden.
 1	-	-	PUNCT	_	_	10	punct	_	_
 2	Kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	advcl	_	lemma_gml=kōmen
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
@@ -6442,7 +6442,7 @@
 57	an	an	ADP	_	_	56	case	_	lemma_gml=an
 58	net	net	ADV	_	_	59	advmod	_	lemma_gml=net
 59	sou	sou	ADV	_	_	60	advmod	_	lemma_gml=sô
-60	völle	veale	ADV	_	Degree=Pos|PronType=Ind	68	advmod	_	lemma_gml=vēle
+60	völle	veale	ADV	_	Degree=Pos	68	advmod	_	lemma_gml=vēle
 61	van	van	ADP	_	AdpType=Prep	63	case	_	lemma_gml=van
 62	dee	dee	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	63	det	_	lemma_gml=dê,dê,dat
 63	koffy	koffy	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	68	obl	_	lemma_gml=koffî
