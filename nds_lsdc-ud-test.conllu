@@ -6455,3 +6455,20 @@
 70	holden	holden	VERB	_	VerbForm=Inf	68	xcomp	_	lemma_gml=hōlden|SpaceAfter=No
 71	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_229_NWF_1838_OVY_Deventer_Overijsselsche_almanak_voor_oudheid_en_letteren
+# text_orig = Tóò, hebt is en betjen geduld en vertelt mi-j is wat.
+# text = Do, hebbet eyns en betjen gedült en vortellet my eyns wat.
+1	Do	do	INTJ	_	_	3	discourse	_	lemma_gml=dô|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	hebbet	hebben	VERB	_	Mood=Imp|Number=Plur	0	root	_	lemma_gml=hebben
+4	eyns	eyns	ADV	_	_	3	advmod	_	lemma_gml=êines
+5	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+6	betjen	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma_gml=bēteken
+7	gedüld	geduld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	lemma_gml=gedult
+8	en	un	CCONJ	_	_	9	cc	_	lemma_gml=ende
+9	vortellet	vortellen	VERB	_	Mood=Imp|Number=Plur	3	conj	_	lemma_gml=vortellen
+10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	obj	_	lemma_gml=ik
+11	eyns	eyns	ADV	_	_	9	advmod	_	lemma_gml=êines
+12	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	lemma_gml=watte|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
