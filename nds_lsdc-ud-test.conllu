@@ -6086,8 +6086,8 @@
 4	dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
 5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma_gml=in
 6	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
-7	geheyl	geheyl	NOUN	_	Case=Acc,Dat|Degree=Pos|Number=Sing	2	obl	_	lemma_gml=gehêil
-8	gyn	geyn	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	det	_	lemma_gml=gêin
+7	geheyl	geheyl	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=gehêil
+8	gyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	9	det	_	lemma_gml=gêin
 9	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=sin
 10	an	an	ADP	_	_	4	case	_	lemma_gml=an|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
