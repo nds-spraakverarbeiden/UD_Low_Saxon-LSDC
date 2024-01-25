@@ -6315,7 +6315,7 @@
 3	uw	juw	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=iuwe
 4	sinnen	sin	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	lemma_gml=sin|SpaceAfter=No
 5	;	;	PUNCT	_	_	10	punct	_	_
-6	ho	wo 	ADV	_	_	10	advmod	_	lemma_gml=wô
+6	ho	wo	ADV	_	_	10	advmod	_	lemma_gml=wô
 7	kan	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	10	aux	_	lemma_gml=künnen
 8	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	10	nsubj	_	lemma_gml=gî
 9	sou	sou	ADV	_	_	10	advmod	_	lemma_gml=sô
