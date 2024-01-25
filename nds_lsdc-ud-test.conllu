@@ -6467,7 +6467,7 @@
 7	gedüld	geduld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	nmod	_	lemma_gml=gedult
 8	en	un	CCONJ	_	_	9	cc	_	lemma_gml=ende
 9	vortellet	vortellen	VERB	_	Mood=Imp|Number=Plur	3	conj	_	lemma_gml=vortellen
-10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	obj	_	lemma_gml=ik
+10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	lemma_gml=ik
 11	eyns	eyns	ADV	_	_	9	advmod	_	lemma_gml=êines
 12	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	lemma_gml=watte|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
