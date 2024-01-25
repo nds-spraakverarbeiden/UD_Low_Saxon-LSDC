@@ -6325,7 +6325,7 @@
 
 # sent_id = LSDC_227_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Ie kan al un heele boel psalms van buuten, en niet alleenig dat hie ze zoo mâer uut et heuft kan opzeggen, mâer ook zoo duudelik en kloar, dai heuren kunt, as dat ie ze begrip - ziee Diekes, da's eerst de regte sjeu dervan!
-# text = Hee kan al en heyle bodel psalms van üten, en neet alleynig dat hee see sou mår üüt et höyvd kan upseggen, mår ouk sou düdelik en klår, dat y höyren künnet, as dat hee see begript - see Diekes, dat is eyrst de rechte jus dervan!
+# text = Hee kan al en heyle bodel psalms van büten, en neet alleynig dat hee see sou mår üüt et höyvd kan upseggen, mår ouk sou düdelik en klår, dat y höyren künnet, as dat hee see begript - see Diekes, dat is eyrst de rechte jus dervan!
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,dat
 2	kan	künnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=künnen
 3	al	al	ADV	_	_	2	advmod	_	lemma_gml=al
