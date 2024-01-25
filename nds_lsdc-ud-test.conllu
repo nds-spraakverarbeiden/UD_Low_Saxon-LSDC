@@ -6274,7 +6274,7 @@
 52	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	53	nsubj	_	lemma_gml=gî
 53	prövet	pröven	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	45	parataxis	_	lemma_gml=prö̂ven
 54	te	to	ADV	_	_	55	advmod	_	lemma_gml=tô
-55	völle	veale	ADJ	_	Degree=Pos|PronType=Ind	53	advmod	_	lemma_gml=vēle|SpaceAfter=No
+55	völle	veale	ADV	_	Degree=Pos	53	advmod	_	lemma_gml=vēle|SpaceAfter=No
 56	,	,	PUNCT	_	_	74	punct	_	_
 57	en	un	CCONJ	_	_	74	cc	_	lemma_gml=ende
 58	as	as	SCONJ	_	_	62	mark	_	lemma_gml=alsô
