@@ -6323,3 +6323,60 @@
 11	syn	weasen	AUX	_	VerbForm=Inf	10	cop	_	lemma_gml=wēsen|SpaceAfter=No
 12	?	?	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_227_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Ie kan al un heele boel psalms van buuten, en niet alleenig dat hie ze zoo mâer uut et heuft kan opzeggen, mâer ook zoo duudelik en kloar, dai heuren kunt, as dat ie ze begrip - ziee Diekes, da's eerst de regte sjeu dervan!
+# text = Hee kan al en heyle bodel psalms van üten, en neet alleynig dat hee see sou mår üüt et höyvd kan upseggen, mår ouk sou düdelik en klår, dat y höyren künnet, as dat hee see begript - see Diekes, dat is eyrst de rechte jus dervan!
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,dat
+2	kan	künnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=künnen
+3	al	al	ADV	_	_	2	advmod	_	lemma_gml=al
+4	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+5	heyle	heyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=hêil
+6	bodel	bodel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=bôdel
+7	psalms	psalm	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nmod	_	lemma_gml=psalm
+8	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
+9	büten	buten	ADV	_	_	2	obl	_	lemma_gml=bûten|SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
+12	neet	nich	PART	_	PartType=Neg	13	advmod	_	lemma_gml=nicht
+13	alleynig	alleynig	ADJ	_	Degree=Pos	2	conj	_	lemma_gml=allêinich
+14	dat	dat	SCONJ	_	_	23	mark	_	lemma_gml=dat
+15	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=hê,sê,et
+16	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	obj	_	lemma_gml=sê
+17	sou	sou	ADV	_	_	18	advmod	_	lemma_gml=sô
+18	mår	mår	ADV	_	_	21	advmod	_	lemma_gml=mêr
+19	üüt	uut	ADP	_	AdpType=Prep	21	case	_	lemma_gml=ût
+20	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	21	det	_	lemma_gml=et
+21	höyvd	höyvd	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=hö̂vet
+22	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	aux	_	lemma_gml=künnen
+23	upseggen	upseggen	VERB	_	VerbForm=Inf	13	advcl	_	lemma_gml=upseggen|SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	mår	mår	CCONJ	_	_	28	cc	_	lemma_gml=mêr
+26	ouk	ouk	ADV	_	_	28	advmod	_	lemma_gml=ôk
+27	sou	sou	ADV	_	_	28	advmod	_	lemma_gml=sô
+28	düdelik	düüdlik	ADJ	_	Degree=Pos	21	conj	_	lemma_gml=dü̂delĩk
+29	en	un	CCONJ	_	_	30	cc	_	lemma_gml=ende
+30	klår	klår	ADJ	_	Degree=Pos	28	conj	_	lemma_gml=klâr|SpaceAfter=No
+31	,	,	PUNCT	_	_	34	punct	_	_
+32	dat	dat	SCONJ	_	_	34	mark	_	lemma_gml=dat
+33	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	34	nsubj	_	lemma_gml=gî
+34	höyren	höyren	VERB	_	VerbForm=Inf	28	advcl	_	lemma_gml=hö̂ren
+35	künnet	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	34	aux	_	lemma_gml=künnen|SpaceAfter=No
+36	,	,	PUNCT	_	_	41	punct	_	_
+37	as	as	SCONJ	_	_	41	mark	_	lemma_gml=alsô
+38	dat	dat	SCONJ	_	_	37	fixed	_	lemma_gml=dat
+39	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	lemma_gml=hê,sê,et
+40	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	41	obj	_	lemma_gml=sê
+41	begript	begrypen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	ccomp	_	lemma_gml=begrîpen
+42	-	-	PUNCT	_	_	41	punct	_	_
+43	see	seen	VERB	_	Mood=Imp|Number=Sing	2	parataxis	_	lemma_gml=sên
+44	Diekes	Diekes	PROPN	_	Number=Sing	43	vocative	_	SpaceAfter=No
+45	,	,	PUNCT	_	_	46	punct	_	_
+46	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	51	nsubj	_	lemma_gml=dê,dê,dat
+47	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	51	cop	_	lemma_gml=wēsen
+48	eyrst	eyrst	ADV	_	_	51	advmod	_	lemma_gml=êrst
+49	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê,dê,dat
+50	rechte	recht	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	lemma_gml=recht
+51	jus	jus	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	43	parataxis	_	lemma_gml=jus
+52	dervan	dervan	ADV	_	_	51	advmod	_	lemma_gml=dârvan|SpaceAfter=No
+53	!	!	PUNCT	_	_	43	punct	_	_
+
