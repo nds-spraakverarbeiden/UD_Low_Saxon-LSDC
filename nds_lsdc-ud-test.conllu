@@ -6269,8 +6269,8 @@
 47	als	as	ADP	_	_	48	case	_	lemma_gml=alsô
 48	vrogger	vrö	ADJ	_	Degree=Cmp	45	obl	_	lemma_gml=vrô
 49	med	mid	ADP	_	AdpType=Prep	50	case	_	lemma_gml=mit
-50	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	48	obl	_	lemma_gml=ik|SpaceAfter=No
-51	-	_	PUNCT	_	_	53	punct	_	_
+50	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	48	obl	_	lemma_gml=ik
+51	-	-	PUNCT	_	_	53	punct	_	_
 52	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	53	nsubj	_	lemma_gml=gî
 53	prövet	pröven	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	45	parataxis	_	lemma_gml=prö̂ven
 54	te	to	ADV	_	_	55	advmod	_	lemma_gml=tô
