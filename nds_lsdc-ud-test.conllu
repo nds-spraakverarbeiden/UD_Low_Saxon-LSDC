@@ -6300,7 +6300,7 @@
 
 # sent_id = LSDC_225_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Minnebrief van en sniiersknecht.
-# text = Minnebreev an en snydersknecht.
+# text = Minnebreev van en snydersknecht.
 1	Minnebreev	minnebreev	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=minnebrêf
 2	van	van	ADP	_	AdpType=Prep	4	case	_	lemma_gml=van
 3	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
