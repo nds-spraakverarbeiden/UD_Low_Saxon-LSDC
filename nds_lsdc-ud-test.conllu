@@ -6595,3 +6595,51 @@
 3	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_234_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = De Plume, die altied veur vrâede is, wâerschowde het Iekertien gedurig en zei, scheit er now uut, want de Bâere begint de pette scief te trekken, en doar kui altied an zien, datte kwoad wordt.
+# text = De Plüme, dee altyd vöär vreade is, waarskouwde et Eykertyn gedürig en sei, skeid der now üüt, want de Bare begint de pette skeyv te trekken, en dår kün jy altyd an seen, dat hee kwåd wordt.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	Plüme	plume	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	lemma_gml=plûme|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	7	nsubj	_	lemma_gml=dû
+5	altyd	altyd	ADV	_	_	7	advmod	_	lemma_gml=alletît
+6	vöär	vöär	ADP	_	AdpType=Prep	7	case	_	lemma_gml=vȫr
+7	vreade	vreade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	acl:relcl	_	lemma_gml=vrēde
+8	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen|SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	waarschouwde	waarskouwen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wārschü̂wen
+11	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	lemma_gml=et
+12	Eykertyn	eykerken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	lemma_gml=êikerken
+13	gedürig	gedürig	ADJ	_	Degree=Pos	10	advmod	_	lemma_gml=gedü̂rich
+14	en	un	CCONJ	_	_	15	cc	_	lemma_gml=ende
+15	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	lemma_gml=seggen|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	skeid	skeyden	VERB	_	Mood=Imp|Number=Sing	15	ccomp	_	lemma_gml=schêiden
+18	der	der	ADV	_	_	17	advmod	_	lemma_gml=dâr
+19	now	nu	ADV	_	_	17	advmod	_	lemma_gml=nû
+20	üüt	uut	ADP	_	_	17	compound:prt	_	lemma_gml=ût|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	want	wante	CCONJ	_	_	25	cc	_	lemma_gml=wente
+23	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
+24	Bare	bare	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	lemma_gml=bāre
+25	begint	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	advcl	_	lemma_gml=beginnen
+26	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
+27	pette	pette	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obj	_	lemma_gml=pette
+28	skeyv	skeyv	ADJ	_	Degree=Pos	30	xcomp	_	lemma_gml=schêf
+29	te	te	PART	_	PartType=Inf	30	mark	_	lemma_gml=tô
+30	trekken	trekken	VERB	_	VerbForm=Inf	25	xcomp	_	lemma_gml=trecken|SpaceAfter=No
+31	,	,	PUNCT	_	_	38	punct	_	_
+32	en	un	CCONJ	_	_	38	cc	_	lemma_gml=ende
+33	dår	dår	ADV	_	_	38	advmod	_	lemma_gml=dâr
+34	kün	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	38	aux	_	lemma_gml=künnen
+35	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	38	nsubj	_	lemma_gml=gî
+36	altyd	altyd	ADV	_	_	38	advmod	_	lemma_gml=alletît
+37	an	an	ADP	_	_	33	case	_	lemma_gml=an
+38	seen	seen	VERB	_	VerbForm=Inf	25	conj	_	lemma_gml=sên|SpaceAfter=No
+39	,	,	PUNCT	_	_	43	punct	_	_
+40	dat	dat	SCONJ	_	_	43	mark	_	lemma_gml=dat
+41	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	nsubj	_	lemma_gml=hê,sê,et
+42	kwåd	kwåd	ADJ	_	Degree=Pos	43	xcomp	_	lemma_gml=quât
+43	wordt	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	38	ccomp	_	lemma_gml=wērden|SpaceAfter=No
+44	.	.	PUNCT	_	_	10	punct	_	_
+
