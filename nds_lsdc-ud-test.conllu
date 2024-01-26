@@ -6538,7 +6538,7 @@
 50	van	van	ADP	_	AdpType=Prep	52	case	_	lemma_gml=van
 51	klinkklår	klingklår	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	52	amod	_	lemma_gml=klingklâr
 52	pleseer	pleseer	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	60	obl	_	lemma_gml=plêsîr
-53	sal	sköälen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	60	aux	_	lemma_gml=schȫlen
+53	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	60	aux	_	lemma_gml=schȫlen
 54	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	60	nsubj	_	lemma_gml=ik
 55	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	60	iobj	_	lemma_gml=gî
 56	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	59	det	_	lemma_gml=êin,êine,êin
