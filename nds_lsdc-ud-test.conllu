@@ -6712,3 +6712,19 @@
 8	dech	denken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	ccomp	_	lemma[gml]=denken|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_238_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Ze wazzen oet de kerk loopen veur dat 't doan was.
+# text = See wassen uut de kerke loupen vöär dat et dån was.
+1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	lemma[gml]=sê
+2	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	aux	_	lemma[gml]=wēsen
+3	uut	uut	ADP	_	AdpType=Prep	5	case	_	lemma[gml]=ût
+4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma[gml]=dê,dê,dat
+5	kerke	kerke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	6	obl	_	lemma[gml]=kerke
+6	loupen	loupen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=lôpen
+7	vöär	vöär	ADP	_	AdpType=Prep	10	mark	_	lemma[gml]=vȫr
+8	dat	dat	SCONJ	_	_	7	fixed	_	lemma[gml]=dat
+9	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma[gml]=hê,sê,et
+10	dån	doon	VERB	_	Tense=Past|VerbForm=Part	6	advcl	_	lemma[gml]=dôn
+11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	lemma[gml]=wēsen|SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
