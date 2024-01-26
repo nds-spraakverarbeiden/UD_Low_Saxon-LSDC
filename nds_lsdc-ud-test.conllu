@@ -6657,7 +6657,7 @@
 9	kleyre	kleyd	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	lemma_gml=klêit
 10	maken	maken	VERB	_	VerbForm=Inf	7	appos	_	lemma_gml=māken
 11	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
-12	dat	dat	PRON	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	nsubj	_	lemma_gml=dê,dê,dat
+12	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	13	nsubj	_	lemma_gml=dê,dê,dat
 13	köämt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	lemma_gml=kōmen
 14	good	good	ADJ	_	Degree=Pos	13	advmod	_	lemma_gml=gôt
 15	van	van	ADP	_	AdpType=Prep	16	case	_	lemma_gml=van
