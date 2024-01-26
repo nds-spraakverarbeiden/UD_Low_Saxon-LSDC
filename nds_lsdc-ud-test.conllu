@@ -6587,3 +6587,11 @@
 23	wordet	werden	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	17	acl:relcl	_	lemma_gml=wērden|SpaceAfter=No
 24	.	.	PUNCT	_	_	14	punct	_	_
 
+# sent_id = LSDC_233_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Hoe kwam det.
+# text = Ho kwam det.
+1	Ho	wo	ADV	_	_	2	advmod	_	lemma_gml=wô
+2	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+3	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
