@@ -6709,6 +6709,6 @@
 5	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma[gml]=hê,sê,et
 6	der	dår	ADV	_	_	8	advmod	_	lemma[gml]=dâr
 7	van	van	ADP	_	_	6	case	_	lemma[gml]=van
-8	dech	denken	VERB	_	Mood=Int|Number=Sing|Person=3|Tense=Past	3	ccomp	_	lemma[gml]=denken|SpaceAfter=No
+8	dech	denken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	ccomp	_	lemma[gml]=denken|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
