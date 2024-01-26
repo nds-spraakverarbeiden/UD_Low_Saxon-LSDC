@@ -6771,7 +6771,7 @@
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	vocative	_	lemma[gml]=mînhêre|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
-18	völle	veale	PRON	_	Case=Acc|Degree=Pos|Number=Sing|PronType=Ind	4	orphan	_	lemma[gml]=vēle
+18	völle	veale	ADV	_	Degree=Pos	4	orphan	_	lemma[gml]=vēle
 19	-	-	PUNCT	_	_	25	punct	_	_
 20	en	un	CCONJ	_	_	25	cc	_	lemma[gml]=ende
 21	ouk	ouk	ADV	_	_	25	advmod	_	lemma[gml]=ôk
