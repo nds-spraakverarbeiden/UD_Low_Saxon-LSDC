@@ -6485,7 +6485,7 @@
 
 # sent_id = LSDC_231_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Kwik et ens mit oew olders, daor doe je braof aon; die zullen et oe wel veurmäten; en as ik zondag bii oe kom en i mii beduudt, da je met mii houwen wilt, zal miin martelen en ärmoeien t' ende ziin, en van klinkklaor plezier za 'k oe en heftig mooi loddereinsdeuske koapen veur en present, al kost et oak en golden dekaot.
-# text = Kwik et eyns mid uw olders, dår do jy braav an; dee süllen et u wel vöärmeaten; en as ik sundag by u komme en y my bedüdet, dat jy mid my houwen willet, sal myn martelen en ärmoden te ende syn, en van klinkklår pleseer sal ik u en heftig mooi lodderyensdöyske koupen vöär en present, al kost et ouk en golden dukate.
+# text = Kwik et eyns mid uw olders, dår do jy braav an; dee süllen et u wel vöärmeaten; en as ik sundag by u komme en y my bedüdet, dat jy med my houwen willet, sal myn martelen en ärmoden te ende syn, en van klinkklår pleseer sal ik u en heftig mooi lodderyensdöyske koupen vöär en present, al kost et ouk en golden dukate.
 1	Kwik	kwikken	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=quicken
 2	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	lemma_gml=hê,sê,et
 3	eyns	eyns	ADV	_	_	1	advmod	_	lemma_gml=êines
@@ -6541,12 +6541,12 @@
 53	sal	sköälen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	60	aux	_	lemma_gml=schȫlen
 54	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	60	nsubj	_	lemma_gml=ik
 55	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	60	iobj	_	lemma_gml=gî
-56	en	en 	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	59	det	_	lemma_gml=êin,êine,êin
+56	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	59	det	_	lemma_gml=êin,êine,êin
 57	heftig	heftig	ADJ	_	Degree=Pos	58	advmod	_	lemma_gml=heftich
 58	mooi	mooi	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	59	amod	_	lemma_gml=môi
 59	lodderyensdöyske	lodderyensdöysken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	60	obj	_	lemma_gml=lodderîensdö̂seken
 60	koupen	koupen	VERB	_	VerbForm=Inf	46	conj	_	lemma_gml=kö̂pen
-61	vöär	vöär 	ADP	_	AdpType=Prep	63	case	_	lemma_gml=vȫr
+61	vöär	vöär	ADP	_	AdpType=Prep	63	case	_	lemma_gml=vȫr
 62	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	63	det	_	lemma_gml=êin,êine,êin
 63	present	present	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	60	obl	_	lemma_gml=prêsant|SpaceAfter=No
 64	,	,	PUNCT	_	_	66	punct	_	_
