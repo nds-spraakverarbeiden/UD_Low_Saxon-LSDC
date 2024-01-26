@@ -6753,7 +6753,7 @@
 
 # sent_id = LSDC_240_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = - Van mien Annegien, zei'k, - wel as 't oew blieft, meneer, veulle - en ook van onze vier mâegies en mien Derk, doar bink gek mâe, 't is ook mien ienigste jongen.
-# text = - Van myn Annegyn, sei ik, - wel as et uw beleevt, meneyr, völle - en ouk van unse veer magys en myn Derk, dår bin ik get mea, et is ouk myn eynigste jungen.
+# text = - Van myn Annegyn, sei ik, - wel as et uw beleevt, meneyr, völle - en ouk van unse veer magys en myn Derk, dår bin ik gek mea, et is ouk myn eynigste jungen.
 1	-	-	PUNCT	_	_	6	punct	_	_
 2	Van	van	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=van
 3	myn	myn	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma[gml]=mîn
