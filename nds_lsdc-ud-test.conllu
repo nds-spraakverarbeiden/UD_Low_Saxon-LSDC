@@ -6728,3 +6728,26 @@
 11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	lemma[gml]=wēsen|SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_239_NWF_1838_OVY_Deventer_Overijsselsche_almanak_voor_oudheid_en_letteren
+# text_orig = Gôt van de middag met mi-j stokvisch êten: dan kui is hengòn en zitten en hötjen.
+# text = Gåt van de middag med my stokvisk eaten: dat kün y eyns hengån en sitten en hötjen.
+1	Gåt	gån	VERB	_	Mood=Imp|Number=Plur,Sing	0	root	_	lemma[gml]=gân
+2	van	van	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=van
+3	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma[gml]=dê,dê,dat
+4	middag	middag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	1	obl	_	lemma[gml]=middach
+5	med	mid 	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=mit
+6	my	ik	NOUN	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	1	obl	_	lemma[gml]=ik
+7	stokvisk	stokvisk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma[gml]=stokvisch
+8	eaten	eaten	VERB	_	VerbForm=Inf	1	xcomp	_	lemma[gml]=ēten|SpaceAfter=No
+9	:	:	PUNCT	_	_	14	punct	_	_
+10	dan	dan	ADV	_	_	14	advmod	_	lemma[gml]=dan
+11	kün	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	14	aux	_	lemma[gml]=künnen
+12	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	14	nsubj	_	lemma[gml]=gî
+13	eyns	eyns	ADV	_	_	14	advmod	_	lemma[gml]=êines
+14	hengån	hengån	VERB	_	VerbForm=Inf	1	parataxis	_	lemma[gml]=hengân
+15	en	un	CCONJ	_	_	16	cc	_	lemma[gml]=ende
+16	sitten	sitten	VERB	_	VerbForm=Inf	14	conj	_	lemma[gml]=sitten
+17	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	18	det	_	lemma[gml]=êin,êine,êin
+18	hötjen	hörtken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	16	obj	_	lemma[gml]=hörteken|SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
