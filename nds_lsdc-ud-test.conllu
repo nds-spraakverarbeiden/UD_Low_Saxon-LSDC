@@ -6561,7 +6561,7 @@
 
 # sent_id = LSDC_232_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Koop ie ze an de woage, dan kuij er soms iene treffen met un pâense, deur ie bange van wordt.
-# text = Koup y see an de wåge, dat kün y der sums eyne treffen med en panse, döär y bange van wordet.
+# text = Koup y see an de wåge, dan kün y der sums eyne treffen med en panse, döär y bange van wordet.
 1	Koup	koupen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	14	advcl	_	lemma_gml=kö̂pen
 2	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	1	nsubj	_	lemma_gml=gî
 3	see	see	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	1	obj	_	lemma_gml=sê
@@ -6574,7 +6574,7 @@
 10	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	14	nsubj	_	lemma_gml=gî
 11	der	der	ADV	_	_	14	advmod	_	lemma_gml=dâr
 12	sums	sums	ADV	_	_	14	advmod	_	lemma_gml=sums
-13	eyne	eyn 	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Ind	14	obj	_	lemma_gml=êin,êine,êin
+13	eyne	eyn	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Ind	14	obj	_	lemma_gml=êin,êine,êin
 14	treffen	treffen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=drēpen
 15	med	mid	ADP	_	AdpType=Prep	17	case	_	lemma_gml=mit
 16	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem,Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=êin,êine,êin
