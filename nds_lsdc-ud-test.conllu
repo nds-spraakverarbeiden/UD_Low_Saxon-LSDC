@@ -6751,3 +6751,49 @@
 18	hötjen	hörtken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	16	obj	_	lemma[gml]=hörteken|SpaceAfter=No
 19	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_240_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = - Van mien Annegien, zei'k, - wel as 't oew blieft, meneer, veulle - en ook van onze vier mâegies en mien Derk, doar bink gek mâe, 't is ook mien ienigste jongen.
+# text = - Van myn Annegyn, sei ik, - wel as et uw beleevt, meneyr, völle - en ouk van unse veer magys en myn Derk, dår bin ik get mea, et is ouk myn eynigste jungen.
+1	-	-	PUNCT	_	_	6	punct	_	_
+2	Van	van	ADP	_	AdpType=Prep	4	case	_	lemma[gml]=van
+3	myn	myn	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma[gml]=mîn
+4	Annegyn	Annegyn	PROPN	_	Number=Sing	6	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma[gml]=seggen
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma[gml]=ik|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	-	-	PUNCT	_	_	10	punct	_	_
+10	wel	wol	ADV	_	_	14	discourse	_	lemma[gml]=wol
+11	as	as	SCONJ	_	_	14	mark	_	lemma[gml]=alsô
+12	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	lemma[gml]=hê,sê,et
+13	uw	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	14	obj	_	lemma[gml]=gî
+14	beleevt	beleven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	discourse	_	lemma[gml]=belêven|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	vocative	_	lemma[gml]=mînhêre|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	völle	veale	PRON	_	Case=Acc|Degree=Pos|Number=Sing|PronType=Ind	4	orphan	_	lemma[gml]=vēle
+19	-	-	PUNCT	_	_	25	punct	_	_
+20	en	un	CCONJ	_	_	25	cc	_	lemma[gml]=ende
+21	ouk	ouk	ADV	_	_	25	advmod	_	lemma[gml]=ôk
+22	van	van	ADP	_	AdpType=Prep	25	case	_	lemma[gml]=van
+23	unse	uns	DET	_	Case=Acc,Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	25	det	_	lemma[gml]=unse
+24	veer	veer	NUM	_	NumType=Card	25	nummod	_	lemma[gml]=vêr
+25	magys	määdken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	4	conj	_	lemma[gml]=mēgedeken
+26	en	un	CCONJ	_	_	28	cc	_	lemma[gml]=ende
+27	myn	myn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	28	det	_	lemma[gml]=mîn
+28	Derk	Derk	PROPN	_	Number=Sing	25	conj	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	25	punct	_	_
+30	dår	dår	ADV	_	_	33	advmod	_	lemma[gml]=dâr
+31	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	33	cop	_	lemma[gml]=wēsen
+32	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	lemma[gml]=ik
+33	gek	gek	ADJ	_	Degree=Pos	6	parataxis	_	lemma[gml]=gek
+34	mea	meade	ADP	_	_	30	case	_	lemma[gml]=mit|SpaceAfter=No
+35	,	,	PUNCT	_	_	34	punct	_	_
+36	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	lemma[gml]=hê,sê,et
+37	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	41	cop	_	lemma[gml]=wēsen
+38	ouk	ouk	ADV	_	_	41	advmod	_	lemma[gml]=ôk
+39	myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	41	det	_	lemma[gml]=mîn
+40	eynigste	eynig	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	41	amod	_	lemma[gml]=êinich
+41	jungen	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	parataxis	_	lemma[gml]=junge|SpaceAfter=No
+42	.	.	PUNCT	_	_	6	punct	_	_
+
