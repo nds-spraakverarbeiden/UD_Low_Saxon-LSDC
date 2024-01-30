@@ -6874,7 +6874,7 @@
 
 # sent_id = LSDC_245_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = 'k Wedde, dat et verandert, ai mâer doet, wat ik edoan heb - weet ie, 'k bin toe egoan noa vrouw R. en doar kocht ik un stienen varken, 't kosten un dubbeltien, mâer zie, der was un berste in en doarumme kree'ket veur twâelf duiten.
-# text = Ik wedde, dat et vorandert, as y mår doot, wat ik edån hebbe - weat y, ik bin to gån nå vrouwe R. en dår kochte ik en steynen varken, et kosten en dübbeltyn, mår see, der was en berste in en dårümme kreyg ik et vöär twaalv doiten.
+# text = Ik wedde, dat et vorandert, as y mår doot, wat ik edån hebbe - weat y, ik bin to egån nå vrouwe R. en dår kochte ik en steynen varken, et kosten en dübbeltyn, mår see, der was en berste in en dårümme kreyg ik et vöär twaalv doiten.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
 2	wedde	wedden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=wedden|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
