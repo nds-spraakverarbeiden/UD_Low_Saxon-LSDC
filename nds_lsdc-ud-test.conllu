@@ -6933,3 +6933,32 @@
 56	doiten	doit	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	51	obl	_	lemma[gml]=deut|SpaceAfter=No
 57	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_246_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = - 'k Heb oe al zoa mennigmaol oaver dissen gepokkeneerden snoeshaon onder 't parsiizer 'ehad en zint er nog de olde knepen niet uut?
+# text = - Ik hebbe u al sou männigmål oaver dissen gepokkeneerden snuushane under et parsyser ehad en sint der noch de olde kneapen neet üüt?
+1	-	-	PUNCT	_	_	15	punct	_	_
+2	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma[gml]=ik
+3	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	15	aux	_	lemma[gml]=hebben
+4	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	15	obj	_	lemma[gml]=gî
+5	al	al	ADV	_	_	15	advmod	_	lemma[gml]=al
+6	sou	sou	ADV	_	_	7	advmod	_	lemma[gml]=sô
+7	männigmål	männigmål	ADV	_	_	15	advmod	_	lemma[gml]=mannichmâl
+8	oaver	öäver	ADP	_	AdpType=Prep	11	case	_	lemma[gml]=ȫver
+9	dissen	disse	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	lemma[gml]=desse,desse,dit
+10	gepokkeneerden	gepokkeneerd	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	amod	_	lemma[gml]=gepockenêrt
+11	snuushane	snuushane	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	lemma[gml]=snûshāne
+12	under	ünder	ADP	_	AdpType=Prep	14	case	_	lemma[gml]=under
+13	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma[gml]=dê,dê,dat
+14	parsyser	persyser	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	15	obl	_	lemma[gml]=persîseren
+15	ehad	hebben	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=hebben
+16	en	un	CCONJ	_	_	18	cc	_	lemma[gml]=ende
+17	sint	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	cop	_	lemma[gml]=wēsen
+18	der	dår	ADV	_	_	15	conj	_	lemma[gml]=dâr
+19	noch	noch	ADV	_	_	18	advmod	_	lemma[gml]=noch
+20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	lemma[gml]=dê,dê,dat
+21	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	lemma[gml]=ōlt
+22	kneapen	kneap	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	lemma[gml]=knēp
+23	neet	nich	PART	_	PartType=Neg	18	advmod	_	lemma[gml]=nicht
+24	üüt	uut	ADP	_	_	18	case	_	lemma[gml]=ût|SpaceAfter=No
+25	?	?	PUNCT	_	_	15	punct	_	_
+
