@@ -6828,3 +6828,32 @@
 7	binnen	binnen	ADV	_	_	6	advmod	_	lemma[gml]=binnen|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_243_NWF_2016_TWE_twentsk_joarverslag-kreenk-2016-sekretaris
+# text_orig = Eric Hütte blif gangs um de Bodbrewe biej de bookhaandels bekeand te maken en te verkopen, ’t bestuur döt doar ok an met.
+# text = Eric Hütte blivt gangs üm de Bodbrewe by de bookhandels bekend te maken en te vorkoupen, et bestüüt döt dår ouk an med.
+1	Eric	Eric	PROPN	_	Number=Sing	3	nsubj	_	lemma[gml]=eric
+2	Hütte	Hütte	PROPN	_	Number=Sing	1	flat	_	lemma[gml]=hütte
+3	blivt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=blîven
+4	gangs	gangs	ADV	_	_	3	advmod	_	lemma[gml]=ganges
+5	üm	üm	SCONJ	_	_	13	mark	_	lemma[gml]=ümme
+6	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	lemma[gml]=dê,dê,dat
+7	Bodbrewe	Bodbrewe	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	lemma[gml]=bōdebrêf
+8	by	by	ADP	_	AdpType=Prep	10	case	_	lemma[gml]=bî
+9	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	lemma[gml]=dê,dê,dat
+10	bookhandels	bookhandel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	13	obl	_	lemma[gml]=bôkhandel
+11	bekend	bekend	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	13	xcomp	_	lemma[gml]=bekant
+12	te	to	PART	_	PartType=Inf	13	mark	_	lemma[gml]=tô
+13	maken	maken	VERB	_	VerbForm=Inf	3	advcl	_	lemma[gml]=māken
+14	en	un	CCONJ	_	_	16	cc	_	lemma[gml]=ende
+15	te	to	PART	_	PartType=Inf	16	mark	_	lemma[gml]=tô
+16	vorkoupen	vorköypen	VERB	_	VerbForm=Inf	13	conj	_	lemma[gml]=vorkôpen|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	lemma[gml]=dê,dê,dat
+19	bestüür	bestüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	lemma[gml]=bestü̂r
+20	döt	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	parataxis	_	lemma[gml]=dôn
+21	dår	dår	ADV	_	_	20	advmod	_	lemma[gml]=dâr
+22	ouk	ouk	ADV	_	_	20	advmod	_	lemma[gml]=ôk
+23	an	an	ADP	_	_	21	case	_	lemma[gml]=an
+24	med	mid	ADP	_	_	20	compound:prt	_	lemma[gml]=mit|SpaceAfter
+25	.	.	PUNCT	_	_	3	punct	_	_
+
