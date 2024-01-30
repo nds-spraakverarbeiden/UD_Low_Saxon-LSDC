@@ -6830,7 +6830,7 @@
 
 # sent_id = LSDC_243_NWF_2016_TWE_twentsk_joarverslag-kreenk-2016-sekretaris
 # text_orig = Eric Hütte blif gangs um de Bodbrewe biej de bookhaandels bekeand te maken en te verkopen, ’t bestuur döt doar ok an met.
-# text = Eric Hütte blivt gangs üm de Bodbrewe by de bookhandels bekend te maken en te vorkoupen, et bestüüt döt dår ouk an med.
+# text = Eric Hütte blivt gangs üm de Bodbrewe by de bookhandels bekend te maken en te vorkoupen, et bestüür döt dår ouk an med.
 1	Eric	Eric	PROPN	_	Number=Sing	3	nsubj	_	lemma[gml]=eric
 2	Hütte	Hütte	PROPN	_	Number=Sing	1	flat	_	lemma[gml]=hütte
 3	blivt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=blîven
