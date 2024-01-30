@@ -6923,7 +6923,7 @@
 46	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	47	det	_	lemma[gml]=êin,êine,êin
 47	berste	berste	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	42	parataxis	_	lemma[gml]=berste
 48	in	in	ADP	_	_	44	case	_	lemma[gml]=in
-49	en	un	CCONJ	_	_	51	conj	_	lemma[gml]=ende
+49	en	un	CCONJ	_	_	51	cc	_	lemma[gml]=ende
 50	dårümme	dårüm	ADV	_	_	51	advmod	_	lemma[gml]=dârümme
 51	kreyg	krygen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	47	conj	_	lemma[gml]=krîgen
 52	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	51	nsubj	_	lemma[gml]=ik
