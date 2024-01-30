@@ -6857,3 +6857,18 @@
 24	med	mid	ADP	_	_	20	compound:prt	_	lemma[gml]=mit|SpaceAfter=No
 25	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_244_NWF_2017_TWE_twentsk_leawenskrachtig-bodbreef-HAN-meart-2017
+# text_orig = • ‘Peerdespöllen’ met rubbersnoeren as tegenkrachten en touwtrekken.
+# text = • ‘Peardespöllen’ med rubbersnoren as teagenkrachten en tauwtrekken.
+1	•	•	PUNCT	_	_	3	punct	_	_
+2	‘	‘	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Peardespöllen	peardespel	NOUN	_	Gender=Neut|Number=Sing	0	root	_	lemma[gml]=pērdespel|SpaceAfter=No
+4	’	’	PUNCT	_	_	3	punct	_	_
+5	med	mid	ADP	_	AdpType=Prep	6	case	_	lemma[gml]=mit
+6	rübbersnoren	rubbersnoor	NOUN	_	Case=Acc,Dat|Number=Plur	3	nmod	_	lemma[gml]=rubbersnôr
+7	as	as	SCONJ	_	_	8	mark	_	lemma[gml]=alsô
+8	teagenkrachten	geagenkraft	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	lemma[gml]=tēgenkracht
+9	en	un	CCONJ	_	_	10	cc	_	lemma[gml]=ende
+10	tauwtrekken	tauwtrekken	NOUN	_	Gender=Neut|Number=Sing	3	conj	_	lemma[gml]=touwetreckent|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
