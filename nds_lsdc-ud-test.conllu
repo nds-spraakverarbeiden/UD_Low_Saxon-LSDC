@@ -6872,3 +6872,64 @@
 10	tauwtrekken	tauwtrekken	NOUN	_	Gender=Neut|Number=Sing	3	conj	_	lemma[gml]=touwetreckent|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_245_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = 'k Wedde, dat et verandert, ai mâer doet, wat ik edoan heb - weet ie, 'k bin toe egoan noa vrouw R. en doar kocht ik un stienen varken, 't kosten un dubbeltien, mâer zie, der was un berste in en doarumme kree'ket veur twâelf duiten.
+# text = Ik wedde, dat et vorandert, as y mår doot, wat ik edån hebbe - weat y, ik bin to gån nå vrouwe R. en dår kochte ik en steynen varken, et kosten en dübbeltyn, mår see, der was en berste in en dårümme kreyg ik et vöär twaalv doiten.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=ik
+2	wedde	wedden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma[gml]=wedden|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	dat	dat	SCONJ	_	_	6	mark	_	lemma[gml]=dat
+5	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma[gml]=hê,sê,et
+6	vorandert	voranderen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma[gml]=voranderen|SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	as	as	SCONJ	_	_	11	mark	_	lemma[gml]=alsô
+9	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	11	nsubj	_	lemma[gml]=gî
+10	mår	mår	ADV	_	_	11	advmod	_	lemma[gml]=mêr
+11	doot	doon	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	6	advcl	_	lemma[gml]=dôn|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	15	obj	_	lemma[gml]=watte
+14	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma[gml]=ik
+15	edån	doon	VERB	_	Tense=Past|VerbForm=Part	11	ccomp	_	lemma[gml]=dôn
+16	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	15	aux	_	lemma[gml]=hebben
+17	-	-	PUNCT	_	_	15	punct	_	_
+18	weat	weaten	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	2	conj	_	lemma[gml]=wēten
+19	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	18	nsubj	_	lemma[gml]=gî|SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	lemma[gml]=ik
+22	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	24	aux	_	lemma[gml]=wēsen
+23	to	do	ADV	_	_	24	advmod	_	lemma[gml]=dô
+24	egån	gån	VERB	_	Tense=Past|VerbForm=Part	18	ccomp	_	lemma[gml]=gân
+25	nå	nå	ADP	_	AdpType=Prep	26	case	_	lemma[gml]=nâ
+26	vrouwe	vruwe	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	24	obl	_	lemma[gml]=vrouwe
+27	R.	R.	PROPN	_	Number=Sing	26	flat	_	_
+28	en	un	CCONJ	_	_	30	cc	_	lemma[gml]=ende
+29	dår	dår	ADV	_	_	30	advmod	_	lemma[gml]=dâr
+30	kochte	koupen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	24	conj	_	lemma[gml]=kö̂pen
+31	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	lemma[gml]=ik
+32	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	34	det	_	lemma[gml]=êin,êine,êin
+33	steynen	steynen	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	lemma[gml]=stêinen
+34	varken	verken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	30	obj	_	lemma[gml]=verken|SpaceAfter=No
+35	,	,	PUNCT	_	_	37	punct	_	_
+36	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	lemma[gml]=hê,sê,et
+37	kosten	kosten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	parataxis	_	lemma[gml]=kosten
+38	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	39	det	_	lemma[gml]=êin,êine,êin
+39	dübbeltyn	dubbelken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	37	obj	_	lemma[gml]=dubbelken|SpaceAfter=No
+40	,	,	PUNCT	_	_	42	punct	_	_
+41	mår	mår	CCONJ	_	_	42	cc	_	lemma[gml]=mêr
+42	see	seen	VERB	_	Mood=Imp|Number=Sing	37	conj	_	lemma[gml]=sên|SpaceAfter=No
+43	,	,	PUNCT	_	_	47	punct	_	_
+44	der	der	ADV	_	_	47	advmod	_	lemma[gml]=dâr
+45	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	47	cop	_	lemma[gml]=wēsen
+46	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	47	det	_	lemma[gml]=êin,êine,êin
+47	berste	berste	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	42	parataxis	_	lemma[gml]=berste
+48	in	in	ADP	_	_	44	case	_	lemma[gml]=in
+49	en	un	CCONJ	_	_	51	conj	_	lemma[gml]=ende
+50	dårümme	dårüm	ADV	_	_	51	advmod	_	lemma[gml]=dârümme
+51	kreyg	krygen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	47	conj	_	lemma[gml]=krîgen
+52	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	51	nsubj	_	lemma[gml]=ik
+53	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	51	obj	_	lemma[gml]=hê,sê,et
+54	vöär	vöär	ADP	_	AdpType=Prep	56	case	_	lemma[gml]=vȫr
+55	twaalv	twelv	NUM	_	Case=Acc|NumType=Card	56	nummod	_	lemma[gml]=twelef
+56	doiten	doit	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	51	obl	_	lemma[gml]=deut|SpaceAfter=No
+57	.	.	PUNCT	_	_	2	punct	_	_
+
