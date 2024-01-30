@@ -6854,6 +6854,6 @@
 21	dår	dår	ADV	_	_	20	advmod	_	lemma[gml]=dâr
 22	ouk	ouk	ADV	_	_	20	advmod	_	lemma[gml]=ôk
 23	an	an	ADP	_	_	21	case	_	lemma[gml]=an
-24	med	mid	ADP	_	_	20	compound:prt	_	lemma[gml]=mit|SpaceAfter
+24	med	mid	ADP	_	_	20	compound:prt	_	lemma[gml]=mit|SpaceAfter=No
 25	.	.	PUNCT	_	_	3	punct	_	_
 
