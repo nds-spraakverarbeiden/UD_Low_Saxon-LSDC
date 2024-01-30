@@ -6988,3 +6988,21 @@
 21	oaver	öäver	ADP	_	_	16	compound:prt	_	lemma[gml]=ȫver|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_248_NWF_20XX_DRE_drentsk_Gien_wig_tussen_te_kriegen
+# text_orig = Wij speulden of hogere machten de stalen snoeten van oeze schoenen betoverd hadden.
+# text = Wy spöälden of hougere machten de stålen snuten van use skonen betouverd hadden.
+1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma[gml]=wî
+2	spöälden	spealen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma[gml]=spēlen
+3	of	of	SCONJ	_	_	12	mark	_	lemma[gml]=of
+4	hougere	houg	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Plur	5	amod	_	lemma[gml]=hô
+5	machten	macht	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	lemma[gml]=macht
+6	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	8	det	_	lemma[gml]=dê,dê,dat
+7	stålen	stålen	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	lemma[gml]=stâlen
+8	snuten	snute	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	lemma[gml]=snûte
+9	van	van	ADP	_	AdpType=Prep	11	case	_	lemma[gml]=van
+10	uze	uns	DET	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	11	det	_	lemma[gml]=unse
+11	skonen	sko	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	8	nmod	_	lemma[gml]=schô
+12	betouverd	betöyveren	VERB	_	Tense=Past|VerbForm=Part	2	ccomp	_	lemma[gml]=betö̂veren
+13	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	aux	_	lemma[gml]=hebben|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
