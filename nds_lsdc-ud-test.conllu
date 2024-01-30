@@ -7006,3 +7006,42 @@
 13	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	aux	_	lemma[gml]=hebben|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_249_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Dou de kerk veurmiddags oetgong, luipen mien bruir Joapk en ik op 'n proekemoakers drafke noa 't Gemeintehoes, want doar zol wat gebeuren, en wie wollen der oet nijsgierighaid bie wezen.
+# text = Do de kerke vöärmiddags uutgung, löypen myn bröör Joapk en ik up en prukemakers dravke nå et gemeyndehuus, want dår sul wat geböären, en wy wullen der uut nysgyrigheid by weasen.
+1	Do	do	SCONJ	_	_	5	mark	_	lemma[gml]=dô
+2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê,dê,dat
+3	kerke	kerke	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	lemma[gml]=kerke
+4	vöärmiddags	vöärmiddags	ADV	_	_	5	advmod	_	lemma[gml]=vȫrmiddach
+5	uutgung	uutgån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	advcl	_	lemma[gml]=ûtgân|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	löypen	loupen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma[gml]=lôpen
+8	myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma[gml]=mîn
+9	bröör	broder	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma[gml]=brôder
+10	Joapk	Joapk	PROPN	_	Number=Sing	9	flat	_	lemma[gml]=joapk
+11	en	un	CCONJ	_	_	12	cc	_	lemma[gml]=ende
+12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	conj	_	lemma[gml]=ik
+13	up	up	ADP	_	AdpType=Prep	16	case	_	lemma[gml]=uppe
+14	en	en	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma[gml]=êin,êine,êin
+15	prukemakers	prükenmaker	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	nmod:poss	_	lemma[gml]=perrükenmāker
+16	dravke	dravken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	obl	_	lemma[gml]=drafken
+17	nå	nå	ADP	_	AdpType=Prep	19	case	_	lemma[gml]=nâ
+18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma[gml]=dê,dê,dat
+19	gemeyndehuus	gemeyndehuus	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	obl	_	lemma[gml]=gemêintehûs|SpaceAfter=No
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	want	wante	CCONJ	_	_	25	cc	_	lemma[gml]=wente
+22	dår	dår	ADV	_	_	25	advmod	_	lemma[gml]=dâr
+23	sul	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	aux	_	lemma[gml]=schȫlen
+24	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	25	nsubj	_	lemma[gml]=watte
+25	geböären	geböären	VERB	_	VerbForm=Inf	7	advcl	_	lemma[gml]=gebȫren|SpaceAfter=No
+26	,	,	PUNCT	_	_	34	punct	_	_
+27	en	un	CCONJ	_	_	34	cc	_	lemma[gml]=ende
+28	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	34	nsubj	_	lemma[gml]=wî
+29	wullen	willen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	34	aux	_	lemma[gml]=willen
+30	der	dår	ADV	_	_	34	advmod	_	lemma[gml]=dâr
+31	uut	uut	ADP	_	AdpType=Prep	32	case	_	lemma[gml]=ût
+32	nysgyrigheid	nysgyrigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	34	obl	_	lemma[gml]=nîesgērichêit
+33	by	by	ADP	_	_	30	case	_	lemma[gml]=bî
+34	weasen	weasen	VERB	_	VerbForm=Inf	25	conj	_	lemma[gml]=wēsen|SpaceAfter=No
+35	.	.	PUNCT	_	_	7	punct	_	_
+
