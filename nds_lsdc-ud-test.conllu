@@ -6797,3 +6797,22 @@
 41	jungen	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	parataxis	_	lemma[gml]=junge|SpaceAfter=No
 42	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_241_NWF_201X_twentsk_barista
+# text_orig = Det koffie ne échte business is, hebt dee koffiezetapparaatfebrieken en koffiebonenhandelaren ook ezeen.
+# text = Dat koffy ne echte business is, hebbet dee koffysetapparaatfabriken en koffybounenhandelaren ouk eseen.
+1	Dat	dat	SCONJ	_	_	5	mark	_	lemma[gml]=dat
+2	koffy	koffy	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma[gml]=koffî
+3	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma[gml]=êin,êine,êin
+4	echte	echt	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	lemma[gml]=echt
+5	business	business	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	ccomp	_	lemma[gml]=bēsichnisse
+6	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma[gml]=wēsen|SpaceAfter=No
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	hebbet	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	14	aux	_	lemma[gml]=hebben
+9	dee	de	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	10	det	_	lemma[gml]=dê,dê,dat
+10	koffysetapparaatfabriken	koffysetapparaatfabrik	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	lemma[gml]=koffîsetapparâtfabrîke
+11	en	un	CCONJ	_	_	12	cc	_	lemma[gml]=ende
+12	koffybounenhandelaren	koffybounenhandeler	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	conj	_	lemma[gml]=koffîbônenhandeler
+13	ouk	ouk	ADV	_	_	14	advmod	_	lemma[gml]=ôk
+14	eseen	seen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma[gml]=sên|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	_
+
