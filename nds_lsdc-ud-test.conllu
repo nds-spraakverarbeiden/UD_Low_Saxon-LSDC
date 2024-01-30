@@ -6964,29 +6964,30 @@
 
 # sent_id = LSDC_247_NWF_2019_OVY_oaveryssel_doodgriezelig
 # text_orig = Iederene ef wel ies wat, kolde ’evat, griep of zoiets, maar det giet meestal wel gauw weer over.
-# text = Ydereyne hevt wel eyns wat, kolde evatted, grype of souyts, mår det geyt meystal wel gauw wear oaver.
-1	Ydereyne	ydereyn	PRON	_	Case=Nom|Number=Sing	2	nsubj	_	lemma[gml]=îderêin
-2	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=hebben
-3	wel	wol	ADV	_	_	2	advmod	_	lemma[gml]=wol
-4	eyns	eyns	ADV	_	_	2	advmod	_	lemma[gml]=êines
-5	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	lemma[gml]=watte|SpaceAfter=No
+# text = Ydereyne hevt wel eyns wat, kolde evatted, grype of sou yts, mår det geyt meystal wel gauw wear oaver.
+1	Ydereyne	ydereyn	PRON	_	Case=Nom|Number=Sing	2	nsubj	_	lemma_gml=îderêin
+2	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hebben
+3	wel	wol	ADV	_	_	2	advmod	_	lemma_gml=wol
+4	eyns	eyns	ADV	_	_	2	advmod	_	lemma_gml=êines
+5	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	lemma_gml=watte|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	kolde	külde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	lemma[gml]=kȫlde
-8	evatted	vaten	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma[gml]=vāten|SpaceAfter=No
+7	kolde	külde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	lemma_gml=kȫlde
+8	evatted	vaten	VERB	_	Tense=Past|VerbForm=Part	2	parataxis	_	lemma_gml=vāten|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
-10	grype	grype	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	lemma[gml]=grîpe
-11	of	of	CCONJ	_	_	12	cc	_	lemma[gml]=eft
-12	souyts	zouyts	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	conj	_	lemma[gml]=sôichtes|SpaceAfter=No
-13	,	,	PUNCT	_	_	16	punct	_	_
-14	mår	mår	CCONJ	_	_	16	cc	_	lemma[gml]=mêr
-15	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma[gml]=dê,dê,dat
-16	geyt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma[gml]=gân
-17	meystal	meistal	ADV	_	_	16	advmod	_	lemma[gml]=mêistal
-18	wel	wol	ADV	_	_	16	advmod	_	lemma[gml]=wol
-19	gauw	gauw	ADJ	_	Degree=Pos	16	advmod	_	lemma[gml]=gouwe
-20	wear	wedder	ADV	_	_	16	advmod	_	lemma[gml]=wedder
-21	oaver	öäver	ADP	_	_	16	compound:prt	_	lemma[gml]=ȫver|SpaceAfter=No
-22	.	.	PUNCT	_	_	2	punct	_	_
+10	grype	grype	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	lemma_gml=grîpe
+11	of	of	CCONJ	_	_	13	cc	_	lemma_gml=eft
+12	sou	sou	ADV	_	_	13	advmod	_	lemma_gml=sô
+13	yts	yts	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	7	conj	_	lemma_gml=ichtes|SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	mår	mår	CCONJ	_	_	17	cc	_	lemma_gml=mêr
+16	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	lemma_gml=dê,dê,dat
+17	geyt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=gân
+18	meystal	meistal	ADV	_	_	17	advmod	_	lemma_gml=mêistal
+19	wel	wol	ADV	_	_	17	advmod	_	lemma_gml=wol
+20	gauw	gauw	ADJ	_	Degree=Pos	17	advmod	_	lemma_gml=gouwe
+21	wear	wedder	ADV	_	_	17	advmod	_	lemma_gml=wedder
+22	oaver	öäver	ADP	_	_	17	compound:prt	_	lemma_gml=ȫver|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_248_NWF_20XX_DRE_drentsk_Gien_wig_tussen_te_kriegen
 # text_orig = Wij speulden of hogere machten de stalen snoeten van oeze schoenen betoverd hadden.
