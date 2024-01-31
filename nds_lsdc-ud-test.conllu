@@ -7189,3 +7189,51 @@
 26	!	!	PUNCT	_	_	19	punct	_	SpaceAfter=No
 27	'	'	PUNCT	_	_	19	punct	_	_
 
+# sent_id = LSDC_256_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Toe 'k hâer de ofsproake met meneer vertelde, zie, toe kreeg ze de troanen in d'oogen en zei ze, da'k ieder keer mâer bie hâer t'huus kommen most, a'k 's màergens trek kreeg noa jenever.
+# text = To ik haar de ofspråke med meneyr vortelde, see, to kreyg see de trånen in de ougen en sei see, dat ik yder keyre mår by haar te hüüs kommen muste, as ik des maargens trek kreyg nå jenever.
+1	To	do	SCONJ	_	_	8	mark	_	lemma_gml=dô
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
+3	haar	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	iobj	_	lemma_gml=hê,sê,et
+4	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
+5	ofspråke	afspråke	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	lemma_gml=afsprâke
+6	med	mid	ADP	_	AdpType=Prep	7	case	_	lemma_gml=mit
+7	meneyr	meneyr	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	nmod	_	lemma_gml=mînhêre
+8	vortelde	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	advcl	_	lemma_gml=vortellen|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	see	seen	VERB	_	Mood=Imp|Number=Sing	8	discourse	_	lemma_gml=sên|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	to	do	ADV	_	_	13	advmod	_	lemma_gml=dô
+13	kreyg	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=krîgen
+14	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
+15	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
+16	trånen	tråne	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	lemma_gml=trâne
+17	in	in	ADP	_	AdpType=Prep	19	case	_	lemma_gml=in
+18	de	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
+19	ougen	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obl	_	lemma_gml=ôge
+20	en	un	CCONJ	_	_	21	cc	_	lemma_gml=ende
+21	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	conj	_	lemma_gml=seggen
+22	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+23	,	,	PUNCT	_	_	33	punct	_	_
+24	dat	dat	SCONJ	_	_	33	mark	_	lemma_gml=dat
+25	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	lemma_gml=ik
+26	yder	yder	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	27	det	_	lemma_gml=îder
+27	keyre	keyre	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	33	obl	_	lemma_gml=kêre
+28	mår	mår	ADV	_	_	33	advmod	_	lemma_gml=mêr
+29	by	by	ADP	_	AdpType=Prep	30	case	_	lemma_gml=bî
+30	haar	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obl	_	lemma_gml=hê,sê,et
+31	te	te	ADP	_	AdpType=Prep	32	case	_	lemma_gml=tô
+32	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	30	nmod	_	lemma_gml=hûs
+33	kommen	koamen	VERB	_	VerbForm=Inf	21	ccomp	_	lemma_gml=kōmen
+34	muste	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	33	aux	_	lemma_gml=mö̂ten|SpaceAfter=No
+35	,	,	PUNCT	_	_	41	punct	_	_
+36	as	as	SCONJ	_	_	41	mark	_	lemma_gml=alsô
+37	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	41	nsubj	_	lemma_gml=ik
+38	des	de	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	lemma_gml=dê,dê,dat
+39	maargens	morgen	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	41	obl	_	lemma_gml=morgen
+40	trek	trek	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	41	obj	_	lemma_gml=trek
+41	kreyg	krygen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	33	advcl	_	lemma_gml=krîgen
+42	nå	nå	ADP	_	AdpType=Prep	43	case	_	lemma_gml=nâ
+43	jenever	jenever	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	40	nmod	_	lemma_gml=jenēver|SpaceAfter=No
+44	.	.	PUNCT	_	_	13	punct	_	_
+
