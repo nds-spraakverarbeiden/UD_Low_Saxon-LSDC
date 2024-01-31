@@ -7158,3 +7158,34 @@
 11	bedenen	bedenen	VERB	_	VerbForm=Inf	3	csubj	_	lemma_gml=bedênen|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_255_NWF_1851_DRE_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
+# text_orig = To Baos Julfring 'n sikke vuelde, schreeuwde i 't oet: 'Daor staot schreven: haor heffe. 't Is de duvel!'
+# text = To Baos Julfring en sikke vöölde, skreyde hee et uut: 'Dår ståt skreaven: Hår hevt hee. Et is de düvel!'
+1	To	do	ADV	_	_	6	advmod	_	lemma_gml=dô
+2	Baos	Baos	PROPN	_	Number=Sing	6	nsubj	_	lemma_gml=baos
+3	Julfring	Julfring	PROPN	_	Number=Sing	2	flat	_	lemma_gml=julfring
+4	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
+5	sikke	sikke	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	lemma_gml=sicken
+6	vöölde	völen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	advcl	_	lemma_gml=vö̂len|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	skreyde	skreyen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=schreyen
+9	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=hê,sê,et
+10	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	8	obj	_	lemma_gml=hê,sê,et
+11	uut	uut	ADP	_	_	8	compound:prt	_	lemma_gml=ût|SpaceAfter=No
+12	:	:	PUNCT	_	_	15	punct	_	_
+13	'	'	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	Dår	dår	ADV	_	_	15	advmod	_	lemma_gml=dâr
+15	ståt	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	ccomp	_	lemma_gml=stân
+16	skreaven	skryven	VERB	_	Tense=Past|VerbForm=Part	15	xcomp	_	lemma_gml=schrîven|SpaceAfter=No
+17	:	:	PUNCT	_	_	19	punct	_	_
+18	Hår	hår	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obj	_	lemma_gml=hâr
+19	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	ccomp	_	lemma_gml=hebben
+20	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+21	.	.	PUNCT	_	_	19	punct	_	_
+22	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=hê,sê,et
+23	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	cop	_	lemma_gml=wēsen
+24	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	lemma_gml=dê,dê,dat
+25	Düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	parataxis	_	lemma_gml=dü̂vel|SpaceAfter=No
+26	!	!	PUNCT	_	_	19	punct	_	SpaceAfter=No
+27	'	'	PUNCT	_	_	19	punct	_	_
+
