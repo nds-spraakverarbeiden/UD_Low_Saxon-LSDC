@@ -7237,3 +7237,24 @@
 43	jenever	jenever	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	40	nmod	_	lemma_gml=jenēver|SpaceAfter=No
 44	.	.	PUNCT	_	_	13	punct	_	_
 
+# sent_id = LSDC_257_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Nou moej niet net doen asof die verhaolen hier op het schoelplein begund bint.
+# text = Now moot y neet net doon as of dee vorhalen hyr up et skoolplein begünd bint.
+1	Now	nu	ADV	_	_	6	advmod	_	lemma_gml=nû
+2	moot	möten	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	6	aux	_	lemma_gml=mö̂ten
+3	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	6	nsubj	_	lemma_gml=gî
+4	neet	nich	PART	_	PartType=Neg	6	advmod	_	lemma_gml=nicht
+5	net	net	ADV	_	_	6	advmod	_	lemma_gml=net
+6	doon	doon	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=dôn
+7	as	as	SCONJ	_	_	15	mark	_	lemma_gml=alsô
+8	of	of	SCONJ	_	_	15	mark	_	lemma_gml=of
+9	dee	dee	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	lemma_gml=dê,dê,dat
+10	vorhalen	vorhaal	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	15	nsubj	_	lemma_gml=vorhāl
+11	hyr	hyr	ADV	_	_	15	advmod	_	lemma_gml=hîr
+12	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
+13	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma_gml=et
+14	skoolplein	skoolplein	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	obl	_	lemma_gml=schôlplân
+15	begünd	beginnen	VERB	_	Tense=Past|VerbForm=Part	6	advcl	_	lemma_gml=beginnen
+16	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	aux	_	lemma_gml=wēsen|SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
+
