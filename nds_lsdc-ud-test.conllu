@@ -7275,3 +7275,37 @@
 12	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	lemma_gml=hê,sê,et|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_259_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Mâer ziee, Dieks, wâ'k mogt zeggen of niet zeggen, meneer bleef mie de baas en proate mie ten lâeste zoo wiek as un kind.
+# text = Mår see, Dieks, wat ik mucht seggen of neet seggen, meneyr bleyv my de baas en pråte my te 'n laaste sou weyk as en kind.
+1	Mår	mår	CCONJ	_	_	2	cc	_	lemma_gml=mêr
+2	see	seen	VERB	_	Mood=Imp|Number=Sing	9	discourse	_	lemma_gml=sên|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Dieks	Dieks	PROPN	_	Number=Sing	2	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	lemma_gml=wat
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
+8	mucht	möägen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	9	aux	_	lemma_gml=mȫgen
+9	seggen	seggen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=seggen
+10	of	eft	CCONJ	_	_	12	cc	_	lemma_gml=eft
+11	neet	nich	PART	_	PartType=Neg	12	advmod	_	lemma_gml=nicht
+12	seggen	seggen	VERB	_	VerbForm=Inf	9	conj	_	lemma_gml=seggen|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	meneyr	meneyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	lemma_gml=mînhêre
+15	bleyv	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	parataxis	_	lemma_gml=blîven
+16	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	15	obj	_	lemma_gml=ik
+17	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+18	baas	baas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	lemma_gml=bās
+19	en	en	CCONJ	_	_	20	cc	_	lemma_gml=ende
+20	pråte	pråten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=prōten
+21	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	20	obj	_	lemma_gml=ik
+22	te	to	ADP	_	AdpType=Prep	24	case	_	lemma_gml=tô
+23	'n	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
+24	laaste	laat	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	20	obl	_	lemma_gml=lat
+25	sou	sou	ADV	_	_	26	advmod	_	lemma_gml=sô
+26	weyk	weyk	ADJ	_	Degree=Pos	20	xcomp	_	lemma_gml=wêik
+27	as	alsou	ADP	_	_	29	case	_	lemma_gml=alsô
+28	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	29	det	_	lemma_gml=êin,êine,êin
+29	kind	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	26	obl	_	lemma_gml=kint|SpaceAfter=No
+30	.	.	PUNCT	_	_	9	punct	_	_
+
