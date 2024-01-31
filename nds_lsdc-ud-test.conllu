@@ -7069,3 +7069,18 @@
 18	vortöynd	vortöynen	VERB	_	Tense=Past|VerbForm=Part	10	conj	_	lemma[gml]=vortônen|SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_251_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = - 'k Wol ook wel ies achter de spekpannekoeke zitten.
+# text = - Ik wul ouk wel eyns achter de spekpannekoke sitten.
+1	-	-	PUNCT	_	_	10	punct	_	_
+2	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
+3	wul	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	aux	_	lemma_gml=willen
+4	ouk	ouk	ADV	_	_	10	advmod	_	lemma_gml=ôk
+5	wel	wol	ADV	_	_	10	advmod	_	lemma_gml=wol
+6	eyns	eyns	ADV	_	_	10	advmod	_	lemma_gml=êines
+7	achter	achter	ADP	_	AdpType=Prep	9	case	_	lemma_gml=achter
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+9	spekpannekoke	spekpannenkoke	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=spekpannenkôke
+10	sitten	sitten	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=sitten|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
