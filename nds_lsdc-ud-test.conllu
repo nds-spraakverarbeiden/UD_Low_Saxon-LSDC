@@ -7185,7 +7185,7 @@
 22	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=hê,sê,et
 23	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	cop	_	lemma_gml=wēsen
 24	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	lemma_gml=dê,dê,dat
-25	Düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	parataxis	_	lemma_gml=dü̂vel|SpaceAfter=No
+25	düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	parataxis	_	lemma_gml=dü̂vel|SpaceAfter=No
 26	!	!	PUNCT	_	_	19	punct	_	SpaceAfter=No
 27	'	'	PUNCT	_	_	19	punct	_	_
 
