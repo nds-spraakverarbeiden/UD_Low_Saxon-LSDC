@@ -7115,3 +7115,30 @@
 26	bevallen	bevallen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=bevallen|SpaceAfter=No
 27	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_253_NWF_20XX_DRE_drentsk_Een_hiel_eende_van_Adam_naor_Dallas
+# text_orig = Daor bin’k, zo lek het, zo met bezig dat het eerste stukkie van oeze luchtreis veurbij vlög; letterlijk.
+# text = Dår bin ik, sou lekt het, sou med beasig dat et eyrste stükky van use lüchtreise vöärby vlögt; letterlik.
+1	Dår	dår	ADV	_	_	11	advmod	_	lemma_gml=dâr
+2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	cop	_	lemma_gml=wēsen
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	sou	sou	ADV	_	_	6	advmod	_	lemma_gml=sô
+6	lekt	lyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	parataxis	_	lemma_gml=lîken
+7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	sou	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
+10	med	mid	ADP	_	AdpType=Prep	1	case	_	lemma_gml=mit
+11	beasig	beasig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=besîch
+12	dat	dat	SCONJ	_	_	20	mark	_	lemma_gml=dat
+13	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma_gml=et
+14	eyrste	eyrste	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	15	amod	_	lemma_gml=êrst
+15	stükky	stükken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	lemma_gml=stückeken
+16	van	van	ADP	_	AdpType=Prep	18	case	_	lemma_gml=van
+17	use	uns	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma_gml=unse
+18	lüchtreise	luchtreise	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	15	nmod	_	lemma_gml=luchtrêise
+19	vöärby	vöärby	ADV	_	_	20	compound:prt	_	lemma_gml=vȫrbî
+20	vlögt	vlegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	advcl	_	lemma_gml=vlêgen|SpaceAfter=No
+21	;	;	PUNCT	_	_	22	punct	_	_
+22	letterlik	letterlik	ADJ	_	Degree=Pos	20	dislocated	_	lemma_gml=letterlĩk|SpaceAfter=No
+23	.	.	PUNCT	_	_	11	punct	_	_
+
