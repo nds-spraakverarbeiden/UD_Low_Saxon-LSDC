@@ -7258,3 +7258,20 @@
 16	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	aux	_	lemma_gml=wēsen|SpaceAfter=No
 17	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_258_NWF_20XX_DRE_drentsk_Zummerhitte
+# text_orig = Padhoes, oeze kat, kreg ’t er aal over van hum.
+# text = Padhoes, use katte, kregt et der al oaver van hüm.
+1	Padhoes	padhoes	PROPN	_	Number=Sing	6	nsubj	_	lemma_gml=padhoes|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	use	uns	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=unse
+4	katte	katte	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	lemma_gml=katte|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	kregt	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=krîgen
+7	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	lemma_gml=hê,sê,et
+8	der	dår	ADV	_	_	6	advmod	_	lemma_gml=dâr
+9	al	al	ADV	_	_	6	advmod	_	lemma_gml=al
+10	oaver	öäver	ADP	_	AdpType=Prep	8	case	_	lemma_gml=ȫver
+11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma_gml=van
+12	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	lemma_gml=hê,sê,et|SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
