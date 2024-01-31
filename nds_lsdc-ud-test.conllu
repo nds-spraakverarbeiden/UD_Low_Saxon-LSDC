@@ -7117,7 +7117,7 @@
 
 # sent_id = LSDC_253_NWF_20XX_DRE_drentsk_Een_hiel_eende_van_Adam_naor_Dallas
 # text_orig = Daor bin’k, zo lek het, zo met bezig dat het eerste stukkie van oeze luchtreis veurbij vlög; letterlijk.
-# text = Dår bin ik, sou lekt het, sou med beasig dat et eyrste stükky van use lüchtreise vöärby vlögt; letterlik.
+# text = Dår bin ik, sou lekt et, sou med beasig dat et eyrste stükky van use lüchtreise vöärby vlögt; letterlik.
 1	Dår	dår	ADV	_	_	11	advmod	_	lemma_gml=dâr
 2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	cop	_	lemma_gml=wēsen
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik|SpaceAfter=No
