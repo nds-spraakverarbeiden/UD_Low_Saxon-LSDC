@@ -7309,3 +7309,22 @@
 29	kind	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	26	obl	_	lemma_gml=kint|SpaceAfter=No
 30	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_260_NWF_20XX_DRE_drentsk_Eric_en_Gerard
+# text_orig = Daj zo maor op de straot liggen gaot?’ vrag Constantijn spottend.
+# text = Dat y sou mår up de stråte liggen gåt?’ vragt Constantijn spottend.
+1	Dat	dat	SCONJ	_	_	8	mark	_	lemma[gml]=dat
+2	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	lemma[gml]=gî
+3	sou	sou	ADV	_	_	4	advmod	_	lemma[gml]=sô
+4	mår	mår	ADV	_	_	8	advmod	_	lemma[gml]=mêr
+5	up	up	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=uppe
+6	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê,dê,dat
+7	stråte	stråte	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	8	obl	_	lemma[gml]=strâte
+8	liggen	liggen	VERB	_	VerbForm=Inf	12	ccomp	_	lemma[gml]=liggen
+9	gåt	gån	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	8	xcomp	_	lemma[gml]=gân|SpaceAfter=No
+10	?	?	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	’	’	PUNCT	_	_	8	punct	_	_
+12	vragt	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma[gml]=vrâgen
+13	Constantijn	Constantijn	PROPN	_	Number=Sing	12	nsubj	_	lemma[gml]=constantijn
+14	spottend	spottend	ADJ	_	Degree=Pos|Tense=Pres|VerbForm=Part	12	advmod	_	lemma[gml]=spottent|SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	_
+
