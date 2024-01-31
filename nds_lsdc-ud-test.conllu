@@ -7142,3 +7142,19 @@
 22	letterlik	letterlik	ADJ	_	Degree=Pos	20	dislocated	_	lemma_gml=letterlĩk|SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	_
 
+# sent_id = LSDC_254_NWF_2016_ACH_achterhook_nummer-96
+# text_orig = Het leste staaltjen is dat ze ok den lechschakelaar kan bedeen. 
+# text = Et leste ståltjen is dat see ouk den lechtskakelaar kan bedenen.
+1	Et	het	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=et
+2	leste	lest	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	3	amod	_	lemma_gml=lat
+3	ståltjen	stålken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=stâlken
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	lemma_gml=wēsen
+5	dat	dat	SCONJ	_	_	11	mark	_	lemma_gml=dat
+6	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	lemma_gml=hê,sê,et
+7	ouk	ouk	ADV	_	_	11	advmod	_	lemma_gml=ôk
+8	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+9	lechtskakelaar	lichtskakeler	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=lichtschakeler
+10	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	lemma_gml=künnen
+11	bedenen	bedenen	VERB	_	VerbForm=Inf	3	csubj	_	lemma_gml=bedênen|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
