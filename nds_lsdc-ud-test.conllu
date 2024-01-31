@@ -7086,7 +7086,7 @@
 
 # sent_id = LSDC_252_NWF_2017_TWE_twentsk_bestuurproat-meert-2017
 # text_orig = Veur ’t tweede joar hebt wie veer biejeenkomsten had in plaats van dree in de veurgoande joaren en dat is oons en de leden good  bevallen.
-# text = Vöär et tweyde jår hebbet wy veer byeynkumst had in plaats van dree in de vöärgånde jåren en dat is uns en de leaden good bevallen.
+# text = Vöär et tweyde jår hebbet wy veer byeynkumsten had in plaats van dree in de vöärgånde jåren en dat is uns en de leaden good bevallen.
 1	Vöär	vöär	ADP	_	AdpType=Prep	4	case	_	lemma_gml=vȫr
 2	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
 3	tweyde	tweyde	ADJ	_	Case=Acc|Gender=Neut|Number=Sing|NumType=Ord	4	amod	_	lemma_gml=twêde
