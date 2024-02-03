@@ -7360,6 +7360,6 @@
 27	med	mid	ADP	_	AdpType=Prep	28	case	_	lemma[gml]=mit
 28	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	29	obl	_	lemma[gml]=ik
 29	låte	låten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	21	ccomp	_	lemma[gml]=lâten
-30	sollen	sollen	AUX	_	VerbForm=Inf	29	xcomp	_	lemma[gml]=sollen|SpaceAfter=No
+30	sollen	sollen	VERB	_	VerbForm=Inf	29	xcomp	_	lemma[gml]=sollen|SpaceAfter=No
 31	.	.	PUNCT	_	_	9	punct	_	_
 
