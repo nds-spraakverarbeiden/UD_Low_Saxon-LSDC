@@ -7363,3 +7363,32 @@
 30	sollen	sollen	VERB	_	VerbForm=Inf	29	xcomp	_	lemma[gml]=sollen|SpaceAfter=No
 31	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_262_NWF_20XX_ACH_achterhooksk_ton-wazzen-ze-alle-een
+# text_orig = Hanna en Willem wazzen d'r 'n paar van 't gemeudelukke soort en hadden twee mooie dochters, Anna was twee-en-twintig, Mina was achttiene.
+# text = Hanna en Willem wassen der en pår van et gemödelikke soorte en hadden twey mooie dochters, Anna was twey-en-twintig, Mina was achttyne.
+1	Hanna	Hanna	PROPN	_	Number=Sing	7	nsubj	_	lemma[gml]=hanna
+2	en	un	CCONJ	_	_	3	cc	_	lemma[gml]=ende
+3	Willem	Willem	PROPN	_	Number=Sing	1	conj	_	lemma[gml]=willem
+4	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	lemma[gml]=wēsen
+5	der	dår	ADV	_	_	7	advmod	_	lemma[gml]=dâr
+6	en	en	DET	_	Definite=Ind|PronType=Art	7	det	_	lemma[gml]=êin,êine,êin
+7	pår	pår	NOUN	_	_	0	root	_	lemma[gml]=pâr
+8	van	van	ADP	_	AdpType=Prep	11	case	_	lemma[gml]=van
+9	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma[gml]=dê,dê,dat
+10	gemödelikke	gemöödlik	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma[gml]=gemö̂delõk
+11	soorte	soorte	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	nmod	_	lemma[gml]=sorte
+12	en	un	CCONJ	_	_	13	cc	_	lemma[gml]=ende
+13	hadden	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	conj	_	lemma[gml]=hebben
+14	twey	twey	NUM	_	NumType=Card	16	nummod	_	lemma[gml]=twêne
+15	mooie	mooi	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	16	amod	_	lemma[gml]=mö̂ye
+16	dochters	dochter	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	obj	_	lemma[gml]=dochter|SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	Anna	Anna	PROPN	_	Number=Sing	20	nsubj	_	lemma[gml]=anna
+19	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	cop	_	lemma[gml]=wēsen
+20	twey-en-twintig	twey-un-twintig	NUM	_	_	16	parataxis	_	lemma[gml]=twêne-ende-twintich|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	Mina	Mina	PROPN	_	Number=Sing	24	nsubj	_	lemma[gml]=mina
+23	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	cop	_	lemma[gml]=wēsen
+24	achttyne	achttein	NUM	_	_	20	conj	_	lemma[gml]=achtein|SpaceAfter=No
+25	.	.	PUNCT	_	_	7	punct	_	_
+
