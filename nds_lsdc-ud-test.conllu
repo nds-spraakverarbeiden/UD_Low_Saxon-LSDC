@@ -7349,7 +7349,7 @@
 16	hebben	hebben	VERB	_	VerbForm=Inf	9	conj	_	lemma[gml]=hebben|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
 18	mår	mår	CCONJ	_	_	21	cc	_	lemma[gml]=mêr
-19	de	de 	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	lemma[gml]=dê,dê,dat
+19	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	lemma[gml]=dê,dê,dat
 20	kameråden	kameråd	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	lemma[gml]=camerât
 21	weaten	weaten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	conj	_	lemma[gml]=wēten
 22	wel	wol	ADV	_	_	21	advmod	_	lemma[gml]=wol|SpaceAfter=No
