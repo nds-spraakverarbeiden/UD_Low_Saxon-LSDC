@@ -7409,7 +7409,7 @@
 2	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	lemma_gml=dê,dê,dat
 3	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	6	aux	_	lemma_gml=hebben
 4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
-6	wal	wol	ADV	_	_	6	advmod	_	lemma_gml=wol
-7	dacht	denken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=denken|SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
+5	wal	wol	ADV	_	_	6	advmod	_	lemma_gml=wol
+6	dacht	denken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=denken|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
