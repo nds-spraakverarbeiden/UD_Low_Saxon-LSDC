@@ -7402,13 +7402,14 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 6	’	’	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_263_NWF_20XX_DRE_drentsk_Sorry_1
-# text_orig = Wij hebt de tied.’
-# text = Wy hebbet de tyd.’
-1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=wî
-2	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
-3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	2	obj	_	lemma_gml=tît|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-6	’	’	PUNCT	_	_	2	punct	_	_
+# sent_id = LSDC_264_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = “Dat ha’k wal dacht.
+# text = “Dat had ik wal dacht.
+1	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
+2	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	lemma_gml=dê,dê,dat
+3	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	6	aux	_	lemma_gml=hebben
+4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
+6	wal	wol	ADV	_	_	6	advmod	_	lemma_gml=wol
+7	dacht	denken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=denken|SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
 
