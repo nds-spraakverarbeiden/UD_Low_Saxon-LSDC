@@ -7413,3 +7413,13 @@
 6	dacht	denken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=denken|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_265_NWF_1851_DRE_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
+# text_orig = 't Is 'n wonderbaorliek geval.
+# text = Et is en wunderbårlik geval.
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et
+2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
+3	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
+4	wunderbårlik	wunderbår	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=wunderbârlĩk
+5	geval	geval	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gevalle|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
