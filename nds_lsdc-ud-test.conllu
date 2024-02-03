@@ -7402,3 +7402,13 @@
 5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 6	’	’	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_263_NWF_20XX_DRE_drentsk_Sorry_1
+# text_orig = Wij hebt de tied.’
+# text = Wy hebbet de tyd.’
+1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=wî
+2	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
+3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+4	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	2	obj	_	lemma_gml=tît|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+6	’	’	PUNCT	_	_	2	punct	_	_
+
