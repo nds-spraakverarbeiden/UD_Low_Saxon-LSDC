@@ -7592,7 +7592,7 @@
 6	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
 7	al	al	ADV	_	_	8	advmod	_	lemma_gml=al
 8	blevt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	lemma_gml=blîven
-9	der	dår	ADV	_	_	8	expl	_	lemma_gml=dâr
+9	der	dår	ADV	_	_	8	advmod	_	lemma_gml=dâr
 10	al	al	ADV	_	_	8	advmod	_	lemma_gml=al
 11	minder	minder	ADJ	_	Degree=Cmp	12	amod	_	lemma_gml=weinich
 12	tyd	tyd	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	8	nsubj	_	lemma_gml=tît
