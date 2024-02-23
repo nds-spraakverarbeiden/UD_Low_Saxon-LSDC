@@ -7423,3 +7423,35 @@
 5	geval	geval	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gevalle|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_1980_00110_NWF
+# text_orig = At e Jenny nog ’s wol spraeken, dan had e no mooi de gelaegenheid want ze studearen vlák bi-j ’m, in Duutsland, in Berlijn.
+# text = At hee Jenny noch eyns wul spreaken, dan had hee nu mooi de geleagenheid want see studeren vlak by em, in Düütskland, in Berlyn.
+1	At	as	SCONJ	_	_	7	mark	_	lemma_gml=alsôdat
+2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
+3	Jenny	Jenny	PROPN	_	Number=Sing	7	obj	_	lemma_gml=jenny
+4	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
+5	eyns	eyns	ADV	_	_	7	advmod	_	lemma_gml=êines
+6	wul	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	aux	_	lemma_gml=willen
+7	spreaken	spreaken	VERB	_	VerbForm=Inf	10	advcl	_	lemma_gml=sprēken|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	dan	dan	ADV	_	_	10	advmod	_	lemma_gml=dan
+10	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
+11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+12	nu	noch	ADV	_	_	10	advmod	_	lemma_gml=nû
+13	mooi	mooi	ADJ	_	Degree=Pos	10	advmod	_	lemma_gml=mö̂ye
+14	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
+15	geleagenheid	geleagenheid	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	lemma_gml=gelēgenhêit
+16	want	wante	SCONJ	_	_	18	mark	_	lemma_gml=wente
+17	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
+18	studeren	studeren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl	_	lemma_gml=studêren
+19	vlak	vlak	ADJ	_	Degree=Pos	21	advmod	_	lemma_gml=vlak
+20	by	by	ADP	_	AdpType=Prep	21	case	_	lemma_gml=bî
+21	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Prs	18	obl	_	lemma_gml=hê,sê,et|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	in	in	ADP	_	AdpType=Prep	24	case	_	lemma_gml=in
+24	Düütskland	Düütskland	PROPN	_	Number=Sing	21	nmod	_	lemma_gml=dü̂tschlant|SpaceAfter=No
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	in	in	ADP	_	AdpType=Prep	27	case	_	lemma_gml=in
+27	Berlyn	Berlyn	PROPN	_	Number=Sing	24	nmod	_	lemma_gml=berlin|SpaceAfter=No
+28	.	.	PUNCT	_	_	10	punct	_	_
+
