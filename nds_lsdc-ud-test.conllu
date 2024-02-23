@@ -7469,7 +7469,7 @@
 9	dat	dat	SCONJ	_	_	16	mark	_	lemma_gml=dat
 10	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=ik
 11	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	lemma_gml=et
-12	Eyertyn	eykerken	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=êikerken
+12	Eykertyn	eykerken	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=êikerken
 13	in	in	ADP	_	AdpType=Prep	15	case	_	lemma_gml=in
 14	syn	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	lemma_gml=sîn,ēr,sîn
 15	gråt	gråt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	lemma_gml=grât
