@@ -7533,3 +7533,51 @@
 11	Joost	Joost	PROPN	_	Number=Sing	10	nsubj	_	lemma_gml=joost|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSPM_1939_00158_NWF
+# text_orig = Van die tied of an liet ik iedere wâeke 't jenevergeld er in glieden, en toen wiee veur 14 dâegen 't stienen vâerken kapot mâekten, was er zooveulle in, daw er un mooije vette bigge veur konden koopen.
+# text = Van dee tyd of an leyt ik ydere weake et jenevergeld der in glyden, en toon wy vöär 14 dagen et steynen varken kaput maakden, was der sou völle in, dat wy der en mooie vette bigge vöär kunden koupen.
+1	Van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
+2	dee	dee	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	lemma_gml=dê,dê,dat
+3	tyd	tyd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	6	obl	_	lemma_gml=tît
+4	of	af	ADP	_	_	3	case	_	lemma_gml=af
+5	an	an	ADP	_	_	3	case	_	lemma_gml=an
+6	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=lâten
+7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
+8	ydere	yder	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	9	det	_	lemma_gml=îder
+9	weake	weake	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	lemma_gml=wēkene
+10	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Def	11	det	_	lemma_gml=dê,dê,dat
+11	jenevergeld	jenevergeld	NOUN	_	_	6	obj	_	lemma_gml=jenēvergelt
+12	der	der	ADV	_	_	6	advmod	_	lemma_gml=dâr
+13	in	in	ADP	_	_	12	case	_	lemma_gml=in
+14	glyden	glyden	VERB	_	VerbForm=Inf	6	xcomp	_	lemma_gml=glîden|SpaceAfter=No
+15	,	,	PUNCT	_	_	31	punct	_	_
+16	en	un	CCONJ	_	_	31	cc	_	lemma_gml=ende
+17	toon	do	SCONJ	_	_	26	mark	_	lemma_gml=dô
+18	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	26	nsubj	_	lemma_gml=wî
+19	vöär	vöär	ADP	_	AdpType=Prep	21	case	_	lemma_gml=vȫr
+20	14	veertein	NUM	_	NumType=Card	21	nummod	_	lemma_gml=14
+21	dagen	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	26	obl	_	lemma_gml=dach
+22	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
+23	steynen	steynen	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	lemma_gml=stêinen
+24	varken	verken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	26	obj	_	lemma_gml=verken
+25	kaput	kaput	ADJ	_	Degree=Pos	26	xcomp	_	lemma_gml=caput
+26	maakden	maken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	31	advcl	_	lemma_gml=māken|SpaceAfter=No
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	cop	_	lemma_gml=wēsen
+29	der	der	ADV	_	_	31	advmod	_	lemma_gml=dâr
+30	sou	sou	ADV	_	_	31	advmod	_	lemma_gml=sô
+31	völle	veale	PRON	_	Case=Nom|Degree=Pos|Number=Sing|PronType=Ind	6	conj	_	lemma_gml=vēle
+32	in	in	ADP	_	_	29	case	_	lemma_gml=in|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	_
+34	dat	dat	SCONJ	_	_	43	mark	_	lemma_gml=dat
+35	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	43	nsubj	_	lemma_gml=wî
+36	der	der	ADV	_	_	43	advmod	_	lemma_gml=dâr
+37	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	40	det	_	lemma_gml=êin,êine,êin
+38	mooie	mooi	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	lemma_gml=mö̂ye
+39	vette	vet	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	lemma_gml=vet
+40	bigge	bigge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	43	obj	_	lemma_gml=pûke
+41	vöär	vöär	ADP	_	_	36	case	_	lemma_gml=vȫr
+42	kunden	künnen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	43	aux	_	lemma_gml=künnen
+43	koupen	koupen	VERB	_	VerbForm=Inf	31	advcl	_	lemma_gml=kö̂pen|SpaceAfter=No
+44	.	.	PUNCT	_	_	6	punct	_	_
+
