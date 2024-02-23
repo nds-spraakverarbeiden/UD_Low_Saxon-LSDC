@@ -7482,3 +7482,38 @@
 22	hol	holden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	16	conj	_	lemma_gml=hōlden|SpaceAfter=No
 23	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_1980_00138_NWF
+# text_orig = ’t Is miln in janewari, wiej hebt snee, de zun schient en ’t is weendstil hier in Twekkel, dus alle reden um ’n stukske te goan fietsen.
+# text = Et is midden in januåry, wy hebbet sney, de sünne skynt en et is windstille hyr in Twekkel, düs alle readen üm en stükske te gån fytsen.
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	lemma_gml=hê,sê,et
+2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
+3	midden	midden	ADV	_	_	5	advmod	_	lemma_gml=midden
+4	in	in	ADP	_	AdpType=Prep	5	case	_	lemma_gml=in
+5	januåry	januåry	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	0	root	_	lemma_gml=januârî|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=wî
+8	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	conj	_	lemma_gml=hebben
+9	sney	sney	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma_gml=snê|SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	sünne	sünne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	lemma_gml=sunne
+13	skynt	skynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	lemma_gml=schînen
+14	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
+15	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	expl	_	lemma_gml=hê,sê,et
+16	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	cop	_	lemma_gml=wēsen
+17	windstille	windstille	ADJ	_	Degree=Pos	5	conj	_	lemma_gml=wintstille
+18	hyr	hyr	ADV	_	_	20	advmod	_	lemma_gml=hîr
+19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma_gml=in
+20	Twekkel	Twekkel	PROPN	_	Number=Sing	17	obl	_	lemma_gml=twekkel|SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	düs	dus	ADV	_	_	24	advmod	_	lemma_gml=düs
+23	alle	al	DET	_	Case=Nom|Number=Plur|PronType=Tot	24	det	_	lemma_gml=al
+24	readen	readen	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	parataxis	_	lemma_gml=rēde
+25	üm	üm	SCONJ	_	_	29	mark	_	lemma_gml=ümme
+26	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
+27	stükske	stükken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	29	obj	_	lemma_gml=stückeken
+28	te	to	PART	_	PartType=Inf	29	mark	_	lemma_gml=tô
+29	gån	gån	VERB	_	VerbForm=Inf	24	advcl	_	lemma_gml=gân
+30	fytsen	fytsen	VERB	_	VerbForm=Inf	29	xcomp	_	lemma_gml=fîtsen|SpaceAfter=No
+31	.	.	PUNCT	_	_	5	punct	_	_
+
