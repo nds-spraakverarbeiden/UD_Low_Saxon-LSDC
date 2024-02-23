@@ -7545,7 +7545,7 @@
 7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
 8	ydere	yder	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	9	det	_	lemma_gml=îder
 9	weake	weake	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	lemma_gml=wēkene
-10	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Def	11	det	_	lemma_gml=dê,dê,dat
+10	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
 11	jenevergeld	jenevergeld	NOUN	_	_	6	obj	_	lemma_gml=jenēvergelt
 12	der	der	ADV	_	_	6	advmod	_	lemma_gml=dâr
 13	in	in	ADP	_	_	12	case	_	lemma_gml=in
