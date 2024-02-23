@@ -7581,55 +7581,23 @@
 43	koupen	koupen	VERB	_	VerbForm=Inf	31	advcl	_	lemma_gml=kö̂pen|SpaceAfter=No
 44	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_052_WFL-NL_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_08_NWF
-# text_orig = 'k weet nog best, 't gink van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan zooveule as de verbuuginge van ‘taofel’ en ‘jonge’; wieder he'k ut er dan ok niet mee ebracht;
-# text = Ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan sou vöäle as de verbüginge van ‘tåfel’ en ‘junge’; wyder hebbe ik et der dan ouk neet meade ebracht;
-1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
-2	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=wēten
-3	noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
-4	best	good	ADJ	_	Degree=Sup	2	advmod	_	lemma_gml=gôt
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma_gml=hê,sê,et
-7	ging	gån	VERB	_	Number=Sing|Person=3|Tense=Past	2	xcomp	_	lemma_gml=gân
-8	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
-9	mensa	mensa	X	_	Foreign=Yes	7	obl	_	lemma_gml=mensa
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	mensae	mensae	X	_	Foreign=Yes	9	conj	_	lemma_gml=mensae
-12	,	,	PUNCT	_	_	13	punct	_	_
-13	mensarum	mensarum	X	_	Foreign=Yes	9	conj	_	lemma_gml=mensarum
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	mensas	mensas	X	_	Foreign=Yes	9	conj	_	lemma_gml=mensas
-16	,	,	PUNCT	_	_	17	punct	_	_
-17	puer	puer	X	_	Foreign=Yes	9	conj	_	lemma_gml=puer
-18	en	un	CCONJ	_	_	19	cc	_	lemma_gml=ende
-19	pueri	pueri	X	_	Foreign=Yes	17	conj	_	lemma_gml=pueri
-20	,	,	PUNCT	_	_	25	punct	_	_
-21	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	25	nsubj	_	lemma_gml=dê,dê,dat
-22	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	cop	_	lemma_gml=wēsen
-23	dan	dan	ADV	_	_	25	advmod	_	lemma_gml=dan
-24	sou	sou	ADV	_	_	25	conj	_	lemma_gml=sô
-25	vöäle	veale	PRON	_	Case=Nom|Number=Sing|PronType=Ind	7	parataxis	_	lemma_gml=vēle
-26	as	as	ADP	_	_	28	case	_	lemma_gml=alsô
-27	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	lemma_gml=dê,dê,dat
-28	verbüginge	vorbuginge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=vorbö̂ginge
-29	van	van	ADP	_	AdpType=Prep	31	case	_	lemma_gml=van
-30	‘	‘	PUNCT	_	_	31	punct	_	_
-31	tåfel	tåfel	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	lemma_gml=tāfele
-32	’	’	PUNCT	_	_	31	punct	_	_
-33	en	un	CCONJ	_	_	35	cc	_	lemma_gml=ende
-34	‘	‘	PUNCT	_	_	35	punct	_	_
-35	junge	junge	NOUN	_	Gender=Masc|Number=Sing	31	conj	_	lemma_gml=junge
-36	’	’	PUNCT	_	_	35	punct	_	_
-37	;	;	PUNCT	_	_	2	punct	_	_
-38	wyder	wyd	ADJ	_	Degree=Cmp	47	advmod	_	lemma_gml=wît
-39	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	47	aux	_	lemma_gml=hebben
-40	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	47	nsubj	_	lemma_gml=ik
-41	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	47	obj	_	lemma_gml=hê,sê,et
-42	der	dår	ADV	_	_	47	advmod	_	lemma_gml=dâr
-43	dan	dan	ADV	_	_	47	advmod	_	lemma_gml=dan
-44	ouk	ouk	ADV	_	_	47	advmod	_	lemma_gml=ôk
-45	neet	nich	PART	_	PartType=Neg	47	advmod	_	lemma_gml=nicht
-46	meade	mid	ADP	_	_	42	case	_	lemma_gml=mēde
-47	ebracht	bringen	VERB	_	Aspect=Perf|VerbForm=Part	2	parataxis	_	lemma_gml=bringen
-48	;	;	PUNCT	_	_	2	punct	_	_
+# sent_id = LSDC_1980_00045_NWF
+# text_orig = Zie hef de tied, ok al blef der aal minder tied van leven over.
+# text = See hevt de tyd, ouk al blevt der al minder tyd van leaven oaver.
+1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hebben
+3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+4	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	2	obj	_	lemma_gml=tît|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
+7	al	al	ADV	_	_	8	advmod	_	lemma_gml=al
+8	blevt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	lemma_gml=blîven
+9	der	dår	ADV	_	_	8	expl	_	lemma_gml=dâr
+10	al	al	ADV	_	_	8	advmod	_	lemma_gml=al
+11	minder	minder	ADJ	_	Degree=Cmp	12	amod	_	lemma_gml=weinich
+12	tyd	tyd	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	8	nsubj	_	lemma_gml=tît
+13	van	van	ADP	_	AdpType=Prep	14	case	_	lemma_gml=van
+14	leaven	leaven	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	nmod	_	lemma_gml=lēvent
+15	oaver	öäver	ADP	_	_	8	compound:prt	_	lemma_gml=ȫver|SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
 
