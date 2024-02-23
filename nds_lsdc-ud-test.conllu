@@ -7457,7 +7457,7 @@
 
 # sent_id = LSPM_1939_00170_NWF
 # text_orig = Toe wier ik in ies zoo hellig, da'ket Iekertien in zien groat greep en um boven 't loek hol.
-# text = Do weer ik in eyns sou hellig, dat ik et Eykertyn in syn gråt greyp en üm boaven et luke hol.
+# text = To weer ik in eyns sou hellig, dat ik et Eykertyn in syn gråt greyp en üm boaven et luke hol.
 1	To	do	ADV	_	_	7	advmod	_	lemma_gml=dô
 2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	7	cop	_	lemma_gml=wērden
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	lemma_gml=ik
