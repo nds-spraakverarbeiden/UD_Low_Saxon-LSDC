@@ -7566,7 +7566,7 @@
 28	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	cop	_	lemma_gml=wēsen
 29	der	der	ADV	_	_	31	advmod	_	lemma_gml=dâr
 30	sou	sou	ADV	_	_	31	advmod	_	lemma_gml=sô
-31	völle	veale	PRON	_	Case=Nom|Degree=Pos|Number=Sing|PronType=Ind	6	conj	_	lemma_gml=vēle
+31	völle	veale	PRON	_	Case=Nom|Number=Sing|PronType=Ind	6	conj	_	lemma_gml=vēle
 32	in	in	ADP	_	_	29	case	_	lemma_gml=in|SpaceAfter=No
 33	,	,	PUNCT	_	_	32	punct	_	_
 34	dat	dat	SCONJ	_	_	43	mark	_	lemma_gml=dat
