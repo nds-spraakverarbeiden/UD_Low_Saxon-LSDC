@@ -7455,3 +7455,30 @@
 27	Berlyn	Berlyn	PROPN	_	Number=Sing	24	nmod	_	lemma_gml=berlin|SpaceAfter=No
 28	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSPM_1939_00170_NWF
+# text_orig = Toe wier ik in ies zoo hellig, da'ket Iekertien in zien groat greep en um boven 't loek hol.
+# text = Do weer ik in eyns sou hellig, dat ik et Eykertyn in syn gråt greyp en üm boaven et luke hol.
+1	To	do	ADV	_	_	7	advmod	_	lemma_gml=dô
+2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	7	cop	_	lemma_gml=wērden
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	lemma_gml=ik
+4	in	in	ADP	_	AdpType=Prep	5	case	_	lemma_gml=in
+5	eyns	eyns	ADV	_	_	7	advmod	_	lemma_gml=êines
+6	sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
+7	hellig	hellig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=hellich|SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	dat	dat	SCONJ	_	_	16	mark	_	lemma_gml=dat
+10	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=ik
+11	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	lemma_gml=et
+12	Eyertyn	eykerken	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=êikerken
+13	in	in	ADP	_	AdpType=Prep	15	case	_	lemma_gml=in
+14	syn	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det	_	lemma_gml=sîn,ēr,sîn
+15	gråt	gråt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	lemma_gml=grât
+16	greyp	grypen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	7	advcl	_	lemma_gml=grîpen
+17	en	un	CCONJ	_	_	22	cc	_	lemma_gml=ende
+18	üm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	lemma_gml=hê,sê,et
+19	boaven	boaven	ADP	_	AdpType=Prep	21	case	_	lemma_gml=bōven
+20	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
+21	luke	luke	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obl	_	lemma_gml=lûke
+22	hol	holden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	16	conj	_	lemma_gml=hōlden|SpaceAfter=No
+23	.	.	PUNCT	_	_	7	punct	_	_
+
