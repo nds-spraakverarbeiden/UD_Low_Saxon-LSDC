@@ -7423,7 +7423,7 @@
 5	geval	geval	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gevalle|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_266_NWF_20XX_achterhooksk_lange-afstands-romantiek
+# sent_id = LSDC_266_NWF_20XX_ACH_achterhooksk_lange-afstands-romantiek
 # text_orig = At e Jenny nog ’s wol spraeken, dan had e no mooi de gelaegenheid want ze studearen vlák bi-j ’m, in Duutsland, in Berlijn.
 # text = At hee Jenny noch eyns wul spreaken, dan had hee nu mooi de geleagenheid want see studeren vlak by em, in Düütskland, in Berlyn.
 1	At	as	SCONJ	_	_	7	mark	_	lemma_gml=alsôdat
@@ -7455,7 +7455,7 @@
 27	Berlyn	Berlyn	PROPN	_	Number=Sing	24	nmod	_	lemma_gml=berlin|SpaceAfter=No
 28	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_267_NWF_1868_zwolle_hoe_andries_aan_een_varken_kwam
+# sent_id = LSDC_267_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Toe wier ik in ies zoo hellig, da'ket Iekertien in zien groat greep en um boven 't loek hol.
 # text = To weer ik in eyns sou hellig, dat ik et Eykertyn in syn gråt greyp en üm boaven et luke hol.
 1	To	do	ADV	_	_	7	advmod	_	lemma_gml=dô
@@ -7482,7 +7482,7 @@
 22	hol	holden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	16	conj	_	lemma_gml=hōlden|SpaceAfter=No
 23	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_268_NWF_201x_twentsk_van-ltc-noar-theetuin-en-beste-bed-breakfast-HAN
+# sent_id = LSDC_268_NWF_201x_TWE_twentsk_van-ltc-noar-theetuin-en-beste-bed-breakfast-HAN
 # text_orig = ’t Is miln in janewari, wiej hebt snee, de zun schient en ’t is weendstil hier in Twekkel, dus alle reden um ’n stukske te goan fietsen.
 # text = Et is midden in januåry, wy hebbet sney, de sünne skynt en et is windstille hyr in Twekkel, düs alle readen üm en stükske te gån fytsen.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	lemma_gml=hê,sê,et
@@ -7517,7 +7517,7 @@
 30	fytsen	fytsen	VERB	_	VerbForm=Inf	29	xcomp	_	lemma_gml=fîtsen|SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_269_NWF_20XX_drentsk_Daphne
+# sent_id = LSDC_269_NWF_20XX_DRE_drentsk_Daphne
 # text_orig = “Nee, dat is het niet,” zeg Joost.
 # text = “Ney, dat is et neet,” segt Joost.
 1	“	“	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -7533,7 +7533,7 @@
 11	Joost	Joost	PROPN	_	Number=Sing	10	nsubj	_	lemma_gml=joost|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_270_NWF_1868_zwolle_hoe_andries_aan_een_varken_kwam
+# sent_id = LSDC_270_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Van die tied of an liet ik iedere wâeke 't jenevergeld er in glieden, en toen wiee veur 14 dâegen 't stienen vâerken kapot mâekten, was er zooveulle in, daw er un mooije vette bigge veur konden koopen.
 # text = Van dee tyd of an leyt ik ydere weake et jenevergeld der in glyden, en toon wy vöär 14 dagen et steynen varken kaput maakden, was der sou völle in, dat wy der en mooie vette bigge vöär kunden koupen.
 1	Van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
@@ -7581,7 +7581,7 @@
 43	koupen	koupen	VERB	_	VerbForm=Inf	31	advcl	_	lemma_gml=kö̂pen|SpaceAfter=No
 44	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_271_NWF_20XX_drentsk_Zute_wraak
+# sent_id = LSDC_271_NWF_20XX_DRE_drentsk_Zute_wraak
 # text_orig = Zie hef de tied, ok al blef der aal minder tied van leven over.
 # text = See hevt de tyd, ouk al blevt der al minder tyd van leaven oaver.
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -7646,4 +7646,40 @@
 40	juwen	juw	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	41	det	_	lemma_gml=iuwe
 41	geld	geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	34	obl	_	lemma_gml=gelt|SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_273_NWF_20XX_DRE_drentsk_23_In_de_steek_laoten
+# text_orig = Net veurdat e de deur van de klas dichtsmet, heurt juf Sanne hum nog zeggen: ‘Bij zo’n kutjuf wi’k niet in de klas zitten.’
+# text = Net vöär dat hee de döäre van de klasse dichtsmet, höyrt jüf Sanne hüm noch seggen: ‘By sou en kütjüf wil ik neet in de klasse sitten.’
+1	Net	net	ADV	_	_	12	advmod	_	lemma_gml=net
+2	vöär	vöär	SCONJ	_	_	10	mark	_	lemma_gml=vȫr
+3	dat	dat	SCONJ	_	_	10	mark	_	lemma_gml=dat
+4	heee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+5	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+6	döäre	döäre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	lemma_gml=dȫre
+7	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+9	klasse	klasse	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	6	nmod	_	lemma_gml=klasse
+10	dichtsmet	dichtsmyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	advcl	_	lemma_gml=dichtsmîten|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hö̂ren
+13	jüf	jüf	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	lemma_gml=juncvrouwe
+14	Sanne	Sanne	PROPN	_	Number=Sing	12	nsubj	_	lemma_gml=sanne
+15	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	flat	_	lemma_gml=hê,sê,et
+16	noch	noch	ADV	_	_	17	advmod	_	lemma_gml=noch
+17	seggen	seggen	VERB	_	VerbForm=Inf	12	xcomp	_	lemma_gml=seggen|SpaceAfter=No
+18	:	:	PUNCT	_	_	30	punct	_	_
+19	‘	‘	PUNCT	_	_	30	punct	_	SpaceAfter=No
+20	By	by	ADP	_	AdpType=Prep	23	case	_	lemma_gml=bî
+21	sou	sou	ADV	_	_	23	advmod	_	lemma_gml=sô
+22	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
+23	kütjüf	kutjüf	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	30	obl	_	lemma_gml=kuttenjuncvrouwe
+24	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	aux	_	lemma_gml=willen
+25	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	lemma_gml=ik
+26	neet	nich	PART	_	PartType=Neg	30	advmod	_	lemma_gml=nicht
+27	in	in	ADP	_	AdpType=Prep	29	case	_	lemma_gml=in
+28	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	lemma_gml=dê,dê,dat
+29	klasse	klasse	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	30	obl	_	lemma_gml=klasse
+30	sitten	sitten	VERB	_	VerbForm=Inf	12	ccomp	_	lemma_gml=sitten|SpaceAfter=No
+31	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
+32	’	’	PUNCT	_	_	12	punct	_	_
 
