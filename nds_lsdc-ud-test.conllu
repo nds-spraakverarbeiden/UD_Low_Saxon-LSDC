@@ -7533,7 +7533,7 @@
 11	Joost	Joost	PROPN	_	Number=Sing	10	nsubj	_	lemma_gml=joost|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSPM_1939_00158_NWF
+# sent_id = LSDC_270_NWF_1868_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Van die tied of an liet ik iedere wâeke 't jenevergeld er in glieden, en toen wiee veur 14 dâegen 't stienen vâerken kapot mâekten, was er zooveulle in, daw er un mooije vette bigge veur konden koopen.
 # text = Van dee tyd of an leyt ik ydere weake et jenevergeld der in glyden, en toon wy vöär 14 dagen et steynen varken kaput maakden, was der sou völle in, dat wy der en mooie vette bigge vöär kunden koupen.
 1	Van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
