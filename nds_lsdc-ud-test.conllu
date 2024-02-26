@@ -8183,7 +8183,7 @@
 10	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
 11	der	dår	ADV	_	_	13	advmod	_	lemma_gml=dâr
 12	vindig	vinnig	ADJ	_	Degree=Pos	13	advcl	_	lemma_gml=vindich
-13	seek	seek	ADJ	_	Degree=	7	conj	_	lemma_gml=sêk
+13	seek	seek	ADJ	_	Degree=Pos	7	conj	_	lemma_gml=sêk
 14	af	af	ADP	_	_	11	case	_	lemma_gml=af
 15	ewest	weasen	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	lemma_gml=wēsen
 16	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	aux	_	lemma_gml=wēsen|SpaceAfter=No
