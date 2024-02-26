@@ -7304,7 +7304,7 @@
 24	laaste	laat	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	20	obl	_	lemma_gml=lat
 25	sou	sou	ADV	_	_	26	advmod	_	lemma_gml=sô
 26	weyk	weyk	ADJ	_	Degree=Pos	20	xcomp	_	lemma_gml=wêik
-27	as	alsou	ADP	_	_	29	case	_	lemma_gml=alsô
+27	as	as	ADP	_	_	29	case	_	lemma_gml=alsô
 28	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	29	det	_	lemma_gml=êin,êine,êin
 29	kind	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	26	obl	_	lemma_gml=kint|SpaceAfter=No
 30	.	.	PUNCT	_	_	9	punct	_	_
@@ -7600,4 +7600,50 @@
 14	leaven	leaven	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	nmod	_	lemma_gml=lēvent
 15	oaver	öäver	ADP	_	_	8	compound:prt	_	lemma_gml=ȫver|SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_272_NNS_1872_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Doomnij dus heur nijt an; en ien de kerk, zeeën ze, wör heur ook niks anders touhollen as de bule, en dat was ien de harbarge anders, doar kreeg ie ook nog wat veur joen geld.
+# text = Dominee düs höär neet an; en yn de kerke, sean see, wör höär ouk niks anders toholden as de büle, en dat was yn de harbarge anders, dår kreyg y ouk noch wat vöär juwen geld.
+1	Dominee	dominee	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=dominê
+2	düs	döären	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=dȫren
+3	höär	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	lemma_gml=sê
+4	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
+5	an	an	ADP	_	_	2	compound:prt	_	lemma_gml=an|SpaceAfter=No
+6	;	;	PUNCT	_	_	2	punct	_	_
+7	en	un	CCONJ	_	_	20	cc	_	lemma_gml=ende
+8	yn	in	ADP	_	AdpType=Prep	10	case	_	lemma_gml=in
+9	de	de	DET	_	Case=Acc.Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	kerke	kerke	NOUN	_	Case=Acc.Dat|Gender=Fem|Number=Sing	20	obl	_	lemma_gml=kerke|SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	20	parataxis	_	lemma_gml=seggen
+13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	lemma_gml=sê|SpaceAfter=No
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	wör	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	lemma_gml=wērden
+16	höär	see	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	20	obj	_	lemma_gml=sê
+17	ouk	ouk	ADV	_	_	18	advmod	_	lemma_gml=ôk
+18	niks	niks	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	20	nsubj:pass	_	lemma_gml=nichtes
+19	anders	ander	ADJ	_	Case=Gen|Degree=Pos|PronType=Ind	18	amod	_	lemma_gml=anders
+20	toholden	toholden	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=tôhōlden
+21	as	as	CCONJ	_	_	23	cc	_	lemma_gml=alsô
+22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
+23	büle	büdel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nmod	_	lemma_gml=bü̂del|SpaceAfter=No
+24	,	,	PUNCT	_	_	31	punct	_	_
+25	en	un	CCONJ	_	_	31	cc	_	lemma_gml=ende
+26	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	31	nsubj	_	lemma_gml=dê,dê,dat
+27	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	cop	_	lemma_gml=wēsen
+28	yn	in	ADP	_	AdpType=Prep	30	case	_	lemma_gml=in
+29	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	lemma_gml=dê,dê,dat
+30	harbarge	herberge	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	31	obl	_	lemma_gml=herberge
+31	anders	anders	ADV	_	_	20	conj	_	lemma_gml=anders|SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	dår	dår	ADV	_	_	34	advmod	_	lemma_gml=dâr
+34	kreyg	krygen	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	31	parataxis	_	lemma_gml=krîgen
+35	y	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	34	nsubj	_	lemma_gml=gî
+36	ouk	ouk	ADV	_	_	34	advmod	_	lemma_gml=ôk
+37	noch	noch	ADV	_	_	34	advmod	_	lemma_gml=noch
+38	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	34	obj	_	lemma_gml=watte
+39	vöär	vöär	ADP	_	AdpType=Prep	41	case	_	lemma_gml=vȫr
+40	juwen	juw	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	41	det	_	lemma_gml=iuwe
+41	geld	geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	34	obl	_	lemma_gml=gelt|SpaceAfter=No
+42	.	.	PUNCT	_	_	2	punct	_	_
 
