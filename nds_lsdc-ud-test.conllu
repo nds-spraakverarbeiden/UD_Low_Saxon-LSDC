@@ -7994,7 +7994,7 @@
 
 # sent_id = LSDC_289_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Zeg et toch glad uut, wa je tägen mii het, da je mii as en olde lappe op zii' smiit.
-# text = Seg et toch gald üüt, wat jy teagen my hebbet, dat jy my as en olde lappe up syde smytet.
+# text = Seg et toch glad üüt, wat jy teagen my hebbet, dat jy my as en olde lappe up syde smytet.
 1	Seg	seggen	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=seggen
 2	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	lemma_gml=hê,sê,et
 3	toch	doch	ADV	_	_	1	advmod	_	lemma_gml=doch
