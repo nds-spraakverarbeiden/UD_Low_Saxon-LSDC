@@ -8110,3 +8110,32 @@
 23	anoreksiapatienten	anoreksiapatient	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	nmod	_	lemma_gml=anorexiapaciente|SpaceAfter=No
 24	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_293_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht.txt
+# text_orig = Hoe 'k et oak mit oe zuuk te riigen en te plooien, ik kriig et maor nie zoa ak et gaerne ha.
+# text = Ho ik et ouk mid u söke te rygen en te plooien, ik kryge et mår neet sou as ik et gaerne had.
+1	Ho	wo	ADV	_	_	7	advmod	_	lemma_gml=wô
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	lemma_gml=ik
+3	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	obj	_	lemma_gml=hê,sê,et
+4	ouk	ouk	ADV	_	_	7	advmod	_	lemma_gml=ôk
+5	mid	mid	ADP	_	AdpType=Prep	6	case	_	lemma_gml=mit
+6	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	7	obl	_	lemma_gml=gî
+7	söke	söken	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	15	advcl	_	lemma_gml=sö̂ken
+8	te	to	PART	_	PartType=Inf	9	mark	_	lemma_gml=tô
+9	rygen	rygen	VERB	_	VerbForm=Inf	7	xcomp	_	lemma_gml=rîgen
+10	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
+11	te	to	PART	_	PartType=Inf	12	mark	_	lemma_gml=tô
+12	plooien	plooien	VERB	_	VerbForm=Inf	9	conj	_	lemma_gml=ployen|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma_gml=ik
+15	kryge	krygen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=krîgen
+16	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	lemma_gml=hê,sê,et
+17	mår	mår	ADV	_	_	15	advmod	_	lemma_gml=mêr
+18	neet	nich	PART	_	PartType=Neg	19	advmod	_	lemma_gml=nicht
+19	sou	sou	ADV	_	_	15	advmod	_	lemma_gml=sô
+20	as	as	SCONJ	_	_	24	mark	_	lemma_gml=alsô
+21	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	24	nsubj	_	lemma_gml=ik
+22	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	obj	_	lemma_gml=hê,sê,et
+23	gaerne	gaerne	ADV	_	_	24	advmod	_	lemma_gml=gērne
+24	had	hebben	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	19	advcl	_	lemma_gml=hebben|SpaceAfter=No
+25	.	.	PUNCT	_	_	15	punct	_	_
+
