@@ -8079,7 +8079,7 @@
 39	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	lemma_gml=nēse
 40	hen	hen	ADV	_	_	35	advmod	_	lemma_gml=hen
 41	wist	wysen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	33	acl:relcl	_	lemma_gml=wîsen|SpaceAfter=No
-42	.	.	AUX	_	_	27	punct	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	27	punct	_	SpaceAfter=No
 43	“	“	PUNCT	_	_	27	punct	_	_
 
 # sent_id = LSDC_292_NWF_20XX_DRE_drentsk_Daphne
