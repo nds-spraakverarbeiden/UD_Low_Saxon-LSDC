@@ -7916,3 +7916,15 @@
 11	weareld	wearld	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=werlt|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_285_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Noa hom kwam 'n heile rommel tegelieks.
+# text = Nå hum kwam en heyle rummel tegelyks.
+1	Nå	nå	ADP	_	AdpType=Prep	2	case	_	lemma_gml=nâ
+2	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	lemma_gml=hê,sê,et
+3	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+4	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+5	heyle	heyl	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=hêil
+6	rummel	rummel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=rummel
+7	tegelyks	togelyks	ADV	_	_	3	advmod	_	lemma_gml=tôgelîkes|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
