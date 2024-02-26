@@ -7622,7 +7622,7 @@
 16	höär	see	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	20	obj	_	lemma_gml=sê
 17	ouk	ouk	ADV	_	_	18	advmod	_	lemma_gml=ôk
 18	niks	niks	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	20	nsubj:pass	_	lemma_gml=nichtes
-19	anders	ander	ADJ	_	Case=Gen|Degree=Pos|PronType=Ind	18	amod	_	lemma_gml=anders
+19	anders	ander	ADJ	_	Case=Gen|Degree=Pos	18	amod	_	lemma_gml=anders
 20	toholden	toholden	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=tôhōlden
 21	as	as	CCONJ	_	_	23	cc	_	lemma_gml=alsô
 22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
