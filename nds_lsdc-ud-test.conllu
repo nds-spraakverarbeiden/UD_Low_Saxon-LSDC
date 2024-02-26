@@ -7695,7 +7695,7 @@
 
 # sent_id = LSDC_275_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Daorum, Miekelief! stel dissen springer uut oew zin en hold oe lääg bii 'e grond, dan val i nie hoog.
-# text = Dårüm, Miekeleev! stel dissen springer üüt uw sin en hold u laeg by de grund, dat val y neet houg.
+# text = Dårüm, Miekeleev! stel dissen springer üüt uw sin en hold u laeg by de grund, dan val y neet houg.
 1	Dårüm	dårüm	ADV	_	_	5	advmod	_	lemma_gml=dârümme|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	Miekeleev	Miekeleev	PROPN	_	Number=Sing	5	vocative	_	lemma_gml=miekelief|SpaceAfter=No
