@@ -8082,3 +8082,31 @@
 42	.	.	AUX	_	_	27	punct	_	SpaceAfter=No
 43	“	“	PUNCT	_	_	27	punct	_	_
 
+# sent_id = LSDC_292_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Zwei met aarms en bienen asof ’t zo heurt  en vuul mij as een man met overgewicht in een prootgroep veur anorexiapatiënten.
+# text = Swaie med arms en beynen as of et sou höyrt en völe my as en man med oavergewicht in en pråtgruup vöär anoreksiapatienten.
+1	Swaie	swaien	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=sweyen
+2	med	mid	ADP	_	AdpType=Prep	3	case	_	lemma_gml=mit
+3	arms	arm	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	1	obl	_	lemma_gml=arm
+4	en	un	CCONJ	_	_	5	cc	_	lemma_gml=ende
+5	beynen	beyn	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	3	conj	_	lemma_gml=bêin
+6	as	as	SCONJ	_	_	10	mark	_	lemma_gml=alsô
+7	of	of	SCONJ	_	_	6	flat	_	lemma_gml=of
+8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+9	sou	sou	ADV	_	_	10	advmod	_	lemma_gml=sô
+10	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	advcl	_	lemma_gml=hö̂ren
+11	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
+12	völe	völen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	conj	_	lemma_gml=vö̂len
+13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	12	obj	_	lemma_gml=ik
+14	as	as	SCONJ	_	_	16	cc	_	lemma_gml=alsô
+15	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma_gml=êin,êine,êin
+16	man	man	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obl	_	lemma_gml=man
+17	med	mid	ADP	_	AdpType=Prep	18	case	_	lemma_gml=mit
+18	oavergewicht	öävergewicht	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	16	nmod	_	lemma_gml=ȫvergewicht
+19	in	in	ADP	_	AdpType=Prep	21	case	_	lemma_gml=in
+20	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	lemma_gml=êin,êine,êin
+21	pråtgruup	pråtgruup	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	16	nmod	_	lemma_gml=prōtgrûp
+22	vöär	vöär	ADP	_	AdpType=Prep	23	case	_	lemma_gml=vȫr
+23	anoreksiapatienten	anoreksiapatient	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	nmod	_	lemma_gml=anorexiapaciente|SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
