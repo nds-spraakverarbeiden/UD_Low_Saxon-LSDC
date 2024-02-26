@@ -7955,3 +7955,17 @@
 22	buskrand	buskrand	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	19	nmod	_	lemma_gml=buschrant|SpaceAfter=No
 23	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_287_NWF_201X_TWE_twentsk_hartstochtelijk-gevoarlijk-glas-in-wierden
+# text_orig = Der zit ook kopper, zeenk of messing in.
+# text = Der sit ouk kopper, sink of messing in.
+1	Der	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
+2	sit	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=sitten
+3	ouk	ouk	ADV	_	_	2	advmod	_	lemma_gml=ôk
+4	kopper	kopper	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	lemma_gml=kopper
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	sink	sink	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma_gml=sink
+7	of	of	CCONJ	_	_	8	cc	_	lemma_gml=eft
+8	messing	messing	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma_gml=missinge
+9	in	in	ADP	_	_	1	case	_	lemma_gml=in|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
