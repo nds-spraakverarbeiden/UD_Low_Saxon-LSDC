@@ -7749,7 +7749,7 @@
 2	kearel	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=kē̆rl
 3	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
 4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
-5	vöäl	veale	PRON	_	Case=Acc|Degree=Pos|Number=Sing|PronType=Ind	3	obj	_	lemma_gml=vēle
+5	vöäl	veale	PRON	_	Case=Acc|Number=Sing|PronType=Ind	3	obj	_	lemma_gml=vēle
 6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
 7	sük	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	lemma_gml=sik
 8	sülvens	sülv	ADV	_	_	7	advmod	_	lemma_gml=sülve|SpaceAfter=No
