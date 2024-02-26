@@ -7693,3 +7693,31 @@
 5	geheimken	geheymken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gehêimeken|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_275_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = Daorum, Miekelief! stel dissen springer uut oew zin en hold oe lääg bii 'e grond, dan val i nie hoog.
+# text = Dårüm, Miekeleev! stel dissen springer üüt uw sin en hold u laeg by de grund, dat val y neet houg.
+1	Dårüm	dårüm	ADV	_	_	5	advmod	_	lemma_gml=dârümme|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Miekeleev	Miekeleev	PROPN	_	Number=Sing	5	vocative	_	lemma_gml=miekelief|SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+5	stel	stellen	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=stellen
+6	dissen	disse	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	lemma_gml=desse,desse,dit
+7	springer	springer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	lemma_gml=springer
+8	üüt	uut	ADP	_	AdpType=Prep	10	case	_	lemma_gml=ût
+9	uw	juw	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=iuwe
+10	sin	sin	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=sin
+11	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
+12	hold	holden	VERB	_	Mood=Imp|Number=Sing	5	conj	_	lemma_gml=hōlden
+13	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	12	obj	_	lemma_gml=gî
+14	laeg	laeg	ADJ	_	Degree=Pos	12	xcomp	_	lemma_gml=lêch
+15	by	by	ADP	_	AdpType=Prep	17	case	_	lemma_gml=bî
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
+17	grund	grund	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	14	obl	_	lemma_gml=grunt|SpaceAfter=No
+18	,	,	PUNCT	_	_	5	punct	_	_
+19	dan	dan	ADV	_	_	20	advmod	_	lemma_gml=dan
+20	val	vallen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	5	conj	_	lemma_gml=vallen
+21	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	20	nsubj	_	lemma_gml=gî
+22	neet	nich	PART	_	PartType=Neg	20	advmod	_	lemma_gml=nicht
+23	houg	houg	ADJ	_	Degree=Pos	20	advmod	_	lemma_gml=hô|SpaceAfter=No
+24	.	.	PUNCT	_	_	20	punct	_	_
+
