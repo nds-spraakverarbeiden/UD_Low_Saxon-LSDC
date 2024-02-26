@@ -7888,7 +7888,7 @@
 12	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
 13	rappigheid	rappigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	17	obl	_	lemma_gml=rappichêit
 14	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	aux	_	lemma_gml=wēsen
-15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
+15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
 16	sekenauto	sekenauto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obj	_	lemma_gml=auto
 17	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=kōmen|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	_
