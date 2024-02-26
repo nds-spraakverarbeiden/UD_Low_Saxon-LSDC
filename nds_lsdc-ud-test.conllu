@@ -7612,8 +7612,8 @@
 6	;	;	PUNCT	_	_	2	punct	_	_
 7	en	un	CCONJ	_	_	20	cc	_	lemma_gml=ende
 8	yn	in	ADP	_	AdpType=Prep	10	case	_	lemma_gml=in
-9	de	de	DET	_	Case=Acc.Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
-10	kerke	kerke	NOUN	_	Case=Acc.Dat|Gender=Fem|Number=Sing	20	obl	_	lemma_gml=kerke|SpaceAfter=No
+9	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	kerke	kerke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	20	obl	_	lemma_gml=kerke|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	20	parataxis	_	lemma_gml=seggen
 13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	lemma_gml=sê|SpaceAfter=No
