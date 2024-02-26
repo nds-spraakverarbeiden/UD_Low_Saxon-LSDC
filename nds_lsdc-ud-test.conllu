@@ -7689,7 +7689,7 @@
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et
 2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
 3	jo	jo	ADV	_	_	5	advmod	_	lemma_gml=io
-4	gyn	geyn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Neg	5	det	_	lemma_gml=gêin
+4	gyn	geyn	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	5	det	_	lemma_gml=gêin
 5	geheimken	geheymken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gehêimeken|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
