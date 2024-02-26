@@ -7800,8 +7800,8 @@
 2	an	an	ADP	_	AdpType=Prep	4	case	_	lemma_gml=an
 3	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
 4	spröäkske	spröäksken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	lemma_gml=sprȫksken|SpaceAfter=No
-5	:	:	PUNCT	_	_	1	punct	_	_
-6	‘	‘	PUNCT	_	_	8	case	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	10	punct	_	_
+6	‘	‘	PUNCT	_	_	8	punct	_	SpaceAfter=No
 7	Ungeliken	ongelyk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma_gml=ungelîk
 8	ård	ård	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	lemma_gml=ārt|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
@@ -7810,4 +7810,5 @@
 12	epård	paren	VERB	_	Tense=Past|VerbForm=Part	10	xcomp	_	lemma_gml=pâren|SpaceAfter=No
 13	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
 14	’	’	PUNCT	_	_	10	punct	_	_
+
 
