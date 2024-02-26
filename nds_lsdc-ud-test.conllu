@@ -8035,3 +8035,50 @@
 11	söäpke	söypken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	6	obl	_	lemma_gml=sȫpeken|SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_291_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = En as ie an Geert Knellies, d' ondermeester, vruigen, van wat kant de wind kwam, en hij wos 't nijt, dan zee 'e : „van de kante, woar Loeks Poester zien neuze hen wist.“
+# text = En as y en Geert Knellis, de undermeyster, vrögen, van wat kante de wind kwam, en hee wus et neet, dan sea hee: „van de kante, wår Loeks Poester syn nöäse hen wist.“
+1	En	un	CCONJ	_	_	27	cc	_	lemma_gml=ende
+2	as	as	SCONJ	_	_	11	mark	_	lemma_gml=alsô
+3	y	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	lemma_gml=gî
+4	an	an	ADP	_	AdpType=Prep	5	case	_	lemma_gml=an
+5	Geert	Geert	PROPN	_	Number=Sing	11	obl	_	_
+6	Knellies	Knellies	PROPN	_	Number=Sing	5	flat	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+9	undermeyster	undermeyster	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	lemma_gml=undermeyster|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	vrögen	vrågen	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	27	advcl	_	lemma_gml=vrâgen|SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	van	van	ADP	_	AdpType=Prep	15	case	_	lemma_gml=van
+14	wat	wat	PRON	_	Case=Acc,Dat|Gender=Neut|Number=Sing|PronType=Int	15	amod	_	lemma_gml=watte
+15	kante	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	18	obl	_	lemma_gml=kant
+16	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
+17	wind	wind	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma_gml=wint
+18	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	ccomp	_	lemma_gml=kōmen|SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	en	un	CCONJ	_	_	22	cc	_	lemma_gml=ende
+21	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	lemma_gml=hê,sê,et
+22	wus	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	lemma_gml=wēten
+23	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	obj	_	lemma_gml=hê,sê,et
+24	neet	nich	PART	_	PartType=Neg	22	advmod	_	lemma_gml=nicht|SpaceAfter=No
+25	,	,	PUNCT	_	_	22	punct	_	_
+26	dan	dan	ADV	_	_	27	advmod	_	lemma_gml=dan
+27	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+28	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+29	:	:	PUNCT	_	_	33	punct	_	_
+30	„	„	PUNCT	_	_	33	punct	_	SpaceAfter=No
+31	van	van	ADP	_	AdpType=Prep	33	case	_	lemma_gml=van
+32	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	lemma_gml=dê,dê,dat
+33	kante	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	27	ccomp	_	lemma_gml=kant|SpaceAfter=No
+34	,	,	PUNCT	_	_	41	punct	_	_
+35	wår	woor	ADV	_	_	41	advmod	_	lemma_gml=wôre
+36	Loeks	Loeks	PROPN	_	Number=Sing	39	nmod:poss	_	lemma_gml=loeks
+37	Poester	Poester	PROPN	_	Number=Sing	36	flat	_	lemma_gml=poester
+38	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	39	det	_	lemma_gml=sîn,ēr,sîn
+39	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	lemma_gml=nēse
+40	hen	hen	ADV	_	_	35	advmod	_	lemma_gml=hen
+41	wist	wysen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	33	acl:relcl	_	lemma_gml=wîsen|SpaceAfter=No
+42	.	.	AUX	_	_	27	punct	_	SpaceAfter=No
+43	“	“	PUNCT	_	_	27	punct	_	_
+
