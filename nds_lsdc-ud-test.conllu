@@ -7517,7 +7517,7 @@
 30	fytsen	fytsen	VERB	_	VerbForm=Inf	29	xcomp	_	lemma_gml=fîtsen|SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_1980_00259_NWF
+# sent_id = LSDC_269_NWF_20XX_drentsk_Daphne
 # text_orig = “Nee, dat is het niet,” zeg Joost.
 # text = “Ney, dat is et neet,” segt Joost.
 1	“	“	PUNCT	_	_	4	punct	_	SpaceAfter=No
