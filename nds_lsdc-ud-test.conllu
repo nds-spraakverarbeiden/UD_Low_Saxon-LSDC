@@ -7928,3 +7928,30 @@
 7	tegelyks	togelyks	ADV	_	_	3	advmod	_	lemma_gml=tôgelîkes|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_286_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Ik kan mij niet langer bedappern en gao niet naor mien eigen flattie, maor direct naor het hoesie an de bosraand.
+# text = Ik kan my neet langer bedapperen en gå neet når myn eygen flatty, mår direkt når et husy an de buskrand.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
+2	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	aux	_	lemma_gml=künnen
+3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	obj	_	lemma_gml=ik
+4	neet	nich	PART	_	PartType=Neg	6	advmod	_	lemma_gml=nicht
+5	langer	lang	ADJ	_	Degree=Cmp	6	advmod	_	lemma_gml=lanc
+6	bedapperen	bedapperen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=bedapperen
+7	en	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
+8	gå	gån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	lemma_gml=gân
+9	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
+10	når	nå	ADP	_	AdpType=Prep	13	case	_	lemma_gml=nâ
+11	myn	myn	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	lemma_gml=mîn
+12	eygen	eygen	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	lemma_gml=êigen
+13	flatty	flatken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	8	obl	_	lemma_gml=flatken|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	mår	mår	CCONJ	_	_	19	cc	_	lemma_gml=mêr
+16	direkt	direkt	ADJ	_	Degree=Pos	19	advmod	_	lemma_gml=dîrekt
+17	når	nå	ADP	_	AdpType=Prep	19	case	_	lemma_gml=nâ
+18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing	19	det	_	lemma_gml=et
+19	husy	hüüsken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	13	conj	_	lemma_gml=hü̂seken
+20	an	an	ADP	_	AdpType=Prep	22	case	_	lemma_gml=an
+21	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+22	buskrand	buskrand	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	19	nmod	_	lemma_gml=buschrant|SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	_
+
