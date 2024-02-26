@@ -7900,3 +7900,19 @@
 24	by	by	ADP	_	_	23	case	_	lemma_gml=bî
 25	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_284_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe
+# text_orig = Ja já, juffrouw, zoo gaat et in de wèreld.
+# text = Ja ja, jüfvrouwe, sou gåt et in de weareld.
+1	Ja	jå	INTJ	_	_	7	discourse	_	lemma_gml=jâ
+2	ja	jå	INTJ	_	_	1	conj	_	lemma_gml=jâ|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	jüfvrouwe	jungvrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	vocative	_	lemma_gml=juncvrouwe|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
+7	gåt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	conj	_	lemma_gml=gân
+8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma_gml=hê,sê,et
+9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in
+10	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
+11	weareld	wearld	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=werlt|SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
