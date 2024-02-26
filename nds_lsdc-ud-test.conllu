@@ -7909,7 +7909,7 @@
 4	jüfvrouwe	jungvrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	vocative	_	lemma_gml=juncvrouwe|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
-7	gåt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	conj	_	lemma_gml=gân
+7	gåt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gân
 8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma_gml=hê,sê,et
 9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in
 10	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
