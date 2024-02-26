@@ -7651,8 +7651,8 @@
 # text_orig = Net veurdat e de deur van de klas dichtsmet, heurt juf Sanne hum nog zeggen: ‘Bij zo’n kutjuf wi’k niet in de klas zitten.’
 # text = Net vöär dat hee de döäre van de klasse dichtsmet, höyrt jüf Sanne hüm noch seggen: ‘By sou en kütjüf wil ik neet in de klasse sitten.’
 1	Net	net	ADV	_	_	12	advmod	_	lemma_gml=net
-2	vöär	vöär	SCONJ	_	_	10	mark	_	lemma_gml=vȫr
-3	dat	dat	SCONJ	_	_	10	mark	_	lemma_gml=dat
+2	vöär	vöär	ADP	_	_	10	mark	_	lemma_gml=vȫr
+3	dat	dat	SCONJ	_	_	2	fixed	_	lemma_gml=dat
 4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 5	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	döäre	döäre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	lemma_gml=dȫre
@@ -7662,15 +7662,15 @@
 10	dichtsmet	dichtsmyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	advcl	_	lemma_gml=dichtsmîten|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hö̂ren
-13	jüf	jüf	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	14	nmod	_	lemma_gml=juncvrouwe
-14	Sanne	Sanne	PROPN	_	Number=Sing	12	nsubj	_	lemma_gml=sanne
-15	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	flat	_	lemma_gml=hê,sê,et
-16	noch	noch	ADV	_	_	17	advmod	_	lemma_gml=noch
+13	jüf	jüf	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	lemma_gml=juncvrouwe
+14	Sanne	Sanne	PROPN	_	Number=Sing	13	flat	_	lemma_gml=sanne
+15	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	lemma_gml=hê,sê,et
+16	noch	noch	ADV	_	_	12	advmod	_	lemma_gml=noch
 17	seggen	seggen	VERB	_	VerbForm=Inf	12	xcomp	_	lemma_gml=seggen|SpaceAfter=No
 18	:	:	PUNCT	_	_	30	punct	_	_
 19	‘	‘	PUNCT	_	_	30	punct	_	SpaceAfter=No
 20	By	by	ADP	_	AdpType=Prep	23	case	_	lemma_gml=bî
-21	sou	sou	ADV	_	_	23	advmod	_	lemma_gml=sô
+21	sou	sou	ADV	_	_	22	advmod	_	lemma_gml=sô
 22	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
 23	kütjüf	kutjüf	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	30	obl	_	lemma_gml=kuttenjuncvrouwe
 24	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	30	aux	_	lemma_gml=willen
@@ -7679,7 +7679,7 @@
 27	in	in	ADP	_	AdpType=Prep	29	case	_	lemma_gml=in
 28	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	lemma_gml=dê,dê,dat
 29	klasse	klasse	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	30	obl	_	lemma_gml=klasse
-30	sitten	sitten	VERB	_	VerbForm=Inf	12	ccomp	_	lemma_gml=sitten|SpaceAfter=No
+30	sitten	sitten	VERB	_	VerbForm=Inf	17	ccomp	_	lemma_gml=sitten|SpaceAfter=No
 31	.	.	PUNCT	_	_	12	punct	_	SpaceAfter=No
 32	’	’	PUNCT	_	_	12	punct	_	_
 
