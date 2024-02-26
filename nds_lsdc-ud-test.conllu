@@ -8091,7 +8091,7 @@
 4	en	un	CCONJ	_	_	5	cc	_	lemma_gml=ende
 5	beynen	beyn	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	3	conj	_	lemma_gml=bêin
 6	as	as	SCONJ	_	_	10	mark	_	lemma_gml=alsô
-7	of	of	SCONJ	_	_	6	flat	_	lemma_gml=of
+7	of	of	SCONJ	_	_	10	mark	_	lemma_gml=of
 8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 9	sou	sou	ADV	_	_	10	advmod	_	lemma_gml=sô
 10	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	advcl	_	lemma_gml=hö̂ren
