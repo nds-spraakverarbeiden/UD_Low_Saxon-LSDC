@@ -7455,7 +7455,7 @@
 27	Berlyn	Berlyn	PROPN	_	Number=Sing	24	nmod	_	lemma_gml=berlin|SpaceAfter=No
 28	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSPM_1939_00170_NWF
+# sent_id = LSDC_267_NWF_1868_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Toe wier ik in ies zoo hellig, da'ket Iekertien in zien groat greep en um boven 't loek hol.
 # text = To weer ik in eyns sou hellig, dat ik et Eykertyn in syn gråt greyp en üm boaven et luke hol.
 1	To	do	ADV	_	_	7	advmod	_	lemma_gml=dô
