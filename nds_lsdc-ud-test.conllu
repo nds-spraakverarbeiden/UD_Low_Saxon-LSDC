@@ -8037,7 +8037,7 @@
 
 # sent_id = LSDC_291_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = En as ie an Geert Knellies, d' ondermeester, vruigen, van wat kant de wind kwam, en hij wos 't nijt, dan zee 'e : „van de kante, woar Loeks Poester zien neuze hen wist.“
-# text = En as y en Geert Knellis, de undermeyster, vrögen, van wat kante de wind kwam, en hee wus et neet, dan sea hee: „van de kante, wår Loeks Poester syn nöäse hen wist.“
+# text = En as y an Geert Knellis, de undermeyster, vrögen, van wat kante de wind kwam, en hee wus et neet, dan sea hee: „van de kante, wår Loeks Poester syn nöäse hen wist.“
 1	En	un	CCONJ	_	_	27	cc	_	lemma_gml=ende
 2	as	as	SCONJ	_	_	11	mark	_	lemma_gml=alsô
 3	y	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	lemma_gml=gî
