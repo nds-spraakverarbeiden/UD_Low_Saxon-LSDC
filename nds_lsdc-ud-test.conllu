@@ -8152,3 +8152,19 @@
 8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma_gml=künnen|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_295_NWF_OVY_oaverysselsk_2019_olde-mensen
+# text_orig = Ofgelopen zaoterdag alen ik ‘m op umme een entien te lopen.
+# text = Ofgeloupen såterdag halen ik em up ümme en endtyn te loupen.
+1	Ofgeloupen	afloupen	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	amod	_	lemma_gml=afgelôpen
+2	såterdag	såterdag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	lemma_gml=sāterstdach
+3	halen	halen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=hālen
+4	ik	ik	PRON	_	Case=Nom|Person=1|PronType=Prs	3	nsubj	_	lemma_gml=ik
+5	em	hee	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	lemma_gml=hê,sê,et
+6	up	up	ADP	_	_	3	compound:prt	_	lemma_gml=uppe
+7	ümme	üm	SCONJ	_	_	11	mark	_	lemma_gml=ümme
+8	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
+9	endtyn	endken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	lemma_gml=endeken
+10	te	to	PART	_	PartType=Inf	11	mark	_	lemma_gml=tô
+11	loupen	loupen	VERB	_	VerbForm=Inf	3	advcl	_	lemma_gml=lôpen|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
+
