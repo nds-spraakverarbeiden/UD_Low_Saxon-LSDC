@@ -8019,3 +8019,19 @@
 22	smytet	smyten	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	11	advcl	_	lemma_gml=smîten|SpaceAfter=No
 23	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_290_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide.txt
+# text_orig = 'n Stuk of mennig boeren zatten der al bie 'n zeupke.
+# text = En stük of männig buren satten der al by en söäpke.
+1	En	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
+2	stük	stük	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=stücke
+3	of	of	CCONJ	_	_	5	cc	_	lemma_gml=eft
+4	männig	männig	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	5	det	_	lemma_gml=mannich
+5	buren	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	lemma_gml=bûr
+6	satten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=sitten
+7	der	dår	ADV	_	_	6	advmod	_	lemma_gml=dâr
+8	al	al	ADV	_	_	6	advmod	_	lemma_gml=al
+9	by	by	ADP	_	AdpType=Prep	11	case	_	lemma_gml=bî
+10	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+11	söäpke	söypken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	6	obl	_	lemma_gml=sȫpeken|SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
+
