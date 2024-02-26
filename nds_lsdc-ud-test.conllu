@@ -7811,4 +7811,17 @@
 13	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
 14	’	’	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_280_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide.txt
+# text_orig = De tweide was Sjoerd Bastenoa, 'n Frijse stiefkop.
+# text = De tweyde was Sjoerd Bastenoa, en freeske styvkop.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	tweyde	tweyd	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma_gml=twêde
+3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	lemma_gml=wēsen
+4	Sjoerd	Sjoerd	PROPN	_	Number=Sing	0	root	_	_
+5	Bastenoa	Bastenoa	PROPN	_	Number=Sing	4	flat	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
+8	freeske	freesk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	lemma_gml=vrêsch
+9	styvkop	styvkop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	lemma_gml=stîfkop|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
