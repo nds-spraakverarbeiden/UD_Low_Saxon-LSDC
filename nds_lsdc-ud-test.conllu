@@ -7482,7 +7482,7 @@
 22	hol	holden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	16	conj	_	lemma_gml=hōlden|SpaceAfter=No
 23	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_1980_00138_NWF
+# sent_id = LSDC_268_NWF_201x_twentsk_van-ltc-noar-theetuin-en-beste-bed-breakfast-HAN
 # text_orig = ’t Is miln in janewari, wiej hebt snee, de zun schient en ’t is weendstil hier in Twekkel, dus alle reden um ’n stukske te goan fietsen.
 # text = Et is midden in januåry, wy hebbet sney, de sünne skynt en et is windstille hyr in Twekkel, düs alle readen üm en stükske te gån fytsen.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	lemma_gml=hê,sê,et
