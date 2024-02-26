@@ -8183,14 +8183,14 @@
 10	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
 11	der	dår	ADV	_	_	13	advmod	_	lemma_gml=dâr
 12	vindig	vinnig	ADJ	_	Degree=Pos	13	advcl	_	lemma_gml=vindich
-13	seek	seek	ADJ	_	Degree=Pos	7	conj	_	lemma_gml=sêk
+13	seek	seek	ADJ	_	Degree=	7	conj	_	lemma_gml=sêk
 14	af	af	ADP	_	_	11	case	_	lemma_gml=af
 15	ewest	weasen	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	lemma_gml=wēsen
 16	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	aux	_	lemma_gml=wēsen|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
 18	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=dat
 19	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	lemma_gml=wēsen
-20	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	21	nsubj	_	lemma_gml=gî
+20	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	21	obj	_	lemma_gml=gî
 21	bekend	bekend	ADJ	_	Degree=Pos	0	root	_	lemma_gml=bekant|SpaceAfter=No
 22	;	;	PUNCT	_	_	32	punct	_	_
 23	en	un	CCONJ	_	_	32	cc	_	lemma_gml=ende
@@ -8210,7 +8210,7 @@
 37	ho	wo	ADV	_	_	40	advmod	_	lemma_gml=wô
 38	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	40	nsubj	_	lemma_gml=ik
 39	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	40	obj	_	lemma_gml=hê,sê,et
-40	wende	wenden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	45	conj	_	lemma_gml=wenden
+40	wende	wenden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	45	advcl	_	lemma_gml=wenden
 41	of	of	CCONJ	_	_	42	cc	_	lemma_gml=eft
 42	draie	draien	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	40	conj	_	lemma_gml=dreyen|SpaceAfter=No
 43	,	,	PUNCT	_	_	45	punct	_	_
