@@ -7721,3 +7721,24 @@
 23	houg	houg	ADJ	_	Degree=Pos	20	advmod	_	lemma_gml=hô|SpaceAfter=No
 24	.	.	PUNCT	_	_	20	punct	_	_
 
+# sent_id = LSDC_276_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Un kleine ètert bin'k niet en bie un pond maêl hek gien speulleman neudig.
+# text = En kleine eaterd bin ik neet en by en pund meal heb ik gyn spölleman nöydig.
+1	En	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=êin,êine,êin
+2	kleine	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=klêin
+3	eaterd	eaterd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=ēter
+4	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	cop	_	lemma_gml=wēsen
+5	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	lemma_gml=ik
+6	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
+7	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
+8	by	by	ADP	_	AdpType=Prep	10	case	_	lemma_gml=bî
+9	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
+10	pund	pund	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	obl	_	lemma_gml=punt
+11	meal	meal	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	10	nmod	_	lemma_gml=mēl
+12	heb	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	conj	_	lemma_gml=hebben
+13	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	lemma_gml=ik
+14	gyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	15	det	_	lemma_gml=gêin
+15	spölleman	spealman	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	lemma_gml=spēleman
+16	nöydig	nöydig	ADJ	_	Degree=Pos	12	xcomp	_	lemma_gml=nö̂dich|SpaceAfter=No
+17	.	.	PUNCT	_	_	3	punct	_	_
+
