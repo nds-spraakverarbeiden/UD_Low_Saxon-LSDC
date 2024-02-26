@@ -7744,10 +7744,10 @@
 
 # sent_id = LSDC_277_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = De kerel har nijt veul van zuk zölms, moar hij har n' riek wief traut, en 't sprak van zölms, nou wos zij ook alles beter as Hinne, en har altied geliek.
-# text = De kearel had neet vöäl van sük sülvens, mår hee har en ryk wyv trouwd, en et sprak van sülvens, now wus see ouk alles beater as Hinne, en har altyd gelyk.
+# text = De kearel hadde neet vöäl van sük sülvens, mår hee hadde en ryk wyv trouwd, en et sprak van sülvens, now wus see ouk alles beater as Hinne, en har altyd gelyk.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	kearel	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=kē̆rl
-3	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
+3	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
 4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
 5	vöäl	veale	PRON	_	Case=Acc|Number=Sing|PronType=Ind	3	obj	_	lemma_gml=vēle
 6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
@@ -7756,7 +7756,7 @@
 9	,	,	PUNCT	_	_	16	punct	_	_
 10	mår	mår	CCONJ	_	_	16	cc	_	lemma_gml=mêr
 11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=hê,sê,et
-12	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	lemma_gml=hebben
+12	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	lemma_gml=hebben
 13	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma_gml=êin,êine,êin
 14	ryk	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	lemma_gml=rîke
 15	wyv	wyv	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=wîf
