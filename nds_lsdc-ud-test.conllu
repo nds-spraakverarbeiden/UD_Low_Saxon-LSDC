@@ -7581,7 +7581,7 @@
 43	koupen	koupen	VERB	_	VerbForm=Inf	31	advcl	_	lemma_gml=kö̂pen|SpaceAfter=No
 44	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_1980_00045_NWF
+# sent_id = LSDC_271_NWF_20XX_drentsk_Zute_wraak
 # text_orig = Zie hef de tied, ok al blef der aal minder tied van leven over.
 # text = See hevt de tyd, ouk al blevt der al minder tyd van leaven oaver.
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
