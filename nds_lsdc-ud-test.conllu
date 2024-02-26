@@ -7890,14 +7890,14 @@
 14	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	aux	_	lemma_gml=wēsen
 15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
 16	sekenauto	sekenauto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obj	_	lemma_gml=auto
-17	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=kōmen
+17	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=kōmen|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	_
 19	want	wante	SCONJ	_	_	23	mark	_	lemma_gml=wente
 20	der	dår	ADV	_	_	23	advmod	_	lemma_gml=dâr
 21	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	cop	_	lemma_gml=wēsen
 22	vöäle	veale	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	lemma_gml=vēle
 23	håst	håst	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	lemma_gml=hâste
-24	by	by	ADP	_	_	23	case	_	lemma_gml=bî
+24	by	by	ADP	_	_	23	case	_	lemma_gml=bî|SpaceAfter=No
 25	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_284_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe
