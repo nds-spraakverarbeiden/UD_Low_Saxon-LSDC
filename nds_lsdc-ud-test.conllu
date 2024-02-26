@@ -7984,7 +7984,7 @@
 10	en	un	CCONJ	_	_	18	cc	_	lemma_gml=ende
 11	as	as	SCONJ	_	_	13	mark	_	lemma_gml=alsô
 12	nyen	ny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	lemma_gml=nîe
-13	bessem	bessem	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	conj	_	lemma_gml=besseme
+13	bessem	bessem	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=besseme
 14	medeyn	mideyn	ADV	_	_	18	advmod	_	lemma_gml=mitêin
 15	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	18	nmod	_	lemma_gml=watte
 16	nye	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	17	amod	_	lemma_gml=nîe
