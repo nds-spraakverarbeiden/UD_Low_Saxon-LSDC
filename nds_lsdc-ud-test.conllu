@@ -7783,3 +7783,13 @@
 36	gelyk	gelyk	ADJ	_	Degree=Pos	34	xcomp	_	lemma_gml=gelîk|SpaceAfter=No
 37	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_278_NWF_2019_OVY_oaverysselsk_2019_de-iessel
+# text_orig = In de eerste plase vissen.
+# text = In de eyrste plaatse visken.
+1	In	in	ADP	_	AdpType=Prep	4	case	_	lemma_gml=in
+2	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+3	eyrste	eyrste	ADJ	_	Case=Acc,Dat|Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	lemma_gml=êrst
+4	plaatse	plaats	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=plas
+5	visken	visken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=vischen|SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
