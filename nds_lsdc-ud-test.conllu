@@ -8139,3 +8139,16 @@
 24	had	hebben	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	19	advcl	_	lemma_gml=hebben|SpaceAfter=No
 25	.	.	PUNCT	_	_	15	punct	_	_
 
+# sent_id = LSDC_294_NWF_DRE_drentsk_Het_verdriet_van_Nagele_Naghti
+# text_orig = Dat het maor zoveul meugelijk deurweien kan.
+# text = Dat et mår sou vöäl möägelik döärwaien kan.
+1	Dat	dat	SCONJ	_	_	7	mark	_	lemma_gml=dat
+2	et	et	PRON	_	Case=Nom|Gender=Neut|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
+3	mår	mår	ADV	_	_	7	advmod	_	lemma_gml=mêr
+4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
+5	vöäl	veale	ADJ	_	_	7	amod	_	lemma_gml=vēle
+6	möägelik	möäglik	ADJ	_	Degree=Pos	5	advmod	_	lemma_gml=mȫgelĩk
+7	döärwaien	döärchwaien	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=dȫrweyen
+8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma_gml=künnen|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
