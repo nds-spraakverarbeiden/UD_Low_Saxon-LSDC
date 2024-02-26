@@ -7742,3 +7742,44 @@
 16	nöydig	nöydig	ADJ	_	Degree=Pos	12	xcomp	_	lemma_gml=nö̂dich|SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_277_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = De kerel har nijt veul van zuk zölms, moar hij har n' riek wief traut, en 't sprak van zölms, nou wos zij ook alles beter as Hinne, en har altied geliek.
+# text = De kearel had neet vöäl van sük sülvens, mår hee har en ryk wyv trouwd, en et sprak van sülvens, now wus see ouk alles beater as Hinne, en har altyd gelyk.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	kearel	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=kē̆rl
+3	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
+4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
+5	vöäl	veale	PRON	_	Case=Acc|Degree=Pos|Number=Sing|PronType=Ind	3	obj	_	lemma_gml=vēle
+6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
+7	sük	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	lemma_gml=sik
+8	sülvens	sülv	ADV	_	_	7	advmod	_	lemma_gml=sülve|SpaceAfter=No
+9	,	,	PUNCT	_	_	16	punct	_	_
+10	mår	mår	CCONJ	_	_	16	cc	_	lemma_gml=mêr
+11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=hê,sê,et
+12	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	lemma_gml=hebben
+13	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma_gml=êin,êine,êin
+14	ryk	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	lemma_gml=rîke
+15	wyv	wyv	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=wîf
+16	trouwd	trouwen	VERB	_	Tense=Past|VerbForm=Part	3	conj	_	lemma_gml=trûwen|SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	_
+18	en	un	CCONJ	_	_	25	cc	_	lemma_gml=ende
+19	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=hê,sê,et
+20	sprak	spreaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	parataxis	_	lemma_gml=sprēken
+21	van	van	ADP	_	AdpType=Prep	22	case	_	lemma_gml=van
+22	sülvens	sülv	ADV	_	_	20	advmod	_	lemma_gml=sülve|SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	now	nu	ADV	_	_	25	advmod	_	lemma_gml=nû
+25	wus	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	conj	_	lemma_gml=wēten
+26	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=hê,sê,et
+27	ouk	ouk	ADV	_	_	25	advmod	_	lemma_gml=ôk
+28	alles	alles	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	25	obj	_	lemma_gml=al
+29	beater	good	ADJ	_	Degree=Cmp	25	amod	_	lemma_gml=gôt
+30	as	as	CCONJ	_	_	31	cc	_	lemma_gml=alsô
+31	Hinne	Hinne	PROPN	_	Number=Sing	29	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	en	un	CCONJ	_	_	34	cc	_	lemma_gml=ende
+34	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	conj	_	lemma_gml=hebben
+35	altyd	altyd	ADV	_	_	34	advmod	_	lemma_gml=alletît
+36	gelyk	gelyk	ADJ	_	Degree=Pos	34	xcomp	_	lemma_gml=gelîk|SpaceAfter=No
+37	.	.	PUNCT	_	_	3	punct	_	_
+
