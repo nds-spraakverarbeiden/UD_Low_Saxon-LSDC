@@ -7846,3 +7846,28 @@
 16	stemke	stemmeken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	nmod	_	lemma_gml=stemmeken|SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_282_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht.txt
+# text_orig = 't Hef noe gans en gaor gin fatsoen, da je miin liefde zoa kold en zoa verwierd handelen bliift.
+# text = Et hevt nu gans en gaar gyn fatsuun, dat jy myn leevde sou kold en sou vorwerd handelen blyvet.
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
+3	nu	nu	ADV	_	_	2	advmod	_	lemma_gml=nû
+4	gans	gans	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=gans
+5	en	un	CCONJ	_	_	6	cc	_	lemma_gml=ende
+6	gaar	gaar	ADV	_	_	4	conj	_	lemma_gml=gār
+7	gyn	geyn	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	8	det	_	lemma_gml=gêin
+8	fatsuun	fatsuun	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma_gml=fatsûn|SpaceAfter=No
+9	,	,	PUNCT	_	_	19	punct	_	_
+10	dat	dat	SCONJ	_	_	19	mark	_	lemma_gml=dat
+11	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	19	nsubj	_	lemma_gml=gî
+12	myn	myn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	lemma_gml=mîn
+13	leevde	leevde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	lemma_gml=lêfte
+14	sou	sou	ADV	_	_	15	advmod	_	lemma_gml=sô
+15	kold	kold	ADJ	_	Degree=Pos	19	advmod	_	lemma_gml=kōlt
+16	en	un	CCONJ	_	_	18	cc	_	lemma_gml=ende
+17	sou	sou	ADV	_	_	18	advmod	_	lemma_gml=sô
+18	vorwerd	verwerd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	15	conj	_	lemma_gml=vorwerret
+19	handelen	handelen	VERB	_	VerbForm=Inf	2	advcl	_	lemma_gml=handelen
+20	blyvet	blyven	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	19	xcomp	_	lemma_gml=blîven|SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
