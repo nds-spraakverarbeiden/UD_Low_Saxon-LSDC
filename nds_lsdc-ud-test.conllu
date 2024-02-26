@@ -7871,3 +7871,32 @@
 20	blyvet	blyven	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	19	xcomp	_	lemma_gml=blîven|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_283_NWF_20XX_OVY_oaverysselsk_2019_doodgriezelig
+# text_orig = Midden in de nacht ad moeder de dokter ebeld en in een rappig’eid was de zieken auto ekomen, want d’r was veule aost bi’j.
+# text = Midden in de nacht had moder de dokter ebeld en in en rappiheid was de sekenauto ekoamen, want der was vöäle håst by.
+1	Midden	midden	ADV	_	_	4	advmod	_	lemma_gml=midden
+2	in	in	ADP	_	AdpType=Prep	4	case	_	lemma_gml=in
+3	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+4	nacht	nacht	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	9	obl	_	lemma_gml=nacht
+5	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	aux	_	lemma_gml=hebben
+6	moder	moder	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	lemma_gml=môder
+7	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
+8	dokter	dokter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	lemma_gml=doktor
+9	ebeld	bellen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=bellen
+10	en	un	CCONJ	_	_	18	cc	_	lemma_gml=ende
+11	in	in	ADP	_	AdpType=Prep	13	case	_	lemma_gml=in
+12	een	en	DET	_	Case=Acc,Datt|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
+13	rappigheid	rappigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	17	obl	_	lemma_gml=rappichêit
+14	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	aux	_	lemma_gml=wēsen
+15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
+16	sekenauto	sekenauto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obj	_	lemma_gml=auto
+17	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=kōmen
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	want	wante	SCONJ	_	_	23	mark	_	lemma_gml=wente
+20	der	dår	ADV	_	_	23	advmod	_	lemma_gml=dâr
+21	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	cop	_	lemma_gml=wēsen
+22	vöäle	veale	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	lemma_gml=vēle
+23	håst	håst	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	lemma_gml=hâste
+24	by	by	ADP	_	_	23	case	_	lemma_gml=bî
+25	.	.	PUNCT	_	_	9	punct	_	_
+
