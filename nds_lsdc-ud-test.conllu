@@ -7744,7 +7744,7 @@
 
 # sent_id = LSDC_277_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = De kerel har nijt veul van zuk zölms, moar hij har n' riek wief traut, en 't sprak van zölms, nou wos zij ook alles beter as Hinne, en har altied geliek.
-# text = De kearel hadde neet vöäl van sük sülvens, mår hee hadde en ryk wyv trouwd, en et sprak van sülvens, now wus see ouk alles beater as Hinne, en har altyd gelyk.
+# text = De kearel hadde neet vöäl van sük sülvens, mår hee hadde en ryk wyv trouwd, en et sprak van sülvens, now wus see ouk alles beater as Hinne, en hadde altyd gelyk.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	kearel	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=kē̆rl
 3	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
@@ -7778,7 +7778,7 @@
 31	Hinne	Hinne	PROPN	_	Number=Sing	29	obl	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	34	punct	_	_
 33	en	un	CCONJ	_	_	34	cc	_	lemma_gml=ende
-34	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	conj	_	lemma_gml=hebben
+34	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	conj	_	lemma_gml=hebben
 35	altyd	altyd	ADV	_	_	34	advmod	_	lemma_gml=alletît
 36	gelyk	gelyk	ADJ	_	Degree=Pos	34	xcomp	_	lemma_gml=gelîk|SpaceAfter=No
 37	.	.	PUNCT	_	_	3	punct	_	_
