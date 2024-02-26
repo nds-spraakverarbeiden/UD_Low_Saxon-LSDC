@@ -7653,7 +7653,7 @@
 1	Net	net	ADV	_	_	12	advmod	_	lemma_gml=net
 2	vöär	vöär	SCONJ	_	_	10	mark	_	lemma_gml=vȫr
 3	dat	dat	SCONJ	_	_	10	mark	_	lemma_gml=dat
-4	heee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 5	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	döäre	döäre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	lemma_gml=dȫre
 7	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
