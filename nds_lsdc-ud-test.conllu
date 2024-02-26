@@ -7992,3 +7992,30 @@
 18	anpakked	anpakken	VERB	_	Tense=Past|VerbForm=Part	6	conj	_	lemma_gml=anpacken|SpaceAfter=No
 19	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_289_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = Zeg et toch glad uut, wa je tägen mii het, da je mii as en olde lappe op zii' smiit.
+# text = Seg et toch gald üüt, wat jy teagen my hebbet, dat jy my as en olde lappe up syde smytet.
+1	Seg	seggen	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=seggen
+2	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obj	_	lemma_gml=hê,sê,et
+3	toch	doch	ADV	_	_	1	advmod	_	lemma_gml=doch
+4	glad	glad	ADJ	_	Degree=Pos	1	amod	_	lemma_gml=glat
+5	üüt	uut	ADP	_	_	1	compound:prt	_	lemma_gml=ût|SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	wat	wat	PRON	_	Case=Acc|Number=Plur,Sing|Person=2|PronType=Prs	11	obj	_	lemma_gml=watte
+8	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	11	nsubj	_	lemma_gml=gî
+9	teagen	geagen	ADP	_	AdpType=Prep	10	case	_	lemma_gml=tēgen
+10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	11	obl	_	lemma_gml=ik
+11	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	1	advcl	_	lemma_gml=hebben|SpaceAfter=No
+12	,	,	PUNCT	_	_	22	punct	_	_
+13	dat	dat	SCONJ	_	_	22	mark	_	lemma_gml=dat
+14	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	22	nsubj	_	lemma_gml=gî
+15	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	22	obj	_	lemma_gml=ik
+16	as	as	SCONJ	_	_	19	mark	_	lemma_gml=alsô
+17	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=êin,êine,êin
+18	olde	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	lemma_gml=ōlt
+19	lappe	lappe	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	lemma_gml=lappe
+20	up	up	ADP	_	AdpType=Prep	21	case	_	lemma_gml=uppe
+21	syde	syde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	lemma_gml=sîde
+22	smytet	smyten	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	11	advcl	_	lemma_gml=smîten|SpaceAfter=No
+23	.	.	PUNCT	_	_	1	punct	_	_
+
