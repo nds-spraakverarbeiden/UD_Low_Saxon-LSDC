@@ -7827,7 +7827,7 @@
 
 # sent_id = LSDC_281_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide.txt
 # text_orig = Doar hajje Kloas van Heuvelen, 'n ijwig dikke kerel mit 'n ieselk fien stemke.
-# text = Dår had jy Kloas van Heuvelen, en eywig dikke kearel mid en yselk fyn stemke
+# text = Dår had jy Kloas van Heuvelen, en eywig dikke kearel mid en yselk fyn stemke.
 1	Dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
 2	had	hebben	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	0	root	_	lemma_gml=hebben
 3	jy	jy	PRON	_	_	2	nsubj	_	lemma_gml=gî
