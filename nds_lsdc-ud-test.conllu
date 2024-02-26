@@ -7423,7 +7423,7 @@
 5	geval	geval	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gevalle|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_1980_00110_NWF
+# sent_id = LSDC_266_NWF_20XX_achterhooksk_lange-afstands-romantiek
 # text_orig = At e Jenny nog ’s wol spraeken, dan had e no mooi de gelaegenheid want ze studearen vlák bi-j ’m, in Duutsland, in Berlijn.
 # text = At hee Jenny noch eyns wul spreaken, dan had hee nu mooi de geleagenheid want see studeren vlak by em, in Düütskland, in Berlyn.
 1	At	as	SCONJ	_	_	7	mark	_	lemma_gml=alsôdat
