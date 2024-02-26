@@ -7825,3 +7825,24 @@
 9	styvkop	styvkop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	lemma_gml=stîfkop|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_281_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide.txt
+# text_orig = Doar hajje Kloas van Heuvelen, 'n ijwig dikke kerel mit 'n ieselk fien stemke.
+# text = Dår had jy Kloas van Heuvelen, en eywig dikke kearel mid en yselk fyn stemke
+1	Dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
+2	had	hebben	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	0	root	_	lemma_gml=hebben
+3	jy	jy	PRON	_	_	2	nsubj	_	lemma_gml=gî
+4	Kloas	Kloas	PROPN	_	Number=Sing	2	obj	_	lemma_gml=kloas
+5	van	van	PROPN	_	AdpType=Prep	4	flat	_	lemma_gml=van
+6	Heuvelen	Heuvelen	PROPN	_	Number=Sing	5	flat	_	lemma_gml=heuvelen|SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+9	eywig	eywig	ADJ	_	Degree=Pos	10	advmod	_	lemma_gml=êwich
+10	dikke	dik	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	lemma_gml=dicke
+11	kearel	kearl	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	appos	_	lemma_gml=kē̆rl
+12	mid	mid	ADP	_	AdpType=Prep	16	case	_	lemma_gml=mit
+13	en	en	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	lemma_gml=êin,êine,êin
+14	yselk	yslik	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=eyslĩk
+15	fyn	vyn	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	16	amod	_	lemma_gml=fîn
+16	stemke	stemmeken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	nmod	_	lemma_gml=stemmeken|SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
