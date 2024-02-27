@@ -8317,3 +8317,18 @@
 5	dwarser	dwers	ADJ	_	Degree=Cmp	3	xcomp	_	lemma_gml=dwers|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSPM_302_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht.txt
+# text_orig = Nemaor, da's vlak de lappe neffen 't gat.
+# text = Neymår, dat is vlak de lappe nevven et gat.
+1	Neymår	neymår	INTJ	_	_	7	discourse	_	lemma_gml=nêinmêr|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	dat	dat	PRON	_	_	7	nsubj	_	lemma_gml=dat
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen
+5	vlak	vlak	ADJ	_	Degree=Pos	7	advmod	_	lemma_gml=vlak
+6	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	lappe	lappe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=lappe
+8	nevven	neaven	ADP	_	AdpType=Prep	10	case	_	lemma_gml=nēven
+9	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	gat	gat	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	nmod	_	lemma_gml=gat|SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
