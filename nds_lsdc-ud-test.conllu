@@ -8347,3 +8347,29 @@
 10	nygen	nygen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=nîgen|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_304_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide.txt
+# text_orig = Joapk zee wel eis van hom: „zien neuze kikt scheel, hij wist noa alle kanten tegelieks hen.“
+# text = Joapk sea wel eyns van hum: „syn nöäse kikt skeale, hee wist nå alle kanten tegelyks hen.“
+1	Joapk	Joapk	PROPN	_	Number=Sing	2	nsubj	_	_
+2	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+3	wel	wol	ADV	_	_	2	advmod	_	lemma_gml=wol
+4	eyns	eyns	ADV	_	_	2	advmod	_	lemma_gml=êines
+5	van	van	ADP	_	AdpType=Prep	6	case	_	lemma_gml=van
+6	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	lemma_gml=hê,sê,et|SpaceAfter=No
+7	:	:	PUNCT	_	_	11	punct	_	_
+8	„	„	PUNCT	_	_	11	punct	_	SpaceAfter=No
+9	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=sîn,ēr,sîn
+10	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	lemma_gml=nēse
+11	kikt	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma_gml=kîken
+12	skeale	skeale	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=schēle|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=hê,sê,et
+15	wist	wysen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	parataxis	_	lemma_gml=wîsen
+16	nå	nå	ADP	_	AdpType=Prep	18	case	_	lemma_gml=nâ
+17	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	18	det	_	lemma_gml=al
+18	kanten	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	15	obl	_	lemma_gml=kant
+19	tegelyks	tegelyks	ADV	_	_	15	advmod	_	lemma_gml=tôgelîkes
+20	hen	hen	ADV	_	_	15	advmod	_	lemma_gml=hen|SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+22	“	“	PUNCT	_	_	2	punct	_	_
+
