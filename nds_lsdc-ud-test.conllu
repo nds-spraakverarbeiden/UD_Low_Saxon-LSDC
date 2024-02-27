@@ -8238,7 +8238,7 @@
 9	mooi	mooi	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=mö̂ye
 10	knap	knap	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=knap
 11	brüüdjen	brüüdken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	xcomp	_	lemma_gml=brü̂deken
-12	eworden	werden	VERB	_	Tense=Past|VerbForm=Part	0	_	_	lemma_gml=wērden|SpaceAfter=No
+12	eworden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=wērden|SpaceAfter=No
 13	!	!	PUNCT	_	_	12	punct	_	_
 
 # sent_id = LSDC_298_NWF_2019_OVY_oaverysselsk_2019_doodgriezelig
