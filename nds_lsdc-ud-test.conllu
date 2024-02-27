@@ -8409,3 +8409,18 @@
 31	neet	nich	PART	_	PartType=Neg	30	advmod	_	lemma_gml=nicht|SpaceAfter=No
 32	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_306_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide.txt
+# text_orig = Dat duzzen zij wel doun; 't wazzen rieke boeren.
+# text = Dat düssen see wel doon; et wassen ryke buren.
+1	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	5	obj	_	lemma_gml=dê,dê,dat
+2	düssen	döären	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	aux	_	lemma_gml=dȫren
+3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=sê
+4	wel	wol	ADV	_	_	5	advmod	_	lemma_gml=wol
+5	doon	doon	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=dôn|SpaceAfter=No
+6	;	;	PUNCT	_	_	5	punct	_	_
+7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+8	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	10	cop	_	lemma_gml=wēsen
+9	ryke	ryk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	lemma_gml=rîke
+10	buren	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	parataxis	_	lemma_gml=bûr|SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
