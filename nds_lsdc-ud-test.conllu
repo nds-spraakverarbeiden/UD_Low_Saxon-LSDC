@@ -8280,7 +8280,7 @@
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_300_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht.txt
-# text = Daorum gao je oak deur den dag altiids zoa mooi aon'edaon, 'egold en 'ezilverd, bekant of i nao de karke gaot.
+# text_orig = Daorum gao je oak deur den dag altiids zoa mooi aon'edaon, 'egold en 'ezilverd, bekant of i nao de karke gaot.
 # text = Dårüm gå jy ouk döär den dag altyds sou mooi anedån, egolded en esilverd, bekant of y nå de karke gåt.
 1	Dårüm	dårüm	ADV	_	_	2	advmod	_	lemma_gml=dârümme
 2	gå	gån	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=gân
