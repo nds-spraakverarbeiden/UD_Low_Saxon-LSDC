@@ -8279,3 +8279,31 @@
 10	ewesd	weasen	AUX	_	Tense=Past|VerbForm=Part	2	cop	_	lemma_gml=wēsen|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_300_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht.txt
+# text = Daorum gao je oak deur den dag altiids zoa mooi aon'edaon, 'egold en 'ezilverd, bekant of i nao de karke gaot.
+# text = Dårüm gå jy ouk döär den dag altyds sou mooi anedån, egolded en esilverd, bekant of y nå de karke gåt.
+1	Dårüm	dårüm	ADV	_	_	2	advmod	_	lemma_gml=dârümme
+2	gå	gån	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=gân
+3	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî
+4	ouk	ouk	ADV	_	_	2	advmod	_	lemma_gml=ôk
+5	döär	döärch	ADP	_	AdpType=Prep	7	case	_	lemma_gml=dȫr
+6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=dach
+8	altyds	altyds	ADV	_	_	2	advmod	_	lemma_gml=alletît
+9	sou	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
+10	mooi	mooi	ADJ	_	Degree=Pos	11	amod	_	lemma_gml=mö̂ye
+11	anedån	andoon	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	2	amod	_	lemma_gml=angedân|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	egolded	golden	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	11	conj	_	lemma_gml=gegüldet
+14	en	un	CCONJ	_	_	15	cc	_	lemma_gml=ende
+15	esilverd	sülveren	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	13	conj	_	lemma_gml=gesülvert|SpaceAfter=No
+16	,	,	PUNCT	_	_	23	punct	_	_
+17	bekant	bekant	ADV	_	_	23	advmod	_	lemma_gml=bekant
+18	of	of	SCONJ	_	_	23	mark	_	lemma_gml=of
+19	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	23	nsubj	_	lemma_gml=gî
+20	nå	nå	ADP	_	AdpType=Prep	22	case	_	lemma_gml=nâ
+21	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+22	karke	kerke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	obl	_	lemma_gml=kerke
+23	gåt	gån	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	2	advcl	_	lemma_gml=gân|SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
+
