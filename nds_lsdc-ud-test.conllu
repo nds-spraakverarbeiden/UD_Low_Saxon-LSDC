@@ -8332,3 +8332,18 @@
 10	gat	gat	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	nmod	_	lemma_gml=gat|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_303_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe.txt
+# text_orig = Môr 'k magge nów veur de froeule wel is niigen.
+# text = Mår ik magge now vöär de vrouwlü wel is nygen.
+1	Mår	mår	CCONJ	_	_	10	cc	_	lemma_gml=mêr
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
+3	magge	möägen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	aux	_	lemma_gml=mȫgen
+4	now	nu	ADV	_	_	10	advmod	_	lemma_gml=nû
+5	vöär	vöär	ADP	_	AdpType=Prep	7	case	_	lemma_gml=vȫr
+6	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	vrouwlü	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	obl	_	lemma_gml=vrouwe
+8	wel	wol	ADV	_	_	10	advmod	_	lemma_gml=wol
+9	is	eyns	ADV	_	_	10	advmod	_	lemma_gml=êines
+10	nygen	nygen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=nîgen|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
