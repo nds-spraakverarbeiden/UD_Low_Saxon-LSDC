@@ -8259,7 +8259,7 @@
 13	kyken	kyken	VERB	_	VerbForm=Inf	10	conj	_	lemma_gml=kîken|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=dê,dê,dat
-16	geyt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	conj	_	lemma_gml=gân
+16	geyt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gân
 17	best	good	ADJ	_	Degree=Sup	18	advmod	_	lemma_gml=gôt
 18	good	good	ADJ	_	Degree=Pos	16	advmod	_	lemma_gml=gôt|SpaceAfter=No
 19	.	.	PUNCT	_	_	16	punct	_	_
