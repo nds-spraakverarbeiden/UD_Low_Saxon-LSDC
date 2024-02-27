@@ -8436,7 +8436,7 @@
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=dê,dê,dat
 9	skeyn	skynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=schînen
-10	höär	see	PRON	_	Case=Acc,Dat|Number=Sing,Plur|Person=3|PronType=Prs	9	obj	_	lemma_gml=sê
+10	höär	see	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=3|PronType=Prs	9	obj	_	lemma_gml=sê
 11	niks	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	14	obj	_	lemma_gml=nichtes
 12	te	to	PART	_	PartType=Inf	14	mark	_	lemma_gml=tô
 13	können	künnen	AUX	_	VerbForm=Inf	14	aux	_	lemma_gml=künnen
@@ -8445,7 +8445,7 @@
 
 # sent_id = LSDC_308_NWF_20XX_DRE_drentsk_Sorry_2
 # text_orig = Bij elke kampeerplek is een ofvalbak veur de niet te hergebroeken rommel.
-# text = By elke kampeerplek is en ofvalbak vöär de neet de hergebruken rummel.
+# text = By elke kampeerplek is en ofvalbak vöär de neet te hergebruken rummel.
 1	By	by	ADP	_	AdpType=Prep	3	case	_	lemma_gml=bî
 2	elke	elk	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Tot	3	det	_	lemma_gml=elk
 3	kampeerplek	kampeerplek	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	6	obl	_	lemma_gml=kampêrplecke
