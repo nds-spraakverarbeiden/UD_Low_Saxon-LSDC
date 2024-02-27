@@ -8460,3 +8460,25 @@
 12	rummel	rummel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	lemma_gml=rummel|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_309_NWF_20XX_DRE_drentsk_Over_heldendaoden_proot_ie_niet
+# text_orig = Wij moet oes niet over de kop jagen en zo fris meugelijk an die verschrikkelijke bult begunnen.
+# text = Wy motet uus neet oaver de kop jagen en sou vrisk möägelik an dee vorskrikkelike bült begünnen.
+1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=wî
+2	motet	möten	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	aux	_	lemma_gml=mö̂ten
+3	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	8	obj	_	lemma_gml=wî
+4	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
+5	oaver	öäver	ADP	_	AdpType=Prep	7	case	_	lemma_gml=ȫver
+6	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	kop	kop	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	lemma_gml=kop
+8	jagen	jagen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=jāgen
+9	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
+10	sou	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
+11	vrisk	vrisk	ADJ	_	Degree=Pos	17	amod	_	lemma_gml=vrisch
+12	möägelik	möäglik	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=mȫgelĩk
+13	an	an	ADP	_	AdpType=Prep	16	case	_	lemma_gml=an
+14	dee	dee	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	lemma_gml=dê,dê,dat
+15	vorskrikkelike	vorskriklik	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	lemma_gml=vorschrecklĩk
+16	bült	bült	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	17	obl	_	lemma_gml=bulte
+17	begünnen	beginnen	VERB	_	VerbForm=Inf	8	conj	_	lemma_gml=beginnen|SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
