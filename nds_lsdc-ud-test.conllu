@@ -8443,3 +8443,20 @@
 14	skellen	skealen	VERB	_	VerbForm=Inf	9	xcomp	_	lemma_gml=schēlen|SpaceAfter=No
 15	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_308_NWF_20XX_DRE_drentsk_Sorry_2
+# text_orig = Bij elke kampeerplek is een ofvalbak veur de niet te hergebroeken rommel.
+# text = By elke kampeerplek is en ofvalbak vöär de neet de hergebruken rummel.
+1	By	by	ADP	_	AdpType=Prep	3	case	_	lemma_gml=bî
+2	elke	elk	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Tot	3	det	_	lemma_gml=elk
+3	kampeerplek	kampeerplek	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	6	obl	_	lemma_gml=kampêrplecke
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
+5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+6	ofvalbak	afvalbak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=afvalbak
+7	vöär	vöär	ADP	_	AdpType=Prep	12	case	_	lemma_gml=vȫr
+8	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+9	neet	nich	PART	_	PartType=Neg	11	advmod	_	lemma_gml=nicht
+10	te	to	PART	_	PartType=Inf	11	mark	_	lemma_gml=tô
+11	hergebruken	hergebruken	VERB	_	VerbForm=Inf	12	amod	_	lemma_gml=hergebrûken
+12	rummel	rummel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	lemma_gml=rummel|SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
+
