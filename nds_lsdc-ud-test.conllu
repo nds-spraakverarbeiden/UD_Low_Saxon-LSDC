@@ -8384,7 +8384,7 @@
 6	sy	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	10	aux	_	lemma_gml=wēsen
 7	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	10	nsubj	_	lemma_gml=gî
 8	neet	nich	PART	_	PartType=Neg	10	advmod	_	lemma_gml=nicht
-9	toe	to	ADP	_	_	5	case	_	lemma_gml=tô
+9	to	to	ADP	_	_	5	case	_	lemma_gml=tô
 10	esneaden	snyden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=snîden|SpaceAfter=No
 11	:	:	PUNCT	_	_	15	punct	_	_
 12	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	lemma_gml=dat
