@@ -8482,3 +8482,26 @@
 17	begünnen	beginnen	VERB	_	VerbForm=Inf	8	conj	_	lemma_gml=beginnen|SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	_
 
+# sent_id = LSDC_310_NWF_20XX_ACH_achterhooksk_zo-mos-t-waen
+# text_orig = Is de nacht veurbie, dan richt zee ogen en hande op um de ni’je margen te ontvangen.
+# text = Is de nacht vöärby, dan richt see ougen en hande up üm de nye margen te untvangen.
+1	Is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	lemma_gml=wēsen
+2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	nacht	nacht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	advcl	_	lemma_gml=nacht
+4	vöärby	vöärby	ADV	_	_	3	advmod	_	lemma_gml=vȫrbî|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	dan	dan	ADV	_	_	7	advmod	_	lemma_gml=dan
+7	richt	richten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=richten
+8	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=sê
+9	ougen	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	lemma_gml=ôge
+10	en	un	CCONJ	_	_	11	cc	_	lemma_gml=ende
+11	hande	hand	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	9	conj	_	lemma_gml=hant
+12	up	up	ADP	_	_	7	compound:prt	_	lemma_gml=uppe
+13	üm	üm	SCONJ	_	_	18	mark	_	lemma_gml=ümme
+14	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
+15	nye	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	lemma_gml=nîe
+16	margen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	lemma_gml=morgen
+17	te	to	PART	_	PartType=Inf	18	mark	_	lemma_gml=tô
+18	untvangen	entvangen	VERB	_	VerbForm=Inf	7	advcl	_	lemma_gml=entfân|SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	_
+
