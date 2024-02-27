@@ -8307,3 +8307,13 @@
 23	gåt	gån	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	2	advcl	_	lemma_gml=gân|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_301_NWF_20XX_DRE_drentsk_31_Winterbraand
+# text_orig = En Hans weur aal dwarser.
+# text = En Hans wör al dwarser.
+1	En	un	CCONJ	_	_	3	cc	_	lemma_gml=ende
+2	Hans	Hans	PROPN	_	Number=Sing	3	nsubj	_	lemma_gml=hans
+3	wör	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wērden
+4	al	al	ADV	_	_	5	advmod	_	lemma_gml=al
+5	dwarser	dwers	ADJ	_	Degree=Cmp	3	xcomp	_	lemma_gml=dwers|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
