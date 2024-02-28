@@ -8831,7 +8831,7 @@
 
 # sent_id = LSDC_324_NWF_1851_DRE_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
 # text_orig = 'k Zal dij 't zeggen, Ebbe: to i de baord van d' duvel vuelde, isse an 't karm'n gaon en luep weer hen 'e schursteen, waore weer oet schreeuwde: 'Moot Baos Julfring starven?
-# text = Ik sal dy et seggen, Ebbe: to hee de bård van de düvel vöölde, is hee an et karmen gån en löyp weader hen de skürsteyn, wår hee weader uut skreyde: 'Moot Baos Julfring starven?
+# text = Ik sal dy et seggen, Ebbe: to hee de bård van de düvel vöölde, is hee an et karmen gån en löyp weader hen de skürsteyn, wår hee wear uut skreyde: 'Moot Baos Julfring starven?
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
 2	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	lemma_gml=schȫlen
 3	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	lemma_gml=dû
