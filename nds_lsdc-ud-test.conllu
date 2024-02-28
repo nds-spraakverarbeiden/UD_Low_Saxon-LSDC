@@ -8912,7 +8912,7 @@
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	by	by	ADP	_	AdpType=Prep	24	case	_	lemma_gml=bî
 23	uw	juw	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det	_	lemma_gml=iuwe
-24	vader	vader	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=vāder
+24	vader	vader	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	conj	_	lemma_gml=vāder
 25	up	up	ADP	_	AdpType=Prep	27	case	_	lemma_gml=uppe
 26	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
 27	haerd	haerd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	24	nmod	_	lemma_gml=hērt|SpaceAfter=No
