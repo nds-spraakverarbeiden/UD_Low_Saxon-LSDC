@@ -8534,7 +8534,7 @@
 24	vorstand	vorstand	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	20	obl	_	lemma_gml=vorstant|SpaceAfter=No
 25	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_3012_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe
+# sent_id = LSDC_312_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe
 # text_orig = De bruud en de wedevrouwe.
 # text = De brüüd en de weadevrouwe.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
