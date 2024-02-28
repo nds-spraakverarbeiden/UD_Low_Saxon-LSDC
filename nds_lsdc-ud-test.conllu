@@ -8663,3 +8663,14 @@
 5	of	af	ADP	_	_	3	compound:prt	_	lemma_gml=af|SpaceAfter=No
 6	?	?	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_317_NWF_20XX_DRE_drentsk_Tim
+# text_orig = Eten döt e ok slecht trouwens.
+# text = Eaten döt hee ouk slecht trouwens.
+1	Eaten	eaten	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=ēten
+2	döt	doon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	aux	_	lemma_gml=dôn
+3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	lemma_gml=hê,sê,et
+4	ouk	ouk	ADV	_	_	1	advmod	_	lemma_gml=ôk
+5	slecht	slecht	ADJ	_	Degree=Pos	1	advmod	_	lemma_gml=slicht
+6	trouwens	trouwens	ADV	_	_	1	advmod	_	lemma_gml=trûwens|SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	_
+
