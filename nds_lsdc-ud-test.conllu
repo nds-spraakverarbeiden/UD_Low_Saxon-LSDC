@@ -8829,3 +8829,49 @@
 9	ediskeld	diskeren	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=disceren|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_324_NWF_1851_DRE_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
+# text_orig = 'k Zal dij 't zeggen, Ebbe: to i de baord van d' duvel vuelde, isse an 't karm'n gaon en luep weer hen 'e schursteen, waore weer oet schreeuwde: 'Moot Baos Julfring starven?
+# text = Ik sal dy et seggen, Ebbe: to hee de bård van de düvel vöölde, is hee an et karmen gån en löyp weader hen de skürsteyn, wår hee weader uut skreyde: 'Moot Baos Julfring starven?
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
+2	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	aux	_	lemma_gml=schȫlen
+3	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	lemma_gml=dû
+4	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et
+5	seggen	seggen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=seggen|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Ebbe	Ebbe	PROPN	_	Number=Sing	5	vocative	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	16	punct	_	_
+9	to	do	ADV	_	_	16	advmod	_	lemma_gml=dô
+10	hee	hee	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=hê,sê,et
+11	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	bård	bård	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	lemma_gml=bārt
+13	van	van	ADP	_	AdpType=Prep	15	case	_	lemma_gml=van
+14	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
+15	düvel	düvel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	nmod	_	lemma_gml=dü̂vel
+16	vöölde	völen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	advcl	_	lemma_gml=vö̂len|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	aux	_	lemma_gml=wēsen
+19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=hê,sê,et
+20	an	an	ADP	_	AdpType=Prep	22	case	_	lemma_gml=an
+21	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+22	karmen	karmen	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=karment
+23	gån	gån	VERB	_	Tense=Past|VerbForm=Part	5	ccomp	_	lemma_gml=gân
+24	en	un	CCONJ	_	_	25	cc	_	lemma_gml=ende
+25	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	conj	_	lemma_gml=lôpen
+26	wear	wedder	ADV	_	_	25	advmod	_	lemma_gml=wedder
+27	hen	hen	ADP	_	AdpType=Prep	29	case	_	lemma_gml=hen
+28	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	lemma_gml=dê,dê,dat
+29	skürsteyn	skorsteyn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	lemma_gml=schorstêin|SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	wår	woor	ADV	_	_	29	acl	_	lemma_gml=wôre
+32	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	lemma_gml=hê,sê,et
+33	wear	wedder	ADV	_	_	35	advmod	_	lemma_gml=wedder
+34	uut	uut	ADP	_	_	35	compound:prt	_	lemma_gml=ût
+35	skreyde	skreyen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	advcl	_	lemma_gml=schreyen|SpaceAfter=No
+36	:	:	PUNCT	_	_	41	punct	_	_
+37	'	'	PUNCT	_	_	41	punct	_	SpaceAfter=No
+38	Moot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	41	aux	_	lemma_gml=mö̂ten
+39	Baos	Baos	PROPN	_	Number=Sing	41	nsubj	_	lemma_gml=baos
+40	Julfring	Julfring	PROPN	_	Number=Sing	39	flat	_	lemma_gml=julfring
+41	starven	sterven	VERB	_	VerbForm=Inf	35	ccomp	_	lemma_gml=sterven|SpaceAfter=No
+42	?	?	PUNCT	_	_	41	punct	_	_
+
