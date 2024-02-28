@@ -8996,27 +8996,6 @@
 # sent_id = LSDC_330_NWF_2019_OVY_oaverysselsk_2019_oe-now-vadder
 # text_orig = Zo now en dan zagen ze’m en ook en ook financieel ielp ie ze voorde.
 # text = Sou now en dan sågen see em en ouk en ouk financieel heelp hee see voorde.
-1	Sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
-2	now	nu	ADV	_	_	1	advmod	_	lemma_gml=nû
-3	en	un	CCONJ	_	_	5	cc	_	lemma_gml=ende
-4	dan	dan	ADV	_	_	5	advmod	_	lemma_gml=dan
-5	sågen	seen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=sên
-6	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=sê
-7	em	hee	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et
-8	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
-9	ouk	ouk	ADV	_	_	13	advmod	_	lemma_gml=ôk
-10	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
-11	ouk	ouk	ADV	_	_	12	advmod	_	lemma_gml=ôk
-12	financieel	financiel	ADJ	_	Degree=Pos	9	conj	_	lemma_gml=finantziel
-13	heelp	helpen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=helpen
-14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
-15	see	see	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	13	obj	_	lemma_gml=sê
-16	voorde	voord	ADV	_	_	13	advmod	_	lemma_gml=vōrt|SpaceAfter=No
-17	.	.	PUNCT	_	_	5	punct	_	_
-
-# sent_id = LSDC_330_NWF_2019_OVY_oaverysselsk_2019_oe-now-vadder
-# text_orig = Zo now en dan zagen ze’m en ook en ook financieel ielp ie ze voorde.
-# text = Sou now en dan sågen see em en ouk en ouk financieel heelp hee see voorde.
 1	Sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
 2	now	nu	ADV	_	_	5	advmod	_	lemma_gml=nû
 3	en	un	CCONJ	_	_	4	cc	_	lemma_gml=ende
