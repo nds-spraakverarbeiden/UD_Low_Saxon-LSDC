@@ -8969,6 +8969,6 @@
 23	klumpen	klumpe	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	18	obl	_	lemma_gml=klumpe
 24	yn	in	ADP	_	AdpType=Prep	26	case	_	lemma_gml=in
 25	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	26	det	_	lemma_gml=dê,dê,dat
-26	gelag	gelag	NOUN	_	Case=Acc|Gender=Masc|Number=Neut	18	obl	_	lemma_gml=gelach|SpaceAfter=No
+26	gelag	gelag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=gelach|SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
 
