@@ -8995,7 +8995,7 @@
 
 # sent_id = LSDC_330_NWF_2019_OVY_oaverysselsk_2019_oe-now-vadder
 # text_orig = Zo now en dan zagen ze’m en ook en ook financieel ielp ie ze voorde.
-# text = Sou now en dan sågen see em en ouk en ouk financieel heelp hee see voorde.
+# text = Sou now en dan sågen see em en ouk financieel heelp hee see voorde.
 1	Sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
 2	now	nu	ADV	_	_	5	advmod	_	lemma_gml=nû
 3	en	un	CCONJ	_	_	4	cc	_	lemma_gml=ende
