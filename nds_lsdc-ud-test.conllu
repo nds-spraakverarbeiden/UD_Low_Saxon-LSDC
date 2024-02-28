@@ -8791,3 +8791,27 @@
 22	döär	döärch	ADP	_	_	19	compound:prt	_	lemma_gml=dȫr|SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSPM_322_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Ie zollen eerder meind hebben, dat 'n moes 't dee, dij ze op de start trapt hadden.
+# text = Y sullen eyrder meynd hebben, dat en muus et dea, dee see up de staert trapped hadden.
+1	Y	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	lemma_gml=gî
+2	sullen	sköälen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=2|Tense=Past	4	aux	_	lemma_gml=schȫlen
+3	eyrder	eyr	ADJ	_	Degree=Cmp	4	advmod	_	lemma_gml=êr
+4	meynd	meynen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=mêinen
+5	hebben	hebben	AUX	_	VerbForm=Inf	4	aux	_	lemma_gml=hebben|SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	dat	dat	SCONJ	_	_	11	mark	_	lemma_gml=dat
+8	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
+9	muus	muus	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	lemma_gml=mûs
+10	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	lemma_gml=hê,sê,et
+11	dea	doon	VERB	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	4	ccomp	_	lemma_gml=dôn|SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	dee	dee	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Rel	18	obj	_	lemma_gml=dê,dê,dat
+14	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
+15	up	up	ADP	_	AdpType=Prep	17	case	_	lemma_gml=uppe
+16	de	dee	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
+17	staert	staert	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=stērt
+18	trapped	trappen	VERB	_	Tense=Past|VerbForm=Part	9	acl:relcl	_	lemma_gml=trappen
+19	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	aux	_	lemma_gml=hebben|SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	_
+
