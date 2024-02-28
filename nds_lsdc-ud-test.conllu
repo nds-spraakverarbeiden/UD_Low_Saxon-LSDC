@@ -8720,7 +8720,7 @@
 21	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=sê
 22	döär	döärch	ADP	_	AdpType=Prep	24	case	_	lemma_gml=dȫr
 23	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
-24	banke	bank	NOUN	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=bank
+24	banke	bank	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=bank
 25	beater	good	ADJ	_	Degree=Cmp	18	ccomp	_	lemma_gml=gôt
 26	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	25	advmod	_	lemma_gml=wēsen
 27	as	as	SCONJ	_	_	28	cc	_	lemma_gml=alsô
