@@ -8875,3 +8875,14 @@
 41	starven	sterven	VERB	_	VerbForm=Inf	35	ccomp	_	lemma_gml=sterven|SpaceAfter=No
 42	?	?	PUNCT	_	_	41	punct	_	_
 
+# sent_id = LSDC_325_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht.txt
+# text_orig = Hadee, Mieke! tot zondag.
+# text = Hadee, Mieke! tot sondag.
+1	Hadee	adee	INTJ	_	_	6	discourse	_	lemma_gml=adê|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	Mieke	Mieke	PROPN	_	Number=Sing	6	vocative	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	3	punct	_	_
+5	tot	tot	ADP	_	_	6	case	_	lemma_gml=tôte
+6	sondag	sündag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	lemma_gml=sondach|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
