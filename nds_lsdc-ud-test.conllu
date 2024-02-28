@@ -8674,3 +8674,23 @@
 6	trouwens	trouwens	ADV	_	_	1	advmod	_	lemma_gml=trûwens|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_318_NWF_2019_OVY_oaverysselsk_2019_olde-mensen
+# text_orig = Toen vroeg ik ni’jskierig an de olde baos: “Wie waren det now?”
+# text = Toon vroog ik nyskyrig an de olde baas: “Wee waren det now?”
+1	Toon	do	ADV	_	_	2	advmod	_	lemma_gml=dô
+2	vroog	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=vrâgen
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+4	nyskyrig	nyskyrig	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=nîesgîrich
+5	an	an	ADP	_	AdpType=Prep	8	case	_	lemma_gml=an
+6	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
+7	olde	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma_gml=ōlt
+8	baas	baas	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=bās|SpaceAfter=No
+9	:	:	PUNCT	_	_	2	punct	_	_
+10	“	“	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	Wee	wee	PRON	_	Case=Nom|Person=3|PronType=Int	2	ccomp	_	lemma_gml=we
+12	waren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	cop	_	lemma_gml=wēsen
+13	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	lemma_gml=dê,dê,dat
+14	now	nu	ADV	_	_	11	advmod	_	lemma_gml=nû|SpaceAfter=No
+15	?	?	PUNCT	_	_	11	punct	_	SpaceAfter=No
+16	”	”	PUNCT	_	_	11	punct	_	_
+
