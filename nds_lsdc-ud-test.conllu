@@ -8614,7 +8614,7 @@
 11	,	,	PUNCT	_	_	14	punct	_	_
 12	of	edder	CCONJ	_	_	14	cc	_	lemma_gml=eft
 13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	lemma_gml=sê
-14	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Prs	6	conj	_	lemma_gml=hebben
+14	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	conj	_	lemma_gml=hebben
 15	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	14	obj	_	lemma_gml=hê,sê,et
 16	in	in	ADP	_	AdpType=Prep	18	case	_	lemma_gml=in
 17	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
