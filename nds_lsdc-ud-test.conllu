@@ -8972,3 +8972,24 @@
 26	gelag	gelag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=gelach|SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_329_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam.txt
+# text_orig = - Mâer, Andries, zei meneer - je bint een eerlikke kerel, niet woar!
+# text = - Mår, Andries, sei meneyr - jy bint en eyrlike kearel, neet wår!
+1	-	-	PUNCT	_	_	13	punct	_	_
+2	Mår	mår	ADV	_	_	13	advmod	_	lemma_gml=mêr|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Andries	Andries	PROPN	_	Number=Sing	13	vocative	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	parataxis	_	lemma_gml=seggen
+7	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=mînhêre
+8	-	-	PUNCT	_	_	13	punct	_	_
+9	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	13	nsubj	_	lemma_gml=gî
+10	bint	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	13	cop	_	lemma_gml=wēsen
+11	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
+12	eyrlike	eyrlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	lemma_gml=êrlĩk
+13	kearel	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=kē̆rl|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	neet	nich	PART	_	PartType=Neg	16	advmod	_	lemma_gml=nicht
+16	wår	wår	ADJ	_	Degree=Pos	13	parataxis	_	lemma_gml=wâr|SpaceAfter=No
+17	!	!	PUNCT	_	_	16	punct	_	_
+
