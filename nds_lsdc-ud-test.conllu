@@ -8640,7 +8640,7 @@
 37	sük	sük	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	38	det	_	lemma_gml=sölk
 38	gesanik	gesanik	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	34	obj	_	lemma_gml=gesānik
 39	meyr	meyr	ADV	_	_	38	advmod	_	lemma_gml=vēle
-40	-	-	PUNCT	_	_	43	punct	_	_
+40	–	–	PUNCT	_	_	43	punct	_	_
 41	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
 42	mynde	myn	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	43	nsubj	_	lemma_gml=mîn
 43	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	conj	_	lemma_gml=hebben
