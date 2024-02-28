@@ -8859,7 +8859,7 @@
 25	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	conj	_	lemma_gml=lôpen
 26	wear	wedder	ADV	_	_	25	advmod	_	lemma_gml=wedder
 27	hen	hen	ADP	_	AdpType=Prep	29	case	_	lemma_gml=hen
-28	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	lemma_gml=dê,dê,dat
+28	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	lemma_gml=dê,dê,dat
 29	skürsteyn	skorsteyn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	lemma_gml=schorstêin|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	_
 31	wår	woor	ADV	_	_	29	acl	_	lemma_gml=wôre
