@@ -8579,7 +8579,7 @@
 6	vorvealende	vorvealend	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	7	amod	_	lemma_gml=vorvēlent
 7	kearl	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	lemma_gml=kē̆rl|SpaceAfter=No
 8	”	”	PUNCT	_	_	7	punct	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
 10	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=seggen
 11	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 12	ungevrågd	ungevrågd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	10	amod	_	lemma_gml=ungevrâget
@@ -8596,7 +8596,7 @@
 23	höär	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	obl	_	lemma_gml=sîn,ēr,sîn
 24	döäre	döäre	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	nmod	_	lemma_gml=dȫre
 25	ståt	stån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	acl:relcl	_	lemma_gml=stân|SpaceAfter=No
-26	.	.	PUNCT	_	_	2	punct	_	_
+26	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = LSDC_315_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam.txt
 # text_orig = Joa now, partie bint lakkerties, deurgoans half ziek, of zie heptet in de rugge, zitten vol beklâegelikke piene te knarpen, dai gien centen genoag t'ues brengt en al zu'k gezanik meer - de miende hef doar ten minste best slag van.
