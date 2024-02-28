@@ -8760,7 +8760,7 @@
 28	en	un	CCONJ	_	_	32	cc	_	lemma_gml=ende
 29	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	aux	_	lemma_gml=hebben
 30	besünder	besünder	ADV	_	_	31	advmod	_	lemma_gml=besünder
-31	weinig	weynig	PRON	_	Case=Acc|Degree=Pos|PronType=Ind	32	obj	_	lemma_gml=weinich
+31	weinig	weynig	ADJ	_	Degree=Pos	32	advmod	_	lemma_gml=weinich
 32	ineslagd	inslachten	VERB	_	Tense=Past|VerbForm=Part	20	conj	_	lemma_gml=inslachten|SpaceAfter=No
 33	.	.	PUNCT	_	_	4	punct	_	_
 
