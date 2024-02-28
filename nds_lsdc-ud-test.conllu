@@ -8589,7 +8589,7 @@
 16	vrouwlü	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	obl	_	lemma_gml=vrouwe
 17	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	16	nmod	_	lemma_gml=dê,dê,dat
 18	at	as	SCONJ	_	_	25	mark	_	lemma_gml=dat
-19	‘	‘	PUNCT	_	_	20	det	_	SpaceAfter=No
+19	‘	‘	PUNCT	_	_	20	punct	_	SpaceAfter=No
 20	tovallig	tovällig	ADJ	_	Degree=Pos	25	nsubj	_	lemma_gml=tôvallich|SpaceAfter=No
 21	’	’	PUNCT	_	_	20	punct	_	_
 22	by	by	ADP	_	AdpType=Prep	23	case	_	lemma_gml=bî
