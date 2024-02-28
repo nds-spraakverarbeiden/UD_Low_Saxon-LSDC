@@ -8544,3 +8544,27 @@
 5	weadevrouwe	widvrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	lemma_gml=wēdevrouwe|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_313_NWF_20XX_DRE_drentsk_Tim
+# text_orig = Hie bemuit zuch zowat niet met aandere kinder en in de pauzes lop e miest allén op ’t plein.
+# text = Hee bemöögt süch souwat neet med andere kinder en in de pauses lopt hee meyst alleyn up et plein.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	bemöögt	bemögen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=bemö̂yen
+3	süch	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	lemma_gml=sik
+4	souwat	souwat	ADV	_	_	2	advmod	_	lemma_gml=sôwât
+5	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
+6	med	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
+7	andere	ander	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	lemma_gml=ander
+8	kinder	kind	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	2	obl	_	lemma_gml=kint
+9	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
+10	in	in	ADP	_	AdpType=Prep	12	case	_	lemma_gml=in
+11	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	pauses	pause	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	13	obl	_	lemma_gml=pause
+13	lopt	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=lôpen
+14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
+15	meyst	meist	ADV	_	_	13	advmod	_	lemma_gml=mêist
+16	alleyn	alleyn	ADV	_	_	13	advmod	_	lemma_gml=allêine
+17	up	up	ADP	_	AdpType=Prep	19	case	_	lemma_gml=uppe
+18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
+19	plein	plein	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	13	obl	_	lemma_gml=plân|SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
