@@ -8920,7 +8920,7 @@
 29	um	üm	SCONJ	_	_	31	mark	_	lemma_gml=ümme
 30	te	to	PART	_	PartType=Inf	31	mark	_	lemma_gml=tô
 31	höyren	höyren	VERB	_	VerbForm=Inf	24	advcl	_	lemma_gml=hö̂ren
-32	nå	nåADP	_	AdpType=Prep	34	case	_	lemma_gml=nâ
+32	nå	nå	ADP	_	AdpType=Prep	34	case	_	lemma_gml=nâ
 33	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	34	det	_	lemma_gml=dê,dê,dat
 34	neys	ny	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	31	obl	_	lemma_gml=nîe
 35	üüt	uut	ADP	_	AdpType=Prep	37	case	_	lemma_gml=ût
