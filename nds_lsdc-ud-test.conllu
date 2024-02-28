@@ -8722,7 +8722,7 @@
 23	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
 24	banke	bank	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=bank
 25	beater	good	ADJ	_	Degree=Cmp	18	ccomp	_	lemma_gml=gôt
-26	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	25	advmod	_	lemma_gml=wēsen
+26	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	25	cop	_	lemma_gml=wēsen
 27	as	as	SCONJ	_	_	28	cc	_	lemma_gml=alsô
 28	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	nmod	_	lemma_gml=wî|SpaceAfter=No
 29	!	!	PUNCT	_	_	14	punct	_	_
