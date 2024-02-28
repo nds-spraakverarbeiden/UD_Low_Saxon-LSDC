@@ -8568,3 +8568,88 @@
 19	plein	plein	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	13	obl	_	lemma_gml=plân|SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_314_NWF_20XX_ACH_achterhooksk_nije-buurman
+# text_orig = “Foi, wat een vervelende kaerl”, zeg ze ongevraogd tegen de beide vrouwlu dee-t ‘tovallig’ bie eur deure staot.
+# text = “Fui, wat en vorvealende kearl”, segt see ungevrågd teagen de beide vrouwlü dee at ‘tovallig’ by höär döäre ståt.
+1	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Fui	fui	INTJ	_	_	10	discourse	_	lemma_gml=fui|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nmod	_	lemma_gml=watte
+5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
+6	vorvealende	vorvealend	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	7	amod	_	lemma_gml=vorvēlent
+7	kearl	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	lemma_gml=kē̆rl|SpaceAfter=No
+8	”	”	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=seggen
+11	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+12	ungevrågd	ungevrågd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	10	amod	_	lemma_gml=ungevrâget
+13	teagen	geagen	ADP	_	AdpType=Prep	16	case	_	lemma_gml=tēgen
+14	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
+15	beide	beide	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	16	amod	_	lemma_gml=bêide
+16	vrouwlü	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	obl	_	lemma_gml=vrouwe
+17	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	16	nmod	_	lemma_gml=dê,dê,dat
+18	at	as	SCONJ	_	_	25	mark	_	lemma_gml=dat
+19	‘	‘	PUNCT	_	_	20	det	_	SpaceAfter=No
+20	tovallig	tovällig	ADJ	_	Degree=Pos	25	nsubj	_	lemma_gml=tôvallich|SpaceAfter=No
+21	’	’	PUNCT	_	_	20	punct	_	_
+22	by	by	ADP	_	AdpType=Prep	23	case	_	lemma_gml=bî
+23	höär	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	20	obl	_	lemma_gml=sîn,ēr,sîn
+24	döäre	döäre	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	nmod	_	lemma_gml=dȫre
+25	ståt	stån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	acl:relcl	_	lemma_gml=stân|SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_315_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam.txt
+# text_orig = Joa now, partie bint lakkerties, deurgoans half ziek, of zie heptet in de rugge, zitten vol beklâegelikke piene te knarpen, dai gien centen genoag t'ues brengt en al zu'k gezanik meer - de miende hef doar ten minste best slag van.
+# text = Jå now, party bint lakkertys, döärgåns halv seek, of see hebbet et in de rügge, sitten vul beklagelike pyne te knarpen, dat y gyn centen genoog te hüüs brenget en al sük gesanik meyr – de mynde hevt dår te 'n minste best slag van.
+1	Jå	jå	INTJ	_	_	6	discourse	_	lemma_gml=jâ
+2	now	nu	INTJ	_	_	1	discourse	_	lemma_gml=nû|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	party	party	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	lemma_gml=partîe
+5	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
+6	lakkertys	lekkerken	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	lemma_gml=leckerken|SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	döärgåns	döärgåns	ADV	_	_	9	advmod	_	lemma_gml=dö̂rgâns
+9	halv	halv	ADJ	_	Degree=Pos	10	amod	_	lemma_gml=half
+10	seek	seek	ADJ	_	Degree=Pos	6	conj	_	lemma_gml=sêk|SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	of	edder	CCONJ	_	_	14	cc	_	lemma_gml=eft
+13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	lemma_gml=sê
+14	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Prs	6	conj	_	lemma_gml=hebben
+15	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	14	obj	_	lemma_gml=hê,sê,et
+16	in	in	ADP	_	AdpType=Prep	18	case	_	lemma_gml=in
+17	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+18	rügge	rügge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	14	obl	_	lemma_gml=rügge|SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	sitten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	14	conj	_	lemma_gml=sitten
+21	vul	vul	ADJ	_	_	20	amod	_	lemma_gml=vul
+22	beklagelike	beklaaglik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	lemma_gml=beklāgelĩk
+23	pyne	pyne	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	nmod	_	lemma_gml=pîne
+24	te	te	PART	_	PartType=Inf	25	mark	_	lemma_gml=tô
+25	knarpen	knarpen	VERB	_	VerbForm=Inf	20	xcomp	_	lemma_gml=knarpen|SpaceAfter=No
+26	,	,	PUNCT	_	_	34	punct	_	_
+27	dat	dat	SCONJ	_	_	34	mark	_	lemma_gml=dat
+28	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	34	nsubj	_	lemma_gml=gî
+29	gyn	geyn	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Neg	30	det	_	lemma_gml=gêin
+30	centen	cent	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	34	obj	_	lemma_gml=cent
+31	genoog	genoog	ADV	_	_	30	advmod	_	lemma_gml=genôch
+32	te	te	ADP	_	AdpType=Prep	33	case	_	lemma_gml=tô
+33	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	34	obl	_	lemma_gml=hûs
+34	brenget	bringen	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	25	ccomp	_	lemma_gml=bringen
+35	en	un	CCONJ	_	_	38	cc	_	lemma_gml=ende
+36	al	al	PRON	_	Case=Nom|Number=Sing|PronType=Tot	38	nmod	_	lemma_gml=al
+37	sük	sük	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	38	det	_	lemma_gml=sölk
+38	gesanik	gesanik	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	34	obj	_	lemma_gml=gesānik
+39	meyr	meyr	ADV	_	_	38	advmod	_	lemma_gml=vēle
+40	-	-	PUNCT	_	_	43	punct	_	_
+41	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
+42	mynde	myn	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	43	nsubj	_	lemma_gml=mîn
+43	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	conj	_	lemma_gml=hebben
+44	dår	dår	ADV	_	_	43	advmod	_	lemma_gml=dâr
+45	te	te	ADP	_	AdpType=Prep	47	case	_	lemma_gml=tô
+46	'n	et	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	47	det	_	lemma_gml=dê,dê,dat
+47	minste	min	ADJ	_	Case=Dat|Degree=Sup|Gender=Neut|Number=Sing	43	obl	_	lemma_gml=weinich
+48	best	good	ADJ	_	Degree=Sup	43	advmod	_	lemma_gml=gôt
+49	slag	slag	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	43	obj	_	lemma_gml=slach
+50	van	van	ADP	_	_	44	case	_	lemma_gml=van|SpaceAfter=No
+51	.	.	PUNCT	_	_	6	punct	_	_
+
