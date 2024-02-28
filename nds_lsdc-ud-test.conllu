@@ -8518,7 +8518,7 @@
 8	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen|SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	oaver	öäver	ADP	_	AdpType=Prep	12	case	_	lemma_gml=ȫver
-11	sükke	sük	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	lemma_gml=sölk
+11	sükke	sük	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	lemma_gml=sölk
 12	hokuspokus	hokuspokus	NOUN	_	Case=Acc|Gender=Masc,Neut|Number=Sing	13	obl	_	lemma_gml=hocuspocus
 13	swyget	swygen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	parataxis	_	lemma_gml=swîgen
 14	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=sê
