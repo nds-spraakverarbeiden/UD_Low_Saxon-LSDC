@@ -8653,3 +8653,13 @@
 50	van	van	ADP	_	_	44	case	_	lemma_gml=van|SpaceAfter=No
 51	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_316_NWF_1851_DRE_drentsk_Ho-baos-Julfring-meende-den-Duvel-in-hoes-te-hebben
+# text_orig = En ho luep 't of?
+# text = En ho löyp et of?
+1	En	un	CCONJ	_	_	3	cc	_	lemma_gml=ende
+2	ho	wo	ADV	_	_	3	advmod	_	lemma_gml=wô
+3	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lôpen
+4	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
+5	of	af	ADP	_	_	3	compound:prt	_	lemma_gml=af|SpaceAfter=No
+6	?	?	PUNCT	_	_	3	punct	_	_
+
