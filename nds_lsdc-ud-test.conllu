@@ -8505,3 +8505,32 @@
 18	untvangen	entvangen	VERB	_	VerbForm=Inf	7	advcl	_	lemma_gml=entfân|SpaceAfter=No
 19	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_311_NWF_20XX_ACH_achterhooksk_nije-buurman
+# text_orig = Gin mense wet zeker of Trui helderzeend is, aover zukke hocuspocus zwiegt zee lever, umdat ‘t neet anslöt bie eur nuchtere verstand.
+# text = Gyn menske wet seaker of Trui helderseend is, oaver sükke hokuspokus swyget see lever, ümdat et neet anslüt by höär nüchtere vorstand.
+1	Gyn	geyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	2	det	_	lemma_gml=gêin
+2	menske	minske	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=minsche
+3	wet	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=wēten
+4	seaker	seaker	ADJ	_	Degree=Pos	3	advmod	_	lemma_gml=sēker
+5	of	of	SCONJ	_	_	7	mark	_	lemma_gml=of
+6	Trui	Trui	PROPN	_	Number=Sing	7	nsubj	_	lemma_gml=trui
+7	helderseend	helseend	ADJ	_	Degree=Pos|Tense=Pres|VerbForm=Part	3	ccomp	_	lemma_gml=helsên
+8	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen|SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	oaver	öäver	ADP	_	AdpType=Prep	12	case	_	lemma_gml=ȫver
+11	sükke	sük	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	12	det	_	lemma_gml=sölk
+12	hokuspokus	hokuspokus	NOUN	_	Case=Acc|Gender=Masc,Neut|Number=Sing	13	obl	_	lemma_gml=hocuspocus
+13	swyget	swygen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	parataxis	_	lemma_gml=swîgen
+14	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=sê
+15	lever	leev	ADJ	_	Degree=Cmp	13	advmod	_	lemma_gml=lêf|SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	ümdat	ümdat	SCONJ	_	_	20	mark	_	lemma_gml=ümmedat
+18	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=hê,sê,et
+19	neet	nich	PART	_	PartType=Neg	20	advmod	_	lemma_gml=nicht
+20	anslüt	ansluten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	advcl	_	lemma_gml=anslûten
+21	by	by	ADP	_	AdpType=Prep	24	case	_	lemma_gml=bî
+22	höär	ear	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|PronType=Prs	24	det	_	lemma_gml=sîn,ēr,sîn
+23	nüchtere	nüchter	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	lemma_gml=nöchteren
+24	vorstand	vorstand	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	20	obl	_	lemma_gml=vorstant|SpaceAfter=No
+25	.	.	PUNCT	_	_	3	punct	_	_
+
