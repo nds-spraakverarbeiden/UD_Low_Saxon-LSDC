@@ -8928,3 +8928,16 @@
 37	krant	krant	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	34	nmod	_	lemma_gml=cûrant|SpaceAfter=No
 38	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_327_NWF_20XX_DRE_drentsk_In_de_steek_laoten
+# text_orig = ‘Wat is hier an de haand?’
+# text = ‘Wat is hyr an de hand?’
+1	‘	‘	PUNCT	_	_	7	cc	_	_
+2	Wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nsubj	_	lemma_gml=watte
+3	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen
+4	hyr	hyr	ADV	_	_	7	advmod	_	lemma_gml=hîr
+5	an	an	ADP	_	AdpType=Prep	7	case	_	lemma_gml=an
+6	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	hand	hand	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	0	root	_	lemma_gml=hant|SpaceAfter=No
+8	?	?	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	’	’	PUNCT	_	_	7	punct	_	_
+
