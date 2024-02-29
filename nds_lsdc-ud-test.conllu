@@ -9082,3 +9082,21 @@
 65	lakker	lekker	ADJ	_	Degree=Pos	62	xcomp	_	lemma_gml=lecker|SpaceAfter=No
 66	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_332_NWF_2017_TWE_twentsk_2017_leawenskrachtig-bodbreef-HAN-meart-2017
+# text_orig = Wat ne conditie en wat ’n inzet, ’t Leug der nich um.
+# text = Wat ne kondity en wat en inset, et löyg der nich üm.
+1	Wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nmod	_	lemma_gml=watte
+2	ne	en	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=êin,êine,êin
+3	kondity	kondity	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma_gml=conditie
+4	en	un	CCONJ	_	_	5	cc	_	lemma_gml=ende
+5	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	nmod	_	lemma_gml=watte
+6	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	inset	inset	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	lemma_gml=inset|SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	et	et	PRON	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+10	löyg	legen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	lemma_gml=lêgen
+11	der	dår	ADV	_	_	10	advmod	_	lemma_gml=dâr
+12	nich	nich	PART	_	PartType=Neg	10	advmod	_	lemma_gml=nicht
+13	üm	üm	ADP	_	_	11	case	_	lemma_gml=ümme|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
