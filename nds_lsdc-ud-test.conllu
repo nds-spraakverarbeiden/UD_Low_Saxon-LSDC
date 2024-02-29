@@ -9170,7 +9170,7 @@
 26	flüüsteren	flüsteren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	conj	_	lemma_gml=vlisteren|SpaceAfter=No
 27	:	:	PUNCT	_	_	2	punct	_	_
 28	“	“	PUNCT	_	_	31	punct	_	SpaceAfter=No
-29	Ssssttt	sst	INTJ	_	Mood=Ind|Number=Sing|Person=3	31	discourse	_	lemma_gml=sst|SpaceAfter=No
+29	Ssssttt	sst	INTJ	_	_	31	discourse	_	lemma_gml=sst|SpaceAfter=No
 30	…	…	PUNCT	_	_	31	punct	_	lemma_gml=…..
 31	hevt	hevven	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	26	ccomp	_	lemma_gml=hebben
 32	hee	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	31	nsubj	_	lemma_gml=hê,sê,et
