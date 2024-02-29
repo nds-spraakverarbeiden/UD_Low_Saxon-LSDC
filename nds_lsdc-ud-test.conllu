@@ -9214,7 +9214,7 @@
 16	em	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	22	obj	_	lemma_gml=hê,sê,et
 17	med	mid	ADP	_	AdpType=Prep	20	case	_	lemma_gml=mit
 18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê,dê,dat
-19	graven	graven	NOUN	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	20	nmod	_	lemma_gml=grāve
+19	graven	graven	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	20	nmod	_	lemma_gml=grāve
 20	uutmaken	uutmaken	VERB	_	VerbForm=Inf	22	acl:relcl	_	lemma_gml=ûtmāken
 21	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma_gml=hebben
 22	låten	låten	VERB	_	Tense=Past|VerbForm=Part	14	xcomp	_	lemma_gml=lâten
