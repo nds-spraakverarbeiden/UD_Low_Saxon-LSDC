@@ -9135,7 +9135,7 @@
 3	y	jy	PRON	_	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî
 4	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	obj	_	lemma_gml=dê,dê,dat
 5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma_gml=in
-6	enen	eyn	NUM	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	nummod	_	lemma_gml=êin,êine,êin
+6	eynen	eyn	NUM	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	nummod	_	lemma_gml=êin,êine,êin
 7	dag	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=dach
 8	?	?	PUNCT	_	_	2	punct	_	_
 
