@@ -9361,3 +9361,16 @@
 10	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht|SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	_
 
+# sent_id = LSPM_345_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe
+# text_orig = Moedertien, moedertien, wat is u niesgierig!
+# text = Modertyn, modertyn, wat is ü nysgyrig!
+1	Modertyn	moderken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	vocative	_	lemma_gml=mö̂derken|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	modertyn	moderken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	lemma_gml=mö̂derken|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	8	obl	_	lemma_gml=watte
+6	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	lemma_gml=wēsen
+7	ü	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	8	nsubj	_	lemma_gml=dû
+8	nysgyrig	nysgyrig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=nîesgîrich|SpaceAfter=No
+9	!	!	PUNCT	_	_	8	punct	_	_
+
