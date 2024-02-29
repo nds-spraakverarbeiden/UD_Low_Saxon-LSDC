@@ -9114,3 +9114,16 @@
 9	denken	denken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=denken|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_334_NWF_2019_OVY_oaverysselsk_ridder-ewodden
+# text_orig = Mien skoonvader was zien ele leven bezig ewest.
+# text = Myn skounvader was syn heyle leaven beasig ewesd.
+1	Myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=mîn
+2	skounvader	skounvader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma_gml=schö̂nevāder
+3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen
+4	syn	syn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=sîn,ēr,sîn
+5	heyle	heyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	lemma_gml=hêil
+6	leaven	leaven	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	lemma_gml=lēvent
+7	beasig	beasig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=bēsîch
+8	ewesd	weasen	AUX	_	Tense=Past|VerbForm=Part	7	cop	_	lemma_gml=wēsen|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
