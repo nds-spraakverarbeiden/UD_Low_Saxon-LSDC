@@ -9346,3 +9346,18 @@
 10	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 11	’	’	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_344_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Tied um heur spullegies op te bargen kreg ze niet.
+# text = Tyd üm höär spüllegys up te bargen kregt see neet.
+1	Tyd	tyd	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	8	obj	_	lemma_gml=tît
+2	üm	üm	SCONJ	_	_	7	mark	_	lemma_gml=ümme
+3	höär	ear	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=sîn,ēr,sîn
+4	spüllegys	spelken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	lemma_gml=spēleken
+5	up	up	ADP	_	_	7	compound:prt	_	lemma_gml=uppe
+6	te	to	PART	_	PartType=Inf	7	mark	_	lemma_gml=tô
+7	bargen	bergen	VERB	_	VerbForm=Inf	1	acl	_	lemma_gml=bergen
+8	kregt	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=krîgen
+9	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=sê
+10	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
