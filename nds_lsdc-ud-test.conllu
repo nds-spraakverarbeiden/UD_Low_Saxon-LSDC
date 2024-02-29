@@ -9303,3 +9303,31 @@
 16	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	conj	_	lemma_gml=hebben|SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_342_NWF_20XX_ACH_achterhooksk_ton-wazzen-ze-alle-een
+# text_orig = Trouwens, Hanna en Willem hadden Anna en Mina wal dreedubbel de bosschop met egevvene, zich neet an te leggen met de soldaoten.
+# text = Trouwens, Hanna en Willem hadden Anna en Mina wal dreedübbel de bodskop medegevvene, sich neet an te leggen med de soldåten.
+1	Trouwens	trouwens	ADV	_	_	14	advmod	_	lemma_gml=trûwens|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Hanna	Hanna	PROPN	_	Number=Sing	14	nsubj	_	lemma_gml=hanna
+4	en	un	CCONJ	_	_	5	cc	_	lemma_gml=ende
+5	Willem	Willem	PROPN	_	Number=Sing	3	conj	_	lemma_gml=willem
+6	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	14	aux	_	lemma_gml=hebben
+7	Anna	Anna	PROPN	_	Number=Sing	14	iobj	_	lemma_gml=anna
+8	en	un	CCONJ	_	_	9	cc	_	lemma_gml=ende
+9	Mina	Mina	PROPN	_	Number=Sing	7	conj	_	lemma_gml=mina
+10	wal	wol	ADV	_	_	14	advmod	_	lemma_gml=wol
+11	dreedübbel	dreedubbel	ADV	_	_	14	advmod	_	lemma_gml=drêdubbel
+12	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
+13	bodskop	bodskop	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma_gml=botschop
+14	medegevvene	midgeaven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=mēdegēven|SpaceAfter=No
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	sich	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	nsubj	_	lemma_gml=sik
+17	neet	nich	PART	_	PartType=Neg	20	advmod	_	lemma_gml=nicht
+18	an	an	ADP	_	_	20	compound:prt	_	lemma_gml=an
+19	te	to	PART	_	PartType=Inf	20	mark	_	lemma_gml=tô
+20	leggen	leggen	VERB	_	VerbForm=Inf	13	acl	_	lemma_gml=leggen
+21	med	mid	ADP	_	AdpType=Prep	23	case	_	lemma_gml=mit
+22	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
+23	soldåten	soldåt	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	20	obl	_	lemma_gml=soldât|SpaceAfter=No
+24	.	.	PUNCT	_	_	14	punct	_	_
+
