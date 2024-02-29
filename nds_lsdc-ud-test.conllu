@@ -9193,3 +9193,52 @@
 10	dinge	ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	nmod	_	lemma_gml=dinc|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_338_NWF_20XX_ACH_achterhooksk_ne-eke
+# text_orig = 't Ekenbeumken worden nao verloop van tied ne machtigen mooien eke, d'n boer den 'm met 't graven oetmaken had laoten staon, was d'r al lange neet meer, zienen zönne was al waer old en dèn zienen zönne was no boer.
+# text = Et eykenböymken worden nå vorloup van tyd ne machtigen mooien eyke, den buur, den em med et graven uutmaken had låten stån, was der al lange neet meyr, synen sönne was al wear old en den synen sönne was now buur.
+1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	eykenböymken	eykenböymken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=êikenbö̂meken
+3	worden	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	30	conj	_	lemma_gml=wērden
+4	nå	nå	ADP	_	AdpType=Prep	5	case	_	lemma_gml=nâ
+5	vorloup	vorloup	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	3	obl	_	lemma_gml=vorlôp
+6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
+7	tyd	tyd	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	5	nmod	_	lemma_gml=tît
+8	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+9	machtigen	mächtig	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	lemma_gml=mechtich
+10	mooien	mooi	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	lemma_gml=mö̂ye
+11	eyke	eyke	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	lemma_gml=êike|SpaceAfter=No
+12	,	,	PUNCT	_	_	3	punct	_	_
+13	den	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+14	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	lemma_gml=bûr
+15	den	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+16	em	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	22	obj	_	lemma_gml=hê,sê,et
+17	med	mid	ADP	_	AdpType=Prep	20	case	_	lemma_gml=mit
+18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê,dê,dat
+19	graven	graven	NOUN	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	20	nmod	_	lemma_gml=grāve
+20	uutmaken	uutmaken	VERB	_	VerbForm=Inf	22	acl:relcl	_	lemma_gml=ûtmāken
+21	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma_gml=hebben
+22	låten	låten	VERB	_	Tense=Past|VerbForm=Part	14	xcomp	_	lemma_gml=lâten
+23	stån	stån	VERB	_	VerbForm=Inf	22	xcomp	_	lemma_gml=stân|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	cop	_	lemma_gml=wēsen
+26	der	dår	ADV	_	_	30	advmod	_	lemma_gml=dâr
+27	al	al	ADV	_	_	30	advmod	_	lemma_gml=al
+28	lange	lange	ADV	_	_	30	advmod	_	lemma_gml=lanc
+29	neet	nich	PART	_	PartType=Neg	30	advmod	_	lemma_gml=nicht
+30	meyr	meyr	ADV	_	_	0	root	_	lemma_gml=vēle|SpaceAfter=No
+31	,	,	PUNCT	_	_	37	punct	_	_
+32	synen	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	33	det	_	lemma_gml=sîn,ēr,sîn
+33	sönne	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	lemma_gml=sȫne
+34	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
+35	al	al	ADV	_	_	37	advmod	_	lemma_gml=al
+36	wear	wedder	ADJ	_	_	37	advmod	_	lemma_gml=wedder
+37	old	old	ADJ	_	Degree=Pos	3	conj	_	lemma_gml=ōlt
+38	en	un	CCONJ	_	_	44	cc	_	lemma_gml=ende
+39	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	41	nmod	_	lemma_gml=dê,dê,dat
+40	synen	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	41	det	_	lemma_gml=sîn,ēr,sîn
+41	sönne	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	lemma_gml=sȫne
+42	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	44	cop	_	lemma_gml=wēsen
+43	now	nu	ADV	_	_	44	advmod	_	lemma_gml=nû
+44	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	lemma_gml=bûr|SpaceAfter=No
+45	.	.	PUNCT	_	_	3	punct	_	_
+
