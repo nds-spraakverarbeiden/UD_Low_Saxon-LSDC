@@ -9139,3 +9139,42 @@
 7	dag	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=dach|SpaceAfter=No
 8	?	?	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_336_NWF_2019_OVY_oaverysselsk_2019_zundagmonnen
+# text_orig = Ik open maar det ’t ge’eur van de goeie man niet al te best meer was, ik leie de vinger op de mond en fluusteren: “Ssssttt….. ef ie wel.”
+# text = Ik hoapen mår det et gehöyr van de gode man neet al te best meyr was, ik leie de vinger up de mund en flüüsteren: “Ssssttt… hevt hee wel.”
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	hoapen	hoapen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=hōpen
+3	mår	mår	ADV	_	_	2	advmod	_	lemma_gml=mêr
+4	det	dat	SCONJ	_	_	14	mark	_	lemma_gml=dat
+5	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+6	gehöyr	gehöyr	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	lemma_gml=gehö̂r
+7	van	van	ADP	_	AdpType=Prep	10	case	_	lemma_gml=van
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+9	gode	good	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	lemma_gml=gôt
+10	man	man	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	6	nmod	_	lemma_gml=man
+11	neet	nich	PART	_	PartType=Neg	14	advmod	_	lemma_gml=nicht
+12	al	al	ADV	_	_	14	advmod	_	lemma_gml=al
+13	te	to	ADV	_	_	14	advmod	_	lemma_gml=tô
+14	best	good	ADJ	_	Degree=Sup	2	ccomp	_	lemma_gml=gôt
+15	meyr	meyr	ADV	_	_	14	advmod	_	lemma_gml=vēle
+16	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	cop	_	lemma_gml=wēsen|SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	lemma_gml=ik
+19	leie	leggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	conj	_	lemma_gml=leggen
+20	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
+21	vinger	vinger	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	lemma_gml=vinger
+22	up	up	ADP	_	AdpType=Prep	24	case	_	lemma_gml=uppe
+23	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
+24	mund	mund	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	lemma_gml=munt
+25	en	un	CCONJ	_	_	26	cc	_	lemma_gml=ende
+26	flüüsteren	flüsteren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	conj	_	lemma_gml=vlisteren|SpaceAfter=No
+27	:	:	PUNCT	_	_	2	punct	_	_
+28	“	“	PUNCT	_	_	31	punct	_	SpaceAfter=No
+29	Ssssttt	sst	INTJ	_	Mood=Ind|Number=Sing|Person=3	31	discourse	_	lemma_gml=sst|SpaceAfter=No
+30	…	…	PUNCT	_	_	31	punct	_	lemma_gml=…..
+31	hevt	hevven	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	26	ccomp	_	lemma_gml=hebben
+32	hee	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	31	nsubj	_	lemma_gml=hê,sê,et
+33	wel	wol	ADV	_	_	31	advmod	_	lemma_gml=wol|SpaceAfter=No
+34	.	.	PUNCT	_	_	31	punct	_	SpaceAfter=No
+35	”	”	PUNCT	_	_	31	punct	_	_
+
