@@ -9374,3 +9374,17 @@
 8	nysgyrig	nysgyrig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=nîesgîrich|SpaceAfter=No
 9	!	!	PUNCT	_	_	8	punct	_	_
 
+# sent_id = LSDC_346_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Ik meende het niet zo van dat cake bakken.
+# text = Ik meynde et neet sou van dat cake bakken.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	meynde	meynen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=mêinen
+3	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
+4	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
+5	sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
+6	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
+7	dat	dat	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+8	cake	cake	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	lemma_gml=kāke
+9	bakken	bakken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=bakken|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
