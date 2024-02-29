@@ -9198,7 +9198,7 @@
 # text = Et eykenböymken worden nå vorloup van tyd ne machtigen mooien eyke, den buur den em med et graven uutmaken had låten stån, was der al lange neet meyr, synen sönne was al wear old en den synen sönne was now buur.
 1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	eykenböymken	eykenböymken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=êikenbö̂meken
-3	worden	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	30	conj	_	lemma_gml=wērden
+3	worden	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=wērden
 4	nå	nå	ADP	_	AdpType=Prep	5	case	_	lemma_gml=nâ
 5	vorloup	vorloup	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	3	obl	_	lemma_gml=vorlôp
 6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
