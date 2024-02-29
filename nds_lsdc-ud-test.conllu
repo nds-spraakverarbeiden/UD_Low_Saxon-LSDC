@@ -9100,3 +9100,17 @@
 13	üm	üm	ADP	_	_	11	case	_	lemma_gml=ümme|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_333_NWF_2019_OVY_oaverysselsk_oe-now-vadder
+# text_orig = Maar iedere dag mos Gees d’r nog an denken.
+# text = Mår ydere dag mus Gees der noch an denken.
+1	Mår	mår	CCONJ	_	_	9	cc	_	lemma_gml=mêr
+2	ydere	ieder	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	lemma_gml=îder
+3	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=dach
+4	mus	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	aux	_	lemma_gml=mö̂ten
+5	Gees	Gees	PROPN	_	Number=Sing	9	nsubj	_	lemma_gml=gees
+6	der	dår	ADV	_	_	9	advmod	_	lemma_gml=dâr
+7	noch	noch	ADV	_	_	9	advmod	_	lemma_gml=noch
+8	an	an	ADP	_	_	6	case	_	lemma_gml=an
+9	denken	denken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=denken|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
