@@ -9473,7 +9473,7 @@
 
 # sent_id = LSDC_350_NWF_20XX_ACH_achterhooksk_kato
 # text_orig = Zee holdt afstand en ’t contact beperkt zich töt af en to ‘goeiendag’ zeggen at ze mekare op de stoepe tegenkomt.
-# text = See holdt afstand en et kontakt beperkt sich töt af en to ‘godendag’ seggen at se mekare up de stupe teagenkommet.
+# text = See holdt afstand en et kontakt beperkt sich töt af en to ‘godendag’ seggen at see mekare up de stupe teagenkommet.
 1	See	see	PRON	_	Case=Nom|Number=Plur|PronType=Prs	2	nsubj	_	lemma_gml=sê
 2	holdt	holden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
 3	afstand	afstand	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=afstant
