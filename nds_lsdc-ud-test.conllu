@@ -9093,7 +9093,7 @@
 6	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 7	inset	inset	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	lemma_gml=inset|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
-9	et	et	PRON	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+9	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 10	löyg	legen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	lemma_gml=lêgen
 11	der	dår	ADV	_	_	10	advmod	_	lemma_gml=dâr
 12	nich	nich	PART	_	PartType=Neg	10	advmod	_	lemma_gml=nicht
