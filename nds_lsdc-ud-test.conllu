@@ -9388,3 +9388,33 @@
 9	bakken	bakken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=bakken|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_347_NWF_20XX_DRE_drentsk_An_'t_Noorderdiep
+# text_orig = Ik heb daor niet veul zin an, maor oes pap vindt het volgens mij wal mooi as ik met hum metgao naor opoe Valthermond.
+# text = Ik heb dår neet vöäl sin an, mår uus pap vindt et volgens my wal mooi as ik med hüm medgå når opo Valthermond.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	heb	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
+3	dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
+4	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
+5	vöäl	veale	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=vēle
+6	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=sin
+7	an	an	ADP	_	_	3	case	_	lemma_gml=an|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	mår	mår	CCONJ	_	_	12	cc	_	lemma_gml=mêr
+10	uus	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	lemma_gml=unse
+11	pap	pap	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	lemma_gml=pap
+12	vindt	vinden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=vinden
+13	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	12	obj	_	lemma_gml=hê,sê,et
+14	volgens	volgens	ADP	_	AdpType=Prep	15	case	_	lemma_gml=volgens
+15	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	12	obl	_	lemma_gml=ik
+16	wal	wol	ADV	_	_	12	advmod	_	lemma_gml=wol
+17	mooi	mooi	ADJ	_	Degree=Pos	12	xcomp	_	lemma_gml=mö̂ye
+18	as	as	SCONJ	_	_	22	mark	_	lemma_gml=alsô
+19	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	lemma_gml=ik
+20	med	mid	ADP	_	AdpType=Prep	21	case	_	lemma_gml=mit
+21	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	lemma_gml=hê,sê,et
+22	medgå	midgån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	advcl	_	lemma_gml=mēdegân
+23	når	nå	ADP	_	AdpType=Prep	24	case	_	lemma_gml=nâ
+24	opo	opo	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	22	obl	_	lemma_gml=ōpô
+25	Valthermond	Valthermond	PROPN	_	Number=Sing	24	flat	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	12	punct	_	_
+
