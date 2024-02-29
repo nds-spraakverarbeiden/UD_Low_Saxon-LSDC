@@ -9282,3 +9282,24 @@
 9	heyl	heyl	ADJ	_	Degree=Pos	0	root	_	lemma_gml=hêil|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_341_NWF_201X_TWE_twentsk_barista
+# text_orig = Of leu dee at ’s oawends gin koffie dreenkt en ’s aanderdaangs een zear heuwd hebt.
+# text = Of lüde dee at des åvends gyn koffy drinket en des anderdages en seyr höyvd hebbet.
+1	Of	of	CCONJ	_	_	2	cc	_	lemma_gml=eft
+2	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	lemma_gml=lü̂de
+3	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	9	nsubj	_	lemma_gml=dê,dê,dat
+4	at	as	SCONJ	_	_	9	mark	_	lemma_gml=alsôdat
+5	des	de	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+6	åvends	åvend	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=âvent
+7	gyn	geyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	8	det	_	lemma_gml=gêin
+8	koffy	koffy	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	lemma_gml=koffî
+9	drinket	drinken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	acl:relcl	_	lemma_gml=drinken
+10	en	un	CCONJ	_	_	16	cc	_	lemma_gml=ende
+11	des	de	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	anderdages	anderdag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	16	obl	_	lemma_gml=anderdach
+13	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma_gml=êin,êine,êin
+14	seyr	seyr	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	lemma_gml=sêre
+15	höyvd	höyvd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=hö̂vet
+16	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	9	conj	_	lemma_gml=hebben|SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
