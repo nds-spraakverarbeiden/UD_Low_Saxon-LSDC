@@ -9418,3 +9418,22 @@
 25	Valthermond	Valthermond	PROPN	_	Number=Sing	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	12	punct	_	_
 
+# sent_id = LSDC_348_NWF_20XX_DRE_drentsk_Over_de_nek
+# text_orig = De radio lat Meatloaf heuren, maor an zien Paradise he’k gien zin.
+# text = De radio lat Meatloaf höyren, mår an syn Paradise heb ik gyn sin.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	radio	radio	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=rādiô
+3	lat	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=lâten
+4	Meatloaf	Meatloaf	PROPN	_	Number=Sing	3	obj	_	lemma_gml=meatloaf
+5	höyren	höyren	VERB	_	VerbForm=Inf	3	xcomp	_	lemma_gml=hö̂ren|SpaceAfter=No
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	mår	mår	CCONJ	_	_	11	cc	_	lemma_gml=mêr
+8	an	an	ADP	_	AdpType=Prep	10	case	_	lemma_gml=an
+9	syn	syn	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=sîn,ēr,sîn
+10	Paradise	paradys	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	obl	_	lemma_gml=paradîs
+11	heb	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	conj	_	lemma_gml=hebben
+12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
+13	gyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	14	det	_	lemma_gml=gêin
+14	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=sin|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
