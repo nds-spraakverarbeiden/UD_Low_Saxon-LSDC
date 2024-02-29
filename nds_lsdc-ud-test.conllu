@@ -9444,9 +9444,9 @@
 2	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=êin,êine,êin
 3	bettyn	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	lemma_gml=bēteken
 4	meal	meal	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	lemma_gml=mēl
-5	meyr	veale	ADJ	_	Degree=Cmp|PronType=Ind	3	nmod	_	lemma_gml=vēle
+5	meyr	veale	ADJ	_	Degree=Cmp	3	amod	_	lemma_gml=vēle
 6	of	of	CCONJ	_	_	7	cc	_	lemma_gml=eft
-7	minder	min	ADJ	_	Degree=Cmp|PronType=Ind	5	conj	_	lemma_gml=weinich
+7	minder	min	ADJ	_	Degree=Cmp	5	conj	_	lemma_gml=weinich
 8	kümt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=kōmen
 9	der	dår	ADV	_	_	8	advmod	_	lemma_gml=dâr
 10	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
