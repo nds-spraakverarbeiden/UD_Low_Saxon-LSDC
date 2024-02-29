@@ -9342,7 +9342,7 @@
 6	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
 7	gyn	geyn	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	8	det	_	lemma_gml=gêin
 8	ouge	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	lemma_gml=ôge
-9	dicht	dicht	ADJ	_	Degree=Pos	5	xcomp	_	lemma_gml=dichte|SpaceAfter=
+9	dicht	dicht	ADJ	_	Degree=Pos	5	xcomp	_	lemma_gml=dichte|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 11	’	’	PUNCT	_	_	5	punct	_	_
 
