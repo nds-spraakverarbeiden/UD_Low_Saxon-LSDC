@@ -9242,3 +9242,29 @@
 44	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	lemma_gml=bûr|SpaceAfter=No
 45	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_339_NWF_20XX_DRE_drentsk_Een_hiel_eende_van_Adam_naor_Dallas
+# text_orig = Met veul stennen en poesten heistert e zuch in ’t gangpad en rekt zuch oet naor de kasssies veur de handbagage.
+# text = Med vöäl stennen en puusten heistert hee süch in et gangpad en rekt süch uut når de kassys vöär de handbagage.
+1	Med	mid	ADP	_	AdpType=Prep	2	case	_	lemma_gml=mit
+2	vöäl	veale	ADV	_	_	3	advmod	_	lemma_gml=vēle
+3	stennen	steanen	VERB	_	VerbForm=Inf	6	obl	_	lemma_gml=stēnen
+4	en	un	CCONJ	_	_	5	cc	_	lemma_gml=ende
+5	puusten	puusten	VERB	_	VerbForm=Inf	3	conj	_	lemma_gml=pûsten
+6	heistert	heisteren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=heysteren
+7	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
+8	süch	sik	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	lemma_gml=sik
+9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in
+10	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
+11	gangpad	gangpad	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	6	obl	_	lemma_gml=gancpat
+12	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
+13	rekt	rekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	lemma_gml=rêiken
+14	süch	sik	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obj	_	lemma_gml=sik
+15	uut	uut	ADP	_	_	13	compound:prt	_	lemma_gml=ût
+16	når	nå	ADP	_	AdpType=Prep	18	case	_	lemma_gml=nâ
+17	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+18	kassys	kästken	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	13	obl	_	lemma_gml=kasseken
+19	vöär	vöär	ADP	_	AdpType=Prep	21	case	_	lemma_gml=vȫr
+20	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
+21	handbagage	handbagage	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	nmod	_	lemma_gml=hantbagāge|SpaceAfter=No
+22	.	.	PUNCT	_	_	6	punct	_	_
+
