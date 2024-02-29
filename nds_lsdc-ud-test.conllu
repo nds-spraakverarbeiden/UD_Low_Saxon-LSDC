@@ -9225,8 +9225,8 @@
 27	al	al	ADV	_	_	30	advmod	_	lemma_gml=al
 28	lange	lange	ADV	_	_	30	advmod	_	lemma_gml=lanc
 29	neet	nich	PART	_	PartType=Neg	30	advmod	_	lemma_gml=nicht
-30	meyr	meyr	ADV	_	_	0	root	_	lemma_gml=vēle|SpaceAfter=No
-31	,	,	PUNCT	_	_	37	punct	_	_
+30	meyr	meyr	ADV	_	_	3	conj	_	lemma_gml=vēle|SpaceAfter=No
+31	,	,	PUNCT	_	_	30	punct	_	_
 32	synen	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	33	det	_	lemma_gml=sîn,ēr,sîn
 33	sönne	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	lemma_gml=sȫne
 34	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
