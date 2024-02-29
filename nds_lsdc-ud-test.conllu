@@ -9268,3 +9268,17 @@
 21	handbagage	handbagage	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	nmod	_	lemma_gml=hantbagāge|SpaceAfter=No
 22	.	.	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_340_NWF_2019_OVY_oaverysselsk_gevoorlijk
+# text_orig = en zo te zien was ie nog elemaole eel.
+# text = en sou te seen was hee noch heylemåle heyl.
+1	en	un	CCONJ	_	_	9	cc	_	lemma_gml=ende
+2	sou	sou	ADV	_	_	4	advmod	_	lemma_gml=sô
+3	te	to	PART	_	PartType=Inf	4	mark	_	lemma_gml=tô
+4	seen	seen	VERB	_	VerbForm=Inf	9	advcl	_	lemma_gml=sên
+5	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	lemma_gml=wēsen
+6	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê,sê,et
+7	noch	noch	ADV	_	_	9	advmod	_	lemma_gml=noch
+8	heylemåle	heylemål	ADV	_	_	9	advmod	_	lemma_gml=hêilemâle
+9	heyl	heyl	ADJ	_	Degree=Pos	0	root	_	lemma_gml=hêil|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
