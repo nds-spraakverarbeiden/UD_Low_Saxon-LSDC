@@ -9178,3 +9178,18 @@
 34	.	.	PUNCT	_	_	31	punct	_	SpaceAfter=No
 35	”	”	PUNCT	_	_	31	punct	_	_
 
+# sent_id = LSDC_337_NWF_201X_TWE_twentsk_hartstochtelijk-gevoarlijk-glas-in-wierden
+# text_orig = Zien woark stroalt plezeer oet en leefde vuur de dinge.
+# text = Syn wark strålt pleseer uut en leevde vöär de dinge.
+1	Syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=sîn,ēr,sîn
+2	wark	werk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=werk
+3	strålt	strålen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=strâlen
+4	pleseer	pleseer	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma_gml=plêsîr
+5	uut	uut	ADP	_	_	3	compound:prt	_	lemma_gml=ût
+6	en	un	CCONJ	_	_	7	cc	_	lemma_gml=ende
+7	leevde	leevde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	lemma_gml=lêfte
+8	vöär	vöär	ADP	_	AdpType=Prep	10	case	_	lemma_gml=vȫr
+9	de	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	dinge	ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	nmod	_	lemma_gml=dinc|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
