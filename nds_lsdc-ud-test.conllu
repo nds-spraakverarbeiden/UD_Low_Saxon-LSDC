@@ -9642,3 +9642,31 @@
 14	………	………	PUNCT	_	_	4	punct	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
+# sent_id = LSDC_356_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text = Toe ried meneer mie an, gien drank meer te drinken, mâer het geld veur mien vrouwe en kinders ampart te leggen.
+# text = To reed meneyr my an, gyn drank meyr te drinken, mår et geld vöär myn vrouwe en kinders ampart te leggen.
+1	To	do	ADV	_	AdpType=Prep	2	advmod	_	lemma_gml=dô
+2	reed	råden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=râden
+3	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=mînhêre
+4	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik
+5	an	an	ADP	_	AdpType=Prep	2	compound:prt	_	lemma_gml=an|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	gyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	8	det	_	lemma_gml=gêin
+8	drank	drank	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=drank
+9	meyr	meyr	ADV	_	_	11	advmod	_	lemma_gml=mêr
+10	te	to	PART	_	PartType=Inf	11	mark	_	lemma_gml=tô
+11	drinken	drinken	VERB	_	VerbForm=Inf	2	ccomp	_	lemma_gml=drinken|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	mår	mår	CCONJ	_	_	23	cc	_	lemma_gml=mêr
+14	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma_gml=et
+15	geld	geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	lemma_gml=gelt
+16	vöär	vöär	ADP	_	AdpType=Prep	18	case	_	lemma_gml=vȫr
+17	myn	myn	DET	_	Case=Acc|Poss=Yes|PronType=Prs	18	det	_	lemma_gml=mîn
+18	vrouwe	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	nmod	_	lemma_gml=vrouwe
+19	en	un	CCONJ	_	_	20	cc	_	lemma_gml=ende
+20	kinders	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	18	conj	_	lemma_gml=kint
+21	ampart	ampart	ADJ	_	Degree=Pos	23	xcomp	_	lemma_gml=ampart
+22	te	to	PART	_	PartType=Inf	23	mark	_	lemma_gml=tô
+23	leggen	leggen	VERB	_	VerbForm=Inf	11	conj	_	lemma_gml=leggen|SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	_
+
