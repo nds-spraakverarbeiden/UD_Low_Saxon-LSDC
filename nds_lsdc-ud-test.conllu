@@ -9729,7 +9729,7 @@
 10	neet	nich	PART	_	PartType=Neg	8	conj	_	lemma_gml=nicht
 11	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=êin,êine,êin
 12	penalty	penalty	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	ccomp	_	lemma_gml=pênâltie
-13	mus	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	lemma_gml=mö̂ten
-14	wean	weasen	AUX	_	VerbForm=Inf	12	aux	_	lemma_gml=wēsen|SpaceAfter=No
+13	mus	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=mö̂ten
+14	wean	weasen	AUX	_	VerbForm=Inf	12	cop	_	lemma_gml=wēsen|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
 
