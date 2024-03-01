@@ -9613,3 +9613,13 @@
 14	kwartyn	kwartken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	lemma_gml=quârteken|SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	_
 
+# sent_id = LSDC_354_NWF_20XX_DRE_drentsk_Een_ongeliek_gevecht
+# text_orig = ﻿Ik wies naor mien kop.
+# text = Ik wyse når myn kop.
+1	﻿Ik	﻿ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	wyse	wysen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=wîsen
+3	når	nå	ADP	_	AdpType=Prep	5	case	_	lemma_gml=nâ
+4	myn	myn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	lemma_gml=mîn
+5	kop	kop	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=kop|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
