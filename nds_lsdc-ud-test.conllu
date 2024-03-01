@@ -9733,3 +9733,38 @@
 14	wean	weasen	AUX	_	VerbForm=Inf	12	cop	_	lemma_gml=wēsen|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_360_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = Mennig kamezoal, boks en wammes van de goeje luuj heb ik bekant stik verknipt en versniien, daor 'k zat, en miin heufd oaver oe tornde en pluusde.
+# text = Männig kamisool, buks en wammes van de gode lüde heb ik bekant stik vorknipped an vorsneaden, dår ik sat, en myn höyvd oaver u tornde en plüüsde.
+1	Månnig	männig	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma_gml=mannich
+2	kamisool	kamisool	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	lemma_gml=camisôle|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	buks	bükse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	lemma_gml=bükse
+5	en	un	CCONJ	_	_	6	cc	_	lemma_gml=ende
+6	wammes	wammes	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	lemma_gml=wambois
+7	van	van	ADP	_	AdpType=Prep	10	case	_	lemma_gml=van
+8	de	de	DET	_	Case=Acc.Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+9	gode	good	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	10	amod	_	lemma_gml=gôt
+10	lüde	lüde	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	2	nmod	_	lemma_gml=lü̂de
+11	heb	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	15	aux	_	lemma_gml=hebben
+12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma_gml=ik
+13	bekant	bykant	ADV	_	_	15	advmod	_	lemma_gml=bĩkant
+14	stik	stik	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=sticke
+15	vorknipped	verknippen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorknippen
+16	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
+17	vorsneaden	vorsnyden	VERB	_	Tense=Past|VerbForm=Part	15	conj	_	lemma_gml=vorsnîden|SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	dår	dår	SCONJ	_	_	21	mark	_	lemma_gml=dâr
+20	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	lemma_gml=ik
+21	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	15	advcl	_	lemma_gml=sitten|SpaceAfter=No
+22	,	,	PUNCT	_	_	28	punct	_	_
+23	en	un	CCONJ	_	_	28	cc	_	lemma_gml=ende
+24	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	25	det	_	lemma_gml=mîn
+25	höyvd	höyvd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	28	obj	_	lemma_gml=hö̂vet
+26	oaver	öäver	ADP	_	AdpType=Prep	27	case	_	lemma_gml=ȫver
+27	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	28	obl	_	lemma_gml=gî
+28	tornde	töörnen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	21	conj	_	lemma_gml=tȫrnen
+29	en	un	CCONJ	_	_	30	cc	_	lemma_gml=ende
+30	plüüsde	plusen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	28	conj	_	lemma_gml=plûsen|SpaceAfter=No
+31	.	.	PUNCT	_	_	15	punct	_	_
+
