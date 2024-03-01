@@ -9555,7 +9555,7 @@
 # text = See hevt souwat twey månd vorstek gån låten en as ik up en åvend in de eyrste skoolweake nåst höär komme te fytsen, stelle ik de glupends originele vråge: “Heb jy en gode vakanty had?”
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
 2	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma_gml=hebben
-3	souwat	souwat	ADV	_	Gender=Neut|PronType=Ind	4	advmod	_	lemma_gml=sôwatte
+3	souwat	souwat	ADV	_	_	4	advmod	_	lemma_gml=sôwatte
 4	twey	twey	NUM	_	NumType=Card	5	nummod	_	lemma_gml=twêne
 5	månd	månd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=mânt
 6	vorstek	vorstek	ADJ	_	Degree=Pos	7	xcomp	_	lemma_gml=vorstecke
