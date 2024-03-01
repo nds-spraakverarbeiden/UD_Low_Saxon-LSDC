@@ -9645,7 +9645,7 @@
 # sent_id = LSDC_356_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text = Toe ried meneer mie an, gien drank meer te drinken, mâer het geld veur mien vrouwe en kinders ampart te leggen.
 # text = To reed meneyr my an, gyn drank meyr te drinken, mår et geld vöär myn vrouwe en kinders ampart te leggen.
-1	To	do	ADV	_	AdpType=Prep	2	advmod	_	lemma_gml=dô
+1	To	do	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	reed	råden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=râden
 3	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=mînhêre
 4	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik
