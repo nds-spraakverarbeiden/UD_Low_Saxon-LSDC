@@ -9714,3 +9714,22 @@
 9	up	up	ADP	_	_	4	compound:prt	_	lemma_gml=uppe|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_359_NWF_20XX_ACH_achterhooksk_kleine-voetballertjes
+# text_orig = Gin mense kan nog zeggen of ’t wel of neet ’n penalty mos waen.
+# text = Gyn menske kan noch seggen of et wel of neet en penalty mus wean.
+1	Gyn	geyn	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=gêin
+2	menske	minske	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma_gml=minsche
+3	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma_gml=künnen
+4	noch	noch	ADV	_	_	5	advmod	_	lemma_gml=noch
+5	seggen	seggen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=seggen
+6	of	of	SCONJ	_	_	12	mark	_	lemma_gml=of
+7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	lemma_gml=hê,sê,et
+8	wel	wol	ADV	_	_	12	advmod	_	lemma_gml=wol
+9	of	of	CCONJ	_	_	10	cc	_	lemma_gml=eft
+10	neet	nich	PART	_	PartType=Neg	8	conj	_	lemma_gml=nicht
+11	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=êin,êine,êin
+12	penalty	penalty	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	ccomp	_	lemma_gml=pênâltie
+13	mus	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	lemma_gml=mö̂ten
+14	wean	weasen	AUX	_	VerbForm=Inf	12	aux	_	lemma_gml=wēsen|SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
+
