@@ -9638,7 +9638,7 @@
 10	üm	üm	SCONJ	_	_	13	mark	_	lemma_gml=ümme
 11	sich	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	nsubj	_	lemma_gml=sik
 12	te	to	PART	_	PartType=Inf	13	mark	_	lemma_gml=tô
-13	untploien	entploien	VERB	_	VerbForm=Inf	7	acl	_	lemma_gml=entployen
+13	untploien	entploien	VERB	_	VerbForm=Inf	7	acl	_	lemma_gml=entployen|SpaceAfter=No
 14	………	………	PUNCT	_	_	4	punct	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
