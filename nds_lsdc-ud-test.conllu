@@ -9736,7 +9736,7 @@
 # sent_id = LSDC_360_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Mennig kamezoal, boks en wammes van de goeje luuj heb ik bekant stik verknipt en versniien, daor 'k zat, en miin heufd oaver oe tornde en pluusde.
 # text = Männig kamisool, buks en wammes van de gode lüde heb ik bekant stik vorknipped an vorsneaden, dår ik sat, en myn höyvd oaver u tornde en plüüsde.
-1	Månnig	männig	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma_gml=mannich
+1	Männig	männig	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma_gml=mannich
 2	kamisool	kamisool	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	lemma_gml=camisôle|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	buks	bükse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	lemma_gml=bükse
