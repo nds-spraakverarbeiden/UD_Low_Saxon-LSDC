@@ -9743,7 +9743,7 @@
 5	en	un	CCONJ	_	_	6	cc	_	lemma_gml=ende
 6	wammes	wammes	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	lemma_gml=wambois
 7	van	van	ADP	_	AdpType=Prep	10	case	_	lemma_gml=van
-8	de	de	DET	_	Case=Acc.Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+8	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 9	gode	good	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	10	amod	_	lemma_gml=gôt
 10	lüde	lüde	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	2	nmod	_	lemma_gml=lü̂de
 11	heb	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	15	aux	_	lemma_gml=hebben
