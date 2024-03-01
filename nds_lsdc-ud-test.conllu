@@ -9670,3 +9670,33 @@
 23	leggen	leggen	VERB	_	VerbForm=Inf	11	conj	_	lemma_gml=leggen|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_357_NWF_20XX_ACH_achterhooksk_sprookjen
+# text_orig = Ze zae dat ze Elsa heetten en vanaf den dag kwam ze elken aovend effen bi-j het weideken umme het peerd wat to te stoppen.
+# text = See sea dat see Elsa heyten en vanaf den dag kwam see elken åvend evven by et weideken ümme et peard wat to te stoppen.
+1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+3	dat	dat	SCONJ	_	_	6	mark	_	lemma_gml=dat
+4	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=sê
+5	Elsa	Elsa	PROPN	_	Number=Sing	6	xcomp	_	lemma_gml=elsa
+6	heyten	heyten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	ccomp	_	lemma_gml=hêiten
+7	en	un	CCONJ	_	_	11	cc	_	lemma_gml=ende
+8	vanaf	vanaf	ADP	_	_	10	case	_	lemma_gml=vanaf
+9	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	dag	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=dach
+11	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=kōmen
+12	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	lemma_gml=sê
+13	elken	elk	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	lemma_gml=elk
+14	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=âvent
+15	evven	eaven	ADV	_	_	11	advmod	_	lemma_gml=ēvene
+16	by	by	ADP	_	AdpType=Prep	18	case	_	lemma_gml=bî
+17	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	lemma_gml=et
+18	weideken	weidken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	lemma_gml=weydeken
+19	ümme	üm	SCONJ	_	_	25	mark	_	lemma_gml=ümme
+20	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	21	det	_	lemma_gml=et
+21	peard	peard	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	25	iobj	_	lemma_gml=pērt
+22	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	25	obj	_	lemma_gml=watte
+23	to	to	ADP	_	_	25	compound:prt	_	lemma_gml=tô
+24	te	to	PART	_	PartType=Inf	25	mark	_	lemma_gml=tô
+25	stoppen	stoppen	VERB	_	VerbForm=Inf	11	advcl	_	lemma_gml=stoppen|SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	_
+
