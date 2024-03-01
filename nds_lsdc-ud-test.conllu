@@ -9700,3 +9700,17 @@
 25	stoppen	stoppen	VERB	_	VerbForm=Inf	11	advcl	_	lemma_gml=stoppen|SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_358_NWF_201X_TWE_twentsk_doewen
+# text_orig = Van minne kaante leawerden det vuural mooie plaatjes op.
+# text = Van minne kante leaverden det vöäral mooie plaatjes up.
+1	Van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
+2	minne	myn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	lemma_gml=mîn
+3	kante	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	4	obl	_	lemma_gml=kant
+4	leaverden	leaveren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lēveren
+5	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	nsubj	_	lemma_gml=dê,dê,dat
+6	vöäral	vöäral	ADV	_	_	4	advmod	_	lemma_gml=vȫral
+7	mooie	mooi	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	8	amod	_	lemma_gml=mö̂ye
+8	plaatjes	plaatken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	lemma_gml=plāteken
+9	up	up	ADP	_	_	4	compound:prt	_	lemma_gml=uppe|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
