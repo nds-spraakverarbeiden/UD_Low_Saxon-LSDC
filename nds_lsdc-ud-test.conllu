@@ -9499,3 +9499,53 @@
 23	teagenkommet	geagenkoamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	advcl	_	lemma_gml=tēgenkōmen|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_351_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = De heele wäke, van 's maondags tot zaoterdags, zit ik jummers stik staovast van 's märgens tot 's aovens bii baos Nol op 'e taofel: en veur miin jannever-centen laot de wäärd ūūt de Golden Ploege gin neie schuur bii 't huus zetten.
+# text = De heyle weake, van des måndags tot såterdags, sitte ik jümmers stik ståvast van des märgens tot des åvends by baas Nol up de tåfel: en vöär myn jenevercenten låt de waerd üüt de Golden Ploege gyn neye sküür by et hüüs setten.
+1	De	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+2	heyle	heyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	lemma_gml=hêil
+3	weake	weake	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	nsubj	_	lemma_gml=wēkene|SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
+6	des	de	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	måndags	måndag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	lemma_gml=mândach
+8	tot	tot	ADP	_	AdpType=Prep	9	case	_	lemma_gml=tôte
+9	såterdags	såterdag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	lemma_gml=sāterstdach|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	sitte	sitten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=sitten
+12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
+13	jümmers	jümmers	ADV	_	_	11	advmod	_	lemma_gml=iemmer
+14	stik	stik	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=stik
+15	ståvast	ståvast	ADJ	_	Degree=Pos	11	amod	_	lemma_gml=stâvast
+16	van	van	ADP	_	AdpType=Prep	18	case	_	lemma_gml=van
+17	des	de	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+18	märgens	morgen	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=morgen
+19	tot	tot	ADP	_	AdpType=Prep	21	case	_	lemma_gml=tôte
+20	des	de	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
+21	åvends	åvend	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=âvent
+22	by	by	ADP	_	AdpType=Prep	23	case	_	lemma_gml=bî
+23	baas	baas	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=bās
+24	Nol	Nol	PROPN	_	Number=Sing	23	flat	_	lemma_gml=nol
+25	up	up	ADP	_	AdpType=Prep	27	case	_	lemma_gml=uppe
+26	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
+27	tåfel	tåfel	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	11	obl	_	lemma_gml=tāfele|SpaceAfter=No
+28	:	:	PUNCT	_	_	33	punct	_	_
+29	en	un	CCONJ	_	_	33	cc	_	lemma_gml=ende
+30	vöär	vöär	ADP	_	AdpType=Prep	32	case	_	lemma_gml=vȫr
+31	myn	myn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	32	det	_	lemma_gml=mîn
+32	jenevercenten	jenevercent	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	33	obl	_	lemma_gml=jenēvercent
+33	låt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	conj	_	lemma_gml=lâten
+34	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	lemma_gml=dê,dê,dat
+35	waerd	waerd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	lemma_gml=wērt
+36	üüt	uut	ADP	_	AdpType=Prep	39	case	_	lemma_gml=in
+37	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	39	det	_	lemma_gml=dê,dê,dat
+38	Golden	Golden	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem,Masc|Number=Sing	39	amod	_	lemma_gml=gülden
+39	Ploege	Ploege	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	35	nmod	_	lemma_gml=plôge
+40	gyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	42	det	_	lemma_gml=gêin
+41	neye	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	lemma_gml=nîe
+42	sküür	skuur	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	33	obj	_	lemma_gml=schü̂r
+43	by	by	ADP	_	AdpType=Prep	45	case	_	lemma_gml=bî
+44	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	45	det	_	lemma_gml=dê,dê,dat
+45	hüüs	huus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	46	obl	_	lemma_gml=hûs
+46	setten	setten	VERB	_	VerbForm=Inf	33	xcomp	_	lemma_gml=setten|SpaceAfter=No
+47	.	.	PUNCT	_	_	11	punct	_	_
