@@ -9483,7 +9483,7 @@
 7	beperkt	beperken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=beperken
 8	sich	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	7	obj	_	lemma_gml=sik
 9	töt	tot	ADP	_	_	16	case	_	lemma_gml=tôte
-10	af	af	ADP	_	_	16	advmod	_	lemma_gml=af
+10	af	af	ADP	_	_	16	obl	_	lemma_gml=af
 11	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
 12	to	to	ADP	_	_	10	case	_	lemma_gml=tô
 13	‘	‘	PUNCT	_	_	14	punct	_	SpaceAfter=No
