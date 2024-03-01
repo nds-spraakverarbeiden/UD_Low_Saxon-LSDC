@@ -9550,3 +9550,47 @@
 46	setten	setten	VERB	_	VerbForm=Inf	33	xcomp	_	lemma_gml=setten|SpaceAfter=No
 47	.	.	PUNCT	_	_	11	punct	_	_
 
+# sent_id = LSDC_352_NWF_20XX_DRE_drentsk_Daphne
+# text_orig = Zie hef zowat twei maond verstek gaon laoten en a’k op een aovend in de eerste schoelweek naost heur kom te fietsen, stel ik de gloepends originele vraog: “Hej een goeie vekaansie had?”
+# text = See hevt souwat twey månd vorstek gån låten en as ik up en åvend in de eyrste skoolweake nåst höär komme te fytsen, stelle ik de glupends originele vråge: “Heb jy en gode vakanty had?”
+1	Seee	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
+2	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma_gml=hebben
+3	souwat	souwat	PRON	_	Gender=Neut|PronType=Ind	4	advmod	_	lemma_gml=sôwatte
+4	twey	twey	NUM	_	NumType=Card	5	nummod	_	lemma_gml=twêne
+5	månd	månd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=mânt
+6	vorstek	vorstek	ADJ	_	Degree=Pos	7	xcomp	_	lemma_gml=vorstecke
+7	gån	gån	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=gân
+8	låten	låten	VERB	_	Tense=Past|VerbForm=Part	7	xcomp	_	lemma_gml=lâten
+9	en	un	CCONJ	_	_	25	cc	_	lemma_gml=ende
+10	as	as	SCONJ	_	_	21	mark	_	lemma_gml=alsô
+11	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	lemma_gml=ik
+12	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
+13	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=êin,êine,êin
+14	åvend	åvend	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=âvent
+15	in	in	ADP	_	AdpType=Prep	18	case	_	lemma_gml=in
+16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+17	eyrste	eyrste	ADJ	_	Case=Acc,Dat|Gender=Fem|Number=Sing|NumType=Ord	18	amod	_	lemma_gml=êrst
+18	skoolweake	skoolweake	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	lemma_gml=schôlewēkene
+19	nåst	nåst	ADP	_	AdpType=Prep	20	case	_	lemma_gml=nâ
+20	höär	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nmod	_	lemma_gml=hê,sê,et
+21	komme	koamen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	25	advcl	_	lemma_gml=kōmen
+22	te	to	PART	_	PartType=Inf	23	mark	_	lemma_gml=tô
+23	fytsen	fytsen	VERB	_	VerbForm=Inf	21	xcomp	_	lemma_gml=fîtsen|SpaceAfter=No
+24	,	,	PUNCT	_	_	21	punct	_	_
+25	stelle	stellen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	7	conj	_	lemma_gml=stellen
+26	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	lemma_gml=ik
+27	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	lemma_gml=dê,dê,dat
+28	glupends	glupendsk	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	29	advcl	_	lemma_gml=glûpendes
+29	originele	originel	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	30	amod	_	lemma_gml=orîginâl
+30	vråge	vråge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obj	_	lemma_gml=vrâge|SpaceAfter=No
+31	:	:	PUNCT	_	_	25	punct	_	_
+32	“	“	PUNCT	_	_	38	punct	_	SpaceAfter=No
+33	Heb	hebben	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	38	aux	_	lemma_gml=hebben
+34	jy	jy	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	38	nsubj	_	lemma_gml=gî
+35	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	lemma_gml=êin,êine,êin
+36	gode	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	37	amod	_	lemma_gml=gôt
+37	vakanty	vakanty	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	38	obj	_	lemma_gml=vacantie
+38	had	hebben	VERB	_	Tense=Past|VerbForm=Part	30	acl	_	lemma_gml=hebben|SpaceAfter=No
+39	?	?	PUNCT	_	_	38	punct	_	SpaceAfter=No
+40	”	”	PUNCT	_	_	38	punct	_	_
+
