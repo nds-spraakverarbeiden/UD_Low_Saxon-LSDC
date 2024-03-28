@@ -9974,7 +9974,7 @@
 33	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	obj	_	lemma_gml=hê,sê,et
 34	te	to	ADP	_	AdpType=Prep	37	case	_	lemma_gml=tô
 35	'n	et	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
-36	minste	min	ADJ	_	Case=Dat|Degree=Sub|Gender=Neut|Number=Sing	37	amod	_	lemma_gml=weinich
+36	minste	min	ADJ	_	Case=Dat|Degree=Sup|Gender=Neut|Number=Sing	37	amod	_	lemma_gml=weinich
 37	koffy	koffy	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	lemma_gml=koffî|SpaceAfter=No
 38	,	,	PUNCT	_	_	41	punct	_	_
 39	mår	mår	CCONJ	_	_	41	cc	_	lemma_gml=mêr
