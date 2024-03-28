@@ -10956,3 +10956,25 @@
 7	jenne	jenne	PRON	_	Case=Acc|Number=Plur|PronType=Dem	4	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_1000_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
+# text_orig = Dat measchte hukkt he däm Lehra op ’m Ledda, de sökk ganich to loate wußt.
+# text = Dat meyrste hukt hee dem leyrer up dem ledder, dee sik gaar nich to låte wust.
+1	Dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
+2	meyrste	veale	ADJ	_	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	3	obl	_	_
+3	hukt	hukken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	3	nsubj	_	_
+5	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	leyrer	leyrer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obj	_	_
+7	up	up	ADP	_	AdpType=Prep	9	case	_	_
+8	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	ledder	ledder	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	17	punct	_	_
+11	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	_
+12	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	expl:pv	_	_
+13	gaar	gaar	ADV	_	_	14	advmod	_	_
+14	nich	nich	PART	_	PartType=Neg	17	advmod	_	_
+15	to	to	PART	_	PartType=Inf	16	mark	_	_
+16	låte	låten	VERB	_	VerbForm=Inf	17	xcomp	_	_
+17	wust	weaten	VERB	_	Mood=Inf|Number=Sing|Person=3|Tense=Pres	6	acl:relcl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	3	punct	_	_
+
