@@ -10128,3 +10128,19 @@
 6	see	see	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
 7	!	!	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_0380_NWF_20XX_drentsk_Daphne
+# text_orig = Met een verbeten gezicht holdt het kleine wicht het stuur vast.
+# text = Med en vorbeaten gesicht holdt et kleine wicht et stüür vast.
+1	Med	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
+2	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
+3	vorbeaten	vorbeaten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Inf	4	amod	_	lemma_gml=vorbēten
+4	gesicht	gesichte	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	5	obl	_	lemma_gml=gesichte
+5	holdt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
+6	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma_gml=et
+7	kleine	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	lemma_gml=klêin
+8	wicht	wicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=wicht
+9	et	het	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=et
+10	stüür	stüür	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	lemma_gml=stü̂re
+11	vast	vast	ADJ	_	Degree=Pos	5	compound:prt	_	lemma_gml=vast|SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
