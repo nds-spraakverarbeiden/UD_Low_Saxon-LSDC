@@ -10327,3 +10327,30 @@
 11	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
 12	“	“	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_0975_NPR_1893_EYL_de-mella-polz
+# text_orig = Se säde: „Scheen Dank, sied wöllkomm’, goat wieda on sett ju e Schtung verentwintig, Mella Pölz!“
+# text = See seade: „Sköyn dank, syt wilkoamen, gåt wyder un settet ju e stund veeruntwintig, möller Pölz!“
+1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	seade	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	„	„	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	Sköyn	sköyn	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	dank	dank	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	syt	weasen	AUX	_	Mood=Imp|Number=Sing|Polite=Form	9	cop	_	_
+9	wilkoamen	wilkoamen	ADJ	_	Degree=Pos	6	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	gåt	gån	VERB	_	Mood=Imp|Number=Sing|Polite=Form	6	conj	_	_
+12	wyder	wyd	ADJ	_	Degree=Comp	11	advmod	_	_
+13	un	un	CCONJ	_	_	14	cc	_	_
+14	settet	setten	VERB	_	Mood=Imp|Number=Sing|Polite=Form	6	conj	_	_
+15	ju	jy	PRON	_	Case=Acc|Number=Sing|Person=2|Polite=Form	14	expl:pv	_	_
+16	e	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	stund	stund	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	_
+18	veeruntwintig	veeruntwintig	NUM	_	NumType=Card	17	nummod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	14	punct	_	_
+20	möller	möller	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	_
+21	Pölz	Pölz	PROPN	_	Number=Sing	20	flat	_	SpaceAfter=No
+22	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
+23	“	“	PUNCT	_	_	6	punct	_	_
+
