@@ -10451,6 +10451,6 @@
 15	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	andere	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	17	obj	_	_
 17	tersteake	tersteaken	VERB	_	VerbForm=Inf	10	advcl	_	_
-18	wil	willen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	SpaceAfter=No
+18	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	_
 
