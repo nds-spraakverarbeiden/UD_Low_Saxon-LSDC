@@ -10084,7 +10084,7 @@
 
 # sent_id = LSDC_0377_NWF_2019_OVY_oaverysselsk_zalluk
 # text_orig = Det wete ik niet zo pesies.
-# text = Dat weyte ik neet sou percise.
+# text = Det weyte ik neet sou percise.
 1	Det	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	obj	_	lemma_gml=dê,dê,dat
 2	weyte	weaten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=wēten
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
