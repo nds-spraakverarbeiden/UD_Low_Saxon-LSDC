@@ -10004,7 +10004,7 @@
 # sent_id = LSDC_0372_NWF_20XX_DRE_drentsk_Zute_wraak
 # text_orig = Zowat tegen het linker veurrad van de rollator ontploft het stukkie vuurwark.
 # text = Souwat teagen et linker vöärrad van de rollator untploft et stükky vüürwark.
-1	Souwat	souwat	ADV	_	Gender=Neut|Number=Sing|PronType=Ind	2	advmod	_	lemma_gml=sôwatte
+1	Souwat	souwat	ADV	_	_	2	advmod	_	lemma_gml=sôwatte
 2	teagen	geagen	ADP	_	AdpType=Prep	5	case	_	lemma_gml=tēgen
 3	et	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=et
 4	linker	link	ADJ	_	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=link
