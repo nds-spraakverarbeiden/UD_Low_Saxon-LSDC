@@ -10695,3 +10695,32 @@
 17	in	in	ADP	_	_	14	compound:prt	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_0990_NPR_1893_EYL_ok-de-koch-von-thierbach-mott-schtarwe
+# text_orig = He woakt oawasch nich mea op, denn öm Schloap ös de „Dot von Schmauch“ gekoame on hewt sine Seel gehoalt.
+# text = Hee waakt avers nich meyr up, dän in dem slåp is de „doud van Schmauch“ gekoame un hevt syne seale gehaald.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	_
+2	waakt	waken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	avers	aver	ADV	_	_	2	advmod	_	_
+4	nich	nich	PART	_	PartType=Neg	2	advmod	_	_
+5	meyr	veale	ADV	_	Degree=Cmp	2	advmod	_	_
+6	up	up	ADP	_	_	2	compound:prt	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	dän	dän	CCONJ	_	_	19	cc	_	_
+9	in	in	ADP	_	AdpType=Prep	11	case	_	_
+10	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	slåp	slåp	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+12	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	_
+13	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+14	„	„	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+16	van	van	ADP	_	AdpType=Prep	17	case	_	_
+17	Schmauch	Schmauch	PROPN	_	Number=Sing	15	nmod	_	SpaceAfter=No
+18	“	“	PUNCT	_	_	15	punct	_	_
+19	gekoame	koamen	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+20	un	un	CCONJ	_	_	24	cc	_	_
+21	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	aux	_	_
+22	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	23	det	_	_
+23	seale	seale	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+24	gehaald	halen	VERB	_	Tense=Past|VerbForm=Part	19	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
