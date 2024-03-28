@@ -10813,3 +10813,27 @@
 25	to	to	ADP	_	_	20	compound:prt	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	20	punct	_	_
 
+# sent_id = LSDC_0994_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
+# text_orig = De Fönsta on Däare weare alla oape, on de junge Lied dansde, dat et zöttad on dränt.
+# text = De vinster un döäre were alle oape, un de junge lüde dansde, dat et zitterd un dröänd.
+1	De	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+2	vinster	vinster	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+3	un	un	CCONJ	_	_	4	cc	_	_
+4	döäre	döäre	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	_
+5	were	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	cop	_	_
+6	alle	al	PRON	_	PronType=Tot	2	nmod	_	_
+7	oape	oapen	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	un	un	CCONJ	_	_	13	cc	_	_
+10	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	12	det	_	_
+11	junge	jung	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	_
+12	lüde	lüde	NOUN	_	Case=Nom|Number=Plur	13	nsubj	_	_
+13	dansde	dansen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	dat	dat	SCONJ	_	_	17	mark	_	_
+16	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
+17	zitterd	zitteren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	advcl	_	_
+18	un	un	CCONJ	_	_	19	cc	_	_
+19	dröänd	dröänen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	7	punct	_	_
+
