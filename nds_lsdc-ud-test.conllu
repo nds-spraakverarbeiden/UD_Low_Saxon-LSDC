@@ -10944,3 +10944,15 @@
 24	meadrunk	middrinken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	conj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	5	punct	_	_
 
+# sent_id = LSDC_0999_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
+# text_orig = He schtead bol disse, bol jenne.
+# text = Hee stöyrd bolde disse, bolde jenne.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	_
+2	stöyrd	stöyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	bolde	bolde	CCONJ	_	_	4	cc	_	_
+4	disse	disse	PRON	_	Case=Acc|Number=Plur|PronType=Dem	2	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	bolde	bolde	CCONJ	_	_	7	cc	_	_
+7	jenne	jenne	PRON	_	Case=Acc|Number=Plur|PronType=Dem	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
