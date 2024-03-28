@@ -9806,3 +9806,22 @@
 16	kort	kort	ADJ	_	Degree=Pos	1	parataxis	_	lemma_gml=kort|SpaceAfter=No
 17	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_0363_20XX_NWF_DRE_drentsk_Daphne
+# text_orig = Ik heb de auto bij hoes en kan Daphne wal even weerum brengen.”
+# text = Ik heb de auto by huus en kan Daphne wal eaven wearüm brengen.”
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+2	heb	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
+3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
+4	auto	auto	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=autô
+5	by	by	ADP	_	AdpType=Prep	6	case	_	lemma_gml=bî
+6	huus	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=hûs
+7	en	un	CCONJ	_	_	13	cc	_	lemma_gml=ende
+8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	aux	_	lemma_gml=künnen
+9	Daphne	Daphne	PROPN	_	Number=Sing	13	obj	_	lemma_gml=daphne
+10	wal	wol	ADV	_	_	13	advmod	_	lemma_gml=wol
+11	eaven	eaven	ADV	_	_	13	advmod	_	lemma_gml=ēvene
+12	wearüm	wedderüm	ADV	_	_	13	compound:prt	_	lemma_gml=wedderümme
+13	brengen	bringen	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=bringen|SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+15	”	”	PUNCT	_	_	2	punct	_	_
+
