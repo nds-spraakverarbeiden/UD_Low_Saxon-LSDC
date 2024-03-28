@@ -9905,3 +9905,17 @@
 11	Annegien	Annegien	PROPN	_	Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
 
+# sent_id = LSDC_0368_NWF_2019_OVY_oaverysselsk_begraffenisse
+# text_orig = Gistermörn lag ie zo maar dood in zien ok.
+# text = Gistermörgen lag hee sou mår doud in syn hokke.
+1	Gistermörgen	gisterenmorgen	ADV	_	_	2	advmod	_	lemma_gml=gistermorgen
+2	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=liggen
+3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
+5	mår	mår	ADV	_	_	2	advmod	_	lemma_gml=mêr
+6	doud	doud	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=dôt
+7	in	in	ADP	_	AdpType=Prep	9	case	_	lemma_gml=in
+8	syn	syn	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
+9	hokke	hokke	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=hocke|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
