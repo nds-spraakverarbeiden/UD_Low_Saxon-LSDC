@@ -9841,6 +9841,6 @@
 11	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=dach
 12	döär	döär	ADP	_	AdpType=Prep	14	case	_	lemma_gml=dȫr
 13	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
-14	andere	ander	PRON	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	lemma_gml=ander|SpaceAfter=No
+14	andere	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	lemma_gml=ander|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	_
 
