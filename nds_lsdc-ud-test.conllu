@@ -10368,7 +10368,7 @@
 
 # sent_id = LSDC_0977_NPR_1893_EYL_de-mella-polz
 # text_orig = Wie et nu Oawend wea, doa warre de grote Frind mött däm Mella Pölz goane dat Theoataschpöll beseeke.
-# text = Wo et nu åvend weer, do warde de grote vründ mid dem möller Pölz gåne dat teåterspil besöke.
+# text = Wo et nu åvend weer, do warde de groute vründ mid dem möller Pölz gåne dat teåterspil besöke.
 1	Wo	wo	SCONJ	_	_	4	mark	_	_
 2	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 3	nu	nu	ADV	_	_	4	advmod	_	_
