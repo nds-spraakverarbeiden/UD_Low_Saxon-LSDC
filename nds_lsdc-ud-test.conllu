@@ -10133,7 +10133,7 @@
 # text = Med en vorbeaten gesicht holdt et kleine wicht et stüür vast.
 1	Med	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
 2	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
-3	vorbeaten	vorbeaten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Inf	4	amod	_	lemma_gml=vorbēten
+3	vorbeaten	vorbeaten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	4	amod	_	lemma_gml=vorbēten
 4	gesicht	gesichte	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	5	obl	_	lemma_gml=gesichte
 5	holdt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
 6	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma_gml=et
