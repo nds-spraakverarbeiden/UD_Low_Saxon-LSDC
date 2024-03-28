@@ -10201,7 +10201,7 @@
 13	eynmål	eynmål	ADV	_	_	16	advmod	_	_
 14	nå	nå	ADP	_	AdpType=Prep	15	case	_	_
 15	Kensbarg	Kensbarg	PROPN	_	Number=Sing	16	obl	_	_
-16	ryde	ryden	VERB	_	VerbForm=Inf	_	_	_	SpaceAfter=No
+16	ryde	ryden	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
 18	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	_
 19	groute	grout	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	_
