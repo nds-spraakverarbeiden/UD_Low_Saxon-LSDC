@@ -9825,3 +9825,22 @@
 14	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 15	”	”	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0364_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Now, veur hoe veulle jenever drinkie d'iene dag deur d'andere.
+# text = Now, vöär ho völle jenever drink y de eyne dag döär de andere.
+1	Now	nu	INTJ	_	_	7	discourse	_	lemma_gml=nû|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	vöär	vöär	ADP	_	AdpType=Prep	6	case	_	lemma_gml=vȫr
+4	ho	wo	ADV	_	_	5	advmod	_	lemma_gml=wô
+5	völle	veale	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=vēle
+6	jenever	jenever	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=jenēver
+7	drink	drinken	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=drinken
+8	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	7	nsubj	_	lemma_gml=gî
+9	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
+10	eyne	eyn	NUM	_	Case=Acc|Gender=Masc|NumType=Card|PronType=Ind	11	nummod	_	lemma_gml=êin,êine,êin
+11	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=dach
+12	döär	döär	ADP	_	AdpType=Prep	14	case	_	lemma_gml=dȫr
+13	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+14	andere	ander	PRON	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	lemma_gml=ander|SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
