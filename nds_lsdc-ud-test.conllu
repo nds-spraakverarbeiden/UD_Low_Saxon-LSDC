@@ -10720,7 +10720,7 @@
 20	un	un	CCONJ	_	_	24	cc	_	_
 21	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	aux	_	_
 22	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	23	det	_	_
-23	seale	seale	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+23	seale	seale	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	_
 24	gehaald	halen	VERB	_	Tense=Past|VerbForm=Part	19	conj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
 
