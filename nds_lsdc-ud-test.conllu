@@ -9893,7 +9893,7 @@
 # text_orig = En misschien hakket nog niet kloar uspeuld zonder mien Annegien.
 # text = En misskeen had ik et noch neet klårespöäld sunder myn Annegien.
 1	En	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
-2	miskeen	misskeen	ADV	_	_	8	advmod	_	lemma_gml=machschên
+2	misskeen	misskeen	ADV	_	_	8	advmod	_	lemma_gml=machschên
 3	had	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	8	aux	_	lemma_gml=hebben
 4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
 5	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	lemma_gml=hê,sê,et
@@ -9922,7 +9922,7 @@
 # sent_id = LSDC_0369_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Meinde mit um te zullen äten uut de kurf zonder zörge?
 # text = Meynd y mid üm te süllen eaten üüt de kürv sunder sörge?
-1	Meind	meynen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=mêinen
+1	Meynd	meynen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=mêinen
 2	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	1	nsubj	_	lemma_gml=gî
 3	mid	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
 4	üm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	lemma_gml=hê,sê,et
