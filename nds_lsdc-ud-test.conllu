@@ -10889,7 +10889,7 @@
 9	hougtyd	hougtyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	_
 10	oader	edder	CCONJ	_	_	11	cc	_	_
 11	kindelbeer	kindelbeer	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
-12	,	,	PUNCT	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	9	punct	_	_
 13	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
 14	in	in	ADP	_	AdpType=Prep	16	case	_	_
 15	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
