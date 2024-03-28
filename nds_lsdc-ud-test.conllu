@@ -9936,3 +9936,52 @@
 12	sörge	sorge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=sorge|SpaceAfter=No
 13	?	?	PUNCT	_	_	1	punct	_	_
 
+# sent_id = LSDC_0370_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Now, 'k wol da'k z'ook kreeg; mâer bie mie is 't de iene middag koffie met roggentönnis en d'andere middag tönnis met koffie, - zie neumen et ten minste koffie, mâer ik zegge 't is apennat.
+# text = Now, ik wul dat ik see ouk kreyg; mår by my is et de eyne middag koffy med roggentönnis en de andere middag tönnis med koffy, - see nömen et te 'n minste koffy, mår ik segge et is apennat.
+1	Now	nu	INTJ	_	_	4	discourse	_	lemma_gml=nû|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=ik
+4	wul	willen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=willen
+5	dat	dat	SCONJ	_	_	9	mark	_	lemma_gml=dat
+6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
+7	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	lemma_gml=sê
+8	ouk	ouk	ADJ	_	_	9	advmod	_	lemma_gml=ôk
+9	kreyg	krygen	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	4	ccomp	_	lemma_gml=krîgen|SpaceAfter=No
+10	;	;	PUNCT	_	_	19	punct	_	_
+11	mår	mår	CCONJ	_	_	19	cc	_	lemma_gml=mêr
+12	by	by	ADP	_	AdpType=Prep	13	case	_	lemma_gml=bî
+13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	19	obl	_	lemma_gml=ik
+14	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	lemma_gml=wēsen
+15	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	lemma_gml=hê,sê,et
+16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+17	eyne	eyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	lemma_gml=êin,êine,êin
+18	middag	middag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	nmod	_	lemma_gml=middach
+19	koffy	koffy	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	lemma_gml=koffî
+20	med	mid	ADP	_	AdpType=Prep	21	case	_	lemma_gml=mit
+21	roggentönnis	roggentönnis	NOUN	_	Case=Acc,Dat|Number=Sing	19	nmod	_	lemma_gml=roggentö̂nis
+22	en	un	CCONJ	_	_	26	cc	_	lemma_gml=ende
+23	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	lemma_gml=dê,dê,dat
+24	andere	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	25	amod	_	lemma_gml=ander
+25	middag	middag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obl	_	lemma_gml=middach
+26	tönnis	tönnis	NOUN	_	Case=Acc|Number=Sing	19	conj	_	lemma_gml=tö̂nis
+27	med	mid	ADP	_	AdpType=Prep	28	case	_	lemma_gml=mit
+28	koffy	koffy	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	26	nmod	_	lemma_gml=koffî|SpaceAfter=No
+29	,	,	PUNCT	_	_	32	punct	_	_
+30	-	-	PUNCT	_	_	32	punct	_	_
+31	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	lemma_gml=sê
+32	nömen	nömen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	19	parataxis	_	lemma_gml=nö̂men
+33	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	obj	_	lemma_gml=hê,sê,et
+34	te	to	ADP	_	AdpType=Prep	37	case	_	lemma_gml=tô
+35	'n	et	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
+36	minste	min	ADJ	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	37	amod	_	lemma_gml=weinich
+37	koffy	koffy	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	lemma_gml=koffî|SpaceAfter=No
+38	,	,	PUNCT	_	_	41	punct	_	_
+39	mår	mår	CCONJ	_	_	41	cc	_	lemma_gml=mêr
+40	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	41	nsubj	_	lemma_gml=ik
+41	segge	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	32	conj	_	lemma_gml=seggen
+42	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	lemma_gml=hê,sê,et
+43	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	cop	_	lemma_gml=wēsen
+44	apennat	apennat	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	41	ccomp	_	lemma_gml=āpennat|SpaceAfter=No
+45	.	.	PUNCT	_	_	4	punct	_	_
+
