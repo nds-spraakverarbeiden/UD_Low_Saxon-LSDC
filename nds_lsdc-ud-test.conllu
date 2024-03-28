@@ -10001,3 +10001,20 @@
 11	in	in	ADP	_	_	4	compound:prt	_	lemma_gml=in|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_0372_NWF_20XX_DRE_drentsk_Zute_wraak
+# text_orig = Zowat tegen het linker veurrad van de rollator ontploft het stukkie vuurwark.
+# text = Souwat teagen et linker vöärrad van de rollator untploft et stükky vüürwark.
+1	Souwat	souwat	ADV	_	Gender=Neut|Number=Sing|PronType=Ind	2	advmod	_	lemma_gml=sôwatte
+2	teagen	geagen	ADP	_	AdpType=Prep	5	case	_	lemma_gml=tēgen
+3	et	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=et
+4	linker	link	ADJ	_	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=link
+5	vöärrad	vöärrad	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	lemma_gml=vȫrrat
+6	van	van	ADP	_	AdpType=Prep	8	case	_	lemma_gml=van
+7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
+8	rollator	rollator	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	nmod	_	lemma_gml=rollator
+9	untploft	entpluffen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=entploffen
+10	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=et
+11	stükky	stükken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	lemma_gml=stückeken
+12	vüürwark	vüürwerk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nmod	_	lemma_gml=vü̂rwerk|SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	_	_
+
