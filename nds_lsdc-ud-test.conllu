@@ -10266,8 +10266,8 @@
 5	to	to	PART	_	PartType=Inf	6	mark	_	_
 6	skryge	skrygen	VERB	_	VerbForm=Inf	2	xcomp	_	SpaceAfter=No
 7	:	:	PUNCT	_	_	6	punct	_	_
-8	„	„	PUNCT	_	_	9	punct	_	_
-9	Holdet	holden	VERB	_	Mood=Imp|Number=Plur	6	ccomp	_	SpaceAfter=No
+8	„	„	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Holdet	holden	VERB	_	Mood=Imp|Number=Plur	6	ccomp	_	_
 10	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	möller	möller	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
 12	Pölz	Pölz	PROPN	_	Number=Sing	11	flat	_	_
