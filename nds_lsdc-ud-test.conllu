@@ -10716,7 +10716,7 @@
 16	van	van	ADP	_	AdpType=Prep	17	case	_	_
 17	Schmauch	Schmauch	PROPN	_	Number=Sing	15	nmod	_	SpaceAfter=No
 18	“	“	PUNCT	_	_	15	punct	_	_
-19	gekoame	koamen	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+19	gekoame	koamen	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	_
 20	un	un	CCONJ	_	_	24	cc	_	_
 21	hevt	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	aux	_	_
 22	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	23	det	_	_
