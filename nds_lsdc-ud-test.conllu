@@ -10709,7 +10709,7 @@
 9	in	in	ADP	_	AdpType=Prep	11	case	_	_
 10	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	slåp	slåp	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
-12	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	_
+12	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	aux	_	_
 13	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	„	„	PUNCT	_	_	15	punct	_	SpaceAfter=No
 15	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
