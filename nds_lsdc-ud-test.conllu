@@ -10018,3 +10018,22 @@
 12	vüürwark	vüürwerk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nmod	_	lemma_gml=vü̂rwerk|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	_
 
+# sent_id = LSDC_0373_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
+# text_orig = Ien de hörn van d' heerd zat Pijt Bobbelhoes mit zien dikke golden alloziekette.
+# text = Yn de höörn van de haerd sat Pijt Bobbelhoes mid syn dikke golden orlogykedde.
+1	Yn	in	ADP	_	AdpType=Prep	3	case	_	lemma_gml=in
+2	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	höörn	hoorn	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=hōrn
+4	van	van	ADP	_	AdpType=Prep	6	case	_	lemma_gml=van
+5	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+6	haerd	haerd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	3	nmod	_	lemma_gml=hērt
+7	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=sitten
+8	Pijt	Pijt	PROPN	_	Number=Sing	7	nsubj	_	lemma_gml=pijt
+9	Bobbelhoes	Bobbelhoes	PROPN	_	Number=Sing	8	flat	_	lemma_gml=bobbelhoes
+10	mid	mid	ADP	_	AdpType=Prep	14	case	_	lemma_gml=mit
+11	syn	syn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	lemma_gml=sîn,ēr,sîn
+12	dikke	dik	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	lemma_gml=dicke
+13	golden	golden	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	lemma_gml=gülden
+14	orlogykedde	orlogykeade	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=ôrlogiumkēde|SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
