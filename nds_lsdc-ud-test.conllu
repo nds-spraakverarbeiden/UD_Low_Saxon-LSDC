@@ -10489,3 +10489,19 @@
 30	.	.	PUNCT	_	_	14	punct	_	SpaceAfter=No
 31	”	”	PUNCT	_	_	14	punct	_	_
 
+# sent_id = LSDC_0982_NPR_1893_EYL_de-mella-polz
+# text_orig = On doa schmeete se dän Mella Pölz va de Däa.“
+# text = Un do smeyten see den möller Pölz vöär de döäre.“
+1	Un	un	CCONJ	_	_	3	cc	_	_
+2	do	do	ADV	_	_	3	advmod	_	_
+3	smeyten	smyten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+4	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	den	de	DET	_	Case=Acc|Definite=Def|Gender=Mask|Number=Sing|PronType=Art	6	det	_	_
+6	möller	möller	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+7	Pölz	Pölz	PROPN	_	Number=Sing	6	flat	_	_
+8	vöär	vöär	ADP	_	AdpType=Prep	10	case	_	_
+9	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	döäre	döäre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+12	“	“	PUNCT	_	_	3	punct	_	_
+
