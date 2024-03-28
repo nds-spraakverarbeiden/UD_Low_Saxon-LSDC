@@ -10609,7 +10609,7 @@
 17	dank	dank	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
 18	to	to	ADP	_	_	13	compound:prt	_	_
 19	un	un	CCONJ	_	_	21	cc	_	_
-20	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	_
+20	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	_
 21	vorswunde	vorswunden	ADJ	_	Degree=Pos	13	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
