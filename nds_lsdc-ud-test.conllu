@@ -10354,3 +10354,15 @@
 22	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
 23	“	“	PUNCT	_	_	6	punct	_	_
 
+# sent_id = LSDC_0976_NPR_1893_EYL_de-mella-polz
+# text_orig = Do se bukke em Pannkok on Schpörkel.
+# text = Do see bukke em pankoke un sperkel.
+1	Do	do	ADV	_	_	3	advmod	_	_
+2	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	bukke	bakken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	em	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+5	pankoke	pankoke	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
+6	un	un	CCONJ	_	_	7	cc	_	_
+7	sperkel	sperkel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
