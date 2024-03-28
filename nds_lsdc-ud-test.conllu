@@ -10341,7 +10341,7 @@
 9	wilkoamen	wilkoamen	ADJ	_	Degree=Pos	6	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	gåt	gån	VERB	_	Mood=Imp|Number=Sing|Polite=Form	6	conj	_	_
-12	wyder	wyd	ADJ	_	Degree=Comp	11	advmod	_	_
+12	wyder	wyd	ADJ	_	Degree=Cmp	11	advmod	_	_
 13	un	un	CCONJ	_	_	14	cc	_	_
 14	settet	setten	VERB	_	Mood=Imp|Number=Sing|Polite=Form	6	conj	_	_
 15	ju	jy	PRON	_	Case=Acc|Number=Sing|Person=2|Polite=Form	14	expl:pv	_	_
