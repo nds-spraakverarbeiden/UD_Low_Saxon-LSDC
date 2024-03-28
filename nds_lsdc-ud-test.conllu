@@ -10654,3 +10654,22 @@
 36	bedde	bedde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0988_NPR_1893_EYL_ok-de-koch-von-thierbach-mott-schtarwe
+# text_orig = An eenem Dach sit Koch: „De Dot kikt dörch dat Schlätelloach.“
+# text = An eynem dag süüt Koch: „De doud kikt döärch dat slöätellok.“
+1	An	an	ADP	_	AdpType=Prep	3	case	_	_
+2	eynem	eyn	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	dag	dag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
+4	süüt	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	Koch	Koch	PROPN	_	Number=Sing	4	nsubj	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	4	punct	_	_
+7	„	„	PUNCT	_	_	9	punct	_	SpaceAfter=No
+8	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+10	kikt	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	ccomp	_	_
+11	döärch	döär	ADP	_	AdpType=Prep	13	case	_	_
+12	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
+13	slöätellok	slöätellok	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+14	“	“	PUNCT	_	_	10	punct	_	_
+
