@@ -10948,7 +10948,7 @@
 # text_orig = He schtead bol disse, bol jenne.
 # text = Hee stöyrd bolde disse, bolde jenne.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	_
-2	stöyrd	stöyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	stöyrd	stöyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	bolde	bolde	CCONJ	_	_	4	cc	_	_
 4	disse	disse	PRON	_	Case=Acc|Number=Plur|PronType=Dem	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
