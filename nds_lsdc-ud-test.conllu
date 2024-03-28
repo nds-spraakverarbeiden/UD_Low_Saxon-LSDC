@@ -10724,3 +10724,15 @@
 24	gehaald	halen	VERB	_	Tense=Past|VerbForm=Part	19	conj	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0991_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
+# text_orig = Et wea ’ne grote Hoachtiet ön Zepalle.
+# text = Et weer ne groute hougtyd in Zepalle.
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+3	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+4	groute	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	hougtyd	hougtyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+6	in	in	ADP	_	AdpType=Prep	7	case	_	_
+7	Zepalle	Zepalle	PROPN	_	Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
