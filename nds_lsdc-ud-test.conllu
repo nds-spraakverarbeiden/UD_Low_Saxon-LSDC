@@ -10331,7 +10331,7 @@
 # text_orig = Se säde: „Scheen Dank, sied wöllkomm’, goat wieda on sett ju e Schtung verentwintig, Mella Pölz!“
 # text = See seade: „Sköyn dank, syt wilkoamen, gåt wyder un settet ju e stund veeruntwintig, möller Pölz!“
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	seade	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	SpaceAfter=No
+2	seade	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	_
 4	„	„	PUNCT	_	_	6	punct	_	SpaceAfter=No
 5	Sköyn	sköyn	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
