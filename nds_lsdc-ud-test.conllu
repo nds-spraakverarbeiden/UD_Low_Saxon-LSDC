@@ -10163,7 +10163,7 @@
 4	noch	noch	ADV	_	_	7	advmod	_	_
 5	by	by	ADP	_	AdpType=Prep	7	case	_	_
 6	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	möller	möller	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+7	möller	möller	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
 8	Pölz	Pölz	PROPN	_	Number=Sing	7	flat	_	_
 9	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	7	cop	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
