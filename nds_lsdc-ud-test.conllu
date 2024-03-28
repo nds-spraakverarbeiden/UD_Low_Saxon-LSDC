@@ -9785,3 +9785,24 @@
 12	slechter	slecht	ADJ	_	Degree=Cmp	11	advmod	_	lemma_gml=slechter|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0362_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Heur ies, Andries, mâekt er 6 wâeken van, un moand is zoo kort.
+# text = Höyr eyns, Andries, maket der 6 weaken van, en månd is sou kort.
+1	Höyr	höyren	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=hö̂ren
+2	eyns	eyns	ADV	_	_	1	advmod	_	lemma_gml=êines|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Andries	Andries	PROPN	_	Number=Sing	1	vocative	_	lemma_gml=andries|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	maket	maken	VERB	_	Mood=Imp|Number=Plur	1	parataxis	_	lemma_gml=māken
+7	der	dår	ADV	_	_	6	obl	_	lemma_gml=dâr
+8	6	ses	NUM	_	NumType=Card	9	nummod	_	lemma_gml=6
+9	weaken	weake	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	lemma_gml=wēkene
+10	van	van	ADP	_	_	7	mark	_	lemma_gml=van|SpaceAfter=No
+11	,	,	PUNCT	_	_	6	punct	_	_
+12	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
+13	månd	månd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	lemma_gml=mânt
+14	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	cop	_	lemma_gml=wēsen
+15	sou	sou	ADV	_	_	16	advmod	_	lemma_gml=sô
+16	kort	kort	ADJ	_	Degree=Pos	1	parataxis	_	lemma_gml=kort|SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
+
