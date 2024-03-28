@@ -10315,7 +10315,7 @@
 # text_orig = Nu ging he ’rönn on säd: „Goden Doag!“
 # text = Nu ging hee rin un sead: „Goden dag!“
 1	Nu	nu	ADV	_	_	2	advmod	_	_
-2	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+2	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	rin	herin	ADV	_	_	2	advmod	_	_
 5	un	un	CCONJ	_	_	6	cc	_	_
