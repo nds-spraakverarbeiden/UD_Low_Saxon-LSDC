@@ -10783,3 +10783,33 @@
 42	stad	stad	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	34	conj	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_0993_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
+# text_orig = Wie ons Frind henn keem, dat heet önnet Hoachtietshus, et kunn de Sega fief sönn, geit et all schlagsch lostig to.
+# text = Wo uns vründ hen kaem, dat heyt in dat hougtydshuus, et kun de seger vyv syn, geit et al slags lustig to.
+1	Wo	wo	SCONJ	_	_	5	mark	_	_
+2	uns	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	_
+3	vründ	vründ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	hen	hen	ADV	_	_	5	advmod	_	_
+5	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	_
+8	heyt	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	_
+9	in	in	ADP	_	AdpType=Prep	11	case	_	_
+10	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	hougtydshuus	hougtydshuus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	orphan	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	8	punct	_	_
+13	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	expl	_	_
+14	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	_
+15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	seger	syger	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	parataxis	_	_
+17	vyv	vyv	NUM	_	NumType=Card	16	nummod	_	_
+18	syn	weasen	AUX	_	VerbForm=Inf	16	cop	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	16	punct	_	_
+20	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+21	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	expl	_	_
+22	al	al	ADV	_	_	20	advmod	_	_
+23	slags	slags	ADV	_	_	24	advmod	_	_
+24	lustig	lustig	ADJ	_	Degree=Pos	20	advmod	_	_
+25	to	to	ADP	_	_	20	compound:prt	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	20	punct	_	_
+
