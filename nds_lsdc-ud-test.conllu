@@ -10456,7 +10456,7 @@
 
 # sent_id = LSDC_0981_NPR_1893_EYL_de-mella-polz
 # text_orig = Doa wat mienem Mella Pölz Angst on he schriet: „Na, si ju hia Lied, oawasch si ju Mördasch, loat doach nich dän Mann taschpökke.“
-# text = Do wardt mynem möller Pölz angst un hee skrygt: „Na, sü ju hyr lüde, avers sü ju mörders, låt doch nich den man terspökkeØ.”
+# text = Do wardt mynem möller Pölz angst un hee skrygt: „Na, sü ju hyr lüde, avers sü ju mörders, låt doch nich den man terspökke.”
 1	Do	do	ADV	_	_	2	advmod	_	_
 2	wardt	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	mynem	myn	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	_
