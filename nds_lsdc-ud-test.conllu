@@ -10505,3 +10505,30 @@
 11	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 12	“	“	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0983_NPR_1893_EYL_ok-de-koch-von-thierbach-mott-schtarwe
+# text_orig = De Bua Koch ön Thierbach wea en olla Schteenkrest, nie wea he krank on de Dot ging em ut ’m Wäg.
+# text = De buur Koch in Thierbach weer en older steynkrest, nee weer hee krank un de doud ging em uut dem weg.
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+3	Koch	Koch	PROPN	_	Number=Sing	2	flat	_	_
+4	in	in	ADP	_	AdpType=Prep	5	case	_	_
+5	Thierbach	Thierbach	PROPN	_	Number=Sing	2	nmod	_	_
+6	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	_
+7	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	older	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	steynkrest	steynkrest	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	nee	nee	ADV	_	_	14	advmod	_	_
+12	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	cop	_	_
+13	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	krank	krank	ADJ	_	Degree=Pos	9	parataxis	_	_
+15	un	un	CCONJ	_	_	18	cc	_	_
+16	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	conj	_	_
+19	em	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20	uut	uut	ADP	_	AdpType=Prep	22	case	_	_
+21	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	weg	weg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	_
+
