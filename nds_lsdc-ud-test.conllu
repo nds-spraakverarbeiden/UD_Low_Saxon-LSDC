@@ -9919,3 +9919,20 @@
 9	hokke	hokke	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=hocke|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0369_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = Meinde mit um te zullen äten uut de kurf zonder zörge?
+# text = Meynd y mid üm te süllen eaten üüt de kürv sunder sörge?
+1	Meind	meynen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=mêinen
+2	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	1	nsubj	_	lemma_gml=gî
+3	mid	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
+4	üm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	lemma_gml=hê,sê,et
+5	te	to	PART	_	PartType=Inf	7	mark	_	lemma_gml=tô
+6	süllen	sköälen	AUX	_	VerbForm=Inf	7	aux	_	lemma_gml=schȫlen
+7	eaten	eaten	VERB	_	VerbForm=Inf	1	advcl	_	lemma_gml=ēten
+8	üüt	uut	ADP	_	AdpType=Prep	10	case	_	lemma_gml=ût
+9	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	kürv	korv	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=korf
+11	sunder	sünder	ADP	_	AdpType=Prep	12	case	_	lemma_gml=sunder
+12	sörge	sorge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=sorge|SpaceAfter=No
+13	?	?	PUNCT	_	_	1	punct	_	_
+
