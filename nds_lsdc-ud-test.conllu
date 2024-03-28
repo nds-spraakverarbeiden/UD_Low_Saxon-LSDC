@@ -9768,3 +9768,20 @@
 30	plüüsde	plusen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	28	conj	_	lemma_gml=plûsen|SpaceAfter=No
 31	.	.	PUNCT	_	_	15	punct	_	_
 
+# sent_id = LSDC_0361_NWF_2017_twentsk_leawenskrachtig-bodbreef-HAN-meart-2017
+# text_orig = Mer ’t leup good of vuur miej, de cieferlieste kon slechter.
+# text = Mer et löyp good of vöär my, de cyferlyste kun slechter.
+1	Mer	mår	CCONJ	_	_	3	cc	_	lemma_gml=mêr
+2	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
+3	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lôpen
+4	good	good	ADJ	_	Degree=Pos	3	advmod	_	lemma_gml=gôt
+5	of	af	ADP	_	_	3	compound:prt	_	lemma_gml=af
+6	vöär	vöär	ADP	_	_	7	case	_	lemma_gml=vȫr
+7	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	3	obl	_	lemma_gml=ik|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	cyferlyste	cifferlyste	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	lemma_gml=sîferlîste
+11	kun	künnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	lemma_gml=künnen
+12	slechter	slecht	ADJ	_	Degree=Cmp	11	advmod	_	lemma_gml=slechter|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
