@@ -9895,7 +9895,7 @@
 1	En	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
 2	miskeen	misskeen	ADV	_	_	8	advmod	_	lemma_gml=machschên
 3	had	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	8	aux	_	lemma_gml=hebben
-4	ik	ik	PRON	_	Case=Nom|Numbers=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
+4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
 5	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	lemma_gml=hê,sê,et
 6	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
 7	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
