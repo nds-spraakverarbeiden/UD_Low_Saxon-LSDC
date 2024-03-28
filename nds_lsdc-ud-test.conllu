@@ -10308,6 +10308,6 @@
 22	brune	brune	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	obj	_	_
 23	an	an	ADP	_	AdpType=Prep	25	case	_	_
 24	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-25	vinsterlade	vinsterlade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	_
+25	vinsterlade	vinsterlade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	5	punct	_	_
 
