@@ -9985,3 +9985,19 @@
 44	apennat	apennat	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	41	ccomp	_	lemma_gml=āpennat|SpaceAfter=No
 45	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_0371_NWF_2019_oaverysselsk_kleindochter
+# text_orig = Op gegeven moment skeuf ze toch weer tussen aar olders in.
+# text = Up gegeaven moment sköyv see toch wear tüsken haar olders in.
+1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
+2	gegeaven	gegeaven	ADJ	_	Case=Acc,Dat|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	lemma_gml=gegēven
+3	moment	moment	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	4	obl	_	lemma_gml=moment
+4	sköyv	skuven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=skûven
+5	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=he,sê,et
+6	toch	doch	ADV	_	_	4	advmod	_	lemma_gml=doch
+7	wear	wedder	ADV	_	_	4	advmod	_	lemma_gml=wedder
+8	tüsken	twüsken	ADP	_	AdpType=Prep	10	case	_	lemma_gml=twischen
+9	haar	ear	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=sîn,ēr,sîn
+10	olders	ölder	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	lemma_gml=ōlt
+11	in	in	ADP	_	_	4	compound:prt	_	lemma_gml=in|SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	_
+
