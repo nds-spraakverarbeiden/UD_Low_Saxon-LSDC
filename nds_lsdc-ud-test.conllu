@@ -10441,7 +10441,7 @@
 5	lousgeit	lousgån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	do	do	ADV	_	_	10	advmod	_	_
-8	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	_
+8	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	_
 9	immer	immer	ADV	_	_	10	advmod	_	_
 10	sou	sou	ADV	_	_	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	_
