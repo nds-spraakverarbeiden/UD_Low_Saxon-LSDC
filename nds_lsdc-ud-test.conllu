@@ -10417,3 +10417,17 @@
 22	!	!	PUNCT	_	_	19	punct	_	SpaceAfter=No
 23	“	“	PUNCT	_	_	19	punct	_	_
 
+# sent_id = LSDC_0979_NPR_1893_EYL_de-mella-polz
+# text_orig = On doa funge se foaz alla an to lache.
+# text = Un do vunge see voords alle an to lache.
+1	Un	un	CCONJ	_	_	3	cc	_	_
+2	do	do	ADV	_	_	3	advmod	_	_
+3	vunge	vangen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
+4	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	voords	voords	ADV	_	_	3	advmod	_	_
+6	alle	al	PRON	_	PronType=Tot	4	nmod	_	_
+7	an	an	ADP	_	_	3	compound:prt	_	_
+8	to	to	PART	_	PartType=Inf	9	mark	_	_
+9	lache	lachen	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
