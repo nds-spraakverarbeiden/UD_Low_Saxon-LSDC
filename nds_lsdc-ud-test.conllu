@@ -10219,7 +10219,7 @@
 5	Kensbarg	Kensbarg	PROPN	_	Number=Sing	6	obl	_	_
 6	kömt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	make	maken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
+8	make	maken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
 9	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 10	gerade	gerade	ADV	_	_	8	advmod	_	_
 11	e	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
