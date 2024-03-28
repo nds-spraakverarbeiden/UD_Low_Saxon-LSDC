@@ -10093,3 +10093,27 @@
 6	percise	precise	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=prêcîse|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0378_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
+# text_orig = Hoe kan oe et hart toch zoa hooge staon, da je um dien kwibus en goeien wärkman onder stelt?
+# text = Ho kan u et harte toch sou houge stån, dat jy üm deen kwibus en goden werkman understellet?
+1	Ho	wo	ADV	_	_	9	advmod	_	lemma_gml=wô
+2	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	lemma_gml=künnen
+3	u	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	9	obj	_	lemma_gml=gî
+4	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=et
+5	harte	hert	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	lemma_gml=herte
+6	toch	doch	ADV	_	_	9	advmod	_	lemma_gml=doch
+7	sou	sou	ADV	_	_	8	advmod	_	lemma_gml=sô
+8	houge	houg	ADJ	_	Degree=Pos	9	amod	_	lemma_gml=hô
+9	stån	stån	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=stân|SpaceAfter=No
+10	,	,	PUNCT	_	_	19	punct	_	_
+11	dat	dat	SCONJ	_	_	19	mark	_	lemma_gml=dat
+12	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	19	nsubj	_	lemma_gml=gî
+13	üm	hee	ADP	_	AdpType=Prep	15	case	_	lemma_gml=ümme
+14	deen	dee	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	lemma_gml=dê,dê,dat
+15	kwibus	kwibus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	lemma_gml=quibus
+16	en	un	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
+17	goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	lemma_gml=gôt
+18	werkman	werkman	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	lemma_gml=werkman
+19	understellet	understellen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	9	advcl	_	lemma_gml=understellen|SpaceAfter=No
+20	?	?	PUNCT	_	_	9	punct	_	_
+
