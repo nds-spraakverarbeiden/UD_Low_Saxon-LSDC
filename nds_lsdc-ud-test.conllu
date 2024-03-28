@@ -9889,3 +9889,19 @@
 28	dörpke	dörpken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	13	advcl	_	lemma_gml=dorp|SpaceAfter=No
 29	?	?	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0367_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = En misschien hakket nog niet kloar uspeuld zonder mien Annegien.
+# text = En misskeen had ik et noch neet klårespöäld sunder myn Annegien.
+1	En	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
+2	miskeen	misskeen	ADV	_	_	8	advmod	_	lemma_gml=machschên
+3	had	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	8	aux	_	lemma_gml=hebben
+4	ik	ik	PRON	_	Case=Nom|Numbers=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
+5	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	lemma_gml=hê,sê,et
+6	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
+7	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
+8	klårespöäld	klårspealen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=spēlen
+9	sunder	sünder	ADP	_	AdpType=Prep	11	case	_	lemma_gml=sunder
+10	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	lemma_gml=mîn
+11	Annegien	Annegien	PROPN	_	Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	_
+
