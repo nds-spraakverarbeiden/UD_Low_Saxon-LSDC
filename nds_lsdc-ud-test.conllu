@@ -9844,3 +9844,15 @@
 14	andere	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	lemma_gml=ander|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_0365_NWF_1882_OVY_deventer_t.w._van_marie_-_de_bruud_en_de_wedevrouwe
+# text_orig = Nee, 't is 't heele land.
+# text = Ney, et is et heyle land.
+1	Ney	ney	INTJ	_	_	7	discourse	_	lemma_gml=nêin|SpaceAfter=No
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen
+5	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=et
+6	heyle	heyl	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	lemma_gml=hêil
+7	land	land	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=lant|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
