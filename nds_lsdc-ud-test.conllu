@@ -10366,3 +10366,27 @@
 7	sperkel	sperkel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0977_NPR_1893_EYL_de-mella-polz
+# text_orig = Wie et nu Oawend wea, doa warre de grote Frind mött däm Mella Pölz goane dat Theoataschpöll beseeke.
+# text = Wo et nu åvend weer, do warde de grote vründ mid dem möller Pölz gåne dat teåterspil besöke.
+1	Wo	wo	SCONJ	_	_	4	mark	_	_
+2	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	nu	nu	ADV	_	_	4	advmod	_	_
+4	åvend	åvend	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	advcl	_	_
+5	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	do	do	ADV	_	_	16	advmod	_	_
+8	warde	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	_
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	groute	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	vründ	vründ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+12	mid	mid	ADP	_	AdpType=Prep	14	case	_	_
+13	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	möller	möller	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	_
+15	Pölz	Pölz	PROPN	_	Number=Sing	14	flat	_	_
+16	gåne	gån	VERB	_	VerbForm=Inf	0	root	_	_
+17	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
+18	teåterspil	teåterspil	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
+19	besöke	besöken	VERB	_	VerbForm=Inf	16	advcl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	16	punct	_	_
+
