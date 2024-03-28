@@ -10875,3 +10875,43 @@
 5	kaarte	kaarte	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0997_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
+# text_orig = Op eenem grote Vagneege, et mek sönn Hoachtiet oawa Kingelbea, ös öm Noatangsche ömma e Schpoaßvoagel, de siene Wötzkes damött anfangt, dat he sökk freega als de andere Kloadschvaddasch beschnorgelt.
+# text = Up eynem groute vorgenöge, et mag syn hougtyd oader kindelbeer, is in dem natangske immer e spaasvoagel, dee syne witskes dårmid anvangt, dat hee sik vröger als de andere klaadsvadders besnorgelt.
+1	Up	up	ADP	_	AdpType=Prep	4	case	_	_
+2	eynem	en	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+3	groute	grout	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	vorgenöge	vorgenögen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+7	mag	möägen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+8	syn	weasen	AUX	_	VerbForm=Inf	9	cop	_	_
+9	hougtyd	hougtyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	parataxis	_	_
+10	oader	edder	CCONJ	_	_	11	cc	_	_
+11	kindelbeer	kindelbeer	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
+14	in	in	ADP	_	AdpType=Prep	16	case	_	_
+15	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+16	natangske	natangske	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	_
+17	immer	immer	ADV	_	_	4	advmod	_	_
+18	e	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	19	det	_	_
+19	spaasvoagel	spaasvoagel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	25	punct	_	_
+21	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	_
+22	syne	syn	DET	_	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	23	det	_	_
+23	witskes	witsken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	25	obj	_	_
+24	dårmid	dårmid	ADV	_	_	25	advmod	_	_
+25	anvangt	anvangen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	acl:relcl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	35	punct	_	_
+27	dat	dat	SCONJ	_	_	35	mark	_	_
+28	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	35	nsubj	_	_
+29	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	35	expl:pv	_	_
+30	vröger	vrö	ADJ	_	Degree=Cmp	35	advmod	_	_
+31	als	as	ADP	_	AdpType=Prep	34	case	_	_
+32	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_
+33	andere	ander	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	34	amod	_	_
+34	klaadsvadders	klaadsvadder	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	30	obl	_	_
+35	besnorgelt	besnorgelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	advcl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	4	punct	_	_
+
