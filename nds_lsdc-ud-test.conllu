@@ -10975,6 +10975,6 @@
 14	nich	nich	PART	_	PartType=Neg	17	advmod	_	_
 15	to	to	PART	_	PartType=Inf	16	mark	_	_
 16	låte	låten	VERB	_	VerbForm=Inf	17	xcomp	_	_
-17	wust	weaten	VERB	_	Mood=Inf|Number=Sing|Person=3|Tense=Pres	6	acl:relcl	_	SpaceAfter=No
+17	wust	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	acl:relcl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	3	punct	_	_
 
