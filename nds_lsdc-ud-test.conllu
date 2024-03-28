@@ -10587,3 +10587,29 @@
 25	retereert	retereren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	conj	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_0986_NPR_1893_EYL_ok-de-koch-von-thierbach-mott-schtarwe
+# text_orig = Koch geit han, joagt de Hung wech, on de Dot nökt em tom Dank to an ös vaschwunge.
+# text = Koch geit hen, jaagt den hund weg, un de doud nikt em to dem dank to un is vorswunde.
+1	Koch	Koch	PROPN	_	Number=Sing	2	nsubj	_	_
+2	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	hen	hen	ADV	_	_	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	jaagt	jagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	hund	hund	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+8	weg	weg	ADV	_	_	5	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	_
+10	un	un	CCONJ	_	_	13	cc	_	_
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	nikt	nikken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
+14	em	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+15	to	to	ADP	_	AdpType=Prep	17	case	_	_
+16	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	dank	dank	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
+18	to	to	ADP	_	_	13	compound:prt	_	_
+19	un	un	CCONJ	_	_	21	cc	_	_
+20	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	_
+21	vorswunde	vorswunden	ADJ	_	Degree=Pos	13	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	_
+
