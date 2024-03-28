@@ -10496,7 +10496,7 @@
 2	do	do	ADV	_	_	3	advmod	_	_
 3	smeyten	smyten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 4	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-5	den	de	DET	_	Case=Acc|Definite=Def|Gender=Mask|Number=Sing|PronType=Art	6	det	_	_
+5	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	möller	möller	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
 7	Pölz	Pölz	PROPN	_	Number=Sing	6	flat	_	_
 8	vöär	vöär	ADP	_	AdpType=Prep	10	case	_	_
