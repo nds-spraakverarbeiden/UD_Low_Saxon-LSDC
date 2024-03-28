@@ -9858,7 +9858,7 @@
 
 # sent_id = LSDC_0366_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Da klarken lait um maor wiendaiers: en zolt i de maot holden veur de juffer van en notaoris, al is 't oak op en plat dörpke?
-# text = De klarken leit üm mår wyndeiers: en sullet y de måte holden vöär de jüffe van en notåris, al is et ouk up en plat dörpke?
+# text = De klarken leit üm mår wyndeiers: en sullet y de måte holden vöär de jüffer van en notåris, al is et ouk up en plat dörpke?
 1	De	dat	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	klarken	klerke	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	lemma_gml=klerik
 3	leit	leggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=leggen
