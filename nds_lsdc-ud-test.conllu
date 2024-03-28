@@ -10422,7 +10422,7 @@
 # text = Un do vunge see voords alle an to lache.
 1	Un	un	CCONJ	_	_	3	cc	_	_
 2	do	do	ADV	_	_	3	advmod	_	_
-3	vunge	vangen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
+3	vunge	vangen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 4	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 5	voords	voords	ADV	_	_	3	advmod	_	_
 6	alle	al	PRON	_	PronType=Tot	4	nmod	_	_
