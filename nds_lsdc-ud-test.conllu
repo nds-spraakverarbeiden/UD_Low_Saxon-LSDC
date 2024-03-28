@@ -10037,3 +10037,15 @@
 14	orlogykedde	orlogykeade	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=ôrlogiumkēde|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_0374_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
+# text_orig = Goed zoo, da's dan kloar.
+# text = Good sou, dat is dan klår.
+1	Good	good	ADJ	_	Degree=Pos	0	root	_	lemma_gml=gôt
+2	sou	sou	ADV	_	_	1	advmod	_	lemma_gml=sô|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	lemma_gml=dat
+5	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen
+6	dan	dan	ADV	_	_	7	advmod	_	lemma_gml=dan
+7	klår	klår	ADJ	_	Degree=Pos	1	parataxis	_	lemma_gml=klâr|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
