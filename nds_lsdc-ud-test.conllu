@@ -10613,3 +10613,44 @@
 21	vorswunde	vorswunden	ADJ	_	Degree=Pos	13	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0987_NPR_1893_EYL_ok-de-koch-von-thierbach-mott-schtarwe
+# text_orig = Op enmol wat Koch krank, he denkt, nu kann de Frindschaft doach een Ende hebbe on um söcha to goane, wacht he Dach on Nacht on schtellt sök de Flint an dat Bed.
+# text = Up eynmål wardt Koch krank, hee denkt, nu kan de vründskop doch en ende hebbe un um seaker to gåne, wacht hee dag un nacht un stelt sik de flinte an dat bedde.
+1	Up	up	ADP	_	AdpType=Prep	2	case	_	_
+2	eynmål	eynmål	ADV	_	_	3	obl	_	_
+3	wardt	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	Koch	Koch	PROPN	_	Number=Sing	3	nsubj	_	_
+5	krank	krank	ADJ	_	Degree=Pos	3	xcomp	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	8	nsubj	_	_
+8	denkt	denken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	nu	nu	ADV	_	_	17	advmod	_	_
+11	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	_
+12	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	vründskop	vründskop	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+14	doch	doch	ADV	_	_	17	advmod	_	_
+15	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	det	_	_
+16	ende	ende	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	hebbe	hebben	VERB	_	VerbForm=Inf	8	ccomp	_	_
+18	un	un	CCONJ	_	_	24	cc	_	_
+19	um	üm	SCONJ	_	_	22	mark	_	_
+20	seaker	seaker	ADJ	_	Degree=Pos	22	advmod	_	_
+21	to	to	PART	_	PartType=Inf	22	mark	_	_
+22	gåne	gån	VERB	_	VerbForm=Inf	24	advcl	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	wacht	wachten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	_
+25	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	24	nsubj	_	_
+26	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	24	obl	_	_
+27	un	un	CCONJ	_	_	28	cc	_	_
+28	nacht	nacht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	26	conj	_	_
+29	un	un	CCONJ	_	_	30	cc	_	_
+30	stelt	stellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	conj	_	_
+31	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	30	iobj	_	_
+32	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
+33	flinte	flinte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obj	_	_
+34	an	an	ADP	_	AdpType=Prep	36	case	_	_
+35	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	36	det	_	_
+36	bedde	bedde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	30	obl	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	3	punct	_	_
+
