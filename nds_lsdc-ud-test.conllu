@@ -10576,7 +10576,7 @@
 
 # sent_id = LSDC_0401_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Och, wie wâeren met zien drieen an't zoad verschieten bie meneer v.A., de Plume, et Iekertien en ikke; - het Iekertien, dat un kwoad katoas van un kereltien is, had mie al lange liggen te ploagen, da'k un dreugkawwer was, da'k ook wel gaauw un koksiaane zol worden, zoo det mie dat erg begon te vervelen.
-# text = Och, wy waren med syn dree'en an et såd vorsketen by meneyr v. A., de Plüme, et Eykertyn en ikke; - et Eykertyn, dat en kwåd katås van en keareltyn is, had my al lange liggen te plågen, dat ik en dröygkauwe was, dat ik ouk wel gauw en koksiane sul worden, sou det my dat erg begun te vorvealen.
+# text = Och, wy waren med syn dree'en an et såd vorsketen by meneyr v. A., de Plüme, et Eykertyn en ikke; - et Eykertyn, dat en kwåd katås van en keareltyn is, had my al lange liggen te plågen, dat ik en dröygkauwer was, dat ik ouk wel gauw en koksiane sul worden, sou det my dat erg begun te vorvealen.
 1	Och	och	INTJ	_	_	11	discourse	_	lemma_gml=och|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=wî
@@ -10675,9 +10675,9 @@
 
 # sent_id = LSDC_0404_NWF_2017_TWE_twentsk_rosenmontag-meart-2017-bodbreef-HAN
 # text_orig = Dit joar ok met zö’n dreehonderd man, mer ja, de Gravenes is ok nog in aanbouw.
-# text = Dit jår ouk med söy 'n dreehunderd man, mer jå, de Gravenes is ouk noch in anbouw.
-1	Dit	dt	DET	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	lemma_gml=desse,desse,dit
-2	jår	jår	VERB	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	lemma_gml=jâr
+# text = Dit jår ouk med söy en dreehunderd man, mer jå, de Gravenes is ouk noch in anbouw.
+1	Dit	dit	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=desse,desse,dit
+2	jår	jår	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	lemma_gml=jâr
 3	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
 4	med	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
 5	söy	sou	ADV	_	_	6	advmod	_	lemma_gml=sô
@@ -10715,9 +10715,9 @@
 13	pråted	pråten	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=prōten
 14	en	un	CCONJ	_	_	28	cc	_	lemma_gml=ende
 15	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	28	aux	_	lemma_gml=wēsen
-16	‘	‘	PUNCT	_	_	19	punct	_	|SpaceAfter=No
+16	‘	‘	PUNCT	_	_	19	punct	_	SpaceAfter=No
 17	as	as	ADP	_	_	19	case	_	lemma_gml=alsô
-18	eyn	eyn	NUM	_	AdpType=Prep	19	nummod	_	lemma_gml=êin,êine,êin
+18	eyn	eyn	NUM	_	NumType=Card	19	nummod	_	lemma_gml=êin,êine,êin
 19	persoon	persoon	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	lemma_gml=persône|SpaceAfter=No
 20	’	’	PUNCT	_	_	19	punct	_	_
 21	achter	achter	ADP	_	AdpType=Prep	23	case	_	lemma_gml=achter
@@ -10733,7 +10733,7 @@
 
 # sent_id = LSDC_0406_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = 't Is nog die ägenste smalle heerschop, die klarke van onzen notaoris, die 't um duut.
-# text = Et is noch de eygenste smalle heyrskop, dee klarke van unsen notåris, dee et üm düüt.
+# text = Et is noch dee eygenste smalle heyrskop, dee klarke van unsen notåris, dee et üm düüt.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
 2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen
 3	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
@@ -10792,7 +10792,7 @@
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	dee	dee	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	lemma_gml=dê,dê,dat
 4	månd	månd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	lemma_gml=mânt
-5	müt	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	mark	_	lemma_gml=mö̂ten
+5	müt	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	aux	_	lemma_gml=mö̂ten
 6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
 7	eyrlik	eyrlik	ADJ	_	Degree=Pos	8	amod	_	lemma_gml=êrlĩk
 8	seggen	seggen	VERB	_	VerbForm=Inf	14	parataxis	_	lemma_gml=seggen
@@ -10813,7 +10813,7 @@
 23	fibberig	fibberig	ADJ	_	Degree=Pos	21	conj	_	lemma_gml=fibberich
 24	weasen	weasen	AUX	_	VerbForm=Inf	21	cop	_	lemma_gml=wēsen|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	_
-26	junge	junge	NOUN	_	Degree=Pos|Gender=Masc|Number=Sing	21	discourse	_	lemma_gml=junge|SpaceAfter=No
+26	junge	junge	NOUN	_	Gender=Masc|Number=Sing	21	discourse	_	lemma_gml=junge|SpaceAfter=No
 27	,	,	PUNCT	_	_	26	punct	_	_
 28	dat	dat	SCONJ	_	_	35	mark	_	lemma_gml=dat
 29	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	35	obj	_	lemma_gml=ik
@@ -10866,7 +10866,7 @@
 # sent_id = LSDC_0410_NWF_20XX_ACH_achterhooksk_lange-afstands-romantiek
 # text_orig = Ze hadden al héél wat foto’s emaakt en maken ne rondreize deur Europa, ’n anderen dag zollen ze naor Boedapest gaon.
 # text = See hadden al heyl wat fotos emaked en maken ne rundreise döär Europa, den anderen dag sullen see når Budapest gån.
-1	Se	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=sê
+1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=sê
 2	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	lemma_gml=hebben
 3	al	al	ADV	_	_	7	advmod	_	lemma_gml=al
 4	heyl	heyl	ADJ	_	Degree=Pos	5	amod	_	lemma_gml=hêil
