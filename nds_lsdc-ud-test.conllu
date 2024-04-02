@@ -11034,7 +11034,7 @@
 
 # sent_id = LSDC_0419_DNS_1907_HOL_holsteynsk_maren
 # text_orig = De beiden annern, Hannes Holm un Timm Voß, gungen en beetjen tägerig achterher.
-# text = De beiden anderen, Hannes Holm und Timm Voß, gungen en beatjen töägerig achterher.
+# text = De beiden anderen, Hannes Holm un Timm Voß, gungen en beatjen töägerig achterher.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 2	beiden	beide	ADJ	_	Case=Nom|Number=Plur	3	amod	_	lemma_gml=bêide
 3	anderen	ander	PRON	_	Case=Nom|Number=Plur|PronType=Ind	11	nsubj	_	lemma_gml=ander|SpaceAfter=No
