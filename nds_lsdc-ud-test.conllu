@@ -10208,7 +10208,7 @@
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
 4	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	obj	_	lemma_gml=ik
 5	oaver	öäver	ADP	_	_	2	case	_	lemma_gml=ȫver
-6	spreaken	spreaken	VERB	_	VerbForm=Inf	21	csubj	_	lemma_gml=sprēken
+6	spreaken	spreaken	VERB	_	VerbForm=Inf	21	csubj:outer	_	lemma_gml=sprēken
 7	wul	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	aux	_	lemma_gml=willen|SpaceAfter=No
 8	,	,	PUNCT	_	_	21	punct	_	_
 9	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	21	cop	_	lemma_gml=wēsen
