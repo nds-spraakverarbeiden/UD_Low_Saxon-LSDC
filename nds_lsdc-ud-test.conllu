@@ -10292,7 +10292,7 @@
 # text = Ton sea hee dat hee terügge sul gån når syne buurderye en at Elsa wul dan much see med üm medgån as syne vrouwe.
 1	Ton	do	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	sea	saggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
-3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=3|Person=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 4	dat	dat	SCONJ	_	_	8	mark	_	lemma_gml=dat
 5	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=hê,sê,et
 6	terügge	torügge	ADV	_	_	8	advmod	_	lemma_gml=tôrügge
