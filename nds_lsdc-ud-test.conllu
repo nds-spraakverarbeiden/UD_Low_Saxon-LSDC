@@ -11188,7 +11188,7 @@
 
 # sent_id = LSDC_0427_DNS_2008_NNI_bremen_börgerschopsdebatte-över-den-andrag-vun-de-cdu-fraktschoon
 # text_orig = (Klatschen bi de CDU) Ek heff dor gor nix gegen, dat se Russisch un Türkisch lehrt, ober Platt mööt se ok lehren!
-# text = (Klatsen by de CDU) Ik hev dår gaar niks geagen, dat se russisk un törksk leyret, aver plat mötet see ouk leyren!
+# text = (Klatsen by de CDU) Ik hev dår gaar niks geagen, dat see russisk un törksk leyret, aver plat mötet see ouk leyren!
 1	(	(	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Klatsen	klatsen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=klatsent
 3	by	by	ADP	_	AdpType=Prep	5	case	_	lemma_gml=bî
@@ -11321,6 +11321,7 @@
 7	vråge	vråge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	lemma_gml=vrâge
 8	stellen	stellen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=stellen|SpaceAfter=No
 9	:	:	PUNCT	_	_	8	punct	_	_
+
 # sent_id = LSDC_0430_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = De is doch sünst to düß Tied to Huus.
 # text = Dee is doch sünst to düs tyd to huus.
