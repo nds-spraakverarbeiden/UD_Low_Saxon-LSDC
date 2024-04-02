@@ -10265,7 +10265,7 @@
 1	Y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	8	nsubj	_	lemma_gml=gî
 2	sint	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	8	aux	_	lemma_gml=wēsen
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	8	obj	_	lemma_gml=ik
-4	mooi	mooi	ADJ	_	Degree=Pos	8	root	_	lemma_gml=mö̂ye
+4	mooi	mooi	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=mö̂ye
 5	boaven	boaven	ADP	_	AdpType=Prep	7	case	_	lemma_gml=bōven
 6	et	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=et
 7	höyvd	höyvd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	lemma_gml=hö̂vet
@@ -10292,7 +10292,7 @@
 # text = Ton sea hee dat hee terügge sul gån når syne buurderye en at Elsa wul dan much see med üm medgån as syne vrouwe.
 1	Ton	do	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	sea	saggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
-3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=3|Person=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 4	dat	dat	SCONJ	_	_	8	mark	_	lemma_gml=dat
 5	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=hê,sê,et
 6	terügge	torügge	ADV	_	_	8	advmod	_	lemma_gml=tôrügge
