@@ -10205,7 +10205,7 @@
 # text = Mår woor hee my oaver spreaken wul, was dat ik de eyne dag döär de andere te völle drank gebrüükde.
 1	Mår	mår	ADV	_	_	21	cc	_	lemma_gml=mêr
 2	woor	woor	ADV	_	_	6	advmod	_	lemma_gml=wôre
-3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj:outer	_	lemma_gml=hê,sê,et
+3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	csubj:outer	_	lemma_gml=hê,sê,et
 4	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	obj	_	lemma_gml=ik
 5	oaver	öäver	ADP	_	_	2	case	_	lemma_gml=ȫver
 6	spreaken	spreaken	VERB	_	VerbForm=Inf	21	csubj	_	lemma_gml=sprēken
