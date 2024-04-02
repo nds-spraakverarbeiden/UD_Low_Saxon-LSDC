@@ -10146,7 +10146,7 @@
 
 # sent_id = LSDC_0381_NWF_201X_TWE_twentsk_sproakverwarring-HAN
 # text_orig = Dat beveel um heel good en langzaaman begon hee te wennen in de grote stad en doar roondumhen.
-# text = Dat beveal üm heyl good en langsaaman begun hee te wennen in de groute stad en dår rundümhen.
+# text = Dat beveel üm heyl good en langsaaman begun hee te wennen in de groute stad en dår rundümhen.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
 2	beveel	bevallen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=bevallen
 3	üm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
