@@ -11239,7 +11239,7 @@
 17	bet	bet	SCONJ	_	_	21	mark	_	lemma_gml=bet
 18	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=sê
 19	uut	uut	ADP	_	AdpType=Prep	21	case	_	lemma_gml=ût
-20	de	de	DET	_	Case=Acc,Dat|Definite=Acc|Gender=Fem|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
+20	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
 21	skole	skole	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	10	advcl	_	lemma_gml=schôle
 22	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	21	cop	_	lemma_gml=wēsen|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
