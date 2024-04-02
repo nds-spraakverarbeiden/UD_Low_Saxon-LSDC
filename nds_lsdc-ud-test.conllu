@@ -10188,12 +10188,12 @@
 16	ovver	öäver	ADP	_	AdpType=Prep	19	case	_	lemma_gml=ȫver
 17	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
 18	atlantiske	atlantisk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	lemma_gml=atlantische
-19	oceaan	oceaan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=oceān
+19	oceaan	oceaan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=oceān|SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = LSDC_0383_NWF_2019_OVY_oaverysselsk_de-kamper-steur
 # text_orig = Maar wat gebeurt ‘r?
-# text = Mår war geböärt der?
+# text = Mår wat geböärt der?
 1	Mår	mår	CCONJ	_	_	3	cc	_	lemma_gml=mêr
 2	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	lemma_gml=watte
 3	geböärt	geböären	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gebȫren
@@ -10219,7 +10219,7 @@
 14	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=dach
 15	döär	döär	ADP	_	AdpType=Prep	17	case	_	lemma_gml=dȫr
 16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
-17	andere	ander	PRON	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	lemma_gml=ander
+17	andere	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	lemma_gml=ander
 18	te	to	ADV	_	_	19	advmod	_	lemma_gml=tô
 19	völle	veale	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	lemma_gml=vēle
 20	drank	drank	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=drank
