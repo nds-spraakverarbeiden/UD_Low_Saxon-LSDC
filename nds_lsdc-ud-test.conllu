@@ -10615,7 +10615,7 @@
 36	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	cop	_	lemma_gml=wēsen|SpaceAfter=No
 37	,	,	PUNCT	_	_	32	punct	_	_
 38	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	42	aux	_	lemma_gml=hebben
-39	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	42	nsubj	_	lemma_gml=ik
+39	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	42	obj	_	lemma_gml=ik
 40	al	al	ADV	_	_	41	advmod	_	lemma_gml=al
 41	lange	lange	ADV	_	_	42	advmod	_	lemma_gml=lanc
 42	liggen	liggen	VERB	_	VerbForm=Inf	11	parataxis	_	lemma_gml=liggen
