@@ -10904,7 +10904,7 @@
 9	Camping	Camping	PROPN	_	Number=Sing	7	obl	_	lemma_gml=kampinge
 10	Durêve	Durêve	PROPN	_	Number=Sing	9	flat	_	lemma_gml=durêve
 11	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	lemma_gml=wēsen
-12	ofvalskeidinge	afvalskeydinge	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	lemma_gml=afvalschêidinge
+12	ofvalskeidinge	afvalskeydinge	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	lemma_gml=afvalschêidinge|SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = LSDC_0412_NWF_201X_TWE_twentsk_zuver-italiaansen-mozzarella
@@ -10981,7 +10981,7 @@
 22	vöär	vöär	ADP	_	AdpType=Prep	26	case	_	lemma_gml=vȫr
 23	de	de	DET	_	Case=Acc|Definite=Def|Number=Plur|PronType=Art	26	det	_	lemma_gml=dê,dê,dat
 24	‘	‘	PUNCT	_	_	26	punct	_	SpaceAfter=No
-25	wat	wat	PRON	_	Gender=Neut|Number=Sing|PronType=Ind	26	advmod	_	lemma_gml=watte
+25	wat	wat	ADV	_	_	26	advmod	_	lemma_gml=watte
 26	olderen	old	ADJ	_	Case=Acc|Degree=Cmp|Number=Plur	31	obl	_	lemma_gml=ōlt|SpaceAfter=No
 27	’	’	PUNCT	_	_	26	punct	_	_
 28	ouk	ouk	ADV	_	_	31	advmod	_	lemma_gml=ôk
@@ -11005,7 +11005,7 @@
 # sent_id = LSDC_0417_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – Nu kik mal Einer – Also Sei sünd de oll Jahn?« –
 # text = – Nu kyk mål eyner – Alsou See sünt de ol Jahn?« –
-1	–	–	PUNCT	_	_	3	cc	_	_
+1	–	–	PUNCT	_	_	3	punct	_	_
 2	Nu	nu	ADV	_	_	3	advmod	_	lemma_gml=nû
 3	kyk	kyken	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=kîken
 4	mål	mål	ADV	_	_	3	advmod	_	lemma_gml=mâl
@@ -11037,7 +11037,7 @@
 # text = De beiden anderen, Hannes Holm und Timm Voß, gungen en beatjen töägerig achterher.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 2	beiden	beide	ADJ	_	Case=Nom|Number=Plur	3	amod	_	lemma_gml=bêide
-3	andern	ander	PRON	_	Case=Nom|Number=Plur|PronType=Ind	11	nsubj	_	lemma_gml=ander|SpaceAfter=No
+3	anderen	ander	PRON	_	Case=Nom|Number=Plur|PronType=Ind	11	nsubj	_	lemma_gml=ander|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	Hannes	Hannes	PROPN	_	Number=Sing	3	appos	_	_
 6	Holm	Holm	PROPN	_	Number=Sing	5	flat	_	_
