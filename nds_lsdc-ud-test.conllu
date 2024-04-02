@@ -10185,10 +10185,10 @@
 13	hen	hen	ADV	_	_	8	advmod	_	lemma_gml=hen
 14	en	un	CCONJ	_	_	15	cc	_	lemma_gml=ende
 15	wear	wedder	ADV	_	_	13	conj	_	lemma_gml=wedder
-16	ovver	öäver	ADP	_	AdpType=Prep	18	case	_	lemma_gml=ȫver
-17	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
-18	atlantiske	atlantisk	PROPN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=atlantische
-19	oceaan	oceaan	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	18	flat	_	lemma_gml=oceān
+16	ovver	öäver	ADP	_	AdpType=Prep	19	case	_	lemma_gml=ȫver
+17	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
+18	atlantiske	atlantisk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	lemma_gml=atlantische
+19	oceaan	oceaan	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=oceān
 20	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = LSDC_0383_NWF_2019_OVY_oaverysselsk_de-kamper-steur
