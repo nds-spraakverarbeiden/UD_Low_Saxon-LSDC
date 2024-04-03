@@ -12205,7 +12205,7 @@
 20	arm	arm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=arm
 21	vated	vaten	VERB	_	Tense=Past|VerbForm=Part	12	amod	_	lemma_gml=vāten
 22	un	un	CCONJ	_	_	23	cc	_	lemma_gml=unde
-23	küsde	küssen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=küssen
+23	küsde	küssen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	conj	_	lemma_gml=küssen
 24	see	see	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obj	_	lemma_gml=hê,sê,et
 25	up	up	ADP	_	AdpType=Prep	27	case	_	lemma_gml=uppe
 26	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
