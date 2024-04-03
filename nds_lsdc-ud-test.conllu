@@ -11837,7 +11837,7 @@
 10	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
 11	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	lemma_gml=ik
 12	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	20	aux	_	lemma_gml=willen
-13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	lemma_gml=ik
+13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	20	iobj	_	lemma_gml=ik
 14	dår	dår	ADV	_	_	20	advmod	_	lemma_gml=dâr
 15	man	men	ADV	_	_	20	advmod	_	lemma_gml=men
 16	mål	mål	ADV	_	_	20	advmod	_	lemma_gml=mâl
