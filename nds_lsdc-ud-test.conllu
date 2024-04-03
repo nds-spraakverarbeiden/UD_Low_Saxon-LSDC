@@ -11367,7 +11367,7 @@
 13	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=wēsen|SpaceAfter=No
 14	,	,	PUNCT	_	_	12	punct	_	_
 15	köf	köypen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kö̂pen
-16	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	nsubj	_	lemma_gml=sik
+16	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	iobj	_	lemma_gml=sik
 17	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
 18	stük	stük	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	lemma_gml=stücke
 19	tüüg	tüüg	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	nmod	_	lemma_gml=tü̂ch
