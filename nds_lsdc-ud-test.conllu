@@ -12327,9 +12327,9 @@
 35	Droi	Droi	PROPN	_	Number=Sing	34	flat	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	38	punct	_	_
 37	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	lemma_gml=dê,dê,dat
-38	leanstool	leanstool	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	45	appos	_	lemma_gml=lēnenstôl
+38	leanstool	leanstool	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	45	obj	_	lemma_gml=lēnenstôl
 39	vöär	vöär	ADP	_	AdpType=Prep	41	case	_	lemma_gml=vȫr
-40	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|Person=3|Tense=Pres	41	det	_	lemma_gml=dê,dê,dat
+40	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	41	det	_	lemma_gml=dê,dê,dat
 41	ölder	ölder	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	38	nmod	_	lemma_gml=older
 42	mid	mid	ADP	_	AdpType=Prep	43	case	_	lemma_gml=mit
 43	slichtigheiden	slechtigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	45	obl	_	lemma_gml=slichtichêit
@@ -12343,7 +12343,7 @@
 51	küssen	küssen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	48	obj	_	lemma_gml=küssen
 52	vöär	vöär	ADP	_	AdpType=Prep	54	case	_	lemma_gml=vȫr
 53	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	54	det	_	lemma_gml=dê,dê,dat
-54	geweaten	geweaten	NOUN	_	Case=Acc|Foreign=Yes|Gender=Neut|Number=Sing	51	nmod	_	lemma_gml=gewēten|SpaceAfter=No
+54	geweaten	geweaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	51	nmod	_	lemma_gml=gewēten|SpaceAfter=No
 55	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
