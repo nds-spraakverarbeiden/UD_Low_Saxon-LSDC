@@ -11855,7 +11855,7 @@
 28	bouwen	bouwen	VERB	_	VerbForm=Inf	20	advcl	_	lemma_gml=bûwen
 29	do	doon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	28	mark	_	lemma_gml=dôn|SpaceAfter=No
 30	;	;	PUNCT	_	_	33	punct	_	_
-31	dån	dän	CCONJ	_	_	33	cc	_	lemma_gml=den
+31	dän	dän	CCONJ	_	_	33	cc	_	lemma_gml=den
 32	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	lemma_gml=ik
 33	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	20	conj	_	lemma_gml=wērden
 34	doch	doch	ADV	_	_	33	advmod	_	lemma_gml=doch
