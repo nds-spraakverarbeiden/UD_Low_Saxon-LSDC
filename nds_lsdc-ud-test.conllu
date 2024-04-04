@@ -12543,9 +12543,9 @@
 1	Tostand	tostand	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	ccomp	_	lemma_gml=tôstant|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	segget	seggen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	0	root	_	lemma_gml=seggen
-4	See	see	PROPN	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	3	vocative	_	lemma_gml=sê|SpaceAfter=No
+4	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	3	vocative	_	lemma_gml=sê|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	Tostand	tostand	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	lemma_gml=tôstant|SpaceAfter=No
+6	tostand	tostand	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	lemma_gml=tôstant|SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0482_1939_00026_DNS
@@ -12584,8 +12584,8 @@
 1	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
 2	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	obj	_	lemma_gml=dê,dê,dat
 3	deit	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=dôn
-4	Dien	dyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	lemma_gml=dîn
-5	Tostand	tostand	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=tôstant|SpaceAfter=No
+4	dyn	dyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	lemma_gml=dîn
+5	tostand	tostand	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=tôstant|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0485_1980_00023_DNS
