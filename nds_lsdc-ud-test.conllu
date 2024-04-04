@@ -12349,7 +12349,7 @@
 # sent_id = LSDC_0471_20th_00105_DNS
 # text_orig = So schält se de Freude ok mit beläwen.
 # text = Sou sköälet see de vroide ouk midbeleaven.
-1	So	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
+1	Sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
 2	sköälet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	aux	_	lemma_gml=schȫlen
 3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=sê
 4	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
