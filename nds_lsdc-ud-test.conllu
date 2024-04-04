@@ -12594,15 +12594,15 @@
 1	Jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî
 2	weaten	weaten	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	lemma_gml=wēten
 3	jå	ja	ADV	_	_	2	advmod	_	lemma_gml=jâ|SpaceAfter=No
-4	,	,	PUNCT	_	_	10	punct	_	_
-5	dat	dat	SCONJ	_	_	10	mark	_	lemma_gml=dat
-6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	dat	dat	SCONJ	_	_	11	mark	_	lemma_gml=dat
+6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
 7	in	en	ADP	_	AdpType=Prep	9	case	_	lemma_gml=dê,dê,dat
 8	lütje	lütken	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	lemma_gml=lüttik
-9	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	10	obj	_	lemma_gml=dorp
-10	grout	grout	ADJ	_	Degree=Pos	2	ccomp	_	lemma_gml=grôt
-11	worden	werden	AUX	_	Tense=Past|VerbForm=Part	10	cop	_	lemma_gml=wērden
-12	bün	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	cop	_	lemma_gml=wēsen|SpaceAfter=No
+9	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	obj	_	lemma_gml=dorp
+10	grout	grout	ADJ	_	Degree=Pos	11	xcomp	_	lemma_gml=grôt
+11	worden	werden	VERB	_	Tense=Past|VerbForm=Part	2	cop	_	lemma_gml=wērden
+12	bün	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	aux	_	lemma_gml=wēsen|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0486_1939_00211_DNS
@@ -12637,7 +12637,7 @@
 13	aver	aver	CCONJ	_	_	17	cc	_	lemma_gml=āver
 14	lange	lang	ADV	_	_	15	advmod	_	lemma_gml=lanc
 15	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma_gml=nicht
-16	so	sou	ADV	_	_	17	advmod	_	lemma_gml=sô
+16	sou	sou	ADV	_	_	17	advmod	_	lemma_gml=sô
 17	kros	kros	ADJ	_	Degree=Pos	8	conj	_	lemma_gml=kros
 18	as	as	ADP	_	_	20	cc	_	lemma_gml=alsô
 19	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê,dê,dat
@@ -12662,7 +12662,7 @@
 # text = Aver sou as Brommy to Hammelwarden in de aerde ligt, in syn admiraalsvlagge indraid, sou söllet jy dat mid my ouk mål maken!
 1	Aver	aver	CCONJ	_	_	25	cc	_	lemma_gml=āver
 2	sou	sou	ADV	_	_	25	dislocated	_	lemma_gml=sô
-3	as	as	CCONJ	_	_	4	cc	_	lemma_gml=alsô
+3	as	as	ADV	_	_	10	advmod	_	lemma_gml=alsô
 4	Brommy	Brommy	PROPN	_	Number=Sing	10	conj	_	lemma_gml=brommy
 5	to	to	ADP	_	AdpType=Prep	6	case	_	lemma_gml=tô
 6	Hammelwarden	Hammelwarden	PROPN	_	Number=Sing	10	nmod	_	lemma_gml=hammelwarden
@@ -12758,7 +12758,7 @@
 16	nåvråg	nåvrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	26	advcl	_	lemma_gml=nâvrâgen
 17	un	un	CCONJ	_	_	18	cc	_	lemma_gml=unde
 18	andüden	andüden	VERB	_	VerbForm=Inf	16	conj	_	lemma_gml=andü̂den
-19	dea	doon	AUX	_	Mood=Inf|Number=Sing|Person=3|Tense=Past	18	aux	_	lemma_gml=dôn|SpaceAfter=No
+19	dea	doon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	aux	_	lemma_gml=dôn|SpaceAfter=No
 20	,	,	PUNCT	_	_	24	punct	_	_
 21	dat	dat	SCONJ	_	_	24	mark	_	lemma_gml=dat
 22	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	lemma_gml=hê,sê,et
@@ -12796,8 +12796,8 @@
 1	Wek	wekke	PRON	_	Case=Nom|Number=Plur|PronType=Ind	6	nsubj	_	lemma_gml=welk
 2	van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
 3	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	1	nmod	_	lemma_gml=wî
-4	sünd	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
-5	gelüklik	gelüklik	ADJ	_	Degree=Pos	6	root	_	lemma_gml=gelükkelĩk
+4	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
+5	gelüklik	gelüklik	ADJ	_	Degree=Pos	6	advmod	_	lemma_gml=gelükkelĩk
 6	döärchkoamen	döärchkoamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=dȫrkōmen|SpaceAfter=No
 7	:	:	PUNCT	_	_	9	punct	_	_
 8	von	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
@@ -12841,7 +12841,7 @@
 6	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 7	pakken	pakken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=packent|SpaceAfter=No
 8	;	;	PUNCT	_	_	14	punct	_	_
-9	in	in	ADP	_	Adptype=Prep	11	case	_	lemma_gml=in|SpaceAfter=No
+9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in|SpaceAfter=No
 10	'n	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
 11	ümseen	ümseen	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=ümmesênt
 12	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux	_	lemma_gml=wēsen
@@ -12887,7 +12887,7 @@
 # text_orig = »Solang Du bi mi büst, heff ik Tiet, ümmer Tiet!«
 # text = »Soulange du by my büst, hev ik tyd, ümmer tyd!«
 1	»	»	PUNCT	_	_	8	punct	_	SpaceAfter=No
-2	Solange	soulange	ADV	_	_	5	advmod	_	lemma_gml=sôlange
+2	Soulange	soulange	ADV	_	_	5	advmod	_	lemma_gml=sôlange
 3	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	lemma_gml=dû
 4	by	by	ADP	_	AdpType=Prep	5	case	_	lemma_gml=bî
 5	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	8	advcl	_	lemma_gml=ik
