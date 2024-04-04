@@ -12355,13 +12355,13 @@
 4	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
 5	vroide	vroide	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	lemma_gml=vröude
 6	ouk	ouk	ADV	_	_	7	advmod	_	lemma_gml=ôk
-7	midbeläwen	midbeleaven	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=mitbelēven|SpaceAfter=No
+7	midbeleaven	midbeleaven	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=mitbelēven|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = LSDC_0472_1939_00080_DNS
 # text_orig = De hageln man so rin.
 # text = Dee hagelen man sou rin.
-1	De	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
+1	Dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
 2	hagelen	hagelen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hāgelen
 3	man	men	ADV	_	_	2	advmod	_	lemma_gml=men
 4	sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
@@ -12406,7 +12406,7 @@
 2	linke	link	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	lemma_gml=link
 3	hand	hand	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	obl	_	lemma_gml=hant
 4	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	aux	_	lemma_gml=hebben
-5	sde	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=sê
+5	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=sê
 6	in	in	ADP	_	AdpType=Prep	8	case	_	lemma_gml=in
 7	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 8	syde	syde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	lemma_gml=sîde
@@ -12459,10 +12459,10 @@
 18	stadskole	stadskole	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	lemma_gml=statschôle
 19	vry	vry	ADJ	_	Degree=Pos	15	xcomp	_	lemma_gml=vrî|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	midwochs-	midwochs-	ADV	_	Case=Gen|Gender=Masc|Number=Sing	15	dislocated	_	lemma_gml=mitwēkene
+21	midwochs-	midweakens	ADV	_	_	15	dislocated	_	lemma_gml=mitwēkene
 22	un	un	CCONJ	_	_	23	cc	_	lemma_gml=unde
-23	sünåvends	sünåvends	ADV	_	Case=Gen|Gender=Masc|Number=Sing	21	conj	_	lemma_gml=sonâvent
-24	nåmiddags	nåmiddags	ADV	_	Case=Gen|Gender=Masc|Number=Sing	21	advmod	_	lemma_gml=nâmiddach|SpaceAfter=No
+23	sünåvends	sünåvends	ADV	_	_	21	conj	_	lemma_gml=sonâvent
+24	nåmiddags	nåmiddags	ADV	_	_	21	advmod	_	lemma_gml=nâmiddach|SpaceAfter=No
 25	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
 26	«	«	PUNCT	_	_	4	punct	_	_
 
