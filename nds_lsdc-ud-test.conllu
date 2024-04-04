@@ -12601,7 +12601,7 @@
 8	lütje	lütken	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	lemma_gml=lüttik
 9	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	obj	_	lemma_gml=dorp
 10	grout	grout	ADJ	_	Degree=Pos	11	xcomp	_	lemma_gml=grôt
-11	worden	werden	VERB	_	Tense=Past|VerbForm=Part	2	cop	_	lemma_gml=wērden
+11	worden	werden	VERB	_	Tense=Past|VerbForm=Part	2	ccomp	_	lemma_gml=wērden
 12	bün	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	11	aux	_	lemma_gml=wēsen|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
