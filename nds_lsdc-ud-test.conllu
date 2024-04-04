@@ -12663,7 +12663,7 @@
 1	Aver	aver	CCONJ	_	_	25	cc	_	lemma_gml=āver
 2	sou	sou	ADV	_	_	25	dislocated	_	lemma_gml=sô
 3	as	as	ADV	_	_	10	advmod	_	lemma_gml=alsô
-4	Brommy	Brommy	PROPN	_	Number=Sing	10	conj	_	lemma_gml=brommy
+4	Brommy	Brommy	PROPN	_	Number=Sing	10	nsubj	_	lemma_gml=brommy
 5	to	to	ADP	_	AdpType=Prep	6	case	_	lemma_gml=tô
 6	Hammelwarden	Hammelwarden	PROPN	_	Number=Sing	10	nmod	_	lemma_gml=hammelwarden
 7	in	in	ADP	_	AdpType=Prep	9	case	_	lemma_gml=in
@@ -12762,7 +12762,7 @@
 20	,	,	PUNCT	_	_	24	punct	_	_
 21	dat	dat	SCONJ	_	_	24	mark	_	lemma_gml=dat
 22	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	lemma_gml=hê,sê,et
-23	meyr	veale	PRON	_	Case=Acc|Degree=Cmp|Number=Sing|PronType=Ind	24	obj	_	lemma_gml=vēle
+23	meyr	veale	ADJ	_	Case=Acc|Degree=Cmp|Number=Sing	24	obj	_	lemma_gml=vēle
 24	wüs	weaten	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	18	ccomp	_	lemma_gml=wēten|SpaceAfter=No
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	sprung	springen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	parataxis	_	lemma_gml=springen
@@ -12792,7 +12792,7 @@
 
 # sent_id = LSDC_0493_19th_00273_MVP
 # text_orig = Weck von uns sünd glücklich dörchkamen: von Massow ut Kolberg, Bönninger ut Sülwerbarg un Wagner un Reinhardt ut Magdeborg, äwer dat sei dordörch vel glücklicher worden sünd, heww ick nich hürt.
-# text = Wek van uns sünt gelüklik döärchkoamen: von Massow uut Kolberg, Bönniger uut Sülwerbarg un Wagner un Reinhardt uut Magdeborg, äver dat see dårdöärch veal gelükliker worden sünt, hev ik nich höyrd.
+# text = Wek van uns sünt gelüklik döärchkoamen: von Massow uut Kolberg, Bönninger uut Sülwerbarg un Wagner un Reinhardt uut Magdeborg, äver dat see dårdöärch veal gelükliker worden sünt, hev ik nich höyrd.
 1	Wek	wekke	PRON	_	Case=Nom|Number=Plur|PronType=Ind	6	nsubj	_	lemma_gml=welk
 2	van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
 3	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	1	nmod	_	lemma_gml=wî
