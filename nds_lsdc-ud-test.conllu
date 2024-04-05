@@ -13429,12 +13429,12 @@
 48	dale	dale	ADV	_	_	47	advmod	_	lemma_gml=dāle|SpaceAfter=No
 49	,	,	PUNCT	_	_	52	punct	_	_
 50	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê,dê,dat
-51	swaerd	swaerd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	52	obl	_	lemma_gml=swērt
-52	dalevyrd	dalevyrd	ADJ	_	Tense=Past|VerbForm=Part	42	amod	_	lemma_gml=dālevîrt
+51	swaerd	swaerd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	52	nsubj	_	lemma_gml=swērt
+52	dalevyrd	dalevyrd	ADJ	_	Tense=Past|VerbForm=Part	42	advcl	_	lemma_gml=dālevîrt
 53	un	un	CCONJ	_	_	56	cc	_	lemma_gml=unde
 54	de	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	55	det	_	lemma_gml=dê,dê,dat
-55	seils	seil	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	56	conj	_	lemma_gml=sēgel
-56	vul	vul	ADJ	_	Degree=Pos	52	amod	_	lemma_gml=vul
+55	seils	seil	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	56	nsubj	_	lemma_gml=sēgel
+56	vul	vul	ADJ	_	Degree=Pos	52	conj	_	lemma_gml=vul
 57	wind	wind	NOUN	_	Gender=Masc|Number=Sing	56	nmod	_	lemma_gml=wint|SpaceAfter=No
 58	!	!	PUNCT	_	_	15	punct	_	_
 
