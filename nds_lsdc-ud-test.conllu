@@ -13320,10 +13320,10 @@
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
 23	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	lemma_gml=ōlt
-24	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	25	nmod	_	lemma_gml=vāder
-25	Tietens	Tietens	PROPN	_	Number=Sing	32	nsubj	_	lemma_gml=tietens
+24	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nmod	_	lemma_gml=vāder
+25	Tietens	Tietens	PROPN	_	Number=Sing	24	flat	_	lemma_gml=tietens
 26	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	cop	_	lemma_gml=wēsen
-27	dår	dår	ADV	_	_	32	advmod	_	lemma_gml=dâr
+27	dår	dår	ADV	_	_	32	obl	_	lemma_gml=dâr
 28	nu	nu	ADV	_	_	32	advmod	_	lemma_gml=nû
 29	ouk	ouk	ADV	_	_	32	advmod	_	lemma_gml=ôk
 30	jå	ja	ADV	_	_	32	advmod	_	lemma_gml=jâ
@@ -13363,6 +13363,80 @@
 4	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	lemma_gml=man
 5	jümmers	immer	ADV	_	_	3	advmod	_	lemma_gml=iemmer|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = LSDC_0521_1939_00100_DNS
+# text_orig = Un richtig, se fünn' Hiem-Hannes dod.
+# text = Un richtig, see vünden Hiem-Hannes doud.
+1	Un	un	CCONJ	_	_	2	cc	_	lemma_gml=unde
+2	richtig	richtig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=richtich|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=sê
+5	vünden	vinden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	parataxis	_	lemma_gml=vinden
+6	Hiem-Hannes	Hiem-hannes	PROPN	_	Number=Sing	5	nsubj	_	lemma_gml=hiem-hannes
+7	doud	doud	ADJ	_	Degree=Pos	5	xcomp	_	lemma_gml=dôt|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_0522_1939_00118_DNS
+# text_orig = Noch een ganze Tied muß de Seilmoker Morgen for Morgen de Pütz vull Woter opslogen, den Finger rinstippen un seggen: »Noch jümmer seut, Hein!« – ober toletzt keem doch de grote Dag: de Jalk krüz dwars von Glückstadt de Elf dol, dat Sweert dolfiert un de Seils vull Wind!
+# text = Noch en ganse tyd mus de seilmaker morgen voar morgen de püts vul water upslågen, den vinger rinstippen un seggen: »Noch jümmer sööt, Hein!« – aver tolest kaem doch de groute dag: de jalke krüüts dwars van Glückstadt de Elve dale, dat swaerd dalevyrd un de seils vul wind!
+1	Noch	noch	ADV	_	_	4	advmod	_	lemma_gml=noch
+2	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
+3	ganse	gans	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	lemma_gml=gans
+4	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	lemma_gml=tît
+5	mus	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	aux	_	lemma_gml=mö̂ten
+6	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	seilmaker	seilmaker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	lemma_gml=sêilmāker
+8	morgen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	nmod	_	lemma_gml=morgen
+9	voar	vöär	ADP	_	AdpType=Prep	10	case	_	lemma_gml=vȫr
+10	morgen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	lemma_gml=morgen
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	püts	püts	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	obl	_	lemma_gml=pot
+13	vul	vul	ADJ	_	Degree=Pos	15	xcomp	_	lemma_gml=vul
+14	water	water	NOUN	_	Gender=Neut|Number=Sing	13	nmod	_	lemma_gml=wāter
+15	upslågen	upslån	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=uppeslân|SpaceAfter=No
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+18	vinger	vinger	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	lemma_gml=vinger
+19	rinstippen	herinstippen	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=hērinstippen
+20	un	un	CCONJ	_	_	21	cc	_	lemma_gml=unde
+21	seggen	seggen	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=seggen|SpaceAfter=No
+22	:	:	PUNCT	_	_	26	punct	_	_
+23	»	»	PUNCT	_	_	26	punct	_	SpaceAfter=No
+24	Noch	noch	ADV	_	_	26	advmod	_	lemma_gml=noch
+25	jümmer	immer	ADV	_	_	26	advmod	_	lemma_gml=iemmer
+26	sööt	sööt	ADJ	_	Degree=Pos	21	amod	_	lemma_gml=sö̂te|SpaceAfter=No
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	Hein	Hein	PROPN	_	Number=Sing	26	vocative	_	SpaceAfter=No
+29	!	!	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	«	«	PUNCT	_	_	26	punct	_	_
+31	–	–	PUNCT	_	_	34	punct	_	_
+32	aver	aver	CCONJ	_	_	34	cc	_	lemma_gml=āver
+33	tolest	tolest	ADV	_	_	34	advmod	_	lemma_gml=tôlast
+34	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=kōmen
+35	doch	doch	ADV	_	_	34	advmod	_	lemma_gml=doch
+36	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	lemma_gml=dê,dê,dat
+37	groute	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	lemma_gml=grôt
+38	dag	dag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	lemma_gml=dach|SpaceAfter=No
+39	:	:	PUNCT	_	_	34	punct	_	_
+40	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	lemma_gml=dê,dê,dat
+41	jalke	jalke	NOUN	_	Number=Sing	42	nsubj	_	lemma_gml=jolleken
+42	krüüts	krüütsen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	34	parataxis	_	lemma_gml=krü̂zen
+43	dwars	dwers	ADV	_	_	42	advmod	_	lemma_gml=dwers
+44	van	van	ADP	_	AdpType=Prep	45	case	_	lemma_gml=van
+45	Glückstadt	Glückstadt	PROPN	_	Number=Sing	42	obl	_	lemma_gml=glückstadt
+46	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	lemma_gml=dê,dê,dat
+47	Elve	Elve	PROPN	_	Number=Sing	42	obj	_	lemma_gml=elf
+48	dale	dale	ADV	_	_	47	advmod	_	lemma_gml=dāle|SpaceAfter=No
+49	,	,	PUNCT	_	_	52	punct	_	_
+50	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê,dê,dat
+51	swaerd	swaerd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	52	obl	_	lemma_gml=swērt
+52	dalevyrd	dalevyrd	ADJ	_	Tense=Past|VerbForm=Part	42	amod	_	lemma_gml=dālevîrt
+53	un	un	CCONJ	_	_	56	cc	_	lemma_gml=unde
+54	de	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	55	det	_	lemma_gml=dê,dê,dat
+55	seils	seil	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	56	conj	_	lemma_gml=sēgel
+56	vul	vul	ADJ	_	Degree=Pos	52	amod	_	lemma_gml=vul
+57	wind	wind	NOUN	_	Gender=Masc|Number=Sing	56	nmod	_	lemma_gml=wint|SpaceAfter=No
+58	!	!	PUNCT	_	_	15	punct	_	_
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
