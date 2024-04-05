@@ -12346,7 +12346,7 @@
 54	geweaten	geweaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	51	nmod	_	lemma_gml=gewēten|SpaceAfter=No
 55	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0471_20th_00105_DNS
+# sent_id = LSDC_0471_DNS_1909_NNI_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
 # text_orig = So schält se de Freude ok mit beläwen.
 # text = Sou sköälet see de vroide ouk midbeleaven.
 1	Sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
@@ -12358,7 +12358,7 @@
 7	midbeleaven	midbeleaven	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=mitbelēven|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0472_1939_00080_DNS
+# sent_id = LSDC_0472_DNS_1919_HOL_holsteynsk_minschen-bi-hamborg-rum
 # text_orig = De hageln man so rin.
 # text = Dee hagelen man sou rin.
 1	Dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
