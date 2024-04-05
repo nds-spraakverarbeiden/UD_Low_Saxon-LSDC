@@ -13015,7 +13015,7 @@
 13	,	,	PUNCT	_	_	16	punct	_	_
 14	un	un	CCONJ	_	_	16	cc	_	lemma_gml=unde
 15	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=hê,sê,et
-16	dee	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	lemma_gml=dôn
+16	dea	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	lemma_gml=dôn
 17	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	16	obj	_	lemma_gml=dê,dê,dat
 18	gaerne	gaerne	ADV	_	_	16	advmod	_	lemma_gml=gērne|SpaceAfter=No
 19	.	.	PUNCT	_	_	16	punct	_	_
@@ -13024,7 +13024,7 @@
 # text_orig = Dat's en trurigen Kraam!
 # text = Dat is en trurigen kråm!
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Art	5	nsubj	_	lemma_gml=dê,dê,dat
-2	is	weasen	AUX	_	Mood=Ind|Number=Singer|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
+2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
 3	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
 4	trurigen	trurig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	lemma_gml=trûrich
 5	kråm	kråm	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=krâm|SpaceAfter=No
@@ -13063,7 +13063,7 @@
 7	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	lemma_gml=dê,dê,dat
 8	höldt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
 9	mål	mål	ADV	_	_	10	advmod	_	lemma_gml=mâl
-10	so	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
+10	sou	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
 11	lange	lang	ADV	_	_	8	advmod	_	lemma_gml=lanc
 12	as	as	ADP	_	_	14	case	_	lemma_gml=alsô
 13	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=êin,êine,êin
@@ -13107,7 +13107,7 @@
 6	–	–	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0510_19th_00234_MVP
-# text = – »Wo?« rep sei, »dit wir jo doch snurrig!
+# text_orig = – »Wo?« rep sei, »dit wir jo doch snurrig!
 # text = – »Wo?« reyp see, »dit weer jo doch snurrig!
 1	–	–	PUNCT	_	_	6	punct	_	_
 2	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -13127,9 +13127,9 @@
 
 # sent_id = LSDC_0511_19th_00256_MVP
 # text_orig = »»Wo?
-# text = »»Woor?
+# text = »»Wo?
 1	»»	»»	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Wo	woor	ADV	_	_	0	root	_	lemma_gml=wô|SpaceAfter=No
+2	Wo	wo	ADV	_	_	0	root	_	lemma_gml=wô|SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0512_1939_00289_DNS
@@ -13157,7 +13157,7 @@
 20	jalken	jalke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	24	obl	_	lemma_gml=jolleken
 21	sodder	seader	ADP	_	AdpType=Prep	23	case	_	lemma_gml=sēder
 22	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
-23	nibelungentyd	nibelungentyd	NOUN	_	Case=Acc,Dat|Foreign=Yes|Gender=Fem|Number=Sing	24	obl	_	lemma_gml=nibelungentît
+23	nibelungentyd	nibelungentyd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	24	obl	_	lemma_gml=nibelungentît
 24	bedacht	bedenken	VERB	_	Tense=Past|VerbForm=Part	13	acl:relcl	_	lemma_gml=bedenken
 25	un	un	CCONJ	_	_	27	cc	_	lemma_gml=unde
 26	uutvundig	uutvündig	ADJ	_	Degree=Pos	27	xcomp	_	lemma_gml=ûtvindich
@@ -13204,10 +13204,10 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = LSDC_0515_19th_00245_DNS
-# text = Un – wa sunnerbar – oft keem se daræwer ernsthafti op de würklige Adam un Eva to spreken, æwer't Paradies, den Garn Eden, æwer de eersten Minschen, æwer all dat wat se in Tru un Globen in de Bibel lest harrn un wat er Seel harr anfat.
+# text_orig = Un – wa sunnerbar – oft keem se daræwer ernsthafti op de würklige Adam un Eva to spreken, æwer't Paradies, den Garn Eden, æwer de eersten Minschen, æwer all dat wat se in Tru un Globen in de Bibel lest harrn un wat er Seel harr anfat.
 # text = Un – wo wunderbår – oft kaem see dåröäver eernsthaftig up de würklike Adam un Eva to spreaken, öäver dat paradys, den gaarden Eden, öäver de eyrsten minsken, öäver al dat wat see in truw un gelouven in de bybel leasd hadden un wat ear seyle hadde anvated.
 1	Un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
-2	–	–	PUNCT	_	_	4	cc	_	_
+2	–	–	PUNCT	_	_	4	punct	_	_
 3	wo	wo	ADV	_	_	4	advmod	_	lemma_gml=wô
 4	sunderbår	sunderbår	ADJ	_	Degree=Pos	7	parataxis	_	lemma_gml=sunderbâr
 5	–	–	PUNCT	_	_	4	punct	_	_
