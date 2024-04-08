@@ -14386,7 +14386,7 @@
 6	botter-	botter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	obl	_	lemma_gml=botter
 7	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	lemma_gml=wēsen
 8	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
-9	hönnigtyd	honnigtyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=hōnichtît
+9	hönnigtyd	honnigtyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=hōnichtît|SpaceAfter=No
 10	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0564_1939_00082_DNS
