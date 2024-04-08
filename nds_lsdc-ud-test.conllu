@@ -14240,9 +14240,9 @@
 # sent_id = LSDC_0556_20th_00216_DNS
 # text_orig = Ick fragd är: »na, heiji van mi snackt, denn snackt man to, dat mag ick ok woll mit anhören.«
 # text = Ik vrågde ear: »na, heb jy van my snakked, dän snakket man to, dat mag ik ouk wol mid anhöyren.«
-1	Ick	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
 2	vrågde	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=vrâgen
-3	ear	see	PRON	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	obj	_	lemma_gml=hê,sê,et|SpaceAfter=No
+3	ear	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et|SpaceAfter=No
 4	:	:	PUNCT	_	_	2	punct	_	_
 5	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
 6	na	na	INTJ	_	_	12	discourse	_	lemma_gml=na|SpaceAfter=No
@@ -14310,7 +14310,7 @@
 
 # sent_id = LSDC_0560_1939_00232_MVP
 # text_orig = Äwerst de olde terretne und blinde Fru künn sick nich trösten, nich äwer ehr utgereten Oog un terspleten Gesicht, sünnern äwer de dooden Katten.
-# text = Ävers de olde terreatene un blinde vrouwe kün sik nich tröysten, nich öäver ear uutgereaten ouge un terspleaten gesichte, sündern öäver de douden katten.
+# text = Äverst de olde terreatene un blinde vrouwe kün sik nich tröysten, nich öäver ear uutgereaten ouge un terspleaten gesichte, sündern öäver de douden katten.
 1	Äverst	aver	CCONJ	_	_	11	cc	_	lemma_gml=āver
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 3	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	lemma_gml=ōlt
@@ -14325,7 +14325,7 @@
 12	,	,	PUNCT	_	_	17	punct	_	_
 13	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma_gml=nicht
 14	öäver	öäver	ADP	_	AdpType=Prep	17	case	_	lemma_gml=ȫver
-15	ear	ear	ADV	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	advmod	_	lemma_gml=sîn,ēr,sîn
+15	ear	ear	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	advmod	_	lemma_gml=sîn,ēr,sîn
 16	uutgereaten	uutreaten	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	17	amod	_	lemma_gml=ûtgerēten
 17	ouge	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	lemma_gml=ôge
 18	un	un	CCONJ	_	_	20	cc	_	lemma_gml=unde
@@ -14413,9 +14413,9 @@
 # text_orig = PASTER treckt sinen Oilrock an.
 # text = Pastor trekt synen öölrok an.
 1	Pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=pâstôr
-2	treckt	trekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=trecken
-3	sinen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=sîn,ēr,sîn
-4	Oilrock	öölrok	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=ȫlierok
+2	trekt	trekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=trecken
+3	synen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=sîn,ēr,sîn
+4	öölrok	öölrok	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=ȫlierok
 5	an	an	ADP	_	_	2	compound:prt	_	lemma_gml=an|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -14437,9 +14437,9 @@
 13	un	un	CCONJ	_	_	14	cc	_	lemma_gml=unde
 14	vorwandel	vorwandelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=vorwandelen
 15	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	lemma_gml=sik
-16	nå	nå	ADP	_	_	14	advmod	_	lemma_gml=nâ
+16	nå	nå	ADV	_	_	14	advmod	_	lemma_gml=nâ
 17	un	un	CCONJ	_	_	16	cc	_	lemma_gml=unde
-18	nå	nå	ADP	_	_	16	conj	_	lemma_gml=nâ
+18	nå	nå	ADV	_	_	16	conj	_	lemma_gml=nâ
 19	in	in	ADP	_	AdpType=Prep	21	case	_	lemma_gml=in
 20	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	21	det	_	lemma_gml=êin,êine,êin
 21	stük	stük	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=stücke
@@ -14450,7 +14450,7 @@
 
 # sent_id = LSDC_0567_19th_00249_MVP
 # text_orig = - »Wat för ’ne Kist?« frog hei un fohrt tau Höcht, as hadd em ’ne Adder steten.
-# text = – »Wat vöär ne kiste?« vråg hee un vaart to höygde, as hadde em ne adder steaken.
+# text = - »Wat vöär ne kiste?« vråg hee un vaart to höygde, as hadde em ne adder steaken.
 # remarks = Corrected 'steten' to 'steken' based on scan of original text.
 1	-	-	PUNCT	_	_	3	punct	_	_
 2	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -14505,13 +14505,13 @@
 
 # sent_id = LSDC_0570_1939_00060_DNS
 # text_orig = 'n Morgen in de Bood alltohoop!
-# text = 'N morgen in de bode altohoup!
+# text = 'N morgen in de bode altohoupe!
 1	'N	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	lemma_gml=gôt
 2	morgen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	lemma_gml=morgen
 3	in	in	ADP	_	AdpType=Prep	5	case	_	lemma_gml=in
 4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
 5	bode	bode	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=bôde
-6	altohoupe	altohoup	PRON	_	Case=Nom|Number=Plur|PronType=Tot	2	advmod	_	lemma_gml=altôhôpe|SpaceAfter=No
+6	altohoupe	altohoupe	ADV	_	_	2	advmod	_	lemma_gml=altôhôpe|SpaceAfter=No
 7	!	!	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
