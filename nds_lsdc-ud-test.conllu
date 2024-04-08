@@ -13720,7 +13720,7 @@
 
 # sent_id = LSDC_0538_19th_00294_MVP
 # text_orig = – Hei tred en por Schritt von mi taurügg, dat hei mi ut de Fingern kamm, un säd dunn, indem dat hei mi von baben bet unnen besach un tauletzt ok mine Waden – grad as bi den Erzbischoff – in't Og faten ded: »So ein Klotz!« – grad as bi den Erzbischoff.
-# text = – Hee tread en pår skrid van my torügge, dat hee my uut de vingeren kam, un sead dun, indeam dat hee my van boaven bet unden besag un lotest ouk myne waden – gerade as by den ersbiskop – in dat ouge vaten dead: »Sou en klot!« – gerade as by den ersbiskop.
+# text = – Hee tread en pår skrid van my torügge, dat hee my uut de vingeren kam, un sead dun, indeam dat hee my van boaven bet unden besag un tolest ouk myne waden – gerade as by den ersbiskop – in dat ouge vaten dead: »Sou en klot!« – gerade as by den ersbiskop.
 1	–	–	PUNCT	_	_	3	punct	_	_
 2	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
 3	tread	treaden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=trēden
@@ -13745,7 +13745,7 @@
 22	,	,	PUNCT	_	_	31	punct	_	_
 23	indeam	indeam	SCONJ	_	_	31	mark	_	lemma_gml=indēme
 24	dat	dat	SCONJ	_	_	31	mark	_	lemma_gml=dat
-25	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|Tense=Pres	31	nsubj	_	lemma_gml=hê,sê,et
+25	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	lemma_gml=hê,sê,et
 26	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	31	obj	_	lemma_gml=ik
 27	van	van	ADP	_	AdpType=Prep	28	case	_	lemma_gml=van
 28	boaven	boaven	ADV	_	_	31	advmod	_	lemma_gml=bōven
@@ -13781,7 +13781,7 @@
 58	as	as	SCONJ	_	_	61	mark	_	lemma_gml=alsô
 59	by	by	ADP	_	AdpType=Prep	61	case	_	lemma_gml=bî
 60	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	lemma_gml=dê,dê,dat
-61	ersbiskop	ersbiskop	NOUN	_	Case=Acc,Dat|Foreign=Yes|Gender=Masc|Number=Sing	20	parataxis	_	lemma_gml=archebischop|SpaceAfter=No
+61	ersbiskop	ersbiskop	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	20	parataxis	_	lemma_gml=archebischop|SpaceAfter=No
 62	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0539_1939_00112_DNS
@@ -13831,7 +13831,7 @@
 4	morgen	morgen	ADV	_	_	8	advmod	_	lemma_gml=morgen
 5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma_gml=in
 6	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
-7	kerke	kerke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	8	obl	_	lemma_gml=kerke
+7	karke	kerke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	8	obl	_	lemma_gml=kerke
 8	singen	singen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=singen|SpaceAfter=No
 9	:	:	PUNCT	_	_	8	punct	_	_
 10	Hoho	hoho	INTJ	_	_	13	discourse	_	lemma_gml=hôhô
@@ -13918,7 +13918,7 @@
 
 # sent_id = LSDC_0545_19th_00264_MVP
 # text_orig = Dat hadd denn nu de Kapteihn woll nich in mi söcht, denn hei was ogenschinlich erfreut, as hei dat tau hüren kreg, un hei würd noch tauvertrulicher un verteilte mi nu, hei hadd sin Auguste nahsten nochmals spraken, as de Oll up de Parad' gahn was.
-# text = De hadde dän nu de kaptein wol nich in my söcht, dän hee was ougenskynlik ervroid, as hee dat to höyren kreyg, un hee würd noch tovortruwliker un vortelde my nu, hee hadde syn Auguste nåsten nochmåls sproaken, as de olde up de parade gån was.
+# text = Dat hadde dän nu de kaptein wol nich in my söcht, dän hee was ougenskynlik ervroid, as hee dat to höyren kreyg, un hee würd noch tovortruwliker un vortelde my nu, hee hadde syn Auguste nåsten nochmåls sproaken, as de olde up de parade gån was.
 1	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	lemma_gml=dê,dê,dat
 2	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	aux	_	lemma_gml=hebben
 3	dän	dän	ADV	_	_	11	advmod	_	lemma_gml=den
@@ -13980,7 +13980,7 @@
 3	gaar	gaar	ADV	_	_	4	advmod	_	lemma_gml=gār
 4	niks	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Neg	2	obj	_	lemma_gml=nichtes
 5	to	to	PART	_	PartType=Inf	6	mark	_	lemma_gml=tô
-6	seggen	seggen	VERB	_	VerbForm=Inf	2	root	_	lemma_gml=seggen|SpaceAfter=No
+6	seggen	seggen	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=seggen|SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	_
 8	wän	wän	SCONJ	_	_	13	mark	_	lemma_gml=wan
 9	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
@@ -14085,7 +14085,7 @@
 19	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
 20	grötste	grout	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	22	amod	_	lemma_gml=grôt
 21	düütske	düütsk	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	lemma_gml=dü̂desch
-22	skip	skip	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	29	nsubj	_	lemma_gml=schip
+22	skip	skip	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	29	obl	_	lemma_gml=schip
 23	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
 24	name	name	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	29	obj	_	lemma_gml=nāme
 25	van	van	ADP	_	AdpType=Prep	28	case	_	lemma_gml=van
