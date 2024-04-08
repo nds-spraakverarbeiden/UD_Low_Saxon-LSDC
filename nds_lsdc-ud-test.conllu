@@ -13633,7 +13633,7 @@
 
 # sent_id = LSDC_0535_1939_00089_DNS
 # text_orig = Aver se lees dat Book doch ümmer wedder un dach darbi an sik sülben.
-# text = Aver see leas dat book doch ümmer wedder un dacht dårby an sik sülven.
+# text = Aver see leas dat book doch ümmer wedder un dach dårby an sik sülven.
 1	Aver	aver	CCONJ	_	_	3	cc	_	lemma_gml=āver
 2	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=sê
 3	leas	leasen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lēsen
@@ -13652,7 +13652,7 @@
 
 # sent_id = LSDC_0536_20th_00263_DNS
 # text_orig = Un wenn een un de anner dat nich glöwen wull, denn sett he hento: »De Discher hett mi't seggt, de würr't nich seggen, wenn't nich wahr weer, un dat Sark hev ik sülben sehn.«
-# text = Un wän eyn un de ander dat nich gelöyven wil, dän set hee hento: »De disker het my dat segd, dee würd et nich seggen, wän et nich wår weer, un dat sark hev ik sülven seen.«
+# text = Un wän eyn un de ander dat nich gelöyven wul, dän set hee hento: »De disker het my dat segd, dee würd et nich seggen, wän et nich wår weer, un dat sark hev ik sülven seen.«
 1	Un	un	CCONJ	_	_	13	cc	_	lemma_gml=unde
 2	wän	wän	SCONJ	_	_	9	mark	_	lemma_gml=wan
 3	eyn	eyn	PRON	_	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	lemma_gml=êin,êine,êin
