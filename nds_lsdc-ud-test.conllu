@@ -14536,7 +14536,7 @@
 
 # sent_id = LSDC_0573_1939_00140_DNS
 # text_orig = Wenn man disse ganze Musik in een' Putt smitt, denn mag dat ja woll en gewisse Ähnlichkeit mit dat Palschen von de Waggen von de See, dat Knarren von dat Schipp un dat Ropen von de Kommandörs hebben, – genog Peter Urbrook meen, he swömm up een von de groten Scheep, de he hütmorgen sehn harr, up hoge See.
-# text = Wän man disse ganse musik in eynen put smit, dän mag dat jå wol en gewisse äänlikheid mid dat palsken van de waggen van de sey, dat knarren van dat skip un dat ropen van de kommandöörs hebben, – genoog, Peter Urbrook meyn, hee swöm up eyn van de grouten skeape, dee hee hüüdmorgen seen hadde, up houge sey.
+# text = Wän man disse ganse musik in eynen put smit, dän mag dat jå wol en gewisse äänlikheid mid dat palsken van de waggen van de sey, dat knarren van dat skip un dat ropen van de kommandöörs hebben, – genoog Peter Urbrook meyn, hee swöm up eyn van de grouten skeape, dee hee hüüdmorgen seen hadde, up houge sey.
 1	Wän	wän	SCONJ	_	_	9	mark	_	lemma_gml=wan
 2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	lemma_gml=man
 3	disse	disse	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	lemma_gml=desse,desse,dit
@@ -14630,7 +14630,7 @@
 6	Anna	Anna	PROPN	_	Number=Sing	5	nsubj	_	lemma_gml=anna
 7	Susanna	Susanna	PROPN	_	Number=Sing	6	flat	_	lemma_gml=susanna
 8	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
-9	schüddel	sküddelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=schüddelen
+9	sküddel	sküddelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=schüddelen
 10	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	lemma_gml=sik|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	_
 12	ober	aver	CCONJ	_	_	14	cc	_	lemma_gml=āver
@@ -14730,7 +14730,7 @@
 1	Buten	buten	ADV	_	_	0	root	_	lemma_gml=bûten
 2	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
 3	grysen	grys	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	lemma_gml=grîs
-4	Winterdag	winterdag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	lemma_gml=winterdach|SpaceAfter=No
+4	winterdag	winterdag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	lemma_gml=winterdach|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = LSDC_0581_1939_00237_DNS
@@ -14825,7 +14825,7 @@
 
 # sent_id = LSDC_0585_19th_00270_DNS
 # text_orig = Un darmit weer denn de gewöhnlige Larm inleidt un de ole Strit nie anfungn, ob Napoleon en groten Mann weer oder de ol Fritz, bet man toletz to en Punkt keem, wo man doch ni wieder keem, as gegen enanner an schriegen, un denn war man wedder ruhig un vernünftig.
-# text = Un dårmid weer dän de gewöänlike larm inleided un de olde stryd ny anvungen, of Napoleon en grouten man weer odder de old Fritz, bet man tolest to en punkt kaem, woor man doch nich wyder kaem, as geagen enander an skrygen un dän word man wedder rowig un vornüftig.
+# text = Un dårmid weer dän de gewöänlike larm inleided un de olde stryd ny anvungen, of Napoleon en grouten man weer odder de old Fritz, bet man tolest to en punkt kaem, woor man doch nich wyder kaem, as geagen enander an skrygen, un dän word man wedder rowig un vornüftig.
 1	Un	un	CCONJ	_	_	8	cc	_	lemma_gml=unde
 2	dårmid	dårmid	ADV	_	_	8	advmod	_	lemma_gml=dârmēde
 3	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	lemma_gml=wēsen
@@ -14978,7 +14978,7 @@
 
 # sent_id = LSDC_0590_19th_00260_MVP
 # text_orig = Dürten was ok upsprungen un kek äwer den Konrekter sine Schuller un säd mit en gewissen Ingrimm vör sick hen: »De olle Gel!« –
-# text = Dürten was ouk upsprungen un keyk äver den konrektor syn skulder un sead mid en gewissen ingrim vöär sik hen: »De olde Gel!« –
+# text = Dürten was ouk upsprungen un keyk äver den konrektor syne skulder un sead mid en gewissen ingrim vöär sik hen: »De olde Gel!« –
 1	Dürten	Dürten	PROPN	_	Number=Sing	4	nsubj	_	_
 2	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	lemma_gml=wēsen
 3	ouk	ouk	ADV	_	_	4	advmod	_	lemma_gml=ôk
@@ -15232,7 +15232,7 @@
 
 # sent_id = LSDC_0600_19th_00251_MVP
 # text_orig = Hadd hei äwer wüßt, wat dit Wurd bi den ollen Herrn in den Mun'n führt, hadd hei woll so nich fragt, denn in'n Bösen gedacht de oll Herr sindag' nich wat; dat Bös' gung an em voräwer, dat hackte em nich an, un hei makte drei Krüzen achter her; kamm em äwer dat Gaude entgegen, denn was em bang, dat hei't so rasch verliren süll, denn heit dat: »Neiting, Fritz Sahlmann, Westphalen, Kinnings, helpt mi doran gedenken.«
-# text = Hadde hee äver wüst, wat dit woord by den olden herren in den munde vöört, hadde hee wol sou nich vrågd, dän in 'n böysen gedacht de olde her syndage nich wat; dat böyse gung an em voaröäver, dat hakkede em nich an, un hee makede dree krüütsen achter; kam em äver dat gode entgeagen, dän was em bange, dat hee et sou rask vorleren sül, än heyt dat: »Neiting, Fritz Sahlmann, Westphalen, kinnings, helpet my dåran gedenken.«
+# text = Hadde hee äver wüst, wat dit woord by den olden herren in den munde vöört, hadde hee wol sou nich vrågd, dän in 'n böysen gedacht de olde her syndage nich wat; dat böyse gung an em voaröäver, dat hakkede em nich an, un hee makede dree krüütsen achter her; kam em äver dat gode entgeagen, dän was em bange, dat hee et sou rask vorleren sül, än heyt dat: »Neiting, Fritz Sahlmann, Westphalen, kinnings, helpet my dåran gedenken.«
 1	Hadde	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	4	advcl	_	lemma_gml=hebben
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=hê,sê,et
 3	äver	aver	ADV	_	_	4	advmod	_	lemma_gml=āver
