@@ -14633,16 +14633,16 @@
 9	sküddel	sküddelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=schüddelen
 10	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	lemma_gml=sik|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	_
-12	ober	aver	CCONJ	_	_	14	cc	_	lemma_gml=āver
+12	aver	aver	CCONJ	_	_	14	cc	_	lemma_gml=āver
 13	Haharm	Haharm	PROPN	_	Number=Sing	14	nsubj	_	lemma_gml=haharm
-14	hög	höägen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=hȫgen
+14	höäg	höägen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=hȫgen
 15	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	lemma_gml=sik
 16	un	un	CCONJ	_	_	17	cc	_	lemma_gml=unde
-17	sä	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	conj	_	lemma_gml=seggen|SpaceAfter=No
+17	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	conj	_	lemma_gml=seggen|SpaceAfter=No
 18	:	:	PUNCT	_	_	17	punct	_	_
 19	»	»	PUNCT	_	_	21	punct	_	SpaceAfter=No
-20	All	al	PRON	_	Case=Nom|Number=Sing|PronType=Tot	21	det	_	lemma_gml=al
-21	Aappelmoos	appelmoos	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	ccomp	_	lemma_gml=appelmôs|SpaceAfter=No
+20	Al	al	PRON	_	Case=Nom|Number=Sing|PronType=Tot	21	det	_	lemma_gml=al
+21	appelmoos	appelmoos	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	ccomp	_	lemma_gml=appelmôs|SpaceAfter=No
 22	!	!	PUNCT	_	_	21	punct	_	SpaceAfter=No
 23	«	«	PUNCT	_	_	21	punct	_	_
 
@@ -15232,7 +15232,7 @@
 
 # sent_id = LSDC_0600_19th_00251_MVP
 # text_orig = Hadd hei äwer wüßt, wat dit Wurd bi den ollen Herrn in den Mun'n führt, hadd hei woll so nich fragt, denn in'n Bösen gedacht de oll Herr sindag' nich wat; dat Bös' gung an em voräwer, dat hackte em nich an, un hei makte drei Krüzen achter her; kamm em äwer dat Gaude entgegen, denn was em bang, dat hei't so rasch verliren süll, denn heit dat: »Neiting, Fritz Sahlmann, Westphalen, Kinnings, helpt mi doran gedenken.«
-# text = Hadde hee äver wüst, wat dit woord by den olden herren in den munde vöört, hadde hee wol sou nich vrågd, dän in 'n böysen gedacht de olde her syndage nich wat; dat böyse gung an em voaröäver, dat hakkede em nich an, un hee makede dree krüütsen achter her; kam em äver dat gode entgeagen, dän was em bange, dat hee et sou rask vorleren sül, än heyt dat: »Neiting, Fritz Sahlmann, Westphalen, kinnings, helpet my dåran gedenken.«
+# text = Hadde hee äver wüst, wat dit woord by den olden herren in den munde vöört, hadde hee wol sou nich vrågd, dän in 'n böysen gedacht de olde her syndage nich wat; dat böyse gung an em voaröäver, dat hakkede em nich an, un hee makede dree krüütsen achter her; kam em äver dat gode entgeagen, dän was em bange, dat hee et sou rask vorleren sül, dän heyt dat: »Neiting, Fritz Sahlmann, Westphalen, kinnings, helpet my dåran gedenken.«
 1	Hadde	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	4	advcl	_	lemma_gml=hebben
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=hê,sê,et
 3	äver	aver	ADV	_	_	4	advmod	_	lemma_gml=āver
