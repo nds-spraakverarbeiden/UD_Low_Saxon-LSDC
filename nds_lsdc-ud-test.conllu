@@ -14531,12 +14531,12 @@
 2	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	1	expl:pv	_	lemma_gml=dû
 3	up	up	ADP	_	AdpType=Prep	5	case	_	lemma_gml=uppe
 4	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
-5	hyrådsgedanken	hyrådsgedanke	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	lemma_gml=hîrâtsgedanke
+5	hyrådsgedanken	hyrådsgedanke	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	lemma_gml=hîrâtsgedanke|SpaceAfter=No
 6	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = LSDC_0573_1939_00140_DNS
 # text_orig = Wenn man disse ganze Musik in een' Putt smitt, denn mag dat ja woll en gewisse Ähnlichkeit mit dat Palschen von de Waggen von de See, dat Knarren von dat Schipp un dat Ropen von de Kommandörs hebben, – genog Peter Urbrook meen, he swömm up een von de groten Scheep, de he hütmorgen sehn harr, up hoge See.
-# text = Wän man disse ganse musik in eynen put smit, dän mag dat jå wol en gewisse äänlikheid mid dat palsken van de waggen van de see, dat knarren van dat skip un dat ropen van de kommandöörs hebben, – genoog, Peter Urbrook meyn, hee swöm up eyn van de grouten skeape, dee hee hüüdmorgen seen hadde, up houge sey.
+# text = Wän man disse ganse musik in eynen put smit, dän mag dat jå wol en gewisse äänlikheid mid dat palsken van de waggen van de sey, dat knarren van dat skip un dat ropen van de kommandöörs hebben, – genoog, Peter Urbrook meyn, hee swöm up eyn van de grouten skeape, dee hee hüüdmorgen seen hadde, up houge sey.
 1	Wän	wän	SCONJ	_	_	9	mark	_	lemma_gml=wan
 2	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	lemma_gml=man
 3	disse	disse	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	lemma_gml=desse,desse,dit
@@ -14626,7 +14626,7 @@
 2	Igitigitigitigit	igit	INTJ	_	_	5	ccomp	_	lemma_gml=igit|SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
 4	«	«	PUNCT	_	_	2	punct	_	_
-5	reep	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=rôpen
+5	reyp	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=rôpen
 6	Anna	Anna	PROPN	_	Number=Sing	5	nsubj	_	lemma_gml=anna
 7	Susanna	Susanna	PROPN	_	Number=Sing	6	flat	_	lemma_gml=susanna
 8	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
@@ -14658,7 +14658,7 @@
 7	jungens	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	discourse	_	lemma_gml=junge|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	sou	sou	ADV	_	_	10	advmod	_	lemma_gml=sô
-10	ståtsch	ståtsk	ADJ	_	Degree=Pos	5	parataxis	_	lemma_gml=stâtesch
+10	ståtsk	ståtsk	ADJ	_	Degree=Pos	5	parataxis	_	lemma_gml=stâtesch
 11	wören	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	10	cop	_	lemma_gml=wēsen
 12	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
 13	beiden	beide	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	lemma_gml=bêide
@@ -14688,14 +14688,14 @@
 # text_orig = Nu keem de Sünndag.
 # text = Nu kaem de sündag.
 1	Nu	nu	ADV	_	_	2	advmod	_	lemma_gml=nû
-2	keem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+2	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	Sünndag	sündag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=sondach|SpaceAfter=No
+4	sündag	sündag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=sondach|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0579_19th_00299_MVP
 # text_orig = Hei let de Fru ok na dei Stadt tau Mark gan, œwest sei had einen hogen Eid daun müßt, keinen Minschen wat tau verraden.
-# text = Hee leyt de vrouwe ouk nå de stad to markt gån, öäverst see had eynen hougen eyd doon müst, keynen minsken wat to vorråden.
+# text = Hee leyt de vrouwe ouk nå de stad to markt gån, öäverst see hadde eynen hougen eyd doon müst, keynen minsken wat to vorråden.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 2	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lâten
 3	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
@@ -14709,7 +14709,7 @@
 11	gån	gån	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=gân|SpaceAfter=No
 12	,	,	PUNCT	_	_	19	punct	_	_
 13	öäverst	aver	CCONJ	_	_	19	cc	_	lemma_gml=āver
-14	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|Tense=Pres	19	nsubj	_	lemma_gml=hê,sê,et
+14	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	lemma_gml=hê,sê,et
 15	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	aux	_	lemma_gml=hebben
 16	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
 17	hougen	houg	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	lemma_gml=hô
@@ -14725,7 +14725,7 @@
 27	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0580_1939_00205_DNS
-# text = Buten en grisen Winterdag.
+# text_orig = Buten en grisen Winterdag.
 # text = Buten en grysen winterdag.
 1	Buten	buten	ADV	_	_	0	root	_	lemma_gml=bûten
 2	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
@@ -14735,7 +14735,7 @@
 
 # sent_id = LSDC_0581_1939_00237_DNS
 # text_orig = Mi wulln se ok erst deeln, in twee Deel wenigstens, ober ik leet mi nich ankomen!«
-# text = My wullen see ouk eyrst deylen, in deyl deyl weynigstens, aver ik leyt my nich ankoamen!«
+# text = My wullen see ouk eyrst deylen, in twey deyl weynigstens, aver ik leyt my nich ankoamen!«
 1	My	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	obj	_	lemma_gml=ik
 2	wullen	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	aux	_	lemma_gml=willen
 3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=sê
@@ -14776,7 +14776,7 @@
 14	wil	willen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	ccomp	_	lemma_gml=willen|SpaceAfter=No
 15	!	!	PUNCT	_	_	10	punct	_	SpaceAfter=No
 16	«	«	PUNCT	_	_	5	punct	_	_
-17	sea	see	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Past	0	root	_	lemma_gml=sên
+17	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=sên
 18	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	lemma_gml=hê,sê,et
 19	plump	plump	ADJ	_	Degree=Pos	17	advmod	_	lemma_gml=plump
 20	un	un	CCONJ	_	_	21	cc	_	lemma_gml=unde
@@ -14784,7 +14784,7 @@
 22	Maren	Maren	PROPN	_	Number=Sing	21	obj	_	lemma_gml=maren
 23	brut	brut	ADJ	_	Degree=Pos	21	advmod	_	lemma_gml=brut
 24	un	un	CCONJ	_	_	25	cc	_	lemma_gml=unde
-25	patsig	patsig	ADJ	_	Degree=Pos|Foreign=Yes	23	conj	_	lemma_gml=patsich
+25	patsig	patsig	ADJ	_	Degree=Pos	23	conj	_	lemma_gml=patsich
 26	an	an	ADP	_	_	21	compound:prt	_	lemma_gml=an|SpaceAfter=No
 27	.	.	PUNCT	_	_	17	punct	_	_
 
@@ -14841,7 +14841,7 @@
 13	ny	ny	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=nîe
 14	anvungen	anvangen	VERB	_	Tense=Past|VerbForm=Part	8	conj	_	lemma_gml=anvân|SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	_
-16	of	of	SCONJ	_	Foreign=Yes	20	mark	_	lemma_gml=of
+16	of	of	SCONJ	_	_	20	mark	_	lemma_gml=of
 17	Napoleon	Napoleon	PROPN	_	Number=Sing	20	nsubj	_	lemma_gml=napoleon
 18	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	lemma_gml=êin,êine,êin
 19	grouten	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	lemma_gml=grôt
@@ -14864,7 +14864,7 @@
 36	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	40	nsubj	_	lemma_gml=man
 37	doch	doch	ADV	_	_	40	advmod	_	lemma_gml=doch
 38	nich	nich	PART	_	PartType=Neg	40	advmod	_	lemma_gml=nicht
-39	wieder	wyd	ADJ	_	Degree=Cmp	40	advmod	_	lemma_gml=wît
+39	wyder	wyd	ADJ	_	Degree=Cmp	40	advmod	_	lemma_gml=wît
 40	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	acl:relcl	_	lemma_gml=kōmen|SpaceAfter=No
 41	,	,	PUNCT	_	_	46	punct	_	_
 42	as	as	SCONJ	_	_	46	mark	_	lemma_gml=alsô
@@ -14978,7 +14978,7 @@
 
 # sent_id = LSDC_0590_19th_00260_MVP
 # text_orig = Dürten was ok upsprungen un kek äwer den Konrekter sine Schuller un säd mit en gewissen Ingrimm vör sick hen: »De olle Gel!« –
-# text = Dürten was ouk upstrungen un keyk äver den konrektor syn skulder un sead mid en gewissen ingrim vöär sik hen: »De olde Gel!« –
+# text = Dürten was ouk upsprungen un keyk äver den konrektor syn skulder un sead mid en gewissen ingrim vöär sik hen: »De olde Gel!« –
 1	Dürten	Dürten	PROPN	_	Number=Sing	4	nsubj	_	_
 2	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux	_	lemma_gml=wēsen
 3	ouk	ouk	ADV	_	_	4	advmod	_	lemma_gml=ôk
@@ -15079,7 +15079,7 @@
 5	mid	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
 6	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 7	gansen	gans	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma_gml=gans
-8	krempel	krempel	NOUN	_	Case=Acc,Dat|Foreing=Yes|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=krempel|SpaceAfter=No
+8	krempel	krempel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=krempel|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	weg	weg	ADV	_	_	4	conj	_	lemma_gml=wech|SpaceAfter=No
 11	!	!	PUNCT	_	_	4	punct	_	_
@@ -15116,7 +15116,7 @@
 6	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	lemma_gml=hê,sê,et
 7	kaemen	koamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	acl:relcl	_	lemma_gml=kōmen|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	dee	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Rel	10	nsubj	_	lemma_gml=dê,dê,dat
+9	dee	de	PRON	_	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	lemma_gml=dê,dê,dat
 10	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=seggen|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
@@ -15145,7 +15145,7 @@
 4	luudhals	luudhals	ADV	_	_	3	advmod	_	lemma_gml=lûthals|SpaceAfter=No
 5	:	:	PUNCT	_	_	3	punct	_	_
 6	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
-7	Ney	ney	INTJ	_	_	9	discourse	_	lemma_gml=nêin
+7	Ney	ney	INTJ	_	_	9	discourse	_	lemma_gml=nêin|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	ccomp	_	lemma_gml=dê,dê,dat
 10	büst	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	9	cop	_	lemma_gml=wēsen
@@ -15232,7 +15232,7 @@
 
 # sent_id = LSDC_0600_19th_00251_MVP
 # text_orig = Hadd hei äwer wüßt, wat dit Wurd bi den ollen Herrn in den Mun'n führt, hadd hei woll so nich fragt, denn in'n Bösen gedacht de oll Herr sindag' nich wat; dat Bös' gung an em voräwer, dat hackte em nich an, un hei makte drei Krüzen achter her; kamm em äwer dat Gaude entgegen, denn was em bang, dat hei't so rasch verliren süll, denn heit dat: »Neiting, Fritz Sahlmann, Westphalen, Kinnings, helpt mi doran gedenken.«
-# text = Hadde hee äver wüst, wat dit woord by den olden herren in den munde vöört, hadde hee wol sou nich vrågd, dän in 'n böysen gedacht de old her syndage nich wat; dat böyse gung an em voaröäver, dat hakkede em nich an, un hee makede dree krüütsen achter; kam em äver dat gode entgeagen, dän was em bange, dat hee et sou rask vorleren sül, än heyt dat: »Neiting, Fritz Sahlmann, Westphalen, kinnings, helpet my dåran gedenken.«
+# text = Hadde hee äver wüst, wat dit woord by den olden herren in den munde vöört, hadde hee wol sou nich vrågd, dän in 'n böysen gedacht de olde her syndage nich wat; dat böyse gung an em voaröäver, dat hakkede em nich an, un hee makede dree krüütsen achter; kam em äver dat gode entgeagen, dän was em bange, dat hee et sou rask vorleren sül, än heyt dat: »Neiting, Fritz Sahlmann, Westphalen, kinnings, helpet my dåran gedenken.«
 1	Hadde	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	4	advcl	_	lemma_gml=hebben
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=hê,sê,et
 3	äver	aver	ADV	_	_	4	advmod	_	lemma_gml=āver
@@ -15263,7 +15263,7 @@
 28	böysen	böyse	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	29	obl	_	lemma_gml=bö̂se
 29	gedacht	denken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	conj	_	lemma_gml=gedenken
 30	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	lemma_gml=dê,dê,dat
-31	ol	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	lemma_gml=ōlt
+31	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	lemma_gml=ōlt
 32	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	lemma_gml=hêre
 33	syndage	syndage	ADV	_	_	29	advmod	_	lemma_gml=sîndāge
 34	nich	nich	PART	_	PartType=Neg	29	advmod	_	lemma_gml=nicht
