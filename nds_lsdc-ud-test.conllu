@@ -16014,7 +16014,7 @@
 25	to	to	PART	_	PartType=Inf	26	mark	_	lemma_gml=tô
 26	helpen	helpen	VERB	_	VerbForm=Inf	11	parataxis	_	lemma_gml=helpen|SpaceAfter=No
 27	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
-28	««	««	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	««	««	PUNCT	_	_	26	punct	_	_
 29	un	un	CCONJ	_	_	31	cc	_	lemma_gml=unde
 30	rats	rats	INTJ	_	_	31	discourse	_	lemma_gml=rats
 31	draide	draien	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	lemma_gml=dreyen
@@ -16316,7 +16316,7 @@
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Hm	hm	INTJ	_	_	8	discourse	_	lemma_gml=hm|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	Hm	hm	INTJ	_	_	2	conj	_	lemma_gml=hm|SpaceAfter=No
+4	hm	hm	INTJ	_	_	2	conj	_	lemma_gml=hm|SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
 6	«	«	PUNCT	_	_	2	punct	_	_
 7	–	–	PUNCT	_	_	2	punct	_	_
@@ -16336,15 +16336,15 @@
 6	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	iobj	_	lemma_gml=sik
 7	mid	mid	ADP	_	AdpType=Prep	9	case	_	lemma_gml=mit
 8	syne	syn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
-9	maagd	maagd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|Tense=Pres	10	obl	_	lemma_gml=māget
+9	maagd	maagd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	10	obl	_	lemma_gml=māget
 10	vortelde	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vortellen|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = LSDC_0637_1939_00022_MVP
 # text_orig = Dat wir jo so'n bitterbösen Schicksalshohn, dat mi de Tranen in eensento as Spölwater öwer de Näsenbog wegsimmten.
-# text = Dat weer jo sou en bisserböysen skiksaalshoon, dat my de trånen in eynsento as spöölwater öäver de neasenboage wegsimden.
+# text = Dat weer jo sou en bitterböysen skiksaalshoon, dat my de trånen in eynsento as spöölwater öäver de neasenboage wegsimden.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=dê,dê,dat
-2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|PronType=Prs	7	cop	_	lemma_gml=wēsen
+2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen
 3	jo	jo	ADV	_	_	7	advmod	_	lemma_gml=io
 4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
 5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
@@ -16367,7 +16367,7 @@
 
 # sent_id = LSDC_0638_1939_00023_MVP
 # text_orig = – De Lüd' säden vördem, dat wir mit em nich richtig; ick segg æwer, dat is nu mit em nich richtig; ok würd mi gor nich wunnern, wenn hei up sine ollen Dagen de olle Dam' noch frigen ded.«« –
-# text = – De lüde seade vöärdeam, dat weer mid em nich richitg; ik segge äver, dat is nu mid em nich richtig; ouk würd my gaar nich wunderen, wän hee up syne olden dagen de olde dame noch vrygen dead.«« –
+# text = – De lüde seaden vöärdeam, dat weer mid em nich richitg; ik segge äver, dat is nu mid em nich richtig; ouk würd my gaar nich wunderen, wän hee up syne olden dagen de olde dame noch vrygen dead.«« –
 1	–	–	PUNCT	_	_	4	punct	_	_
 2	De	das	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	lüde	lüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	lemma_gml=lü̂de
@@ -16412,7 +16412,7 @@
 42	noch	noch	ADV	_	_	43	advmod	_	lemma_gml=noch
 43	vrygen	vryen	VERB	_	VerbForm=Inf	31	csubj	_	lemma_gml=vrîen
 44	dead	doon	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	43	aux	_	lemma_gml=dôn|SpaceAfter=No
-45	.	.	NOUN	_	_	43	punct	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	43	punct	_	SpaceAfter=No
 46	««	««	PUNCT	_	_	4	punct	_	_
 47	–	–	PUNCT	_	_	4	punct	_	_
 
@@ -16445,7 +16445,7 @@
 7	al	al	ADV	_	_	11	advmod	_	lemma_gml=al
 8	sou	sou	ADV	_	_	9	advmod	_	lemma_gml=sô
 9	lange	lange	ADV	_	_	11	advmod	_	lemma_gml=lanc
-10	bekandskop	bekandskop	NOUN	_	Case=Acc|Gender=Fem|Foreign=Yes|Number=Sing	11	obj	_	lemma_gml=bekanteschop
+10	bekandskop	bekandskop	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	lemma_gml=bekanteschop
 11	maked	maken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=māken|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	14	obl:arg	_	lemma_gml=wî
@@ -16456,7 +16456,7 @@
 18	–	–	PUNCT	_	_	24	punct	_	_
 19	un	un	CCONJ	_	_	24	cc	_	lemma_gml=unde
 20	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	24	obj	_	lemma_gml=watte
-21	süllen	sküllen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	24	aux	_	lemma_gml=schȫlen
+21	süllen	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	24	aux	_	lemma_gml=schȫlen
 22	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	lemma_gml=wî
 23	dän	dän	ADV	_	_	24	advmod	_	lemma_gml=den
 24	doon	doon	VERB	_	VerbForm=Inf	11	conj	_	lemma_gml=dôn|SpaceAfter=No
@@ -16466,7 +16466,7 @@
 # text_orig = – Ja, min leiw' Dochter, von de Franzosen was dat up uns grad' so afseihn, as von de Spartaner up de Messenier, æwer – Gottlob!
 # text = – Ja, myn leev dochter, van de fransosen was dat up uns gerade sou afseen, as van de spartaner up de messenier, äver – godlov!
 1	–	–	PUNCT	_	_	17	punct	_	_
-2	Ja	ja	INTJ	_	_	17	root	_	lemma_gml=jâ|SpaceAfter=No
+2	Ja	ja	INTJ	_	_	17	discourse	_	lemma_gml=jâ|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	myn	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=mîn
 5	leev	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=lêf
@@ -16493,9 +16493,8 @@
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	äver	aver	CCONJ	_	_	29	cc	_	lemma_gml=āver
 28	–	–	PUNCT	_	_	29	punct	_	_
-29	godlov	godlov	INTJ	_	Foreign=Yes	17	conj	_	lemma_gml=gotlof|SpaceAfter=No
+29	godlov	godlov	INTJ	_	_	17	conj	_	lemma_gml=gotlof|SpaceAfter=No
 30	!	!	PUNCT	_	_	17	punct	_	_
-
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
