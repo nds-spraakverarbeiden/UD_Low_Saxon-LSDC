@@ -16001,7 +16001,7 @@
 12	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
 13	olde	old	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	11	nsubj	_	lemma_gml=ōlt|SpaceAfter=No
 14	,	,	PUNCT	_	_	22	punct	_	_
-15	»»	»»	PUNCT	_	_	22	punct	_	_
+15	»»	»»	PUNCT	_	_	22	punct	_	SpaceAfter=No
 16	wen	wee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Int	19	obj	_	lemma_gml=we
 17	nich	nich	PART	_	PartType=Neg	19	advmod	_	lemma_gml=nicht
 18	to	to	PART	_	PartType=Inf	19	mark	_	lemma_gml=tô
@@ -16013,7 +16013,7 @@
 24	nich	nich	PART	_	PartType=Neg	26	advmod	_	lemma_gml=nicht
 25	to	to	PART	_	PartType=Inf	26	mark	_	lemma_gml=tô
 26	helpen	helpen	VERB	_	VerbForm=Inf	11	parataxis	_	lemma_gml=helpen|SpaceAfter=No
-27	,	,	PUNCT	_	_	26	punct	_	_
+27	,	,	PUNCT	_	_	26	punct	_	SpaceAfter=No
 28	««	««	PUNCT	_	_	26	punct	_	SpaceAfter=No
 29	un	un	CCONJ	_	_	31	cc	_	lemma_gml=unde
 30	rats	rats	INTJ	_	_	31	discourse	_	lemma_gml=rats
@@ -16235,7 +16235,7 @@
 # text_orig = – Hest Du 't verstahn?«« –
 # text = – Hest du et vorstån?«« –
 1	–	–	PUNCT	_	_	5	punct	_	_
-2	Hest	hebben	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	root	_	lemma_gml=hebben
+2	Hest	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	aux	_	lemma_gml=hebben
 3	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	lemma_gml=dû
 4	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et
 5	vorstån	vorstån	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorstân|SpaceAfter=No
@@ -16245,20 +16245,20 @@
 
 # sent_id = LSDC_0633_1939_00018_MVP
 # text_orig = »Ja, Vatting, æwer wat .
-# text = »Ja, vadding, aver wat.
+# text = »Jå, vadding, aver wat.
 1	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-2	Ja	ja	INTJ	_	_	7	discourse	_	lemma_gml=jâ|SpaceAfter=No
+2	Jå	jå	INTJ	_	_	7	discourse	_	lemma_gml=jâ|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	Vatting	vadding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	vocative	_	lemma_gml=vādinc|SpaceAfter=No
+4	vadding	vadding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	vocative	_	lemma_gml=vādinc|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	æwer	aver	CCONJ	_	_	7	cc	_	lemma_gml=āver
+6	aver	aver	CCONJ	_	_	7	cc	_	lemma_gml=āver
 7	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	lemma_gml=watte|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = LSDC_0634_1939_00019_MVP
 # text_orig = – Weg was dat bleike Gesicht, weg was de Verdreitlichkeit, de wil de ganze Reis' em as en grises Spennwew' æwerspunnen hadd, un hei sach so fidel un kregel ut, as en ollen Junggesell von virtig Johren, de sick 'ne Brut von achteihn anhandelt hett.
 # text = – Weg was dat bleyke gesichte, weg was de vordreetlikheid, dee wyle de ganse reise em as en gryses spenweave öäverspunnen hadde, un hee sag sou fideel un kreagel uut, as en olden junggeselle van veertig jåren, dee sik ne bruud van achttein anhandeld het.
-1	–	–	PUNCT	_	_	2	advmod	_	_
+1	–	–	PUNCT	_	_	2	punct	_	_
 2	Weg	weg	ADV	_	_	0	root	_	lemma_gml=wech
 3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	lemma_gml=wēsen
 4	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
@@ -16268,7 +16268,7 @@
 8	weg	weg	ADV	_	_	2	conj	_	lemma_gml=wech
 9	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	cop	_	lemma_gml=wēsen
 10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
-11	vordreetlikheid	vordreetlikheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	root	_	lemma_gml=vordrêtlĩchêit|SpaceAfter=No
+11	vordreetlikheid	vordreetlikheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	lemma_gml=vordrêtlĩchêit|SpaceAfter=No
 12	,	,	PUNCT	_	_	23	punct	_	_
 13	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	lemma_gml=dê,dê,dat
 14	wyle	wyle	ADP	_	_	17	case	_	lemma_gml=wîle
@@ -16311,7 +16311,7 @@
 51	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0635_1939_00020_MVP
-# text = »Hm, Hm!« – säd de Professer.
+# text_orig = »Hm, Hm!« – säd de Professer.
 # text = »Hm, hm!« – sead de professor.
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Hm	hm	INTJ	_	_	8	discourse	_	lemma_gml=hm|SpaceAfter=No
