@@ -16365,6 +16365,138 @@
 20	wegsimden	wegsimmen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	advcl	_	lemma_gml=wechsimmen|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	_
 
+# sent_id = LSDC_0638_1939_00023_MVP
+# text_orig = – De Lüd' säden vördem, dat wir mit em nich richtig; ick segg æwer, dat is nu mit em nich richtig; ok würd mi gor nich wunnern, wenn hei up sine ollen Dagen de olle Dam' noch frigen ded.«« –
+# text = – De lüde seade vöärdeam, dat weer mid em nich richitg; ik segge äver, dat is nu mid em nich richtig; ouk würd my gaar nich wunderen, wän hee up syne olden dagen de olde dame noch vrygen dead.«« –
+1	–	–	PUNCT	_	_	4	punct	_	_
+2	De	das	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	lüde	lüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	lemma_gml=lü̂de
+4	seaden	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+5	vöärdeam	vöärdem	ADV	_	_	4	advmod	_	lemma_gml=vȫrdēme|SpaceAfter=No
+6	,	,	PUNCT	_	_	12	punct	_	_
+7	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	lemma_gml=dê,dê,dat
+8	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=wēsen
+9	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma_gml=mit
+10	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	lemma_gml=hê,sê,et
+11	nich	nich	PART	_	PartType=Neg	12	advmod	_	lemma_gml=nicht
+12	richtig	richtig	ADJ	_	Degree=Pos	4	ccomp	_	lemma_gml=richtich|SpaceAfter=No
+13	;	;	PUNCT	_	_	15	punct	_	_
+14	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma_gml=ik
+15	segge	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	conj	_	lemma_gml=seggen
+16	äver	aver	ADV	_	_	15	advmod	_	lemma_gml=āver|SpaceAfter=No
+17	,	,	PUNCT	_	_	24	punct	_	_
+18	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	lemma_gml=dê,dê,dat
+19	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	cop	_	lemma_gml=wēsen
+20	nu	nu	ADV	_	_	24	advmod	_	lemma_gml=nû
+21	mid	mid	ADP	_	AdpType=Prep	22	case	_	lemma_gml=mit
+22	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obl	_	lemma_gml=hê,sê,et
+23	nich	nich	PART	_	PartType=Neg	24	advmod	_	lemma_gml=nicht
+24	richtig	richtig	ADJ	_	Degree=Pos	15	ccomp	_	lemma_gml=richtich|SpaceAfter=No
+25	;	;	PUNCT	_	_	31	punct	_	_
+26	ouk	ouk	ADV	_	_	31	advmod	_	lemma_gml=ôk
+27	würd	werden	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	31	aux	_	lemma_gml=wērden
+28	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	31	obj	_	lemma_gml=ik
+29	gaar	gaar	ADV	_	_	31	advmod	_	lemma_gml=gār
+30	nich	nich	PART	_	PartType=Neg	31	advmod	_	lemma_gml=nicht
+31	wundern	wunderen	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=wunderen|SpaceAfter=No
+32	,	,	PUNCT	_	_	43	punct	_	_
+33	wän	wän	SCONJ	_	_	43	mark	_	lemma_gml=wan
+34	hee	hee	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	43	nsubj	_	lemma_gml=hê,sê,et
+35	up	up	ADP	_	AdpType=Prep	38	case	_	lemma_gml=uppe
+36	syne	syn	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	38	det	_	lemma_gml=sîn,ēr,sîn
+37	olden	old	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	38	amod	_	lemma_gml=ōlt
+38	dagen	dag	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	43	obl	_	lemma_gml=dach
+39	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	lemma_gml=dê,dê,dat
+40	olde	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	lemma_gml=ōlt
+41	dame	dame	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	43	obj	_	lemma_gml=dāme
+42	noch	noch	ADV	_	_	43	advmod	_	lemma_gml=noch
+43	vrygen	vryen	VERB	_	VerbForm=Inf	31	csubj	_	lemma_gml=vrîen
+44	dead	doon	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	43	aux	_	lemma_gml=dôn|SpaceAfter=No
+45	.	.	NOUN	_	_	43	punct	_	SpaceAfter=No
+46	««	««	PUNCT	_	_	4	punct	_	_
+47	–	–	PUNCT	_	_	4	punct	_	_
+
+# sent_id = LSDC_0639_1939_00024_MVP
+# text_orig = – Dat Pund Eddelmannsfleisch taunächst den Harten un de arme Herr Nemlich.
+# text = – Dat pund eddelmansvleysk tonaegst den harten un de arme her Nemlich.
+1	–	–	PUNCT	_	_	3	punct	_	_
+2	Dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	pund	pund	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=punt
+4	eddelmansvleysk	eadelmansvleysk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nmod	_	lemma_gml=ēdelmansvlêisch
+5	tonaegst	tonaegst	ADP	_	_	7	case	_	lemma_gml=tônêgest
+6	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
+7	harten	herte	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	4	nmod	_	lemma_gml=herte
+8	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+10	arme	arm	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	lemma_gml=arm
+11	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nmod	_	lemma_gml=hêre
+12	Nemlich	Nemlich	PROPN	_	Number=Sing	3	conj	_	lemma_gml=nemlich|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = LSDC_0640_1939_00025_MVP
+# text_orig = Mit dat Recht hadd wi nu all so lang' Bekanntschaft makt, uns verlangt nich wider dornah – un wat süllen wi denn dauhn?
+# text = Mid dat recht had wy nu al sou lange bekandskop maked, uns vorlangt nich wyder dårnå – un wat süllen wy dän doon?
+1	Mid	mid	ADP	_	AdpType=Prep	3	case	_	lemma_gml=mit
+2	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	recht	recht	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	obl	_	lemma_gml=recht
+4	had	hebben	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	11	aux	_	lemma_gml=hebben
+5	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=wî
+6	nu	nu	ADV	_	_	11	advmod	_	lemma_gml=nû
+7	al	al	ADV	_	_	11	advmod	_	lemma_gml=al
+8	sou	sou	ADV	_	_	9	advmod	_	lemma_gml=sô
+9	lange	lange	ADV	_	_	11	advmod	_	lemma_gml=lanc
+10	bekandskop	bekandskop	NOUN	_	Case=Acc|Gender=Fem|Foreign=Yes|Number=Sing	11	obj	_	lemma_gml=bekanteschop
+11	maked	maken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=māken|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	14	obl:arg	_	lemma_gml=wî
+14	vorlangt	vorlangen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	conj	_	lemma_gml=vorlangen
+15	nich	nich	PART	_	PartType=Neg	14	advmod	_	lemma_gml=nicht
+16	wyder	wyder	ADV	_	_	14	advmod	_	lemma_gml=wît
+17	dårnå	dårnå	ADV	_	_	14	advmod	_	lemma_gml=dârnâ
+18	–	–	PUNCT	_	_	24	punct	_	_
+19	un	un	CCONJ	_	_	24	cc	_	lemma_gml=unde
+20	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	24	obj	_	lemma_gml=watte
+21	süllen	sküllen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	24	aux	_	lemma_gml=schȫlen
+22	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	lemma_gml=wî
+23	dän	dän	ADV	_	_	24	advmod	_	lemma_gml=den
+24	doon	doon	VERB	_	VerbForm=Inf	11	conj	_	lemma_gml=dôn|SpaceAfter=No
+25	?	?	PUNCT	_	_	11	punct	_	_
+
+# sent_id = LSDC_0641_1939_00026_MVP
+# text_orig = – Ja, min leiw' Dochter, von de Franzosen was dat up uns grad' so afseihn, as von de Spartaner up de Messenier, æwer – Gottlob!
+# text = – Ja, myn leev dochter, van de fransosen was dat up uns gerade sou afseen, as van de spartaner up de messenier, äver – godlov!
+1	–	–	PUNCT	_	_	17	punct	_	_
+2	Ja	ja	INTJ	_	_	17	root	_	lemma_gml=jâ|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	myn	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=mîn
+5	leev	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=lêf
+6	dochter	dochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	conj	_	lemma_gml=dochter|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	van	van	ADP	_	AdpType=Prep	10	case	_	lemma_gml=van
+9	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	fransosen	fransose	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	17	obl	_	lemma_gml=franzois
+11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	cop	_	lemma_gml=wēsen
+12	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	17	nsubj:pass	_	lemma_gml=dê,dê,dat
+13	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
+14	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	17	obl	_	lemma_gml=wî
+15	gerade	gerade	ADV	_	_	16	advmod	_	lemma_gml=gerāde
+16	sou	sou	ADV	_	_	17	advmod	_	lemma_gml=sô
+17	afseen	afseen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=afsên|SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	as	as	SCONJ	_	_	22	mark	_	lemma_gml=alsô
+20	van	van	ADP	_	AdpType=Prep	22	case	_	lemma_gml=van
+21	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+22	spartaner	spartaner	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	17	advcl	_	lemma_gml=spartâner
+23	up	up	ADP	_	AdpType=Prep	25	case	_	lemma_gml=uppe
+24	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	lemma_gml=dê,dê,dat
+25	messenier	messenier	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	orphan	_	lemma_gml=messenier|SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	_
+27	äver	aver	CCONJ	_	_	29	cc	_	lemma_gml=āver
+28	–	–	PUNCT	_	_	29	punct	_	_
+29	godlov	godlov	INTJ	_	Foreign=Yes	17	conj	_	lemma_gml=gotlof|SpaceAfter=No
+30	!	!	PUNCT	_	_	17	punct	_	_
+
+
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
 # text = Möchel Krus’ uut Tharau vortelt:
