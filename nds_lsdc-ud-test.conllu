@@ -16218,6 +16218,153 @@
 16	ougen	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	lemma_gml=ôge|SpaceAfter=No
 17	?	?	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0631_1939_00016_MVP
+# text_orig = – Na, un heww ick't nich?
+# text = – Na, un hev ik et nich?
+1	–	–	PUNCT	_	_	5	punct	_	_
+2	Na	na	INTJ	_	_	5	discourse	_	lemma_gml=na|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	un	un	CCONJ	_	_	5	cc	_	lemma_gml=unde
+5	hev	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
+6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
+7	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et
+8	nich	nich	PART	_	PartType=Neg	5	advmod	_	lemma_gml=nicht|SpaceAfter=No
+9	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = LSDC_0632_1939_00017_MVP
+# text_orig = – Hest Du 't verstahn?«« –
+# text = – Hest du et vorstån?«« –
+1	–	–	PUNCT	_	_	5	punct	_	_
+2	Hest	hebben	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	5	root	_	lemma_gml=hebben
+3	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	lemma_gml=dû
+4	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et
+5	vorstån	vorstån	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorstân|SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	««	««	PUNCT	_	_	5	punct	_	_
+8	–	–	PUNCT	_	_	5	punct	_	_
+
+# sent_id = LSDC_0633_1939_00018_MVP
+# text_orig = »Ja, Vatting, æwer wat .
+# text = »Ja, vadding, aver wat.
+1	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
+2	Ja	ja	INTJ	_	_	7	discourse	_	lemma_gml=jâ|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Vatting	vadding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	vocative	_	lemma_gml=vādinc|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	æwer	aver	CCONJ	_	_	7	cc	_	lemma_gml=āver
+7	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	lemma_gml=watte|SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = LSDC_0634_1939_00019_MVP
+# text_orig = – Weg was dat bleike Gesicht, weg was de Verdreitlichkeit, de wil de ganze Reis' em as en grises Spennwew' æwerspunnen hadd, un hei sach so fidel un kregel ut, as en ollen Junggesell von virtig Johren, de sick 'ne Brut von achteihn anhandelt hett.
+# text = – Weg was dat bleyke gesichte, weg was de vordreetlikheid, dee wyle de ganse reise em as en gryses spenweave öäverspunnen hadde, un hee sag sou fideel un kreagel uut, as en olden junggeselle van veertig jåren, dee sik ne bruud van achttein anhandeld het.
+1	–	–	PUNCT	_	_	2	advmod	_	_
+2	Weg	weg	ADV	_	_	0	root	_	lemma_gml=wech
+3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	lemma_gml=wēsen
+4	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+5	bleyke	bleyk	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	lemma_gml=blêik
+6	gesichte	gesichte	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	lemma_gml=gesichte|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	weg	weg	ADV	_	_	2	conj	_	lemma_gml=wech
+9	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	cop	_	lemma_gml=wēsen
+10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
+11	vordreetlikheid	vordreetlikheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	root	_	lemma_gml=vordrêtlĩchêit|SpaceAfter=No
+12	,	,	PUNCT	_	_	23	punct	_	_
+13	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	23	nsubj	_	lemma_gml=dê,dê,dat
+14	wyle	wyle	ADP	_	_	17	case	_	lemma_gml=wîle
+15	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
+16	ganse	gans	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	lemma_gml=gans
+17	reise	reise	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	23	obl	_	lemma_gml=rêise
+18	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	lemma_gml=hê,sê,et
+19	as	as	ADP	_	_	22	case	_	lemma_gml=alsô
+20	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	22	det	_	lemma_gml=êin,êine,êin
+21	gryses	grys	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	lemma_gml=grîs
+22	spenweave	spenweave	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	conj	_	lemma_gml=spinnewebbe
+23	öäverspunnen	öäverspinnen	VERB	_	Tense=Past|VerbForm=Part	11	acl:relcl	_	lemma_gml=ȫverspinnen
+24	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	aux	_	lemma_gml=hebben|SpaceAfter=No
+25	,	,	PUNCT	_	_	28	punct	_	_
+26	un	un	CCONJ	_	_	28	cc	_	lemma_gml=unde
+27	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	lemma_gml=hê,sê,et
+28	sag	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=sên
+29	sou	sou	ADV	_	_	30	advmod	_	lemma_gml=sô
+30	fideel	fideel	ADJ	_	Degree=Pos	28	advmod	_	lemma_gml=fidêl
+31	un	un	CCONJ	_	_	32	cc	_	lemma_gml=unde
+32	kreagel	kreagel	ADJ	_	Degree=Pos	30	conj	_	lemma_gml=krēgel
+33	uut	uut	ADP	_	_	28	compound:prt	_	lemma_gml=ût|SpaceAfter=No
+34	,	,	PUNCT	_	_	38	punct	_	_
+35	as	as	ADP	_	_	38	cc	_	lemma_gml=alsô
+36	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	38	det	_	lemma_gml=êin,êine,êin
+37	olden	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	lemma_gml=ōlt
+38	junggeselle	junggeselle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	case	_	lemma_gml=juncgeselle
+39	van	van	ADP	_	AdpType=Prep	41	case	_	lemma_gml=van
+40	veertig	veertig	NUM	_	NumType=Card	41	nummod	_	lemma_gml=vêrtich
+41	jåren	jår	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	38	nmod	_	lemma_gml=jâr|SpaceAfter=No
+42	,	,	PUNCT	_	_	38	punct	_	_
+43	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	49	nsubj	_	lemma_gml=dê,dê,dat
+44	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	49	iobj	_	lemma_gml=sik
+45	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	46	det	_	lemma_gml=êin,êine,êin
+46	bruud	bruud	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	49	obj	_	lemma_gml=brût
+47	van	van	ADP	_	AdpType=Prep	48	case	_	lemma_gml=van
+48	achttein	achttein	NUM	_	NumType=Card	46	nummod	_	lemma_gml=achtein
+49	anhandeld	anhandelen	VERB	_	Tense=Past|VerbForm=Part	38	acl:relcl	_	lemma_gml=anhandelen
+50	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	49	aux	_	lemma_gml=hebben|SpaceAfter=No
+51	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_0635_1939_00020_MVP
+# text = »Hm, Hm!« – säd de Professer.
+# text = »Hm, hm!« – sead de professor.
+1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Hm	hm	INTJ	_	_	8	discourse	_	lemma_gml=hm|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Hm	hm	INTJ	_	_	2	conj	_	lemma_gml=hm|SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	«	«	PUNCT	_	_	2	punct	_	_
+7	–	–	PUNCT	_	_	2	punct	_	_
+8	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	professor	professor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	lemma_gml=professor|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = LSDC_0636_1939_00021_MVP
+# text_orig = – Wat de Herr Konrekter sick mit sine Mag' vertellte.
+# text = – Wat de her konrektor sik mid syne maagd vortelde.
+1	–	–	PUNCT	_	_	10	punct	_	_
+2	Wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	10	obj	_	lemma_gml=watte
+3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
+4	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	lemma_gml=hêre
+5	konrektor	konrektor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	lemma_gml=conrêctor
+6	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	iobj	_	lemma_gml=sik
+7	mid	mid	ADP	_	AdpType=Prep	9	case	_	lemma_gml=mit
+8	syne	syn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
+9	maagd	maagd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|Tense=Pres	10	obl	_	lemma_gml=māget
+10	vortelde	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vortellen|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = LSDC_0637_1939_00022_MVP
+# text_orig = Dat wir jo so'n bitterbösen Schicksalshohn, dat mi de Tranen in eensento as Spölwater öwer de Näsenbog wegsimmten.
+# text = Dat weer jo sou en bisserböysen skiksaalshoon, dat my de trånen in eynsento as spöölwater öäver de neasenboage wegsimden.
+1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=dê,dê,dat
+2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|PronType=Prs	7	cop	_	lemma_gml=wēsen
+3	jo	jo	ADV	_	_	7	advmod	_	lemma_gml=io
+4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
+5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
+6	bitterböysen	bitterböyse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	lemma_gml=bitterbö̂se
+7	skiksaalshoon	skiksaalshoun	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=schickelshôn|SpaceAfter=No
+8	,	,	PUNCT	_	_	20	punct	_	_
+9	dat	dat	SCONJ	_	_	20	mark	_	lemma_gml=dat
+10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	20	obl:arg	_	lemma_gml=ik
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	trånen	tråne	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	lemma_gml=trâne
+13	in	in	ADP	_	AdpType=Prep	14	case	_	lemma_gml=in
+14	eynsento	eynsento	ADV	_	_	20	obl	_	lemma_gml=êinsentô
+15	as	as	ADP	_	_	16	case	_	lemma_gml=alsô
+16	spöölwater	spöölwater	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	obl	_	lemma_gml=spö̂lwāter
+17	öäver	öäver	ADP	_	AdpType=Prep	19	case	_	lemma_gml=ȫver
+18	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
+19	neasenboage	neasenboage	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obl	_	lemma_gml=nēsenbōge
+20	wegsimden	wegsimmen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	advcl	_	lemma_gml=wechsimmen|SpaceAfter=No
+21	.	.	PUNCT	_	_	7	punct	_	_
+
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
 # text = Möchel Krus’ uut Tharau vortelt:
