@@ -16279,7 +16279,7 @@
 19	as	as	ADP	_	_	22	case	_	lemma_gml=alsô
 20	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	22	det	_	lemma_gml=êin,êine,êin
 21	gryses	grys	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	lemma_gml=grîs
-22	spenweave	spenweave	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	conj	_	lemma_gml=spinnewebbe
+22	spenweave	spenweave	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=spinnewebbe
 23	öäverspunnen	öäverspinnen	VERB	_	Tense=Past|VerbForm=Part	11	acl:relcl	_	lemma_gml=ȫverspinnen
 24	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	aux	_	lemma_gml=hebben|SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	_
@@ -16295,7 +16295,7 @@
 35	as	as	ADP	_	_	38	cc	_	lemma_gml=alsô
 36	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	38	det	_	lemma_gml=êin,êine,êin
 37	olden	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	lemma_gml=ōlt
-38	junggeselle	junggeselle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	case	_	lemma_gml=juncgeselle
+38	junggeselle	junggeselle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	lemma_gml=juncgeselle
 39	van	van	ADP	_	AdpType=Prep	41	case	_	lemma_gml=van
 40	veertig	veertig	NUM	_	NumType=Card	41	nummod	_	lemma_gml=vêrtich
 41	jåren	jår	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	38	nmod	_	lemma_gml=jâr|SpaceAfter=No
