@@ -16007,7 +16007,7 @@
 18	to	to	PART	_	PartType=Inf	19	mark	_	lemma_gml=tô
 19	råden	råden	VERB	_	VerbForm=Inf	22	acl	_	lemma_gml=râden
 20	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	lemma_gml=wēsen|SpaceAfter=No
-21	,	,	PUNCT	_	_	26	punct	_	_
+21	,	,	PUNCT	_	_	19	punct	_	_
 22	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Rel	26	obj	_	lemma_gml=dê,dê,dat
 23	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	cop	_	lemma_gml=wēsen
 24	nich	nich	PART	_	PartType=Neg	26	advmod	_	lemma_gml=nicht
