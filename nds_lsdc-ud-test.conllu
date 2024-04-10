@@ -15996,7 +15996,7 @@
 7	mid	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
 8	God	god	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=got|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	SpaceAfter=No
-10	««	««	PUNCT	_	_	5	punct	_	SpaceAfter=No
+10	««	««	PUNCT	_	_	5	punct	_	_
 11	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 12	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
 13	olde	old	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	11	nsubj	_	lemma_gml=ōlt|SpaceAfter=No
@@ -16040,7 +16040,7 @@
 
 # sent_id = LSDC_0625_1939_00010_MVP
 # text_orig = Ick bün blot dat bütelst En'n von sinen Kopp un wippel all so kurjos in de Welt herin, nu kannst du di verstellen, wo lustig dat binnen utsüht.«
-# text = Ik bün blout dat bütelst ende van synen kop un wippele al sou kurioos in werld herin, nu kanst du dy vorstellen, wo lustig dat binnen uutsüüt.«
+# text = Ik bün blout dat bütelst ende van synen kop un wippele al sou kurioos in de werld herin, nu kanst du dy vorstellen, wo lustig dat binnen uutsüüt.«
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
 2	bün	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
 3	blout	blout	ADV	_	_	6	advmod	_	lemma_gml=blôt
@@ -16081,8 +16081,8 @@
 2	»»	»»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 3	Wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	lemma_gml=willen
 4	toseen	toseen	VERB	_	VerbForm=Inf	7	ccomp	_	lemma_gml=tôsên|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	««	««	PUNCT	_	_	4	punct	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	««	««	PUNCT	_	_	4	punct	_	_
 7	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 8	Jochen	Jochen	PROPN	_	Number=Sing	7	nsubj	_	lemma_gml=jochen
 9	un	un	CCONJ	_	_	10	cc	_	lemma_gml=unde
@@ -16092,7 +16092,7 @@
 
 # sent_id = LSDC_0627_1939_00012_MVP
 # text_orig = Dunn stek Rand wedder den Kopp in de Dör: »»Dörchläuchten, eben het't inslagen, Schultsch seggt, up den Wall in 'ne Pöppel; äwer't geiht glik wedder los, Schultsch seggt.
-# text = Dun staek Rand wedder den kop in de döäre: »»Dörchläuchten, eaven het et inslågen, skultske segt, up den wal in ne pöppel, äver et geit gelyk wedder lous, skultske segt.
+# text = Dun staek Rand wedder den kop in de döäre: »»Dörchläuchten, eaven het et inslågen, skultske segt, up den wal in ne pöppel; äver et geit gelyk wedder lous, skultske segt.
 1	Dun	dun	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	staek	steaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=stēken
 3	Rand	Rand	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=rand
@@ -16202,7 +16202,7 @@
 # text = »Seggen See mål, kinding, het ear vader noch de hellen, brunen ougen?
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Seggen	seggen	VERB	_	Mood=Ind,Sub|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	0	root	_	lemma_gml=seggen
-3	See	see	PROPN	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=s'
+3	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=s'
 4	mål	mål	ADV	_	_	2	advmod	_	lemma_gml=mâl|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	kinding	kinding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	vocative	_	lemma_gml=kindinc|SpaceAfter=No
