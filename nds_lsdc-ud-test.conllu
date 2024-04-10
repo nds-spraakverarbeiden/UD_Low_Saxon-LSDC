@@ -16398,7 +16398,7 @@
 28	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	31	obj	_	lemma_gml=ik
 29	gaar	gaar	ADV	_	_	31	advmod	_	lemma_gml=gār
 30	nich	nich	PART	_	PartType=Neg	31	advmod	_	lemma_gml=nicht
-31	wundern	wunderen	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=wunderen|SpaceAfter=No
+31	wunderen	wunderen	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=wunderen|SpaceAfter=No
 32	,	,	PUNCT	_	_	43	punct	_	_
 33	wän	wän	SCONJ	_	_	43	mark	_	lemma_gml=wan
 34	hee	hee	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	43	nsubj	_	lemma_gml=hê,sê,et
@@ -16470,7 +16470,7 @@
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	myn	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=mîn
 5	leev	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=lêf
-6	dochter	dochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	conj	_	lemma_gml=dochter|SpaceAfter=No
+6	dochter	dochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	vocative	_	lemma_gml=dochter|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	van	van	ADP	_	AdpType=Prep	10	case	_	lemma_gml=van
 9	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
