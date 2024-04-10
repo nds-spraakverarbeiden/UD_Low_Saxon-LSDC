@@ -15954,7 +15954,7 @@
 68	wenden	wenden	VERB	_	VerbForm=Inf	10	conj	_	lemma_gml=wenden|SpaceAfter=No
 69	,	,	PUNCT	_	_	75	punct	_	_
 70	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	75	nsubj	_	lemma_gml=wî
-71	weren	weasen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	75	cop	_	lemma_gml=wēsen
+71	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	75	cop	_	lemma_gml=wēsen
 72	dårto	dårto	ADV	_	_	75	advmod	_	lemma_gml=dârtô
 73	in	in	ADP	_	AdpType=Prep	75	case	_	lemma_gml=in
 74	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	75	det	_	lemma_gml=dê,dê,dat
@@ -15995,7 +15995,7 @@
 6	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	5	nsubj	_	lemma_gml=sê
 7	mid	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
 8	God	god	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=got|SpaceAfter=No
-9	,	,	PUNCT	_	_	5	punct	_	_
+9	,	,	PUNCT	_	_	5	punct	_	SpaceAfter=No
 10	««	««	PUNCT	_	_	5	punct	_	SpaceAfter=No
 11	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 12	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
@@ -16004,14 +16004,14 @@
 15	»»	»»	PUNCT	_	_	22	punct	_	_
 16	wen	wee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Int	19	obj	_	lemma_gml=we
 17	nich	nich	PART	_	PartType=Neg	19	advmod	_	lemma_gml=nicht
-18	to	to	PART	_	AdpType=Prep	19	advmod	_	lemma_gml=tô
+18	to	to	PART	_	PartType=Inf	19	mark	_	lemma_gml=tô
 19	råden	råden	VERB	_	VerbForm=Inf	22	acl	_	lemma_gml=râden
 20	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	cop	_	lemma_gml=wēsen|SpaceAfter=No
 21	,	,	PUNCT	_	_	26	punct	_	_
 22	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Rel	26	obj	_	lemma_gml=dê,dê,dat
 23	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	cop	_	lemma_gml=wēsen
 24	nich	nich	PART	_	PartType=Neg	26	advmod	_	lemma_gml=nicht
-25	to	to	PART	_	AdpType=Prep	26	mark	_	lemma_gml=tô
+25	to	to	PART	_	PartType=Inf	26	mark	_	lemma_gml=tô
 26	helpen	helpen	VERB	_	VerbForm=Inf	11	parataxis	_	lemma_gml=helpen|SpaceAfter=No
 27	,	,	PUNCT	_	_	26	punct	_	_
 28	««	««	PUNCT	_	_	26	punct	_	SpaceAfter=No
@@ -16053,7 +16053,7 @@
 10	un	un	CCONJ	_	_	11	cc	_	lemma_gml=unde
 11	wippele	wippelen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	conj	_	lemma_gml=wippelen
 12	al	al	ADV	_	_	11	advmod	_	lemma_gml=al
-13	so	sou	ADV	_	_	14	advmod	_	lemma_gml=sô
+13	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sô
 14	kurioos	kurioos	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=cûriôs
 15	in	in	ADP	_	AdpType=Prep	17	case	_	lemma_gml=in
 16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
@@ -16076,9 +16076,9 @@
 
 # sent_id = LSDC_0626_1939_00011_MVP
 # text_orig = – »»Will tauseihn,«« säd Jochen un führte los.
-# text = - »»Wil toseen,«« sead Jochen un vöörde lous.
+# text = – »»Wil toseen,«« sead Jochen un vöörde lous.
 1	–	–	PUNCT	_	_	7	punct	_	_
-2	»»	»»	PUNCT	_	_	4	vocative	_	SpaceAfter=No
+2	»»	»»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 3	Wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	lemma_gml=willen
 4	toseen	toseen	VERB	_	VerbForm=Inf	7	ccomp	_	lemma_gml=tôsên|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
@@ -16092,7 +16092,7 @@
 
 # sent_id = LSDC_0627_1939_00012_MVP
 # text_orig = Dunn stek Rand wedder den Kopp in de Dör: »»Dörchläuchten, eben het't inslagen, Schultsch seggt, up den Wall in 'ne Pöppel; äwer't geiht glik wedder los, Schultsch seggt.
-# text = Dun staek Rand wedder den kop in de döäre: »»Dörchläuchten, eaven het en inslågen, skultske segt, up den wal in ne pöppel, äver et geit gelyk wedder lous, skultske segt.
+# text = Dun staek Rand wedder den kop in de döäre: »»Dörchläuchten, eaven het et inslågen, skultske segt, up den wal in ne pöppel, äver et geit gelyk wedder lous, skultske segt.
 1	Dun	dun	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	staek	steaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=stēken
 3	Rand	Rand	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=rand
@@ -16134,7 +16134,7 @@
 
 # sent_id = LSDC_0628_1939_00013_MVP
 # text_orig = Sei rungeniren jo den deipen Respekt vör Ehre Hofchargen!
-# text = See runjeneren jo den depen respekt vöär eare hovchargen!
+# text = See rungeneren jo den depen respekt vöär eare hovchargen!
 1	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=sê
 2	rungeneren	runjeneren	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	0	root	_	lemma_gml=ruînêren
 3	jo	jo	ADV	_	_	2	advmod	_	lemma_gml=io
