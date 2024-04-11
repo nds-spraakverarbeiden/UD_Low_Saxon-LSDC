@@ -17073,7 +17073,7 @@
 59	;	;	PUNCT	_	_	51	punct	_	_
 60	dän	dän	CCONJ	_	_	69	cc	_	lemma_gml=den
 61	alle	al	DET	_	Case=Nom|Number=Plur|PronType=Tot	62	det	_	lemma_gml=al
-62	beide	beide	ADJ	_	Case=Nom|Number=Plur	69	nsubj	_	lemma_gml=bêide
+62	beide	beide	ADJ	_	Case=Nom|Number=Plur	64	nmod	_	lemma_gml=bêide
 63	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	69	aux	_	lemma_gml=hebben
 64	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	69	nsubj	_	lemma_gml=sê
 65	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	66	det	_	lemma_gml=êin,êine,êin
