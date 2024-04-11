@@ -16721,7 +16721,7 @@
 
 # sent_id = LSDC_0649_1939_00034_DWF
 # text_orig = „Herr Benzler, holla he! ne scharpe Exe!“ –
-# text = „Her Benzler, holla he! ne skarpe äske!“ –
+# text = „Her Benzler, holla he! ne skarpe äkse!“ –
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma_gml=hêre
 3	Benzler	Benzler	PROPN	_	Number=Sing	2	flat	_	SpaceAfter=No
@@ -16752,7 +16752,7 @@
 1	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=dê,dê,dat
 2	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	lemma_gml=wēsen
 3	to	to	ADV	_	_	4	advmod	_	lemma_gml=tô
-4	veal	veale	PRON	_	Degree=Pos|Number=Sing|PronType=Ind	0	root	_	lemma_gml=vēle|SpaceAfter=No
+4	veal	veale	ADJ	_	Degree=Pos|Number=Sing	0	root	_	lemma_gml=vēle|SpaceAfter=No
 5	;	;	PUNCT	_	_	7	punct	_	_
 6	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=sê
 7	had	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	parataxis	_	lemma_gml=hebben
@@ -16764,7 +16764,7 @@
 
 # sent_id = LSDC_0652_1939_00037_MVP
 # text_orig = dunn kümmt einer achter mi un grawwelt mi hinnen an de Rocktasch, un as ick mi ümseih, was't de Erzbischoff, de mi minen buntbomwullnen Taschendauk 'ne halw Ehl ut de Tasch trecken ded.
-# text = dun kümt eyner achter my un gravvelt my hinden an de roktaske, un as ik my ümsee, was et de ersbiskop, dee my mynen buntboumwullenen taskendook ne halve eale uut de taske trekken dead.
+# text = dun kümt eyner achter my un gravvelt my hinden an de roktaske, un as ik my ümsee, was et de ersbiskop, dee my mynen buntboumwullenen taskendook ne halv eale uut de taske trekken dead.
 1	dun	dun	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	kümt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=kōmen
 3	eyner	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	lemma_gml=êin,êine,êin
@@ -16787,7 +16787,7 @@
 20	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	cop	_	lemma_gml=wēsen
 21	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=hê,sê,et
 22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
-23	ersbiskop	ersbiskop	NOUN	_	Case=Nom|Foreign=Yes|Gender=Masc|Number=Sing	2	conj	_	lemma_gml=archebischop|SpaceAfter=No
+23	ersbiskop	ersbiskop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	lemma_gml=archebischop|SpaceAfter=No
 24	,	,	PUNCT	_	_	36	punct	_	_
 25	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	36	nsubj	_	lemma_gml=dê,dê,dat
 26	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	36	obl:arg	_	lemma_gml=ik
@@ -16823,7 +16823,7 @@
 
 # sent_id = LSDC_0654_1939_00039_MVP
 # text_orig = – Un as wi nu all so recht schön in'n Tog wiren, gung de Füerwarksleutnant mit en por annere Leutnants, de wi kennen deden, an't Finster vörbi, un sei müßten rin kamen, un de Herr Unteroffzierer von de Wach wull nich rinne ut Respekt vör sine Vörgesetzten, stunn äwer achter de Dör un drunk ein Glas nah dat anner, un as Lewandowsky mit unsen lütten Brüdjam endlich wedder angeleddt kamm, stellte hei sick mit den Herrn Unteroffzierer tausam, un sei unnerhöllen sick dor beid ut ein Glas.
-# text = – Un as wy alle sou recht sköyn in den tog weren, gung de vüürwarkslüütnant mid en pår andere lüütnants, dee wy kennen deaden, an dat vinster vöärby, un see müsten rin koamen, un de her underofficier van de wach wul nich rinne uut respekt vöär syne vöärgesetteden, stund äver achter de döäre un drunk eyn glas nå dat ander, un as Lewandowsky mid unsen lütten brüdigam endlik wedder angeledded kam, stelde hee sik mid den herren underofficier tosamen, un see ünderhölden sik dår beide uut eyn glas.
+# text = – Un as wy nu alle sou recht sköyn in den tog weren, gung de vüürwarkslüütnant mid en pår andere lüütnants, dee wy kennen deaden, an dat vinster vöärby, un see müsten rin koamen, un de her underofficier van de wach wul nich rinne uut respekt vöär syne vöärgesetteden, stund äver achter de döäre un drunk eyn glas nå dat ander, un as Lewandowsky mid unsen lütten brüdigam endlik wedder angeledded kam, stelde hee sik mid den herren underofficier tosamen, un see ünderhölden sik dår beide uut eyn glas.
 1	–	–	PUNCT	_	_	15	punct	_	_
 2	Un	un	CCONJ	_	_	15	cc	_	lemma_gml=unde
 3	as	as	SCONJ	_	_	9	mark	_	lemma_gml=alsô
@@ -16866,7 +16866,7 @@
 40	un	un	CCONJ	_	_	49	cc	_	lemma_gml=unde
 41	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	lemma_gml=dê,dê,dat
 42	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	nmod	_	lemma_gml=hêre
-43	underofficier	underofficier	NOUN	_	Case=Nom|Foreign=Yes|Gender=Masc|Number=Sing	49	nsubj	_	lemma_gml=underofficier
+43	underofficier	underofficier	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	49	nsubj	_	lemma_gml=underofficier
 44	van	van	ADP	_	AdpType=Prep	46	case	_	lemma_gml=van
 45	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	lemma_gml=dê,dê,dat
 46	wach	wach	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	43	nmod	_	lemma_gml=wāch
@@ -16877,7 +16877,7 @@
 51	respekt	respekt	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	49	obl	_	lemma_gml=respekt
 52	vöär	vöär	ADP	_	AdpType=Prep	54	case	_	lemma_gml=vȫr
 53	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	54	det	_	lemma_gml=sîn,ēr,sîn
-54	vöärgesetteden	vöärgesetteden	NOUN	_	Case=Acc|Foreign=Yes|Gender=Masc|Number=Plur	51	nmod	_	lemma_gml=vȫrgesettet|SpaceAfter=No
+54	vöärgesetteden	vöärgesetteden	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	51	nmod	_	lemma_gml=vȫrgesettet|SpaceAfter=No
 55	,	,	PUNCT	_	_	56	punct	_	_
 56	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	49	conj	_	lemma_gml=stân
 57	äver	aver	ADV	_	_	56	advmod	_	lemma_gml=āver
@@ -16890,7 +16890,7 @@
 64	glas	glas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	62	obj	_	lemma_gml=glas
 65	nå	nå	ADP	_	AdpType=Prep	67	case	_	lemma_gml=nâ
 66	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	67	det	_	lemma_gml=dê,dê,dat
-67	ander	ander	PRON	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	64	nmod	_	lemma_gml=ander|SpaceAfter=No
+67	ander	ander	PRON	_	Case=Acc,Dat|Gender=Neut|Number=Sing|PronType=Ind	64	nmod	_	lemma_gml=ander|SpaceAfter=No
 68	,	,	PUNCT	_	_	81	punct	_	_
 69	un	un	CCONJ	_	_	81	cc	_	lemma_gml=unde
 70	as	as	SCONJ	_	_	79	mark	_	lemma_gml=alsô
@@ -16920,7 +16920,7 @@
 94	dår	dår	ADV	_	_	92	advmod	_	lemma_gml=dâr
 95	beide	beide	ADJ	_	Case=Nom|Number=Plur	91	nmod	_	lemma_gml=bêide
 96	uut	uut	ADP	_	AdpType=Prep	98	case	_	lemma_gml=ût
-97	eyn	eyn	NUM	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	98	nummod	_	lemma_gml=êin,êine,êin
+97	eyn	eyn	NUM	_	Case=Acc,Dat|Gender=Neut|Number=Sing	98	nummod	_	lemma_gml=êin,êine,êin
 98	glas	glas	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	92	obl	_	lemma_gml=glas|SpaceAfter=No
 99	.	.	PUNCT	_	_	15	punct	_	_
 
@@ -17011,7 +17011,7 @@
 
 # sent_id = LSDC_0658_1939_00043_MVP
 # text_orig = Snubbs wendte sick de Kapteihn af un gung hinnen nah de Kasematt rin; hei was en Mann von Ihr un von Wurd; de Kopernikus stellte sick an't Finster un kek sin niges Eigendaum nah, un ick satt dor as't föwt Rad an'n Wagen un hülp mi mit Koffedrinken ut de slimme Lag'; denn alle beid' hadden sei en Haß up mi smeten, as wir ick schuld an all de Qual; äwer so mag dat woll all de Richters gahn.
-# text = Snubs wendede sik de kaptein af un gung hinden nå de kasematte rin; hee was en man van eyre un van woord; de Kopernikus stelde sik an dat vinster un keyk syn nyges eygendoom nå, un ik sat dår as et vövd rad an den wagen un hülp my mid koffydrinken uut de slimme låge; dän alle beide hadden see en hate up my smeaten, as weer ik skuld an al de kwål; äver sou mag dat wol al de richters gån.
+# text = Snubs wendede sik de kaptein af un gung hinden nå de kasematte rin; hee was en man van eyre un van woord; de Kopernikus stelde sik an dat vinster un keyk syn nyges eygendoom nå, un ik sat dår as dat vövd rad an den wagen un hülp my mid koffydrinken uut de slimme låge; dän alle beide hadden see en hate up my smeaten, as weer ik skuld an al de kwål; äver sou mag dat wol al de richters gån.
 1	Snubs	snubs	ADV	_	_	2	advmod	_	lemma_gml=snups
 2	wendede	wenden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wêinen
 3	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	nsubj	_	lemma_gml=sik
@@ -17077,7 +17077,7 @@
 63	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	69	aux	_	lemma_gml=hebben
 64	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	69	nsubj	_	lemma_gml=sê
 65	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	66	det	_	lemma_gml=êin,êine,êin
-66	hate	hate	NOUN	_	Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing	69	obj	_	lemma_gml=hāte
+66	hate	hate	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	69	obj	_	lemma_gml=hāte
 67	up	up	ADP	_	AdpType=Prep	68	case	_	lemma_gml=uppe
 68	my	ik	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	69	obl	_	lemma_gml=ik
 69	smeaten	smyten	VERB	_	Tense=Past|VerbForm=Part	51	conj	_	lemma_gml=smîten|SpaceAfter=No
