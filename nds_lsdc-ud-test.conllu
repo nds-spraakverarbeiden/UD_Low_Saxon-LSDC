@@ -17524,7 +17524,7 @@
 
 # sent_id = LSDC_0674_1939_00060_MVP
 # text_orig = »Herr Konrekter,« säd Dürten un richt'te sick äwer En'n, kek äwer bi Sid weg, »ick freu mi, dat Allens taum Gauden utslahn is, un ick freu mi, dat Sei gesund wedder hir sünd, äwer mi drückt wat, un seggen möt ick 't doch einmal: ick möt von Sei furt trecken.« –
-# text = »Her konrektor,« sead Dürten un richtede sik öäver enden, keyk äver by syde weg, »ik vroie my, dat allens to 'm goden uutslån is, un ik vroie my, dat See gesund wedder hyr sünt, äver my drükt wat, un seggen möät ik et doch eymmål: ik möät van See voord trekken.« –
+# text = »Her konrektor,« sead Dürten un richtede sik öäver enden, keyk äver by syde weg, »ik vroie my, dat allens to 'm goden uutslån is, un ik vroie my, dat See gesund wedder hyr sünt, äver my drükt wat, un seggen möät ik et doch eynmål: ik möät van See voord trekken.« –
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	ccomp	_	lemma_gml=hêre
 3	konrektor	konrektor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	lemma_gml=conrêctor|SpaceAfter=No
