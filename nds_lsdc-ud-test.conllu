@@ -17223,7 +17223,7 @@
 # text_orig = De unglückliche Minsch namm dat Geld, hei kek den Ollen nich grad' in 't Gesicht, hei kek em so von de Sid an, hei säd nicks, hei dankte nich un wull eben furt gahn, dunn tründelte Unkel Bors bet nah vör un frog: »»Wo bliwen æwer min tweihunnert Daler?«« –
 # text = De ungelüklike minske nam dat geld, hee keyk den olden nich gerade in dat gesichte, hee keyk em sou van de syde an, hee sead niks, hee dankede nich un wul eaven voord gån, dun tründelde unkel Bors bet nå vöär un vråg: »»woor blyven äver myn tweyhunderd daler?«« –
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
-2	unglüklike	unlüklik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ungelükkelĩk
+2	ungelüklike	ungelüklik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ungelükkelĩk
 3	minske	minske	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma_gml=minsche
 4	nam	neamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=nēmen
 5	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
@@ -17330,7 +17330,7 @@
 
 # sent_id = LSDC_0668_1939_00054_MVP
 # text_orig = Un unser Falk, de in der Bök satt un grausam möd äwerst noch veel mehr hungrig was, hürde eene Duw kurren un sach se bald mit ehren witten Feddern up dem Husdack.
-# text = Un unser valke, dee in der böke sat un gruwsam möde äverst noch veal meyr hunderig was, höyrde eyne duve kurren un sag see bald mid earen witten vedderen up dem huusdak.
+# text = Un unser valke, dee in der böke sat un gruwsam möde äverst noch veal meyr hungerig was, höyrde eyne duve kurren un sag see bald mid earen witten vedderen up dem huusdak.
 1	Un	un	CCONJ	_	_	20	cc	_	lemma_gml=unde
 2	unser	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	lemma_gml=unse
 3	valke	valke	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	lemma_gml=valke|SpaceAfter=No
@@ -17539,7 +17539,7 @@
 12	enden	ende	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	9	obl	_	lemma_gml=ende|SpaceAfter=No
 13	,	,	PUNCT	_	_	6	punct	_	_
 14	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	lemma_gml=kîken
-15	öäver	aver	ADV	_	_	14	advmod	_	lemma_gml=āver
+15	äver	aver	ADV	_	_	14	advmod	_	lemma_gml=āver
 16	by	by	ADP	_	AdpType=Prep	17	case	_	lemma_gml=bî
 17	syde	syde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	obl	_	lemma_gml=sîde
 18	weg	weg	ADV	_	_	14	compound:prt	_	lemma_gml=wech|SpaceAfter=No
@@ -17664,7 +17664,7 @@
 
 # sent_id = LSDC_0677_1939_00063_MVP
 # text_orig = – Oh, meinte hei, ick wir jo en hellsch kratzböstigen Kirl; äwer so wiren vele west, un sei hadden sei hir all tamm kregen, sei würden mi ok woll krigen.
-# text = – O, meynde hee, ik weer jo en helsk kratsbörstigen kearl; äver sou weren veale west, un see hadden see hyr al tam kreagen, see würde my ouk wol krygen.
+# text = – O, meynde hee, ik weer jo en helsk kratsbörstigen kearl; äver sou weren veale west, un see hadden see hyr al tam kreagen, see würden my ouk wol krygen.
 1	–	–	PUNCT	_	_	2	punct	_	_
 2	O	o	INTJ	_	_	4	ccomp	_	lemma_gml=o|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -17682,7 +17682,7 @@
 15	äver	aver	CCONJ	_	_	16	cc	_	lemma_gml=āver
 16	sou	sou	ADV	_	_	13	conj	_	lemma_gml=sô
 17	weren	weasen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=3|Tense=Past	16	cop	_	lemma_gml=wēsen
-18	veale	veale	PRON	_	Case=Nom|Degree=Pos|Number=Plur|PronType=Ind	16	nsubj	_	lemma_gml=vēle
+18	veale	veale	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	16	nsubj	_	lemma_gml=vēle
 19	west	weasen	AUX	_	Tense=Past|VerbForm=Part	16	aux	_	lemma_gml=wēsen|SpaceAfter=No
 20	,	,	PUNCT	_	_	28	punct	_	_
 21	un	un	CCONJ	_	_	28	cc	_	lemma_gml=unde
