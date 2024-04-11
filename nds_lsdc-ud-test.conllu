@@ -16823,7 +16823,7 @@
 
 # sent_id = LSDC_0654_1939_00039_MVP
 # text_orig = – Un as wi nu all so recht schön in'n Tog wiren, gung de Füerwarksleutnant mit en por annere Leutnants, de wi kennen deden, an't Finster vörbi, un sei müßten rin kamen, un de Herr Unteroffzierer von de Wach wull nich rinne ut Respekt vör sine Vörgesetzten, stunn äwer achter de Dör un drunk ein Glas nah dat anner, un as Lewandowsky mit unsen lütten Brüdjam endlich wedder angeleddt kamm, stellte hei sick mit den Herrn Unteroffzierer tausam, un sei unnerhöllen sick dor beid ut ein Glas.
-# text = – Un as wy nu alle sou recht sköyn in den tog weren, gung de vüürwarkslüütnant mid en pår andere lüütnants, dee wy kennen deaden, an dat vinster vöärby, un see müsten rin koamen, un de her underofficier van de wach wul nich rinne uut respekt vöär syne vöärgesetteden, stund äver achter de döäre un drunk eyn glas nå dat ander, un as Lewandowsky mid unsen lütten brüdigam endlik wedder angeledded kam, stelde hee sik mid den herren underofficier tosamen, un see ünderhölden sik dår beide uut eyn glas.
+# text = – Un as wy nu alle sou recht sköyn in den tog weren, gung de vüürwarkslüütnant mid en pår andere lüütnants, dee wy kennen deaden, an dat vinster vöärby, un see müsten rin koamen, un de her underofficier van de wach wul nich rinne uut respekt vöär syne vöärgesetteden, stund äver achter de döäre un drunk eyn glas nå dat ander, un as Lewandowsky mid unsen lütten brüdigam endlik wedder angeledded kam, stelde hee sik mid den herren underofficier tosamen, un see underhölden sik dår beide uut eyn glas.
 1	–	–	PUNCT	_	_	15	punct	_	_
 2	Un	un	CCONJ	_	_	15	cc	_	lemma_gml=unde
 3	as	as	SCONJ	_	_	9	mark	_	lemma_gml=alsô
@@ -17104,7 +17104,7 @@
 
 # sent_id = LSDC_0659_1939_00044_MVP
 # text_orig = Hett Fritz Sahlmann oder Fik...?« –
-# text = Het Fritz Sahlman odder Fik...?« –
+# text = Het Fritz Sahlmann odder Fik...?« –
 1	Het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hebben
 2	Fritz	Fritz	PROPN	_	Number=Sing	1	obj	_	_
 3	Sahlmann	Sahlmann	PROPN	_	Number=Sing	2	flat	_	_
@@ -17157,7 +17157,7 @@
 6	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	_
 8	röyp	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=rôpen
-9	see	see	AUX	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=sê|SpaceAfter=No
+9	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=sê|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
 11	»	»	PUNCT	_	_	13	punct	_	SpaceAfter=No
 12	al	al	ADV	_	_	13	advmod	_	lemma_gml=al
@@ -17181,7 +17181,7 @@
 12	der	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
 13	junge	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma_gml=junge
 14	dår	dår	ADV	_	_	13	advmod	_	lemma_gml=dâr
-15	kan	köänen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	lemma_gml=künnen
+15	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	lemma_gml=künnen
 16	mid	mid	ADP	_	AdpType=Prep	17	case	_	lemma_gml=mit
 17	Durick	Durick	PROPN	_	Number=Sing	18	obl	_	lemma_gml=durick
 18	gån	gån	VERB	_	VerbForm=Inf	6	conj	_	lemma_gml=gân
@@ -17208,9 +17208,9 @@
 14	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = LSDC_0664_1939_00050_MVP
-# text = – Sall denn hüt allens verkihrt gahn?
+# text_orig = – Sall denn hüt allens verkihrt gahn?
 # text = – Sal dän hüde allens vorkeyrd gån?
-1	–	–	PUNCT	_	_	7	cc	_	_
+1	–	–	PUNCT	_	_	7	punct	_	_
 2	Sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma_gml=schȫlen
 3	dän	dän	ADV	_	_	7	advmod	_	lemma_gml=den
 4	hüde	hüde	ADV	_	_	7	advmod	_	lemma_gml=hü̂de
