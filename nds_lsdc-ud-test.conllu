@@ -10895,9 +10895,9 @@
 # text = Mår et aller-, aller-, allerbelangrykste up Camping Durêve is ofvalskeidinge.
 1	Mår	mår	CCONJ	_	_	7	cc	_	lemma_gml=mêr
 2	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=et
-3	aller-	aller	ADV	_	_	7	advmod:emph	_	lemma_gml=al|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	_	_
-5	aller-	aller	ADV	_	_	3	conj	_	lemma_gml=al|SpaceAfter=No
+3	aller-	aller	ADV	_	_	7	compound:redup	_	lemma_gml=al|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	aller-	aller	ADV	_	_	7	compound:redup	_	lemma_gml=al|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	allerbelangrykste	allerbelangryk	ADJ	_	Degree=Sup	0	root	_	lemma_gml=allerbelancrîk
 8	up	up	ADP	_	AdpType=Prep	9	case	_	lemma_gml=uppe
