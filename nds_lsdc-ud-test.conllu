@@ -17896,7 +17896,7 @@
 1	–	–	PUNCT	_	_	5	punct	_	_
 2	Rand	Rand	PROPN	_	Number=Sing	5	ccomp	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	SpaceAfter=No
-4	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	«	«	PUNCT	_	_	2	punct	_	_
 5	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 6	hee	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et
 7	to	to	ADP	_	AdpType=Prep	9	case	_	lemma_gml=tô
@@ -17971,7 +17971,7 @@
 
 # sent_id = LSDC_0687_1939_00074_MVP
 # text_orig = »»Je, Dörchläuchten,«« säd Rand, »»dat ward woll nich gahn, denn uns' oll Wallach, de up de Bisid geiht, hett dat Spatt so dägern, dat hei keinen Bein vör den annern setten kann.«« –
-# text = »»Je, Dörchläuchten,«« sead Rand, »»dat wardt wol nich gån, dän uns old wallach, dee upde bysyde geit, het dat spat sou deageren, dat hee keynen beyn vöär den anderen setten kan.«« –
+# text = »»Je, Dörchläuchten,«« sead Rand, »»dat wardt wol nich gån, dän uns old wallach, dee up de bysyde geit, het dat spat sou deageren, dat hee keynen beyn vöär den anderen setten kan.«« –
 1	»»	»»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Je	je	INTJ	_	_	4	discourse	_	lemma_gml=jê|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -18368,7 +18368,7 @@
 
 # sent_id = LSDC_0698_1939_00085_MVP
 # text_orig = Nah en annerthalw Stun’n kamm ick denn wedder taurügg, glücklich bet unner den Hauttöppel, un mag ok woll dornah utseihn hewwen; un dor ick mi in min einsam Junggesellenlewen de dürigte Mod’ anwendt hadd, mit mi sülwst tau snacken, so kann ick nu bi ruhige Besinnung de Lüd’ dat nich verdenken, wenn sei mi, as ick de Strat hendalen kamm, en beten ut den Weg gungen un mi scharp nahkeken, ob min Bein ok woll so deklamierten as min Hän’n.
-# text = Nå en anderthalv stunden kam ik dän wedder torügge, gelüklik bet under den hoodtöppel, un mag ouk wol dårnå uutseen hevven; un dår ik my in myn eynsaam junggesellenleaven de döyrge mode anwend had, mid my sülvst to snakken, sou kan ik nu by rowige besinninge de lüde dat nich vordenken, wän see my, as ik de stråte hendalen kam, en beaten uut den weg gungen un my skarp nåkeyken, of myn beyn ouk wol sou deklameerden as myn händen.
+# text = Nå en anderthalv stunden kam ik dän wedder torügge, gelüklik bet under den hoodtöppel, un mag ouk wol dårnå uutseen hevven; un dår ik my in myn eynsaam junggesellenleaven de döyrige mode anwend had, mid my sülvst to snakken, sou kan ik nu by rowige besinninge de lüde dat nich vordenken, wän see my, as ik de stråte hendalen kam, en beaten uut den weg gungen un my skarp nåkeyken, of myn beyn ouk wol sou deklameerden as myn händen.
 1	Nå	nå	ADP	_	AdpType=Prep	4	case	_	lemma_gml=nâ
 2	en	en	DET	_	Case=Acc,Dat|Definite=Ind|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
 3	anderthalv	anderthalv	NUM	_	NumType=Card	4	nummod	_	lemma_gml=anderhalf
