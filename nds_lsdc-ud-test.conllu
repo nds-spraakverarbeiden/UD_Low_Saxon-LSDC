@@ -17958,8 +17958,8 @@
 63	à	à	X	_	Foreign=Yes	68	obl	_	_
 64	la	la	X	_	Foreign=Yes	63	dep	_	_
 65	Pompadour	Pompadour	X	_	Foreign=Yes	63	dep	_	SpaceAfter=No
-66	,	,	PUNCT	_	_	63	punct	_	_
-67	«	«	PUNCT	_	_	63	punct	_	SpaceAfter=No
+66	,	,	PUNCT	_	_	63	punct	_	SpaceAfter=No
+67	«	«	PUNCT	_	_	63	punct	_	_
 68	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	parataxis	_	lemma_gml=seggen
 69	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	68	nsubj	_	lemma_gml=hê,sê,et
 70	by	by	ADP	_	AdpType=Prep	71	case	_	lemma_gml=bî
