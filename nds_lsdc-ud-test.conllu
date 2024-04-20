@@ -18953,14 +18953,14 @@
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	_	lemma_gml=wî
 2	sollen	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	22	aux	_	lemma_gml=schȫlen
 3	düär	döär	ADP	_	AdpType=Prep	6	case	_	lemma_gml=dȫr
-4	twee	twey	NUM	_	NumType=Card	6	nummod	_	lemma_gml=twêne
+4	twey	twey	NUM	_	NumType=Card	6	nummod	_	lemma_gml=twêne
 5	siakere	seaker	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	6	amod	_	lemma_gml=sēker
 6	dinge	ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	22	obl	_	lemma_gml=dinc|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	düär	döär	ADP	_	AdpType=Prep	9	case	_	lemma_gml=dȫr
 9	vorspreaken	vorspreaken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	lemma_gml=vorsprēkent
 10	un	un	CCONJ	_	_	11	cc	_	lemma_gml=unde
-11	eyd	eyd	NOUN	_	Case=Acc|Case=Masc|Number=Sing	9	conj	_	lemma_gml=êit|SpaceAfter=No
+11	eyd	eyd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	lemma_gml=êit|SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	_
 13	---	---	PUNCT	_	_	14	punct	_	_
 14	God	god	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma_gml=got
@@ -18986,9 +18986,9 @@
 34	.	.	PUNCT	_	_	22	punct	_	_
 
 # sent_id = LSDC_0722_1939_00190_DWF
-# text = – De Pastauer was de Fröndlichkeit selwer, hai lait nit noh, bit de Studänten oppem Kannepäi Platz nehmen.
+# text_orig = – De Pastauer was de Fröndlichkeit selwer, hai lait nit noh, bit de Studänten oppem Kannepäi Platz nehmen.
 # text = – De pastor was de vründlikheid selver, hee leyt neet nå, bit de studenten up dem kanapee plats naemen.
-1	–	–	PUNCT	_	_	3	case	_	_
+1	–	–	PUNCT	_	_	3	punct	_	_
 2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=pâstôr
 4	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	lemma_gml=wēsen
@@ -19041,7 +19041,7 @@
 
 # sent_id = LSDC_0725_1939_00018_DWF
 # text_orig = Doe lütken Flaitgriawens innen Wisken mössen oll rummt weren, wenn dat Gräss no kott was.
-# text = Dee lütken vleetgrävens in den wisken mössen ol rumd werden, wän dat gräs noch kort was.
+# text = De lütken vleetgrävens in den wisken mössen ol rumd werden, wän dat gräs noch kort was.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 2	lütken	lütken	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	lemma_gml=lüttik
 3	vleetgrävens	vleetgraven	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	lemma_gml=vlêtgrāve
@@ -19063,7 +19063,7 @@
 
 # sent_id = LSDC_0726_1939_00173_DWF
 # text_orig = Hoe hät soe in foriut kennt un hät soe auk in foriut doteo bestimmet, dat soe suinem Suonen änlik weren süöt; doe sall doe erste unner fielen Broörn suin.
-# text = Hee het see in voaruut kend un het see ouk in voaruut dårto bestimd, dat see synem suanen äänlik werden süölet; dee sal dee eyrste under vialen bröderen syn.
+# text = Hee het see in voaruut kend un het see ouk in voaruut dårto bestimd, dat see synem suanen äänlik werden süälet; dee sal dee eyrste under vialen bröderen syn.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
 2	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	lemma_gml=hebben
 3	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	lemma_gml=sê
@@ -19099,7 +19099,7 @@
 
 # sent_id = LSDC_0727_1980_00098_DWF
 # text_orig = At Alkana dat nöggeste Maol met Hanna 'eschlaopen harre, dao was iät gurrer Huoppnunge un as dat sou wît was, dao brache iät en Suohn op de Welt un näumere 'ne Samuel, wîl dat iät 'ne vam Häären erbîen harre.
-# text = At Alkana dat nöggeste mål med Hanna eslåpen hadde, do was et goder hoapeninge un as dat wou wyd was, do brachte et en suan up de werld un nömede ne Samuel, wyl dat et ne van dem heyren erbiaden hadde.
+# text = At Alkana dat nöggeste mål med Hanna eslåpen hadde, do was et goder hoapeninge un as dat sou wyd was, do brachte et en suan up de werld un nömede ne Samuel, wyl dat et ne van dem heyren erbiaden hadde.
 1	At	as	SCONJ	_	_	8	mark	_	lemma_gml=alsôdat
 2	Alkana	Alkana	PROPN	_	Number=Sing	8	nsubj	_	_
 3	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
@@ -19108,7 +19108,7 @@
 6	med	mid	ADP	_	AdpType=Prep	7	case	_	lemma_gml=mit
 7	Hanna	Hanna	PROPN	_	Number=Sing	8	nmod	_	_
 8	eslåpen	slåpen	VERB	_	Tense=Past|VerbForm=Part	15	acl:relcl	_	lemma_gml=slâpen
-9	hadde	habben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	lemma_gml=hebben|SpaceAfter=No
+9	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	lemma_gml=hebben|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
 11	do	do	ADV	_	_	15	advmod	_	lemma_gml=dô
 12	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	cop	_	lemma_gml=wēsen
@@ -19157,7 +19157,7 @@
 6	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	lemma_gml=dû
 7	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	lemma_gml=hê,sê,et
 8	al	al	ADV	_	_	9	advmod	_	lemma_gml=al
-9	höyrd	höyren	VERB	_	Tense=Past|PronType=Part	3	parataxis	_	lemma_gml=hö̂ren|SpaceAfter=No
+9	höyrd	höyren	VERB	_	Tense=Past|VerbType=Part	3	parataxis	_	lemma_gml=hö̂ren|SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0729_1980_00002_DWF
