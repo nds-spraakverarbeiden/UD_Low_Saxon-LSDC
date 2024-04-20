@@ -19165,7 +19165,7 @@
 # text = − Ståt byeneyn to 't leste mål
 1	−	−	DET	_	_	2	det	_	_
 2	Ståt	stån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=stân
-3	bieneyn	byeneyn	ADV	_	_	2	advmod	_	lemma_gml=bîêin
+3	byeneyn	byeneyn	ADV	_	_	2	advmod	_	lemma_gml=bîêin
 4	to	to	ADP	_	AdpType=Prep	7	case	_	lemma_gml=tô
 5	't	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 6	leste	lest	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Neut|Number=Sing	7	amod	_	lemma_gml=lat
@@ -19355,7 +19355,7 @@
 
 # sent_id = LSDC_0742_1939_00072_DWF
 # text_orig = Sau geng Jesus duür olle Stia un Diarper; hoe lere innen Scheolen, ferkünnige doe geoe Buaskop fan Gott suinem Ruike un hoele ollerhand Krankhoeden un Suüken.
-# text = Sou geng Jesus düär olle städe un dörper; hee leyre in den skolen, vorkünnige dee gode bodskop van God synem ryke un heyle ollerhand krankheiden un süken.
+# text = Sou geng Jesus düär olle städe un dörper; hee leyre in den skolen, vorkündige dee gode bodskop van God synem ryke un heyle ollerhand krankheiden un süken.
 1	Sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
 2	geng	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=gân
 3	Jesus	jesus	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=jêsus
@@ -19432,7 +19432,7 @@
 
 # sent_id = LSDC_0745_20th_00231_DWF
 # text_orig = Éin Lämmken béit iék te Doué, Leck're dat Blaut, et schmak're mi köstliék! un mordere widder Véir diar jüng'sten Ziehen un ât sei un üw're miék ferner; Sparde keine Vüel', noch Hauhner, noch Enten, noch Göise, Wo iék sei fung, un häwwe wall mann'get im Sande vergrawen, Wat iék do schlachtet un wat mi nit alles te iaten beleiw're.
-# text = Eyn lämken beyt ik te doude, lekkede dat blood, et smakkede my köstlik! un mordede wyder veer der jüngsten siagen un åt see un öövde mik veerner; spaarde keyne vüägel noch honer, noch enden, noch göse, woor ik see vung, un hevve wal manniget in dem sande vorgraven, wat ik do slachted un wat my neet alles te eaten beleevde.
+# text = Eyn lämken beyt ik te doude, lekkede dat blood, et smakkede my köstlik! un mordede wyder veer der jüngsten siagen un åt see un öövde mik veerner; spaarde keyne vüägel, noch honer, noch enden, noch göse, woor ik see vung, un hevve wal manniget in dem sande vorgraven, wat ik do slachted un wat my neet alles te eaten beleevde.
 1	Eyn	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
 2	lämken	lämken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma_gml=lemmeken
 3	beyt	byten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=bîten
@@ -19591,7 +19591,7 @@
 13	:	:	PUNCT	_	_	11	punct	_	_
 14	„	„	PUNCT	_	_	15	punct	_	SpaceAfter=No
 15	Sü	seen	VERB	_	Mood=Imp|Number=Sing	11	ccomp	_	lemma_gml=sên
-16	kind	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	vocative	_	lemma_gml=kint
+16	kind	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	vocative	_	lemma_gml=kint|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	_
 18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	lemma_gml=ik
 19	mat	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	21	aux	_	lemma_gml=mö̂ten
@@ -19624,7 +19624,7 @@
 8	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
 9	dacht	denken	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	6	advcl	_	lemma_gml=denken|SpaceAfter=No
 10	,	,	PUNCT	_	_	15	punct	_	_
-11	dän	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+11	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
 12	halvskeyd	halvskeid	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	lemma_gml=halfschêide
 13	heb	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	15	aux	_	lemma_gml=hebben
 14	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma_gml=ik
@@ -19668,7 +19668,7 @@
 
 # sent_id = LSDC_0753_1980_00007_DWF
 # text_orig = Me bleis dei Hüörner un dat Volk reip: >Lang liäwe Küönig Salomo!< Dann beglerren se 'ne ropp nao Jerusalem.
-# text = Men bleys dee höörner un dat volk reyp: >Lange liave köäning Salomo!< Dan begledden see ne rup nå Jerusalem.
+# text = Men bleys dee höörner un dat volk reyp: >Lange liave küäning Salomo!< Dan begledden see ne rup nå Jerusalem.
 1	Men	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	lemma_gml=man
 2	bleys	blåsen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=blâsen
 3	dee	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
@@ -19681,7 +19681,7 @@
 10	>	>	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	Lange	lang	ADJ	_	Degree=Pos	12	amod	_	lemma_gml=lanc
 12	liave	leaven	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	8	ccomp	_	lemma_gml=lēven
-13	küöning	köäning	PROPN	_	Number=Sing	12	vocative	_	lemma_gml=kȫninc
+13	küäning	köäning	PROPN	_	Number=Sing	12	vocative	_	lemma_gml=kȫninc
 14	Salomo	Salomo	PROPN	_	Number=Sing	13	flat	_	SpaceAfter=No
 15	!	!	PUNCT	_	_	12	punct	_	SpaceAfter=No
 16	<	<	PUNCT	_	_	12	punct	_	_
@@ -19696,7 +19696,7 @@
 
 # sent_id = LSDC_0754_19th_00288_DWF
 # text_orig = „Segg diu me Vaaren men, ick käme nit“, saggte Hiärmen, „weut hai dann nit mer, dat hai myi neulich selwer saggt hiät, ick söll myi met kaine slechte Luie ophollen?“
-# text = „Seg du myn vaderen men, ik kaeme neet“, sagde Hiärmen, „weyt hee dan neet meyr, dat hee my nülik selver sagd het, ik söl my med meyne slechte lüde upholden?“
+# text = „Seg du myn vaderen men, ik kaeme neet“, sagde Hiärmen, „weyt hee dan neet meyr, dat hee my nülik selver sagd het, ik söl my med keyne slechte lüde upholden?“
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Seg	seggen	VERB	_	Mood=Imp|Number=Sing	13	ccomp	_	lemma_gml=seggen
 3	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=dû
@@ -19722,7 +19722,7 @@
 23	dat	dat	SCONJ	_	_	28	mark	_	lemma_gml=dat
 24	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	lemma_gml=hê,sê,et
 25	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	28	iobj	_	lemma_gml=ik
-26	nülik	nülik	ADV	_	Foreign=Yes	28	advmod	_	lemma_gml=nîelĩken
+26	nülik	nülik	ADV	_	_	28	advmod	_	lemma_gml=nîelĩken
 27	selver	sülve	ADV	_	_	28	advmod	_	lemma_gml=sülve
 28	sagd	seggen	VERB	_	Tense=Past|VerbForm=Part	17	ccomp	_	lemma_gml=seggen
 29	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	28	aux	_	lemma_gml=hebben|SpaceAfter=No
@@ -19758,7 +19758,7 @@
 
 # sent_id = LSDC_0756_1939_00278_DWF
 # text_orig = Os Küönik hedden soe den Engel iut dem Afgrunne iawer sik; doe hoede hebräisk Abaddon un gruichisk Appolyon.
-# text = Os küäning hädden see den engel uut dem afgrunde öäver sik; dee heyde hebrääsk Abadon un grekisk Appolyon.
+# text = Os küäning hädden see den engel uut dem afgrunde öäver sik; dee heyde hebrääsk Abaddon un grekisk Appolyon.
 1	Os	as	ADP	_	_	2	case	_	lemma_gml=alsô
 2	küäning	köäning	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	lemma_gml=kȫninc
 3	hädden	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
@@ -19827,7 +19827,7 @@
 14	!	!	PUNCT	_	_	10	punct	_	_
 
 # sent_id = LSDC_0760_1980_00123_DWF
-# text = Urija bläif düesen Dağğ nuoch in Jerusalem.
+# text_orig = Urija bläif düesen Dağğ nuoch in Jerusalem.
 # text = Urija bleyv düäsen dag noch in Jerusalem.
 1	Urija	Urija	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=urija
 2	bleyv	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=blîven
@@ -19860,7 +19860,7 @@
 
 # sent_id = LSDC_0763_1980_00184_DWF
 # text_orig = Sei bekäik 'ne siëck  lange un saoġ, dat dat en schöünen un stäörigen Jungen was.
-# text = See bekeyk ne sik lange un såg, dat dat en sköynen un stöädigen jungen was.
+# text = See bekeyk ne sik lange un såg, dat dat en sköynen un stäödigen jungen was.
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 2	bekeyk	bekyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=bekîken
 3	ne	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
@@ -19920,10 +19920,10 @@
 # text_orig = Den annern Dagg kaimen doe Jiuden tohaupe un naimen sik faste for, soe wollen nich oer iaden un drinken, bet soe Paulus ümmebrocht hedden.
 # text = Den anderen dag kaemen dee jöden tohoupe un naemen sik vaste voar, see wollen nich eyr eaten un drinken, bet see Paulus ümmebrocht hädden.
 1	Den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
-2	andern	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ander
+2	anderen	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ander
 3	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=dach
 4	kaemen	koamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
-5	dee	de	DET	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	det	_	lemma_gml=dê,dê,dat
+5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	jöden	jöde	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	lemma_gml=jȫde
 7	tohoupe	tohoupe	ADV	_	_	4	advmod	_	lemma_gml=tôhôpe
 8	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
@@ -19962,7 +19962,7 @@
 
 # sent_id = LSDC_0767_1939_00253_DWF
 # text_orig = Ik sen fan dem Fadder iutgon un inne Welt kuomen; niu ferlode ik doe Welt wir un go no dem Fadder.
-# text = Ik sen van dem vadder uutgån un in de werld kuamen; nu vorlåde ik dee werld wiar un gå nå dem vadder.
+# text = Ik sen van dem vadder uutgån un in de werld kuamen; nu vorlåte ik dee werld wiar un gå nå dem vadder.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
 2	sen	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	aux	_	lemma_gml=wēsen
 3	van	van	ADP	_	AdpType=Prep	5	case	_	lemma_gml=van
