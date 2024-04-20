@@ -17911,7 +17911,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
 18	goldene	golden	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	lemma_gml=gülden
-19	kutse	kutse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	parataxis	_	lemma_gml=kutsche
+19	kutse	kutse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	parataxis	_	lemma_gml=kutsche|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	dree	dree	NUM	_	NumType=Card	22	nummod	_	lemma_gml=drê
 22	lakeien	lakei	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	conj	_	lemma_gml=lakey
@@ -18211,7 +18211,7 @@
 78	–	–	PUNCT	_	_	81	punct	_	_
 79	»	»	PUNCT	_	_	81	punct	_	SpaceAfter=No
 80	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	81	det	_	lemma_gml=dê,dê,dat
-81	professer	professor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	74	appos	_	lemma_gml=professor
+81	professor	professor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	74	appos	_	lemma_gml=professor
 82	juris	juris	X	_	Foreign=Yes	81	flat	_	_
 83	utriusque	utriusque	X	_	Foreign=Yes	81	flat	_	_
 84	in	in	ADP	_	AdpType=Prep	85	case	_	lemma_gml=in
