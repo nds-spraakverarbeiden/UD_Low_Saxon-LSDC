@@ -18543,7 +18543,7 @@
 9	,	,	PUNCT	_	_	16	punct	_	_
 10	un	un	CCONJ	_	_	16	cc	_	lemma_gml=unde
 11	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
-12	anaern	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	lemma_gml=ander
+12	anderen	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	lemma_gml=ander
 13	morgen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	lemma_gml=morgen
 14	klokke	klok	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nmod	_	lemma_gml=klocke
 15	veer	veer	NUM	_	NumType=Card	14	nummod	_	lemma_gml=vêr
@@ -18590,7 +18590,7 @@
 20	stöyten	stöyten	VERB	_	VerbForm=Inf	9	advcl	_	lemma_gml=stö̂ten
 21	dead	doon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	lemma_gml=dôn
 22	un	un	CCONJ	_	_	29	cc	_	lemma_gml=unde
-23	man	man	ADV	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	29	nsubj	_	lemma_gml=man
+23	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	29	nsubj	_	lemma_gml=man
 24	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	lemma_gml=êin,êine,êin
 25	ingang	ingang	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	29	obj	_	lemma_gml=inganc
 26	nå	nå	ADP	_	AdpType=Prep	28	case	_	lemma_gml=nâ
@@ -18661,17 +18661,17 @@
 9	depe	deep	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	lemma_gml=dêp
 10	stimme	stemme	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	lemma_gml=stemme|SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	_
-12	dee	dee	PRON	_	Case=Ac|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	lemma_gml=dê,dê,dat
+12	dee	dee	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	lemma_gml=dê,dê,dat
 13	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	lemma_gml=ik
 14	syddeam	syddem	ADV	_	_	17	advmod	_	lemma_gml=sîtdēme
-15	nee	nie	ADV	_	Foreign=Yes	17	advmod	_	lemma_gml=nê
+15	nee	nie	ADV	_	_	17	advmod	_	lemma_gml=nê
 16	wedder	wedder	ADV	_	_	17	advmod	_	lemma_gml=wedder
 17	vorgeaten	vorgeaten	VERB	_	Tense=Past|VerbForm=Part	10	acl:relcl	_	lemma_gml=vorgēten
 18	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	aux	_	lemma_gml=hebben|SpaceAfter=No
 19	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0706_1939_00093_DWF
-# text = „Düörch dei Opklärung wiärd viäler dumme Glowe tau Water.“
+# text_orig = „Düörch dei Opklärung wiärd viäler dumme Glowe tau Water.“
 # text = „Düärch dee upkläringe werdt vialer dumme gelouve to water.“
 1	„	„	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	Düärch	döär	ADP	_	AdpType=Prep	4	case	_	lemma_gml=dȫr
@@ -18749,7 +18749,7 @@
 9	brennen	brennen	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	lemma_gml=bernen
 10	licht	licht	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	conj	_	lemma_gml=licht
 11	in	in	ADP	_	AdpType=Prep	13	case	_	lemma_gml=in
-12	dee	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
+12	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
 13	stuve	stoave	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	obl	_	lemma_gml=stōven
 14	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	22	advcl	_	lemma_gml=sitten|SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	_
@@ -18807,7 +18807,7 @@
 # text = Mid den sünt wy uuteneyn, dee het syn geld.« –
 1	Mid	mid	ADP	_	AdpType=Prep	2	case	_	lemma_gml=mit
 2	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	lemma_gml=dê,dê,dat
-3	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	root	_	lemma_gml=wēsen
+3	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	cop	_	lemma_gml=wēsen
 4	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=wî
 5	uuteneyn	uuteneyn	ADV	_	_	0	root	_	lemma_gml=ûtêin|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
@@ -18815,7 +18815,7 @@
 8	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	lemma_gml=hebben
 9	syn	syn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=sîn,ēr,sîn
 10	geld	geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	lemma_gml=gelt|SpaceAfter=No
-11	.	.	NOUN	_	_	5	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 12	«	«	PUNCT	_	_	5	punct	_	_
 13	–	–	PUNCT	_	_	5	punct	_	_
 
@@ -18891,7 +18891,7 @@
 
 # sent_id = LSDC_0718_1939_00124_DWF
 # text_orig = Nit blaut Strauhdecker, ok ne Bielersnitzer was Berend van Mausebolle un taum Üwerflaut ne Süaper un’n Schandmiul.
-# text = Neet blout stroudekker, ouk ne bylersnitser was Berend van Mausbolle un to 'm öävervlood ne süper un en skandmuul.
+# text = Neet blout stroudekker, ouk ne bylersnitser was Berend van Mausebolle un to 'm öävervlood ne süper un en skandmuul.
 1	Neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
 2	blout	blout	ADV	_	_	3	advmod	_	lemma_gml=blôt
 3	stroudekker	stroudekker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=strôdecker|SpaceAfter=No
@@ -18921,7 +18921,7 @@
 2	dan	dan	ADV	_	_	1	advmod	_	lemma_gml=dan
 3	vöär	vöär	ADP	_	AdpType=Prep	4	case	_	lemma_gml=vȫr
 4	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	1	obl	_	lemma_gml=ik
-5	raf	heraf	ADV	_	_	1	advmod:lmod	_	lemma_gml=hēraf
+5	raf	heraf	ADV	_	_	1	advmod	_	lemma_gml=hēraf
 6	nå	nå	ADP	_	AdpType=Prep	7	case	_	lemma_gml=nâ
 7	Gilgal	Gilgal	PROPN	_	Number=Sing	5	obl	_	lemma_gml=gilgal|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
@@ -18929,7 +18929,7 @@
 # sent_id = LSDC_0720_1939_00120_DWF
 # text_orig = Gnade sui met jiu un Fruide fan Gott, iusem Fadder un dem Heren Jesus Christus!
 # text = Genåde sy med juw un vroide van God, usem vadder un dem heyren Jesus Kristus!
-1	Genåde	genåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	root	_	lemma_gml=genâde
+1	Genåde	genåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	lemma_gml=genâde
 2	sy	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	4	cop	_	lemma_gml=wēsen
 3	med	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
 4	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	0	root	_	lemma_gml=gî
