@@ -19162,7 +19162,7 @@
 
 # sent_id = LSDC_0729_1980_00002_DWF
 # text_orig = − Staoht bineen to’t leste Maol.
-# text = − Ståt byeneyn to 't leste mål
+# text = − Ståt byeneyn to 't leste mål.
 1	−	−	DET	_	_	2	det	_	_
 2	Ståt	stån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=stân
 3	byeneyn	byeneyn	ADV	_	_	2	advmod	_	lemma_gml=bîêin
@@ -19494,7 +19494,7 @@
 59	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	62	obj	_	lemma_gml=watte
 60	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	62	nsubj	_	lemma_gml=ik
 61	do	do	ADV	_	_	62	advmod	_	lemma_gml=dô
-62	schlachted	slachten	VERB	_	Tense=Past|VerbForm=Part	53	acl:relcl	_	lemma_gml=slachten
+62	slachted	slachten	VERB	_	Tense=Past|VerbForm=Part	53	acl:relcl	_	lemma_gml=slachten
 63	un	un	CCONJ	_	_	70	cc	_	lemma_gml=unde
 64	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	70	obj	_	lemma_gml=watte
 65	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	70	nsubj	_	lemma_gml=ik
@@ -19776,7 +19776,7 @@
 15	hebrääsk	hebrääsk	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=hebrêesch
 16	Abaddon	Abaddon	PROPN	_	Number=Sing	14	xcomp	_	lemma_gml=abaddon
 17	un	un	CCONJ	_	_	19	cc	_	lemma_gml=unde
-18	grekisk	greeksk	ADJ	_	Degree=Pos|Foreign=Yes	19	orphan	_	lemma_gml=grêkesch
+18	grekisk	greeksk	ADJ	_	Degree=Pos	19	orphan	_	lemma_gml=grêkesch
 19	Appolyon	Appolyon	PROPN	_	Number=Sing	16	conj	_	lemma_gml=appolyon|SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -19918,7 +19918,7 @@
 
 # sent_id = LSDC_0765_1939_00208_DWF
 # text_orig = Den annern Dagg kaimen doe Jiuden tohaupe un naimen sik faste for, soe wollen nich oer iaden un drinken, bet soe Paulus ümmebrocht hedden.
-# text = Den anderen dag kaemen dee jöden tohoupe un naemen sik vaste voar, see wollen nich eyr eaten un drinken, bet see Paulus ümmebrocht hädden.
+# text = Den anderen dag kaemen de jöden tohoupe un naemen sik vaste voar, see wollen nich eyr eaten un drinken, bet see Paulus ümmebrocht hädden.
 1	Den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 2	anderen	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ander
 3	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=dach
