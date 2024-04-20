@@ -17952,7 +17952,7 @@
 57	nygen	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	58	amod	_	lemma_gml=nîe
 58	blomenhood	blomenhood	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	61	obj	_	lemma_gml=blômenhôt
 59	uut	uut	ADP	_	AdpType=Prep	60	case	_	lemma_gml=ût
-60	Paris	Paris	PROPN	_	Number=Sing	58	nmod	_	lemma_gml=parîs
+60	Parys	Parys	PROPN	_	Number=Sing	58	nmod	_	lemma_gml=parîs
 61	upsetten	upsetten	VERB	_	VerbForm=Inf	44	conj	_	lemma_gml=upsetten
 62	–	–	PUNCT	_	_	63	punct	_	_
 63	à	à	X	_	Foreign=Yes	68	obl	_	_
@@ -18130,7 +18130,7 @@
 
 # sent_id = LSDC_0693_1939_00080_MVP
 # text_orig = Min Mutting höll em de Hand entgegen, denn sei höll vel von den ollen ihrenwirten Mann, de so männig Stun'n bi ehr satt un mit Wisheit un Rechtfarigkeit de Erfohrungen von sine grisen Hor vör ehr utschüdden ded un de doch lewig un lustig naug was, dat dor hen un wenn en beten Puder mang stöhmt, wenn hei von sine Jenenser Studententid vertellen ded, wo hei un sin Brauder, Adolf Didrich – »de Professer juris utriusque in Rostock, min Herzenskindting« – in den Amicistenorden rümme wirkt hadden.
-# text = Myn mudding höld em de hand entgeagen, dän see höld veal van den olden eyrenwaerden man, dee sou männig stunden by ear sat un mid wysheid un rechtvardigheid de ervaringen van syne grysen hår vöär ear uutsküdden dead un dee doch leavig un lustig noog was, dat dår hen un wän en beaten puder mang stöymde, wän hee van syne jenenser studententyd vortellen dead, woor hee un syn broder, Adolf Didrich – »de professor juris utriusque in Rostock, myn hertenskinding« – in den amicistenorden rümmer werked hadden.
+# text = Myn mudding höld em de hand entgeagen, dän see höld veal van den olden eyrenwaerden man, dee sou männig stunden by ear sat un mid wysheid un rechtvardigheid de ervaringen van syne grysen hår vöär ear uutsküdden dead un dee doch leavig un lustig noog was, dat dår hen un wän en beaten puder mang stöymde, wän hee van syne jenenser studententyd vortellen dead, woor hee un syn broder, Adolf Didrich – »de professor juris utriusque in Rostock, myn hertenskinding« – in den amicistenorden rümme werked hadden.
 1	Myn	myn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=mîn
 2	mudding	mudding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=môdinc
 3	höld	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hōlden
