@@ -19157,13 +19157,13 @@
 6	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	lemma_gml=dû
 7	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	lemma_gml=hê,sê,et
 8	al	al	ADV	_	_	9	advmod	_	lemma_gml=al
-9	höyrd	höyren	VERB	_	Tense=Past|VerbType=Part	3	parataxis	_	lemma_gml=hö̂ren|SpaceAfter=No
+9	höyrd	höyren	VERB	_	Tense=Past|VerbForm=Part	3	parataxis	_	lemma_gml=hö̂ren|SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0729_1980_00002_DWF
 # text_orig = − Staoht bineen to’t leste Maol.
-# text = – Ståt byeneyn to 't leste mål
-1	−	−	DET	_	_	2	det	_	lemma_gml=−
+# text = − Ståt byeneyn to 't leste mål
+1	−	−	DET	_	_	2	det	_	_
 2	Ståt	stån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=stân
 3	bieneyn	byeneyn	ADV	_	_	2	advmod	_	lemma_gml=bîêin
 4	to	to	ADP	_	AdpType=Prep	7	case	_	lemma_gml=tô
@@ -19215,7 +19215,7 @@
 # sent_id = LSDC_0733_20th_00291_DWF
 # text_orig = Et follen Schlag op Schlia mi üewer dian Pelz, iék harre min Liawen Keinen trurigern Dag, un kum entkam iék diam Doue.
 # text = Et vollen slag up släge my öäver dean pels, ik hadde myn leaven keynen trurigeren dag, un kuum entkam ik deam doude.
-1	Et	et	PRON	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	expl:pv	_	lemma_gml=hê,sê,et
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl:pv	_	lemma_gml=hê,sê,et
 2	vollen	vallen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=vallen
 3	slag	slag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=slach
 4	up	up	ADP	_	AdpType=Prep	5	case	_	lemma_gml=uppe
@@ -19261,7 +19261,7 @@
 
 # sent_id = LSDC_0735_1980_00113_DWF
 # text_orig = Blouß dä, becker diän Stuoff op de Äärde tellen kann, kann diëck un dine Naokuommen tellen.
-# text = Blouts dee, hwekker den stov up de aerde tellen kan, dan dik un dyne nåkuamen tellen.
+# text = Blouts dee, hwekker den stov up de aerde tellen kan, kan dik un dyne nåkuamen tellen.
 1	Blouts	blouts	ADV	_	_	18	advmod	_	lemma_gml=blôt
 2	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
 3	,	,	PUNCT	_	_	10	punct	_	_
@@ -19283,10 +19283,10 @@
 19	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = LSDC_0736_1980_00215_DWF
-# text = Dä Meäkens woren abber talenmäßig überliégen.
+# text_orig = Dä Meäkens woren abber talenmäßig überliégen.
 # text = De mäkens wåren aver talenmätig öäverliagen.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
-2	mäkens	määdken	NOUN	_	Case=Nom|Gender=Plur|Number=Plur	6	nsubj	_	lemma_gml=mēdeken
+2	mäkens	määdken	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	lemma_gml=mēdeken
 3	wåren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
 4	aver	aver	ADV	_	_	6	advmod	_	lemma_gml=āver
 5	talenmätig	tallenmåtig	ADV	_	_	6	advmod	_	lemma_gml=tallenmâtich
@@ -19391,12 +19391,12 @@
 # text = 14 WAIGENLEED Hilleken, stilleken, Aigeskes to!
 1	14	14	NUM	_	NumType=Card	0	root	_	lemma_gml=14
 2	WAIGENLEED	wegenleed	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	lemma_gml=wêgenlêt
-3	Hilleken	hilleken	NOUN	_	Number=Sing	2	parataxis	_	lemma_gml=hilleken
+3	Hilleken	hilleken	NOUN	_	Number=Sing	2	parataxis	_	lemma_gml=hilleken|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	stilleken	stilleken	ADV	_	_	3	list	_	lemma_gml=stillĩken
+5	stilleken	stilleken	ADV	_	_	3	list	_	lemma_gml=stillĩken|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	Aigeskes	öygken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	list	_	lemma_gml=ö̂geken
-8	to	to	ADV	_	_	7	advmod	_	lemma_gml=tô
+8	to	to	ADV	_	_	7	advmod	_	lemma_gml=tô|SpaceAfter=No
 9	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = LSDC_0744_19th_00297_DWF
@@ -19432,7 +19432,7 @@
 
 # sent_id = LSDC_0745_20th_00231_DWF
 # text_orig = Éin Lämmken béit iék te Doué, Leck're dat Blaut, et schmak're mi köstliék! un mordere widder Véir diar jüng'sten Ziehen un ât sei un üw're miék ferner; Sparde keine Vüel', noch Hauhner, noch Enten, noch Göise, Wo iék sei fung, un häwwe wall mann'get im Sande vergrawen, Wat iék do schlachtet un wat mi nit alles te iaten beleiw're.
-# text = Eyn lämken beyt ik te doude, lekkede dat blood, et smakkede my köstlik! un mordede wyder veer der jüngsten siagen un åt see un öövde my veerner; spaarde keyne vüägel noch honer, noch enden, noch göse, woor ik see vung, un hevve wal manniget in dem sande vorgraven, wat ik do slachted un wat my neet alles te eaten beleevde.
+# text = Eyn lämken beyt ik te doude, lekkede dat blood, et smakkede my köstlik! un mordede wyder veer der jüngsten siagen un åt see un öövde mik veerner; spaarde keyne vüägel noch honer, noch enden, noch göse, woor ik see vung, un hevve wal manniget in dem sande vorgraven, wat ik do slachted un wat my neet alles te eaten beleevde.
 1	Eyn	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
 2	lämken	lämken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma_gml=lemmeken
 3	beyt	byten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=bîten
@@ -19501,7 +19501,7 @@
 66	neet	nich	PART	_	PartType=Neg	70	advmod	_	lemma_gml=nicht
 67	alles	alles	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	64	nmod	_	lemma_gml=al
 68	te	to	PART	_	PartType=Inf	69	mark	_	lemma_gml=tô
-69	eaten	eaten	VERB	_	VerbForm=Inf	70	conj	_	lemma_gml=ēten
+69	eaten	eaten	VERB	_	VerbForm=Inf	70	xcomp	_	lemma_gml=ēten
 70	beleevde	beleven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	62	xcomp	_	lemma_gml=belêven|SpaceAfter=No
 71	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -19509,15 +19509,15 @@
 # text_orig = Sau os doe Gaise gewüönt send, sau got soe.
 # text = Sou os dee göse gewöänd sint, sou gåt see.
 1	Sou	sou	ADV	_	_	9	dislocated	_	lemma_gml=sô
-2	os	os	ADV	_	_	5	advmod	_	lemma_gml=alsô
+2	os	os	SCONJ	_	_	5	mark	_	lemma_gml=alsô
 3	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	göse	goos	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	lemma_gml=gôs
+4	göse	goos	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	lemma_gml=gôs
 5	gewöänd	gewöänen	VERB	_	Tense=Past|VerbForm=Part	1	advcl	_	lemma_gml=wēnen
 6	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	amod	_	lemma_gml=wēsen|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
-8	sou	sou	ADV	_	_	9	conj	_	lemma_gml=sô
-9	gåt	gån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=gân|SpaceAfter=No
-10	see	see	PRON	_	_	9	obj	_	lemma_gml=sê
+8	sou	sou	ADV	_	_	9	advmod	_	lemma_gml=sô
+9	gåt	gån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=gân
+10	see	see	PRON	_	_	9	nsubj	_	lemma_gml=sê|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0747_1939_00188_DWF
@@ -19533,7 +19533,7 @@
 8	bringen	bringen	VERB	_	VerbForm=Inf	23	advcl	_	lemma_gml=bringen
 9	wult	willen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	8	aux	_	lemma_gml=willen
 10	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
-11	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	lemma_gml=dû
+11	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	12	iobj	_	lemma_gml=dû
 12	invält	invallen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	lemma_gml=invallen|SpaceAfter=No
 13	,	,	PUNCT	_	_	20	punct	_	_
 14	dat	dat	SCONJ	_	_	20	mark	_	lemma_gml=dat
