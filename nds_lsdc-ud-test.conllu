@@ -20842,7 +20842,7 @@
 32	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	31	obj	_	lemma_gml=wî|SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	_
 34	muksmüüskenstille	muksmüüskenstil	ADJ	_	Degree=Pos	31	xcomp	_	lemma_gml=muksmü̂sekenstille
-35	te	to	PART	_	PartType=Inf	36	mark	_	lemma_gml=tô
+35	te	to	PART	_	PartType=Inf	34	mark	_	lemma_gml=tô
 36	syn	weasen	AUX	_	VerbForm=Inf	34	cop	_	lemma_gml=wēsen|SpaceAfter=No
 37	.	.	PUNCT	_	_	2	punct	_	_
 
