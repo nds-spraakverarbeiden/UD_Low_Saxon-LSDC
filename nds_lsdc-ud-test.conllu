@@ -22303,7 +22303,7 @@
 
 # sent_id = LSDC_0868_1939_00278_BRA
 # text_orig = Upd iirst deee hee datt Ge- sinne nich tofreden låten, denn dee, weck de lezt to Bejje« gån is, hett allebott enen Slach vöörn Hinnern kreejen, so dat se up de lezt ümmer all to hoope int Bejje sprungen sin; un ofte was ook de rootjaeckige Junge går nich to seeen, un de lezt kreech doch siinen Slach.
-# text = Up de eyrst dea hee dat gesinde nich tovreaden låten, dän dee, wek de lest to bedde gån is, het allebot eynen slag vöär den hinderen kreagen, sou dat see up de lest ümmer alle to houp in dat bedde sprungen syn; un ofte was ouk de roudjakkige junge gaar nich to seen, un de lest kreyg doch synen slag.
+# text = Up de eyrst dea hee dat gesinde nich tovreaden låten, dän dee, wek de lest to bedde gån is, het allebot eynen slag vöär den hinderen kreagen, sou dat see up de lest ümmer alle to houpe in dat bedde sprungen syn; un ofte was ouk de roudjakkige junge gaar nich to seen, un de lest kreyg doch synen slag.
 1	Up	up	ADP	_	_	3	case	_	_
 2	de	de	DET	_	_	3	det	_	_
 3	eyrst	eyrst	ADJ	_	_	10	obl	_	_
@@ -22312,7 +22312,7 @@
 6	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	_
 7	gesinde	gesinde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
 8	nich	nich	PART	_	PartType=Neg	10	advmod	_	_
-9	tovreaden	tovreade	ADV	_	VerbForm=Inf	10	compound:prt	_	_
+9	tovreaden	tovreade	ADV	_	_	10	compound:prt	_	_
 10	låten	låten	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	dän	dan	CCONJ	_	_	30	cc	_	_
@@ -22346,8 +22346,8 @@
 40	to	to	ADP	_	AdpType=Prep	41	case	_	_
 41	houpe	houpe	NOUN	_	Number=Sing	45	obl	_	_
 42	in	in	ADP	_	AdpType=Prep	44	case	_	_
-43	dat	de	DET	_	AdpType=Prep	44	det	_	_
-44	bedde	bedde	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	45	obl	_	_
+43	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	44	det	_	_
+44	bedde	bedde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	45	obl	_	_
 45	sprungen	springen	VERB	_	VerbForm=Inf	30	advcl	_	_
 46	syn	weasen	AUX	_	VerbForm=Inf	45	aux	_	SpaceAfter=No
 47	;	;	PUNCT	_	_	45	punct	_	_
