@@ -21773,10 +21773,10 @@
 31	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
 32	in	in	ADP	_	AdpType=Prep	35	case	_	_
 33	eyne	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
-34	roude	roud	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	35	_	_	_
+34	roude	roud	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
 35	jakke	jakke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	40	obl	_	_
 36	up	up	ADP	_	AdpType=Prep	38	case	_	_
-37	dat	de	DET	_	Case=Acc,Dat|Definite=Det|Gender=Neut|Number=Sing|PronType=Art	38	det	_	_
+37	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	38	det	_	_
 38	hekken	hekken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	39	obl	_	_
 39	sitten	sitten	VERB	_	VerbForm=Inf	40	xcomp	_	_
 40	gån	gån	VERB	_	Tense=Past|VerbForm=Part	7	conj	_	_
@@ -21803,8 +21803,8 @@
 3	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	_
 4	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	ümmer	immer	ADV	_	_	6	advmod	_	_
-6	gån	gån	VERB	_	Tense=Past|VerbForm=Part	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	_	_	_	_
+6	gån	gån	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = LSDC_0854_1939_00072_BRA
 # text_orig = Un 'r har goar gärn sien'n liew' füllt met dat, wat de sü freeten; awer 't gaw em keinen wat.
