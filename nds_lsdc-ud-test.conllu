@@ -20807,7 +20807,7 @@
 
 # sent_id = LSDC_0809_1980_00105_DWF
 # text_orig = Äirst dächen vî, sau stracks met grautem Buhei op dat Menschenkind in den Braohmstrüükern tautebîärssen, owwer dann lağğ Groten Willi sînen Finger op de Lebben un bedüdde us, mucksmüskenstille te sîn.
-# text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dan lag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te seyn.
+# text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dan lag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te syn.
 1	Eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst
 2	dächen	denken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=denken
 3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	lemma_gml=wî|SpaceAfter=No
