@@ -21994,7 +21994,7 @@
 66	pår	pår	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	67	amod	_	_
 67	grossen	grossen	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	60	advcl	_	SpaceAfter=No
 68	,	,	PUNCT	_	_	71	punct	_	_
-69	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	71	nsubj	_	_
+69	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	71	obj	_	_
 70	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	71	nsubj	_	_
 71	vordeent	vordenen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	67	acl:relcl	_	SpaceAfter=No
 72	,	,	PUNCT	_	_	71	punct	_	_
@@ -22070,7 +22070,7 @@
 16	,	,	PUNCT	_	_	14	punct	_	_
 17	hest	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	23	aux	_	_
 18	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	_
-19	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+19	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	iobj	_	_
 20	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	22	det	_	_
 21	gemästed	mästed	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
 22	kalv	kalv	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
