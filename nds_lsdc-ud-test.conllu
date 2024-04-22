@@ -20807,7 +20807,7 @@
 
 # sent_id = LSDC_0809_1980_00105_DWF
 # text_orig = Äirst dächen vî, sau stracks met grautem Buhei op dat Menschenkind in den Braohmstrüükern tautebîärssen, owwer dann lağğ Groten Willi sînen Finger op de Lebben un bedüdde us, mucksmüskenstille te sîn.
-# text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dat nlag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te seyn.
+# text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dan lag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te seyn.
 1	Eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst
 2	dächen	denken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=denken
 3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	lemma_gml=wî|SpaceAfter=No
@@ -20877,11 +20877,11 @@
 9	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 10	suanen	söäne	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	appos	_	lemma_gml=sȫne
 11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma_gml=van
-12	Simon	Simon	PROPN	_	Number=Sing	10	nmod	_	_
+12	Simon	Simon	PROPN	_	Number=Sing	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	10	punct	_	_
 14	ol	al	ADV	_	_	18	advmod	_	lemma_gml=al
 15	in	in	ADP	_	AdpType=Prep	17	case	_	lemma_gml=in
-16	et	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
+16	dat	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 17	harte	herte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	lemma_gml=herte
 18	giaven	geaven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=gēven|SpaceAfter=No
 19	,	,	PUNCT	_	_	23	punct	_	_
@@ -20943,7 +20943,7 @@
 
 # sent_id = LSDC_0814_1980_00274_DWF
 # text_orig = Et schmiegt sik unnen an’n Uom Un snurrt üm en Uhrenpändel.
-# text = Et smeegt sik unden an den oaven un snurt üm en urenpendel
+# text = Et smeegt sik unden an den oaven un snurt üm en urenpendel.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 2	smeegt	smegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=smêgen
 3	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	lemma_gml=sik
