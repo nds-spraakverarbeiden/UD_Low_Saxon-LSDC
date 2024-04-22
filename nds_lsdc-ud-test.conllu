@@ -20670,7 +20670,7 @@
 1	Niamet	neamen	VERB	_	Mood=Imp|Number=Plur	0	root	_	lemma_gml=nēmen
 2	den	dee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	lemma_gml=dê,dê,dat
 3	up	up	ADP	_	_	1	compound:prt	_	lemma_gml=uppe|SpaceAfter=No
-4	,	,	PUNCT	_	_	1	punct	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
 5	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	7	nsubj	_	lemma_gml=dê,dê,dat
 6	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
 7	swak	swak	ADJ	_	Degree=Pos	2	acl:relcl	_	lemma_gml=swak
@@ -20719,7 +20719,7 @@
 6	pikker	pikker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma_gml=pickert
 7	bakken	bakken	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=backen
 8	un	un	CCONJ	_	_	10	cc	_	lemma_gml=unde
-9	länger	lang	ADJ	_	Degree=Cmp	10	conj	_	lemma_gml=lanc
+9	länger	lang	ADJ	_	Degree=Cmp	10	advmod	_	lemma_gml=lanc
 10	spunnen	spinnen	VERB	_	Tense=Past|VerbForm=Part	7	conj	_	lemma_gml=spinnen
 11	os	as	ADP	_	_	12	case	_	lemma_gml=alsô
 12	süs	süs	ADV	_	_	9	obl	_	lemma_gml=süs|SpaceAfter=No
@@ -20727,7 +20727,7 @@
 
 # sent_id = LSDC_0805_1939_00280_DWF
 # text_orig = Oen anner Jünger sia teo em: Her, giff mui Ferlaif, dat ik erst hengon un muinen Fadder begrawen kann.
-# text = Eyn ander jünger sea to em: Her, giv my vorlöyv, dat ik eyrst gengån un mynen vadder begraven kan.
+# text = Eyn ander jünger sea to em: Her, giv my vorlöyv, dat ik eyrst hengån un mynen vadder begraven kan.
 1	Eyn	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=êin,êine,êin
 2	ander	ander	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ander
 3	jünger	Jünger	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma_gml=jünger
@@ -20766,7 +20766,7 @@
 # sent_id = LSDC_0807_19th_00235_DWF
 # text_orig = – Nit lange daonaoh quam iähm ne wille Süëge entiëgen un fraogede: "Panneköücksken, bao wosste hén?"
 # text = – Neet lange dårnå kwam iam ne wille süäge enteagen un vrågde: "Pannekööksken, hwoor wolst du hen?"
-1	–	–	PUNCT	_	_	5	cc	_	_
+1	–	–	PUNCT	_	_	5	punct	_	_
 2	Neet	nch	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
 3	lange	lang	ADV	_	_	4	advmod	_	lemma_gml=lanc
 4	dårnå	dårnå	ADV	_	_	5	advmod	_	lemma_gml=dârnâ
@@ -20807,7 +20807,7 @@
 
 # sent_id = LSDC_0809_1980_00105_DWF
 # text_orig = Äirst dächen vî, sau stracks met grautem Buhei op dat Menschenkind in den Braohmstrüükern tautebîärssen, owwer dann lağğ Groten Willi sînen Finger op de Lebben un bedüdde us, mucksmüskenstille te sîn.
-# text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in de bråmstrükeren to te bissen, aver dat nlag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te seyn.
+# text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dat nlag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te seyn.
 1	Eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst
 2	dächen	denken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=denken
 3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	lemma_gml=wî|SpaceAfter=No
@@ -20865,7 +20865,7 @@
 
 # sent_id = LSDC_0811_1939_00232_DWF
 # text_orig = Doe Duüwel hadde dem Judas iut Karioth, dem Suonen fan Simon, oll int Hadde giewen, dat hoe en ferron soll.
-# text = Dee düvel hadden dem Judas uut Karioth, dem suanen van Simon, ol in dat harte giaven, dat hee en vorråden sol.
+# text = Dee düvel hadde dem Judas uut Karioth, dem suanen van Simon, ol in dat harte giaven, dat hee en vorråden sol.
 1	Dee	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	lemma_gml=dü̂vel
 3	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	aux	_	lemma_gml=hebben
@@ -20880,7 +20880,7 @@
 12	Simon	Simon	PROPN	_	Number=Sing	10	nmod	_	_
 13	,	,	PUNCT	_	_	10	punct	_	_
 14	ol	al	ADV	_	_	18	advmod	_	lemma_gml=al
-15	in	in	ADP	_	AdpType=Inf	17	case	_	lemma_gml=in
+15	in	in	ADP	_	AdpType=Prep	17	case	_	lemma_gml=in
 16	et	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 17	harte	herte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	lemma_gml=herte
 18	giaven	geaven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=gēven|SpaceAfter=No
@@ -20950,7 +20950,7 @@
 4	unden	unden	ADV	_	_	7	advmod	_	lemma_gml=unden
 5	an	an	ADP	_	AdpType=Prep	7	case	_	lemma_gml=an
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
-7	aoven	oaven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=ōven
+7	oaven	oaven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=ōven
 8	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
 9	snurt	snurren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=snurren
 10	üm	üm	ADP	_	AdpType=Prep	12	case	_	lemma_gml=ümme
@@ -20991,7 +20991,7 @@
 10	,	,	PUNCT	_	_	4	punct	_	_
 11	munteren	munteren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=munteren
 12	en	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	lemma_gml=hê,sê,et
-13	dee	de	DET	_	Case=Nom|Definite=Def|Number=Plur|Person=3|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+13	dee	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
 14	bröder	broder	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	lemma_gml=brôder
 15	dårto	dårtp	ADV	_	_	11	advmod	_	lemma_gml=dârtô
 16	up	up	ADP	_	_	11	compound:prt	_	lemma_gml=uppe
@@ -21118,7 +21118,7 @@
 4	:	:	PUNCT	_	_	3	punct	_	_
 5	»	»	PUNCT	_	_	10	punct	_	SpaceAfter=No
 6	Van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
-7	hwo	woor	ADV	_	_	10	obl	_	lemma_gml=wôre
+7	hwoor	woor	ADV	_	_	10	obl	_	lemma_gml=wôre
 8	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	cop	_	lemma_gml=wēsen
 9	jit	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	lemma_gml=gî
 10	weg	weg	ADV	_	_	3	ccomp	_	lemma_gml=wech|SpaceAfter=No
