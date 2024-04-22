@@ -21925,7 +21925,7 @@
 
 # sent_id = LSDC_0858_1939_00108_BRA
 # text_orig = Freilich verliert'n Bure in sönne Jahre mehr wie'n Daglöhnder, äber de Wehdagen van dise letzte Klasse sin doch de grötsten, denn wer ut de Hand in'n Mund lewen mütt, wer up det Swieniken, wat hä sick inslacht', un up de Tüffeln, de hä sick winnt, ewen so sehre anwesen is, wie up de paar Gröschen, de he verdent, den is de Sorge üm't dägliche Brod nich fremd un det is 'ne gar to sware Sorge.
-# text = Vrylik vorleert en bure in sou 'ne jåre meyr wo en daglöynder, äver de weydagen van disse letste klasse syn doch de grötsten,dän wee uut de hand in den mund leaven müt, wee up det swyniken, wat hee sik inslacht, un up de tüffelen, dee hee sik wint, eaven sou seyre anweasen is, wo up de pår grossen, dee hee vordeent, den is de sorge üm dat dääglike broud nich vremd un det is ne gaar to swåre sorge.
+# text = Vrylik vorleert en bure in sou 'ne jåre meyr wo en daglöynder, äver de weydagen van disse letste klasse syn doch de grötsten, dän wee uut de hand in den mund leaven müt, wee up det swyniken, wat hee sik inslacht, un up de tüffelen, dee hee sik wint, eaven sou seyre anweasen is, wo up de pår grossen, dee hee vordeent, den is de sorge üm dat dääglike broud nich vremd un det is ne gaar to swåre sorge.
 1	Vrylik	vrylik	ADJ	_	Degree=Pos	2	advmod	_	_
 2	vorleert	vorlesen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	det	_	_
@@ -22258,7 +22258,7 @@
 21	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0866_1939_00262_BRA
-# text = In fröere Tiijen hett to Schorstett miir Acker hüürt as zund, dee is ääwer as de ollen datt immer vertellt hebben upp düsse Wiis afkåmen.
+# text_orig = In fröere Tiijen hett to Schorstett miir Acker hüürt as zund, dee is ääwer as de ollen datt immer vertellt hebben upp düsse Wiis afkåmen.
 # text = In vröere tyden het to Schorstett meyr akker höyrd as itsund, dee is äver as de olden dat immer vorteld hebben up düsse wyse afkoamen.
 1	In	in	ADP	_	AdpType=Prep	3	case	_	_
 2	vröere	vrö	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Plur	3	amod	_	_
@@ -22292,17 +22292,17 @@
 # text_orig = Doa wur 'r zurnig un wull' ne ringoahn.
 # text = Do wurd 'r tornig un wul ne ringån.
 1	Do	do	ADV	_	_	2	advmod	_	_
-2	wurd	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+2	wurd	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	'r	hee	ADV	_	_	2	nsubj	_	_
 4	tornig	tornig	ADJ	_	Degree=Pos	2	xcomp	_	_
 5	un	un	CCONJ	_	_	8	cc	_	_
 6	wul	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	_
-7	ne	nich	PART	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	8	advmod	_	_
+7	ne	nich	PART	_	PartType=Neg	8	advmod	_	_
 8	ringån	heringån	VERB	_	_	2	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0868_1939_00278_BRA
-# text = Upd iirst deee hee datt Ge- sinne nich tofreden låten, denn dee, weck de lezt to Bejje« gån is, hett allebott enen Slach vöörn Hinnern kreejen, so dat se up de lezt ümmer all to hoope int Bejje sprungen sin; un ofte was ook de rootjaeckige Junge går nich to seeen, un de lezt kreech doch siinen Slach.
+# text_orig = Upd iirst deee hee datt Ge- sinne nich tofreden låten, denn dee, weck de lezt to Bejje« gån is, hett allebott enen Slach vöörn Hinnern kreejen, so dat se up de lezt ümmer all to hoope int Bejje sprungen sin; un ofte was ook de rootjaeckige Junge går nich to seeen, un de lezt kreech doch siinen Slach.
 # text = Up de eyrst dea hee dat gesinde nich tovreaden låten, dän dee, wek de lest to bedde gån is, het allebot eynen slag vöär den hinderen kreagen, sou dat see up de lest ümmer alle to houp in dat bedde sprungen syn; un ofte was ouk de roudjakkige junge gaar nich to seen, un de lest kreyg doch synen slag.
 1	Up	up	ADP	_	_	3	case	_	_
 2	de	de	DET	_	_	3	det	_	_
@@ -22315,7 +22315,7 @@
 9	tovreaden	tovreade	ADV	_	VerbForm=Inf	10	compound:prt	_	_
 10	låten	låten	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
-12	dän	dan	CCONJ	_	_	_	_	_	_
+12	dän	dan	CCONJ	_	_	30	cc	_	_
 13	dee	dee	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	nsubj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	wek	wek	PRON	_	Number=Sing	20	nsubj	_	_
@@ -22331,8 +22331,8 @@
 25	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	slag	slag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obj	_	_
 27	vöär	vöär	ADP	_	AdpType=Prep	29	case	_	_
-28	den	de	DET	_	AdpType=Prep	29	det	_	_
-29	hinderen	hinderen	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	26	nmod	_	_
+28	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+29	hinderen	hinderen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	nmod	_	_
 30	kreagen	krygen	VERB	_	VerbForm=Inf	10	conj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	45	punct	_	_
 32	sou	sou	ADV	_	_	45	advmod	_	_
@@ -22385,7 +22385,7 @@
 8	ankoamen	ankoamne	VERB	_	Tense=Past|VerbForm=Part	11	advcl	_	_
 9	dea	doon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
-11	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+11	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 12	dår	dår	ADV	_	_	11	advmod	_	_
 13	sou	sou	ADV	_	_	14	advmod	_	_
 14	nen	en	DET	_	Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
@@ -22414,7 +22414,7 @@
 6	himmel	himmel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
 7	un	un	CCONJ	_	_	9	cc	_	_
 8	vöär	vöär	ADP	_	AdpType=Prep	9	case	_	_
-9	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+9	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	SpaceAfter=No
 10	;	;	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
