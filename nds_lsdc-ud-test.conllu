@@ -21720,7 +21720,7 @@
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik|SpaceAfter=No
 4	,	,	PUNCT	_	_	15	punct	_	_
 5	dat	dat	SCONJ	_	_	11	mark	_	lemma_gml=dat
-6	olle	alle	DET	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	lemma_gml=al
+6	olle	alle	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	lemma_gml=al
 7	leyden	leyd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	lemma_gml=lêit
 8	in	in	ADP	_	AdpType=Prep	10	case	_	lemma_gml=in
 9	düäser	disse	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	lemma_gml=desse,desse,dit
@@ -21732,7 +21732,7 @@
 15	sent	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	lemma_gml=wēsen|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	dee	dee	PRON	_	Case=Nom|Number=Sing|PronType=Dem	19	nmod	_	lemma_gml=dê,dê,dat
-18	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Number=1	19	list	_	lemma_gml=wî
+18	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	19	list	_	lemma_gml=wî
 19	todacht	todenken	VERB	_	Tense=Past|VerbForm=Part	14	acl:relcl	_	lemma_gml=tôdenken
 20	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	acl:relcl	_	lemma_gml=wēsen|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
