@@ -21808,7 +21808,7 @@
 
 # sent_id = LSDC_0854_1939_00072_BRA
 # text_orig = Un 'r har goar gärn sien'n liew' füllt met dat, wat de sü freeten; awer 't gaw em keinen wat.
-# text = Un 'r hadde gaar gaern synen lyv vüld med dat, wat de süäge vraeten; aver et gav en keynen wat.
+# text = Un 'r hadde gaar gaern synen lyv vüld med dat, wat de süäge vraeten; aver et gav em keynen wat.
 1	Un	un	CCONJ	_	_	8	cc	_	_
 2	'r	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 3	hadde	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	8	aux	_	_
@@ -21816,7 +21816,7 @@
 5	gaern	gaerne	ADV	_	_	8	advmod	_	_
 6	synen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
 7	lyv	lyv	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
-8	vüld	vüllen	VERB	_	Tense=Past|VerbForm=Part	_	_	_	_
+8	vüld	vüllen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
 9	med	mid	ADP	_	AdpType=Prep	10	case	_	_
 10	dat	dat	PRON	_	Case=Acc,Dat|Gender=Neut|Number=Sing|PronType=Dem	8	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	_
