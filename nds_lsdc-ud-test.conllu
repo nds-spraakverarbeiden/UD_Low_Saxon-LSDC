@@ -21467,13 +21467,13 @@
 4	nu	nu	ADV	_	_	2	advmod	_	lemma_gml=nû
 5	alles	alles	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	1	nmod	_	lemma_gml=al
 6	keynen	keyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	7	det	_	lemma_gml=kêin
-7	fifferling	peaperling	NOUN	_	Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=pēperlinc
+7	fifferling	peaperling	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=pēperlinc
 8	an	an	ADP	_	_	2	compound:prt	_	lemma_gml=an|SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0843_1939_00021_DWF
 # text_orig = Wui häwwet oenen Altor, fan dem doe nich iaden drüöwet, doe in der Stiftshüdden Denst deot.
-# text = Wy hebbet eynen altaar, van dem dee nich eaten dröävet, dee in der stiftshütten deenst doot.
+# text = Wy hevvet eynen altaar, van dem dee nich eaten dröävet, dee in der stiftshütten deenst doot.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=wî
 2	hevvet	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
 3	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
@@ -21486,7 +21486,7 @@
 10	eaten	eaten	VERB	_	VerbForm=Inf	4	acl:relcl	_	lemma_gml=ēten
 11	dröävet	dörven	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	aux	_	lemma_gml=dörven|SpaceAfter=No
 12	,	,	PUNCT	_	_	18	punct	_	_
-13	dee	dee	PRON	_	Mood=Ind|Number=Plur|Person=3|PronType=Rel	18	nsubj	_	lemma_gml=dê,dê,dat
+13	dee	dee	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Rel	18	nsubj	_	lemma_gml=dê,dê,dat
 14	in	in	ADP	_	AdpType=Prep	16	case	_	lemma_gml=in
 15	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
 16	stiftshütten	stichtshütte	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	lemma_gml=stichteshütte
