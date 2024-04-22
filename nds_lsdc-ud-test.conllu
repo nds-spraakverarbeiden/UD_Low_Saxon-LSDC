@@ -21718,7 +21718,7 @@
 1	Nu	nu	ADV	_	_	2	advmod	_	lemma_gml=nû
 2	dücht	dünken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=dünken
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik|SpaceAfter=No
-4	,	,	PUNCT	_	_	15	punct	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
 5	dat	dat	SCONJ	_	_	11	mark	_	lemma_gml=dat
 6	olle	alle	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	det	_	lemma_gml=al
 7	leyden	leyd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	lemma_gml=lêit
