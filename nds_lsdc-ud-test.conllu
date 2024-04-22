@@ -21835,11 +21835,11 @@
 
 # sent_id = LSDC_0855_1939_00099_BRA
 # text_orig = - De Sunne brennde un pänkerde van fröh Morgens an, as wenn se det letzte bitchen Gras up de Wischen noch versengen süll un de Utsichten up Herwstfrüchte, tomal up de Tüffeln, de doch bi de Landlüd sönne grote Rolle spölen, würrn von Dag to Dag truriger.
-# text = - De sunne brende un penkerde van vrö morgens an, as wän see det letste bitjen gras up de wisken noch vorsengen sül un de uutsichen up hervstvrüchte, tomål up de tüffelen, dee doch by de landlüde sou ne groute rolle spöälen, würden van dag to dag truriger.
+# text = - De sunne brende un penkerde van vrö morgens an, as wän see det letste bitjen gras up de wisken noch vorsengen sül un de uutsichten up hervstvrüchte, tomål up de tüffelen, dee doch by de landlüde sou ne groute rolle spöälen, würden van dag to dag truriger.
 1	-	-	PUNCT	_	_	4	punct	_	_
 2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	sunne	sunne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-4	brende	brennen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+4	brende	brennen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	un	un	CCONJ	_	_	6	cc	_	_
 6	penkerde	penkeren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	_
 7	van	van	ADP	_	AdpType=Prep	8	case	_	_
@@ -21897,11 +21897,11 @@
 2	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 3	dee	dee	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
 4	wol	wol	ADV	_	_	5	advmod	_	_
-5	denkt	denken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	SpaceAfter=No
+5	denkt	denken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
 8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
-9	seggen	seggen	VERB	_	VerbForm=Inf	_	_	_	SpaceAfter=No
+9	seggen	seggen	VERB	_	VerbForm=Inf	5	parataxis	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	wo	wo	ADV	_	_	13	advmod	_	_
 12	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	13	nsubj	_	_
@@ -21915,7 +21915,7 @@
 # text = Hee aver sprouk to em: myn söän!
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	aver	aver	ADV	_	_	3	advmod	_	_
-3	sprouk	spreaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+3	sprouk	spreaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	to	to	ADP	_	AdpType=Prep	5	case	_	_
 5	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	3	punct	_	_
@@ -21978,7 +21978,7 @@
 50	tüffelen	tüffel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	40	conj	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	55	punct	_	_
 52	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	55	obj	_	_
-53	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|Tense=Pres	55	nsubj	_	_
+53	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	55	nsubj	_	_
 54	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	55	iobj	_	_
 55	wint	winnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	50	acl:relcl	_	SpaceAfter=No
 56	,	,	PUNCT	_	_	55	punct	_	_
