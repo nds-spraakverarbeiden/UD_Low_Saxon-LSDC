@@ -20150,7 +20150,7 @@
 
 # sent_id = LSDC_0778_1980_00070_DWF
 # text_orig = Bummellust, Bummellast, Bummelantenriek: Vüör Guott sint Küënig un Biäddler gliek!
-# text = Bummellust, bummellast, bummelantenryk: Vöär God sint köäning un beadeler gelyk!
+# text = Bummellust, bummellast, bummelantenryk: Vöär God sint küäning un beadeler gelyk!
 1	Bummellust	bummellust	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=bummellust|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	bummellast	bummellast	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	list	_	lemma_gml=bummellast|SpaceAfter=No
@@ -20180,7 +20180,7 @@
 
 # sent_id = LSDC_0780_1980_00129_DWF
 # text_orig = Sei foll vüör iëhme dial un pock sine Kneie: »Ach«, klaogere dei Frau, »Wannäiher hewwe iëck üm en Suohn 'ebîen?
-# text = See vol vüär iame däle un pok syne knee'e: »Ach«, klagede dee vrouwe, »waneyr hevve ik üm en suan ebiaden?
+# text = See vol vüär iame däle un pok syne knee'e: »Ach«, klagede dee vrouwe, »Waneyr hevve ik üm en suan ebiaden?
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=sê
 2	vol	vallen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vallen
 3	vüär	vöär	ADP	_	AdpType=Prep	4	case	_	lemma_gml=vȫr
@@ -20302,7 +20302,7 @@
 8	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
 9	vöär	vöär	ADP	_	AdpType=Prep	11	case	_	lemma_gml=vȫr
 10	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
-11	gasthov	gasthov	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=gasthof|SpaceAfter=No
+11	gasthov	gasthov	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=gasthof
 12	„	„	PUNCT	_	_	16	punct	_	SpaceAfter=No
 13	To	to	ADP	_	AdpType=Prep	16	case	_	lemma_gml=tô
 14	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
