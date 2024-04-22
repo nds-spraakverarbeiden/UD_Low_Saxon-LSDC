@@ -21391,7 +21391,7 @@
 3	stond	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=stân
 4	un	un	CCONJ	_	_	5	cc	_	lemma_gml=unde
 5	bad	bidden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=bidden|SpaceAfter=No
-6	,	,	PUNCT	_	_	10	punct	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
 7	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=sê
 8	möchten	möägen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	aux	_	lemma_gml=mȫgen
 9	alle	alle	PRON	_	Case=Nom|Number=Plur|PronType=Tot	7	nmod	_	lemma_gml=al
