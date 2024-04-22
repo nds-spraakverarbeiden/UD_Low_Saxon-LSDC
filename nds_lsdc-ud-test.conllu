@@ -21925,7 +21925,7 @@
 
 # sent_id = LSDC_0858_1939_00108_BRA
 # text_orig = Freilich verliert'n Bure in sönne Jahre mehr wie'n Daglöhnder, äber de Wehdagen van dise letzte Klasse sin doch de grötsten, denn wer ut de Hand in'n Mund lewen mütt, wer up det Swieniken, wat hä sick inslacht', un up de Tüffeln, de hä sick winnt, ewen so sehre anwesen is, wie up de paar Gröschen, de he verdent, den is de Sorge üm't dägliche Brod nich fremd un det is 'ne gar to sware Sorge.
-# text = Vrylik vorleert en bure in sou'ne jåre meyr wo en daglöynder, äver de weydagen van disse letste klasse syn doch de grötsten,dän wee uut de hand in den mund leaven müt, wee up det swyniken, wat hee sik inslacht, un up de tüffelen, dee hee sik wint, eaven sou seyre anweasen is, wo up de pår grossen, dee hee vordeent, den is de sorge üm dat dääglike broud nich vremd un det is ne gaar to swåre sorge.
+# text = Vrylik vorleert en bure in sou 'ne jåre meyr wo en daglöynder, äver de weydagen van disse letste klasse syn doch de grötsten,dän wee uut de hand in den mund leaven müt, wee up det swyniken, wat hee sik inslacht, un up de tüffelen, dee hee sik wint, eaven sou seyre anweasen is, wo up de pår grossen, dee hee vordeent, den is de sorge üm dat dääglike broud nich vremd un det is ne gaar to swåre sorge.
 1	Vrylik	vrylik	ADJ	_	Degree=Pos	2	advmod	_	_
 2	vorleert	vorlesen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	det	_	_
@@ -21986,7 +21986,7 @@
 58	sou	sou	ADV	_	_	59	advmod	_	_
 59	seyre	seyr	ADV	_	_	60	advmod	_	_
 60	anweasen	anweasen	ADJ	_	Degree=Pos	34	conj	_	_
-61	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	aux	aux	_	SpaceAfter=No
+61	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	60	cop	_	SpaceAfter=No
 62	,	,	PUNCT	_	_	67	punct	_	_
 63	wo	wo	SCONJ	_	_	67	mark	_	_
 64	up	up	ADP	_	AdpType=Prep	67	case	_	_
@@ -22007,7 +22007,7 @@
 79	dääglike	dääglik	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	80	amod	_	_
 80	broud	broud	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	76	nmod	_	_
 81	nich	nich	PART	_	PartType=Neg	82	advmod	_	_
-82	vremd	vröämd	ADJ	_	Degree=Pos	_	_	_	_
+82	vremd	vröämd	ADJ	_	Degree=Pos	24	conj	_	_
 83	un	un	CCONJ	_	_	90	cc	_	_
 84	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	90	nsubj	_	_
 85	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	90	cop	_	_
@@ -22057,7 +22057,7 @@
 3	disse	disse	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 4	dyn	dyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	_
 5	söän	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-6	kümt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	advcl	_	SpaceAfter=No
+6	kümt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	14	punct	_	_
 8	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	_
 9	syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
@@ -22068,21 +22068,21 @@
 14	doudslån	doudslån	VERB	_	Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 15	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	_
-17	hest	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	22	aux	_	_
-18	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-18	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
-19	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	21	det	_	_
-20	gemästed	mästed	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	amod	_	_
-21	kalv	kalv	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
-22	slachted	slachten	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	22	punct	_	_
+17	hest	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	23	aux	_	_
+18	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	_
+19	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+20	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	22	det	_	_
+21	gemästed	mästed	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	kalv	kalv	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+23	slachted	slachten	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	23	punct	_	_
 
 # sent_id = LSDC_0861_1939_00225_BRA
 # text_orig = Bi Schorstett liggt en kleinen Barg, dee mag wol so hoch wesen as en Huus, un is janz runt un heett de Silverbarg, wovan he ääwer düssen Nåmen hett, datt weet kein.
 # text = By Schorstett ligt en kleynen barg, dee mag wol sou houg weasen as en huus, un is gans rund un heyt de Silverbarg, woorvan hee äver düssen namen het, dat weyt keyn.
 1	By	by	ADP	_	AdpType=Prep	2	case	_	_
 2	Schorstett	Schorstett	PROPN	_	Number=Sing	3	obl	_	_
-3	ligt	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+3	ligt	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	kleynen	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
 6	barg	barg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
@@ -22167,7 +22167,7 @@
 # text = Un hee reyp to sik eynen van de knechte, un vroog wat dår weer.
 1	Un	un	CCONJ	_	_	3	cc	_	_
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	reyp	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+3	reyp	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 4	to	to	ADP	_	AdpType=Prep	5	case	_	_
 5	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	obl	_	_
 6	eynen	eyn	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	_
@@ -22184,7 +22184,7 @@
 
 # sent_id = LSDC_0864_1939_00250_BRA
 # text_orig = Ofte hebben ook siine Lüüe, wenn hee uutfüürt was, en grootet Gepolder vannen Wågen hüürt, un hebben löövt, dett eer Herre nå Huus kåmen wär, un wenn se denn ruutkåmen sint, is allet still un nist då west.
-# text = Ofte hebben ouk syne lüde, wän hee uutvöörd was, en groutet gepolder van nen wagen höyrt, un hebben löyvd, det ear herre nå huus koamen weer, un wän see dän ruutkoamen sint, is allet stil un nist dår west.
+# text = Ofte hebben ouk syne lüde, wän hee uutvöörd was, en groutet gepolder van nen wagen höyrd, un hebben löyvd, det ear herre nå huus koamen weer, un wän see dän ruutkoamen sint, is allet stil un nist dår west.
 1	Ofte	ofte	ADV	_	_	18	advmod	_	_
 2	hebben	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	_
 3	ouk	ouk	ADV	_	_	18	advmod	_	_
@@ -22270,7 +22270,7 @@
 8	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
 9	höyrd	höyren	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
 10	as	as	ADP	_	_	11	case	_	_
-11	itsund	itsund	ADV	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	obl	_	SpaceAfter=No
+11	itsund	itsund	ADV	_	_	9	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	26	punct	_	_
 13	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	26	nsubj	_	_
 14	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	_
