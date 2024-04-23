@@ -22612,7 +22612,7 @@
 42	,	,	PUNCT	_	_	37	punct	_	_
 43	in	in	ADP	_	AdpType=Prep	45	case	_	_
 44	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	45	det	_	_
-45	sommermånden	soamermånd	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	37	obl	_	_
+45	sommermånden	soamermånd	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	37	conj	_	_
 46	sös	sös	NUM	_	NumType=Card	47	nummod	_	_
 47	grossen	grossen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	45	orphan	_	_
 48	kurant	kurant	PROPN	_	Number=Sing	47	nmod	_	_
@@ -22628,7 +22628,7 @@
 58	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	56	nsubj	_	_
 59	immer	immer	ADV	_	_	56	advmod	_	_
 60	west	weasen	AUX	_	Tense=Past|VerbForm=Part	56	cop	_	_
-61	un	un	CONJ	_	_	63	cc	_	_
+61	un	un	CCONJ	_	_	63	cc	_	_
 62	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	63	nsubj	_	_
 63	skeyn	skynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	56	conj	_	_
 64	ouk	ouk	ADV	_	_	63	advmod	_	_
