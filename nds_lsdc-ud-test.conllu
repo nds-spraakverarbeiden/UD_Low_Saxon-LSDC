@@ -22970,6 +22970,116 @@
 26	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	cop	_	lemma_gml=wēsen
 27	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = LSDC_0903_1939_02286_NNS
+# text_orig = Hij moakte 't wel eis wat grof, zoodat de boeren 't markten, en doarom nuimden ze hom wel „de spekschijter;“ moar dat kon hom nijt schelen, 't wazzen moar boeren dij 't zeeën, en hij loog der moar op weg.
+# text = Hee makede et wel eyns wat grov, sou dat de buren et markeden, en dårum nöömden see hum wel „de skepsketer;“ mår dat kun hum neet skealen, et wassen mår buren dee et sean, en hee loug der mår up weg.
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
+2	makede	maken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=māken
+3	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
+4	wel	wol	ADV	_	_	2	advmod	_	lemma_gml=wol
+5	eyns	eyns	ADV	_	_	2	advmod	_	lemma_gml=êines
+6	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obl	_	lemma_gml=watte
+7	grov	grov	ADJ	_	Degree=Pos	2	amod	_	lemma_gml=grāven
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sôdâte
+10	dat	dat	SCONJ	_	_	14	mark	_	lemma_gml=sôdâte
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
+12	buren	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	lemma_gml=bûr
+13	et	et	PRON	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+14	markeden	merken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	ccomp	_	lemma_gml=marken
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	en	un	CCONJ	_	_	18	cc	_	lemma_gml=ende
+17	dårum	dårüm	ADV	_	_	18	advmod	_	lemma_gml=dârümme
+18	nöömden	nömen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	lemma_gml=nö̂men
+19	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
+20	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	lemma_gml=hê,sê,et
+21	wel	wol	ADV	_	_	18	advmod	_	lemma_gml=wol
+22	„	„	PUNCT	_	_	24	punct	_	_
+23	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
+24	speksketer	speksketer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	lemma_gml=spêikschît
+25	;	;	PUNCT	_	_	24	punct	_	_
+26	“	“	PUNCT	_	_	24	punct	_	_
+27	mår	mår	CCONJ	_	_	32	cc	_	lemma_gml=mêr
+28	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	lemma_gml=dê,dê,dat
+29	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	aux	_	lemma_gml=künnen
+30	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	lemma_gml=hê,sê,et
+31	neet	nich	PART	_	PartType=Neg	32	advmod	_	lemma_gml=nicht
+32	skealen	skealen	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=schēlen
+33	,	,	PUNCT	_	_	37	punct	_	_
+34	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	lemma_gml=hê,sê,et
+35	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
+36	mår	mår	ADV	_	_	37	advmod	_	lemma_gml=mêr
+37	buren	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	32	parataxis	_	lemma_gml=bûr
+38	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	40	nsubj	_	lemma_gml=dû
+39	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	40	obj	_	lemma_gml=hê,sê,et
+40	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	37	acl:relcl	_	lemma_gml=seggen
+41	,	,	PUNCT	_	_	44	punct	_	_
+42	en	un	CCONJ	_	_	44	cc	_	lemma_gml=ende
+43	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	lemma_gml=hê,sê,et
+44	loug	legen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=lêgen
+45	der	dår	ADV	_	_	44	obl	_	lemma_gml=dâr
+46	mår	mår	ADV	_	_	44	advmod	_	lemma_gml=mêr
+47	up	up	ADP	_	AdpType=Prep	45	case	_	lemma_gml=uppe
+48	weg	weg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	44	advmod	_	lemma_gml=wech
+49	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_0904_1939_02287_NNS
+# text_orig = 'n Endje van heur of luip Willem Koulman, n' otterdokse, wat ie wel an zien sloek hoar en verknepen gezicht zijn konnen.
+# text = En endje van höär of löyp Willem Koulman, et ortodokse, wat y wel an syn sluuk hår en vorkneapen gesichte seen kunnen.
+1	En	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
+2	endje	endken	PROPN	_	Number=Sing	6	obl	_	lemma_gml=endje
+3	van	van	ADP	_	AdpType=Prep	4	case	_	lemma_gml=van
+4	höär	see	PRON	_	Case=Acc,Dat|Number=Sing|PronType=Prs	2	nmod	_	lemma_gml=sê
+5	of	af	ADP	_	_	4	case	_	lemma_gml=of
+6	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lôpen
+7	Willem	Willem	PROPN	_	Number=Sing	6	nsubj	_	lemma_gml=willem
+8	Koulman	Koulman	PROPN	_	Number=Sing	7	flat	_	lemma_gml=koulman
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	en	en	DET	_	_	11	det	_	lemma_gml=êin,êine,êin
+11	ortodokse	ortodokse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	appos	_	lemma_gml=ôterdôk
+12	,	,	PUNCT	_	_	23	punct	_	_
+13	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	23	obj	_	lemma_gml=watte
+14	y	jy	PRON	_	Case=Nom|Number=<UNK>|Person=2|PronType=Prs	23	nsubj	_	lemma_gml=gî
+15	wel	wol	ADV	_	_	23	advmod	_	lemma_gml=wol
+16	an	an	ADP	_	AdpType=Prep	19	case	_	lemma_gml=an
+17	syn	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	19	det	_	lemma_gml=sîn,ēr,sîn
+18	sluuk	sluuk	ADJ	_	Case=Acc,Dat|Gender=Neut|Number=Sing	19	obl	_	lemma_gml=slȫke
+19	hår	hår	NOUN	_	_	23	obl	_	lemma_gml=hār
+20	en	un	CCONJ	_	_	22	cc	_	lemma_gml=ende
+21	vorkneapen	vorkneapen	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	lemma_gml=vorknêpe
+22	gesichte	gesichte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	conj	_	lemma_gml=gesichte
+23	seen	seen	VERB	_	VerbForm=Inf	11	aux	_	lemma_gml=sên
+24	kunnen	künnen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	lemma_gml=künnen
+25	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = LSDC_0905_1939_02288_NNS
+# text_orig = 't Leste kwam, dat wozzen we wel veuroet, de „Peukel-op-stelten,“ zooas ze altied tegen Roulf Roulfsemoa zeeën.
+# text = Et leste kwam, dat wussen we wel vöäruut, de „pöäkel-up-stelten,“ sou as see altyd teagen Roulf Roulfsemoa sean.
+1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	leste	lest	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	obl	_	lemma_gml=lat
+3	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	6	obj	_	lemma_gml=dê,dê,dat
+6	wussen	weaten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	parataxis	_	lemma_gml=wēsen
+7	we	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=wî
+8	wel	wol	ADV	_	_	6	advmod	_	lemma_gml=wol
+9	vöäruut	vöäruut	ADV	_	Tense=Past|VerbForm=Part	6	advcl	_	lemma_gml=vourôten
+10	,	,	PUNCT	_	_	6	punct	_	_
+11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
+12	„	„	PUNCT	_	_	13	punct	_	_
+13	pöäkel-up-stelten	pöäkel-up-stelten	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	lemma_gml=pēgelôpestelte
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	“	“	PUNCT	_	_	13	punct	_	_
+16	sou	sou	ADV	_	_	23	advmod	_	lemma_gml=sôs
+17	as	as	SCONJ	_	_	23	mark	_	lemma_gml=sôs
+18	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=sê
+19	altyd	altyd	ADV	_	_	23	advmod	_	lemma_gml=alletît
+20	teagen	geagen	ADP	_	AdpType=Prep	21	case	_	lemma_gml=tēgen
+21	Roulf	Rolf	PROPN	_	Number=Sing	23	obl	_	lemma_gml=roulf
+22	Roulfsemoa	Roulfsema	PROPN	_	Number=Sing	21	flat	_	lemma_gml=roulfsemoa
+23	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	lemma_gml=seggen
+24	.	.	PUNCT	_	_	3	punct	_	_
+
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
