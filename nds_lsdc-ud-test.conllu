@@ -22896,7 +22896,7 @@
 31	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	37	nsubj	_	_
 32	dale	dale	ADV	_	_	37	advmod	_	_
 33	an	an	ADP	_	AdpType=Prep	35	case	_	_
-34	den	de	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	35	det	_	_
+34	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
 36	to	to	PART	_	PartType=Inf	37	mark	_	_
 37	seen	seen	VERB	_	VerbForm=Inf	29	acl	_	_
@@ -22963,7 +22963,7 @@
 48	in	in	ADP	_	AdpType=Prep	49	case	_	_
 49	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	34	conj	_	_
 50	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	49	cop	_	_
-51	keyne	keyn	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	52	det	_	_
+51	keyne	keyn	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Neg	52	det	_	_
 52	hervstgedanken	hervstgedanke	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	49	nsubj	_	SpaceAfter=No
 53	,	,	PUNCT	_	_	57	punct	_	_
 54	myne	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	56	det	_	_
@@ -23002,7 +23002,7 @@
 87	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	91	nsubj	_	_
 88	luter	luter	ADJ	_	_	89	advmod	_	_
 89	olde	old	ADJ	_	_	90	amod	_	_
-90	leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	91	nsubj	_	_
+90	leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	91	amod	_	_
 91	bekande	bekend	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	80	advcl	_	SpaceAfter=No
 92	,	,	PUNCT	_	_	100	punct	_	_
 93	dee	dee	PRON	_	Case=Nom|Number=Sing|PronType=Rel	100	nsubj	_	_
@@ -23031,7 +23031,7 @@
 
 # sent_id = LSDC_0886_1939_00557_BRA
 # text_orig = Int olle Schlott to Kemnitz isset nie recht richtig west, denn Nachtens hebben de Lüüe ofte en grooten Lärm un Spittåkel, hüürt, un watt dett west is, dat kunne Martin Runge, de Knecht upt Schlott was, am besten vertellen.
-# text = In dat olde slot to Kemnitz is et nich recht richtig west, dän nachtens hebben de lüde ofte en grouten lärm un spektakel, höyrd, un wat det west is, dat kunne Martin Runge, dee knecht up dat slot was, an dem besten vortellen.
+# text = In dat olde slot to Kemnitz is et nich recht richtig west, dän nachtens hebben de lüde ofte en grouten lärm un spektakel, höyrd, un wat det west is, dat kunne Martin Runge, dee knecht up det slot was, an dem besten vortellen.
 1	In	in	ADP	_	AdpType=Prep	4	case	_	_
 2	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 3	olde	old	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
@@ -23084,7 +23084,7 @@
 50	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = LSDC_0887_1939_00571_BRA
-# text = - Wenn ok det Korn woll noch so handlich geraden was, met de hohe Feldwischen un de Weid' för det Veh sach't slimm ut, so det keen Landmann ahn bange Sorgen an den nächsten Winter denken künn.
+# text_orig = - Wenn ok det Korn woll noch so handlich geraden was, met de hohe Feldwischen un de Weid' för det Veh sach't slimm ut, so det keen Landmann ahn bange Sorgen an den nächsten Winter denken künn.
 # text = - Wän ouk det koorn wol noch sou handlik geråden was, med de houge veldwisken un de weide vöär det vee sag et slim uut, sou det keyn landman åne bange sorgen an den naegsten winter denken kün.
 1	-	-	PUNCT	_	_	23	punct	_	_
 2	Wän	wän	SCONJ	_	_	10	mark	_	_
@@ -23117,7 +23117,7 @@
 29	det	dat	SCONJ	_	_	39	mark	_	_
 30	keyn	keyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	31	det	_	_
 31	landman	landman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	39	nsubj	_	_
-32	åne	åne	ADP	_	AdpType=Prep	34	det	_	_
+32	åne	åne	ADP	_	AdpType=Prep	34	case	_	_
 33	bange	bange	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
 34	sorgen	sorge	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	39	obj	_	_
 35	an	an	ADP	_	AdpType=Prep	38	case	_	_
@@ -23206,14 +23206,14 @@
 1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
 2	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	_
 3	dän	dan	ADV	_	_	12	advmod	_	_
-4	aerde	aerde	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
-5	van	van	ADP	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	case	_	_
-6	den	de	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	det	_	_
-7	graevenitzsken	graevenitzesk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
-8	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+4	aerde	aerde	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
+5	van	van	ADP	_	AdpType=Prep	8	case	_	_
+6	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	graevenitzsken	graevenitzesk	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	8	amod	_	_
+8	akker	akker	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	4	obl	_	_
 9	in	in	ADP	_	AdpType=Prep	11	case	_	_
-10	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
-11	sko	sko	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	12	obl	_	_
+10	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	11	det	_	_
+11	sko	sko	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	_
 12	dån	doon	VERB	_	VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	32	punct	_	_
 14	un	un	CCONJ	_	_	32	cc	_	_
@@ -23240,7 +23240,7 @@
 35	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	32	conj	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	40	punct	_	_
 37	dat	dat	SCONJ	_	_	40	mark	_	_
-38	dat	de	PRON	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	40	nsubj	_	_
+38	dat	de	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	40	nsubj	_	_
 39	graevenitzsk	graevenitzesk	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	40	amod	_	_
 40	akker	akker	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	35	ccomp	_	_
 41	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	SpaceAfter=No
@@ -23252,9 +23252,9 @@
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	cop	_	_
 3	upstünds	upstünds	ADV	_	_	6	advmod	_	_
-4	ne	nich	PART	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	5	advmod	_	_
+4	ne	nich	PART	_	PartType=Neg	5	advmod	_	_
 5	meyr	veale	ADV	_	_	6	advmod	_	_
-6	waerd	waerd	ADJ	_	Mood=Ind|Number=Sing|Tense=Past	0	root	_	SpaceAfter=No
+6	waerd	waerd	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	dat	dat	SCONJ	_	_	12	mark	_	_
 9	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
@@ -23296,7 +23296,7 @@
 28	eygentlike	eygentlik	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
 29	noud	noud	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	36	obl	_	_
 30	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	36	cop	_	_
-31	in	in	ADP	_	Case=Nom|Number=Sing|PronType=Prs	33	case	_	_
+31	in	in	ADP	_	AdpType=Prep	33	case	_	_
 32	dem	de	DET	_	Case=Nom|Number=Sing|PronType=Prs	33	det	_	_
 33	algemeynen	algemeyn	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	36	obl	_	_
 34	nich	nich	PART	_	PartType=Neg	36	advmod	_	_
@@ -23368,7 +23368,7 @@
 # text_orig = Eerscht uppet Keese- brett, wo de Eddelfraue eeren Keese drööcht hett, denn upp de Anrichte in de Kööken, denn in de Vorråtskåmer, un måkt alle Spinnen, dee de Fraue immer toschlåten hadde, upp un keek, in alle Töppe.
 # text = Eyrst up det kaesebred, woor de eddelvrouwe earen kaese dröygd het, dän up de anrichte in de köäken, dän in de voarrådskamer, un maakt alle spinden, dee de vrouwe immer tosloaten hadde, up un keyk, in alle döppe.
 1	Eyrst	eyrst	ADV	_	_	4	advmod	_	_
-2	up	up	ADP	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	case	_	_
+2	up	up	ADP	_	AdpType=Prep	4	case	_	_
 3	det	de	DET	_	Number=Sing	4	det	_	_
 4	kaesebred	kaesebred	NOUN	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	11	punct	_	_
@@ -23462,7 +23462,7 @@
 10	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	_
-13	et	et	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	nsubj	_	_
+13	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 14	ouk	ouk	ADV	_	_	15	advmod	_	_
 15	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	15	punct	_	_
@@ -23477,8 +23477,8 @@
 25	visker	visker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
 26	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	aux	_	_
 27	oaverbliaven	öäverblyven	VERB	_	VerbForm=Part	21	conj	_	_
-28	un	un	CCONJ	_	AdpType=Prep	34	cc	_	_
-29	is	weasen	AUX	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	34	aux	_	_
+28	un	un	CCONJ	_	_	34	cc	_	_
+29	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	aux	_	_
 30	en	en	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	33	det	_	_
 31	ryken	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
 32	ryken	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
@@ -23496,8 +23496,8 @@
 44	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	obl	_	_
 45	in	in	ADP	_	AdpType=Prep	46	case	_	_
 46	Göttin	Göttin	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	39	obl	_	_
-47	un	un	CCONJ	_	AdpType=Prep	50	cc	_	_
-48	syn	weasen	AUX	_	Number=Sing	50	cop	_	_
+47	un	un	CCONJ	_	_	50	cc	_	_
+48	sin	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	50	cop	_	_
 49	ryke	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	50	amod	_	_
 50	lüde	lüde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	39	conj	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	15	punct	_	_
