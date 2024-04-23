@@ -22643,7 +22643,7 @@
 73	;	;	PUNCT	_	_	9	punct	_	_
 74	äver	aver	CCONJ	_	_	76	cc	_	_
 75	inrichtinge	inrichtinge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	76	nsubj	_	_
-76	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	75	nsubj	_	_
+76	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	parataxis	_	_
 77	dårto	dårto	ADV	_	_	76	advmod	_	SpaceAfter=No
 78	,	,	PUNCT	_	_	90	punct	_	_
 79	wän	wän	SCONJ	_	_	82	mark	_	_
@@ -22670,7 +22670,7 @@
 100	,	,	PUNCT	_	_	103	punct	_	_
 101	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	102	det	_	_
 102	grossen	grossen	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	103	nsubj	_	_
-103	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	76	parataxis	_	_
+103	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	parataxis	_	_
 104	dun	dun	ADV	_	_	103	advmod	_	_
 105	noch	noch	ADP	_	AdpType=Prep	103	advmod	_	_
 106	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	108	det	_	_
