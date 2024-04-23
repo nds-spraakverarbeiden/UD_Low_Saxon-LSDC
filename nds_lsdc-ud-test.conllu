@@ -22845,7 +22845,7 @@
 5	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 6	van	van	ADP	_	AdpType=Prep	7	case	_	_
 7	sülvst	sülve	ADV	_	_	8	obl	_	_
-8	voordbleaven	voordblyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+8	voordbleaven	voordblyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = LSDC_0882_1939_00477_BRA
@@ -22857,19 +22857,19 @@
 4	oldske	oldske	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	ruut	heruut	ADV	_	_	2	advmod	_	_
 6	un	un	CCONJ	_	_	7	cc	_	_
-7	baddden	beaden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	_
+7	baddden	beaden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0883_1939_00488_BRA
 # text_orig = Se seggen, datt vöör ollen Tiijen, as de Lüe noch in de Iir wånt hebben, då ook Lüe in wånt hebben, un de kleine Höll, de dål annen Acker to seeen is, datt sal de Poortendöör west sin.
 # text = See seggen, dat vöär olden tyden, as de lüde noch in de aerde woand hebben, dår ouk lüde in woand hebben, un de kleyne hölle, dee dale an den akker to seen is, dat sal de poortendöäre west syn.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	seggen	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+2	seggen	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	23	punct	_	_
 4	dat	dat	SCONJ	_	_	23	mark	_	_
 5	vöär	vöär	ADP	_	AdpType=Prep	7	case	_	_
 6	olden	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
-7	tyden	tyd	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	23	obl	_	_
+7	tyden	tyd	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	16	punct	_	_
 9	as	as	CCONJ	_	_	16	mark	_	_
 10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -22879,19 +22879,19 @@
 14	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	aerde	aerde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
 16	woand	woanen	VERB	_	Tense=Past	7	acl	_	_
-17	hebben	hebben	AUX	_	VerbForm=Inf	16	aux	_	_
+17	hebben	hebben	AUX	_	VerbForm=Inf	16	aux	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	_
 19	dår	dår	ADV	_	_	23	advmod	_	_
 20	ouk	ouk	ADV	_	_	23	advmod	_	_
 21	lüde	lüde	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	_
 22	in	in	ADP	_	AdpType=Prep	19	case	_	_
 23	woand	woanen	VERB	_	_	2	ccomp	_	_
-24	hebben	hebben	AUX	_	VerbForm=Inf	23	aux	_	_
+24	hebben	hebben	AUX	_	VerbForm=Inf	23	aux	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	43	punct	_	_
 26	un	un	CCONJ	_	_	43	cc	_	_
 27	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 28	kleyne	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
-29	hölle	hölle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	dislocated	_	_
+29	hölle	hölle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	dislocated	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	37	punct	_	_
 31	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	37	nsubj	_	_
 32	dale	dale	ADV	_	_	37	advmod	_	_
@@ -22900,14 +22900,14 @@
 35	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
 36	to	to	PART	_	PartType=Inf	37	mark	_	_
 37	seen	seen	VERB	_	VerbForm=Inf	29	acl	_	_
-38	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	37	aux	_	_
+38	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	37	aux	_	SpaceAfter=No
 39	,	,	PUNCT	_	_	37	punct	_	_
 40	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	43	nsubj	_	_
 41	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	43	aux	_	_
 42	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	poortendöäre	poortendöäre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	conj	_	_
 44	west	weasen	AUX	_	Tense=Past|VerbForm=Part	43	cop	_	_
-45	syn	weasen	AUX	_	VerbForm=Inf	43	aux	_	_
+45	syn	weasen	AUX	_	VerbForm=Inf	43	aux	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0884_1939_00511_BRA
@@ -22920,14 +22920,14 @@
 5	ouk	ouk	ADV	_	_	8	advmod	_	_
 6	in	in	ADP	_	AdpType=Prep	8	case	_	_
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	jåre	jår	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	0	root	_	_
+8	jåre	jår	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	14	punct	_	_
 10	woor	woor	ADV	_	_	14	advmod	_	_
 11	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 12	van	van	ADP	_	AdpType=Prep	13	case	_	_
 13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	14	obl	_	_
 14	seggen	seggen	VERB	_	VerbForm=Inf	8	acl	_	_
-15	müt	möten	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	14	aux	_	_
+15	müt	möten	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	14	aux	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	14	punct	_	_
 17	det	dat	SCONJ	_	_	22	mark	_	_
 18	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -22943,12 +22943,12 @@
 28	döärch	döär	ADP	_	AdpType=Prep	30	case	_	_
 29	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	velder	veld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	_
-31	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	34	advcl	_	_
+31	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	34	advcl	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	31	punct	_	_
 33	do	do	ADV	_	_	34	advmod	_	_
 34	meynde	meynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	_
 35	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	_
-36	vast	vast	ADV	_	_	34	advmod	_	_
+36	vast	vast	ADV	_	_	34	advmod	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	40	punct	_	_
 38	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
 39	jårstyd	jårstyd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
@@ -22957,14 +22957,14 @@
 42	recht	recht	ADJ	_	Degree=Pos	40	advmod	_	_
 43	to	to	ADP	_	AdpType=Prep	45	case	_	_
 44	myn	myn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	45	det	_	_
-45	older	ölder	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	40	obl	_	_
+45	older	ölder	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	40	obl	_	SpaceAfter=No
 46	;	;	PUNCT	_	_	34	punct	_	_
 47	äver	aver	CCONJ	_	_	49	cc	_	_
 48	in	in	ADP	_	AdpType=Prep	49	case	_	_
 49	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	34	conj	_	_
 50	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	49	cop	_	_
 51	keyne	keyn	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	52	det	_	_
-52	hervstgedanken	hervstgedanke	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	49	nsubj	_	_
+52	hervstgedanken	hervstgedanke	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	49	nsubj	_	SpaceAfter=No
 53	,	,	PUNCT	_	_	57	punct	_	_
 54	myne	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	56	det	_	_
 55	vrööste	vrö	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	_
@@ -22973,7 +22973,7 @@
 58	wedder	wedder	ADV	_	_	57	advmod	_	_
 59	vöär	vöär	ADP	_	AdpType=Prep	61	case	_	_
 60	myne	myn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	61	det	_	_
-61	seyle	seyle	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	57	obl	_	_
+61	seyle	seyle	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	57	obl	_	SpaceAfter=No
 62	,	,	PUNCT	_	_	68	punct	_	_
 63	alle	al	CCONJ	_	_	66	cc	_	_
 64	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	65	det	_	_
@@ -22989,13 +22989,13 @@
 74	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	77	obj	_	_
 75	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	76	det	_	_
 76	wind	wind	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	77	nsubj	_	_
-77	böygde	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	80	parataxis	_	_
+77	böygde	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	80	parataxis	_	SpaceAfter=No
 78	,	,	PUNCT	_	_	77	punct	_	_
 79	dän	dan	ADV	_	_	80	advmod	_	_
 80	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	67	parataxis	_	_
 81	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	80	nsubj	_	_
 82	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	80	obl	_	_
-83	vöär	vöär	ADP	_	_	80	compound	_	_
+83	vöär	vöär	ADP	_	_	80	compound	_	SpaceAfter=No
 84	,	,	PUNCT	_	_	91	punct	_	_
 85	as	as	CCONJ	_	_	91	mark	_	_
 86	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	91	cop	_	_
@@ -23003,7 +23003,7 @@
 88	luter	luter	ADJ	_	_	89	advmod	_	_
 89	olde	old	ADJ	_	_	90	amod	_	_
 90	leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	91	nsubj	_	_
-91	bekande	bekend	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	80	advcl	_	_
+91	bekande	bekend	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	80	advcl	_	SpaceAfter=No
 92	,	,	PUNCT	_	_	100	punct	_	_
 93	dee	dee	PRON	_	Case=Nom|Number=Sing|PronType=Rel	100	nsubj	_	_
 94	wo	wo	ADP	_	AdpType=Prep	96	case	_	_
@@ -23012,7 +23012,7 @@
 97	by	by	ADP	_	AdpType=Prep	98	case	_	_
 98	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	100	obl	_	_
 99	vöäröäver	vöäröäver	ADV	_	_	98	advmod	_	_
-100	trekkeden	trekken	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	91	acl	_	_
+100	trekkeden	trekken	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	91	acl	_	SpaceAfter=No
 101	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = LSDC_0885_1939_00538_BRA
@@ -23022,11 +23022,11 @@
 2	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
 3	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 4	deyl	deyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	obj	_	_
-5	göder	good	NOUN	_	Gender=Neut|Number=Plur	4	nmod	_	_
+5	göder	good	NOUN	_	Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	_
 8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
-9	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl:relcl	_	_
+9	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl:relcl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = LSDC_0886_1939_00557_BRA
@@ -23043,7 +23043,7 @@
 9	nich	nich	PART	_	PartType=Neg	10	advmod	_	_
 10	recht	recht	ADJ	_	Degree=Pos	11	advmod	_	_
 11	richtig	richtig	ADJ	_	Degree=Pos	0	root	_	_
-12	west	weasen	AUX	_	Tense=Past|VerbForm=Part	11	cop	_	_
+12	west	weasen	AUX	_	Tense=Past|VerbForm=Part	11	cop	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	26	punct	_	_
 14	dän	dan	CCONJ	_	_	26	cc	_	_
 15	nachtens	nachtens	ADV	_	_	26	advmod	_	_
@@ -23055,32 +23055,32 @@
 21	grouten	grout	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
 22	lärm	larm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
 23	un	un	CCONJ	_	_	24	cc	_	_
-24	spektakel	spektakel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	conj	_	_
+24	spektakel	spektakel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	22	punct	_	_
-26	höyrd	höyren	VERB	_	Tense=Past|VerbForm=Part	11	conj	_	_
+26	höyrd	höyren	VERB	_	Tense=Past|VerbForm=Part	11	conj	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	49	punct	_	_
 28	un	un	CCONJ	_	_	49	cc	_	_
 29	wat	wat	ADV	_	_	49	dislocated	_	_
 30	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	29	nsubj	_	_
 31	west	weasen	AUX	_	Tense=Past|VerbForm=Part	29	cop	_	_
-32	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	29	aux	_	_
+32	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	29	aux	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	29	punct	_	_
 34	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	49	obj	_	_
 35	kunne	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	49	aux	_	_
 36	Martin	Martin	PROPN	_	Number=Sing	49	nsubj	_	_
-37	Runge	Runge	PROPN	_	Number=Sing	36	flat	_	_
+37	Runge	Runge	PROPN	_	Number=Sing	36	flat	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	40	punct	_	_
 39	dee	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	nsubj	_	_
 40	knecht	knecht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	acl	_	_
 41	up	up	ADP	_	_	43	case	_	_
 42	det	de	DET	_	_	43	det	_	_
 43	slot	slot	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	40	nmod	_	_
-44	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	_
+44	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	40	punct	_	_
 46	an	an	ADP	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	48	case	_	_
 47	dem	de	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
 48	besten	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	obl	_	_
-49	vortellen	vortellen	VERB	_	VerbForm=Inf	26	conj	_	_
+49	vortellen	vortellen	VERB	_	VerbForm=Inf	26	conj	_	SpaceAfter=No
 50	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = LSDC_0887_1939_00571_BRA
@@ -23096,7 +23096,7 @@
 8	sou	sou	ADV	_	_	9	advmod	_	_
 9	handlik	handlik	ADJ	_	Degree=Pos	10	advmod	_	_
 10	geråden	geråden	VERB	_	VerbForm=Inf	23	advcl	_	_
-11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	_
+11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	10	punct	_	_
 13	med	mid	ADP	_	AdpType=Prep	16	case	_	_
 14	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -23111,7 +23111,7 @@
 23	sag	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 24	et	et	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	nsubj	_	_
 25	slim	slim	ADJ	_	Degree=Pos	23	advmod	_	_
-26	uut	uut	ADP	_	_	23	compound:prt	_	_
+26	uut	uut	ADP	_	_	23	compound:prt	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	39	punct	_	_
 28	sou	sou	ADV	_	_	39	advmod	_	_
 29	det	dat	SCONJ	_	_	39	mark	_	_
@@ -23125,7 +23125,7 @@
 37	naegsten	naeg	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
 38	winter	winter	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	39	obl	_	_
 39	denken	denken	VERB	_	VerbForm=Inf	23	advcl	_	_
-40	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	39	aux	_	_
+40	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	39	aux	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	23	punct	_	_
 
 # sent_id = LSDC_0888_1939_00581_BRA
@@ -23138,14 +23138,14 @@
 5	keyne	keyn	DET	_	Case=Nom|Gender=Masc|Number=Plur	7	det	_	_
 6	acht	acht	NUM	_	NumType=Card	7	nummod	_	_
 7	dage	dag	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	obj	_	_
-8	duurd	duren	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+8	duurd	duren	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	do	do	ADV	_	_	14	advmod	_	_
 11	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	_
 12	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	eddelman	eadelman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 14	doud	doud	ADV	_	_	8	advcl	_	_
-15	west	weasen	AUX	_	Tense=Past|VerbForm=Part	14	cop	_	_
+15	west	weasen	AUX	_	Tense=Past|VerbForm=Part	14	cop	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = LSDC_0889_1939_00605_BRA
@@ -23156,7 +23156,7 @@
 3	winter	winter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 4	mål	mål	ADV	_	_	6	advmod	_	_
 5	apartig	apartig	ADJ	_	Degree=Pos	6	advmod	_	_
-6	kold	kold	VERB	_	Tense=Past	14	advcl	_	_
+6	kold	kold	VERB	_	Tense=Past	14	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	dän	dan	ADV	_	_	14	advmod	_	_
 9	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux	_	_
@@ -23164,7 +23164,7 @@
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	man	man	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 13	dårdöärch	dårdöär	ADV	_	_	14	advmod	_	_
-14	helpen	helpen	VERB	_	VerbForm=Inf	0	root	_	_
+14	helpen	helpen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	24	punct	_	_
 16	det	dat	SCONJ	_	_	24	mark	_	_
 17	hee	hee	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
@@ -23174,7 +23174,7 @@
 21	twey	twey	NUM	_	NumType=Card	22	nummod	_	_
 22	pår	pår	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	conj	_	_
 23	hoasen	hoase	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	22	nmod	_	_
-24	antrekkede	antrekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	advcl	_	_
+24	antrekkede	antrekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	advcl	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	_
 26	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	jungens	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	_
@@ -23191,13 +23191,13 @@
 38	sou	sou	ADV	_	_	41	advmod	_	_
 39	med	mid	ADP	_	AdpType=Prep	40	case	_	_
 40	kindertüüg	kindertüüg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	41	obl	_	_
-41	vulpekeld	vulpekelen	VERB	_	Tense=Past|VerbForm=Part	14	conj	_	_
+41	vulpekeld	vulpekelen	VERB	_	Tense=Past|VerbForm=Part	14	conj	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	47	punct	_	_
 43	det	dat	SCONJ	_	_	47	mark	_	_
 44	det	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	45	det	_	_
 45	linnentüüg	linnentüüg	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	47	nsubj	_	_
 46	good	good	ADJ	_	Degree=Pos	47	advmod	_	_
-47	uutreykede	uutreyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	advcl	_	_
+47	uutreykede	uutreyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	advcl	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = LSDC_0890_1939_00612_BRA
@@ -23214,21 +23214,21 @@
 9	in	in	ADP	_	AdpType=Prep	11	case	_	_
 10	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
 11	sko	sko	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	12	obl	_	_
-12	dån	doon	VERB	_	VerbForm=Part	0	root	_	_
+12	dån	doon	VERB	_	VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	32	punct	_	_
 14	un	un	CCONJ	_	_	32	cc	_	_
-15	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	aux	_	_
+15	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	aux	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	20	punct	_	_
 17	as	as	SCONJ	_	_	20	mark	_	_
 18	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	schorstettsken	schostettsk	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
 20	koamen	koamen	VERB	_	VerbForm=Inf	32	advcl	_	_
-21	syn	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	_
+21	syn	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	_
 23	öären	ear	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det	_	_
 24	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
 25	to	to	PART	_	PartType=Inf	26	mark	_	_
-26	plögen	plögen	VERB	_	VerbForm=Inf	20	xcomp	_	_
+26	plögen	plögen	VERB	_	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	20	punct	_	_
 28	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	32	obj	_	_
 29	up	up	ADP	_	_	31	case	_	_
@@ -23237,13 +23237,13 @@
 32	steld	stellen	VERB	_	Tense=Past|VerbForm=Part	12	conj	_	_
 33	un	un	CCONJ	_	_	35	cc	_	_
 34	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	aux	_	_
-35	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	32	conj	_	_
+35	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	32	conj	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	40	punct	_	_
 37	dat	dat	SCONJ	_	_	40	mark	_	_
 38	dat	de	PRON	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	40	nsubj	_	_
 39	graevenitzsk	graevenitzesk	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	40	amod	_	_
 40	akker	akker	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	35	ccomp	_	_
-41	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	_
+41	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = LSDC_0891_1939_00624_BRA
@@ -23254,13 +23254,13 @@
 3	upstünds	upstünds	ADV	_	_	6	advmod	_	_
 4	ne	nich	PART	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	5	advmod	_	_
 5	meyr	veale	ADV	_	_	6	advmod	_	_
-6	waerd	waerd	ADJ	_	Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
+6	waerd	waerd	ADJ	_	Mood=Ind|Number=Sing|Tense=Past	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	dat	dat	SCONJ	_	_	12	mark	_	_
 9	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
 10	dyn	dyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
 11	söän	söäne	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	xcomp	_	_
-12	heyte	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	advcl	_	_
+12	heyte	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = LSDC_0892_1939_00654_BRA
@@ -23270,17 +23270,17 @@
 2	det	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 3	kleyne	kleyn	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
 4	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	15	obl	_	_
-5	Motzien	Motzien	PROPN	_	Number=Sing	4	flat	_	_
+5	Motzien	Motzien	PROPN	_	Number=Sing	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	woorvan	woorvan	ADV	_	_	9	advmod	_	_
 8	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	vortellen	vortellen	VERB	_	VerbForm=Inf	4	acl	_	_
-10	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	_
+10	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	cop	_	_
 13	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 14	gerade	gerade	ADV	_	_	15	advmod	_	_
-15	eavensou	eavensou	ADV	_	_	0	root	_	_
+15	eavensou	eavensou	ADV	_	_	0	root	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	20	punct	_	_
 17	et	et	PRON	_	_	20	nsubj	_	_
 18	was	weasen	AUX	_	_	20	cop	_	_
@@ -23301,14 +23301,14 @@
 33	algemeynen	algemeyn	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	36	obl	_	_
 34	nich	nich	PART	_	PartType=Neg	36	advmod	_	_
 35	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
-36	reade	reade	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	conj	_	_
+36	reade	reade	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No
 37	;	;	PUNCT	_	_	15	punct	_	_
 38	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	42	nsubj	_	_
 39	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	42	aux	_	_
 40	ouk	ouk	ADV	_	_	42	advmod	_	_
 41	blouts	blout	ADV	_	_	42	advmod	_	_
 42	seggen	seggen	VERB	_	VerbForm=Inf	15	parataxis	_	_
-43	wold	willen	AUX	_	Tense=Past|VerbForm=Part	42	aux	_	_
+43	wold	willen	AUX	_	Tense=Past|VerbForm=Part	42	aux	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	51	punct	_	_
 45	med	mid	ADP	_	AdpType=Prep	47	case	_	_
 46	wo	wo	ADV	_	_	47	obl	_	_
@@ -23316,7 +23316,7 @@
 48	man	man	PROPN	_	_	51	nsubj	_	_
 49	dotomål	dotomål	ADV	_	_	51	advmod	_	_
 50	noch	noch	ADV	_	_	51	advmod	_	_
-51	vorstund	vorstån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	42	ccomp	_	_
+51	vorstund	vorstån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	42	ccomp	_	SpaceAfter=No
 52	,	,	PUNCT	_	_	61	punct	_	_
 53	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	61	obj	_	_
 54	un	un	CCONJ	_	_	56	cc	_	_
@@ -23326,7 +23326,7 @@
 58	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	59	det	_	_
 59	werld	werld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	61	obl	_	_
 60	to	to	PART	_	PartType=Inf	61	mark	_	_
-61	brengen	bringen	VERB	_	VerbForm=Inf	51	xcomp	_	_
+61	brengen	bringen	VERB	_	VerbForm=Inf	51	xcomp	_	SpaceAfter=No
 62	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = LSDC_0893_1939_00664_BRA
@@ -23343,7 +23343,7 @@
 9	in	in	ADP	_	AdpType=Prep	11	case	_	_
 10	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	stal	stal	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
-12	brocht	bringen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+12	brocht	bringen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	19	punct	_	_
 14	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	aux	_	_
 15	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	_
@@ -23355,13 +23355,13 @@
 21	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	cop	_	_
 22	nu	nu	ADV	_	_	24	advmod	_	_
 23	sou	sou	ADV	_	_	24	advmod	_	_
-24	wyd	wyd	ADJ	_	Degree=Pos	12	conj	_	_
+24	wyd	wyd	ADJ	_	Degree=Pos	12	conj	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	30	punct	_	_
 26	det	dat	SCONJ	_	_	30	mark	_	_
 27	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
 28	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	aux	_	_
 29	kyken	kyken	VERB	_	VerbForm=Inf	30	xcomp	_	_
-30	helpen	helpen	VERB	_	VerbForm=Inf	24	advcl	_	_
+30	helpen	helpen	VERB	_	VerbForm=Inf	24	advcl	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = LSDC_0894_1939_00686_BRA
@@ -23370,7 +23370,7 @@
 1	Eyrst	eyrst	ADV	_	_	4	advmod	_	_
 2	up	up	ADP	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	case	_	_
 3	det	de	DET	_	Number=Sing	4	det	_	_
-4	kaesebred	kaesebred	NOUN	_	_	0	root	_	_
+4	kaesebred	kaesebred	NOUN	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	woor	woor	ADV	_	_	11	advmod	_	_
 7	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -23378,7 +23378,7 @@
 9	earen	ear	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
 10	kaese	kaese	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
 11	dröygd	dröygen	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	_
-12	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
+12	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	11	punct	_	_
 14	dän	dan	CCONJ	_	_	17	cc	_	_
 15	up	up	ADP	_	_	17	case	_	_
@@ -23386,32 +23386,32 @@
 17	anrichte	anrichte	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
 18	in	in	ADP	_	AdpType=Prep	20	case	_	_
 19	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
-20	köäken	köäken	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	nmod	_	_
+20	köäken	köäken	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	dän	dan	CCONJ	_	_	25	advmod	_	_
 23	in	in	ADP	_	AdpType=Prep	25	case	_	_
 24	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-25	voarrådskamer	vöärrådskamer	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	4	conj	_	_
+25	voarrådskamer	vöärrådskamer	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	_
 27	un	un	CCONJ	_	_	28	cc	_	_
 28	maakt	maken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	_
 29	alle	al	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	30	det	_	_
-30	spinden	spind	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	28	obj	_	_
+30	spinden	spind	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	28	obj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	36	punct	_	_
 32	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	36	obj	_	_
 33	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	vrouwe	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	nsubj	_	_
 35	immer	immer	ADV	_	_	36	advmod	_	_
 36	tosloaten	tosluten	VERB	_	Tense=Past|VerbForm=Part	30	acl	_	_
-37	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	36	aux	_	_
+37	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	36	aux	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	36	punct	_	_
 39	up	up	ADV	_	_	28	compound:prt	_	_
 40	un	un	CCONJ	_	_	41	cc	_	_
-41	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	conj	_	_
+41	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	conj	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	45	punct	_	_
 43	in	in	ADP	_	AdpType=Prep	45	case	_	_
 44	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	45	det	_	_
-45	döppe	dop	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	41	obl	_	_
+45	döppe	dop	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	41	obl	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = LSDC_0895_1939_00698_BRA
@@ -23429,14 +23429,14 @@
 10	doch	doch	ADV	_	_	13	advmod	_	_
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	jåre	jår	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
-13	werden	werden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	conj	_	_
+13	werden	werden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	conj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	wän	wän	SCONJ	_	_	20	mark	_	_
 16	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	nsubj	_	_
 17	an	an	ADP	_	AdpType=Prep	18	case	_	_
 18	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	obl	_	_
 19	sülvenst	sülve	ADV	_	_	18	advmod	_	_
-20	vöölt	völen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	advcl	_	_
+20	vöölt	völen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	advcl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	27	punct	_	_
 22	det	dat	SCONJ	_	_	27	mark	_	_
 23	det	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	nsubj	_	_
@@ -23444,7 +23444,7 @@
 25	vöär	vöär	ADP	_	AdpType=Prep	27	case	_	_
 26	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	döäre	döäre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	ccomp	_	_
-28	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	cop	_	_
+28	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	cop	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = LSDC_0896_1939_00758_BRA
@@ -23459,18 +23459,18 @@
 7	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	visker	visker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	iobj	_	_
 9	vorteld	vortellen	VERB	_	Tense=Past|VerbForm=Part	2	advcl	_	_
-10	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	_
+10	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	_
 13	et	et	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	nsubj	_	_
 14	ouk	ouk	ADV	_	_	15	advmod	_	_
-15	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+15	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	15	punct	_	_
 17	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	_
 18	ganse	gans	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	_
 19	dörp	dorp	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
 20	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	aux	_	_
-21	uutstorven	uutsterven	VERB	_	Tense=Past|VerbForm=Part	15	parataxis	_	_
+21	uutstorven	uutsterven	VERB	_	Tense=Past|VerbForm=Part	15	parataxis	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	27	punct	_	_
 23	man	men	CCONJ	_	_	27	cc	_	_
 24	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -23483,7 +23483,7 @@
 31	ryken	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
 32	ryken	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
 33	man	man	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	34	xcomp	_	_
-34	worden	werden	AUX	_	VerbForm=Inf	27	conj	_	_
+34	worden	werden	AUX	_	VerbForm=Inf	27	conj	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	39	punct	_	_
 36	un	un	CCONJ	_	_	39	cc	_	_
 37	syne	syn	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	38	det	_	_
@@ -23499,7 +23499,7 @@
 47	un	un	CCONJ	_	AdpType=Prep	50	cc	_	_
 48	syn	weasen	AUX	_	Number=Sing	50	cop	_	_
 49	ryke	ryk	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	50	amod	_	_
-50	lüde	lüde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	39	conj	_	_
+50	lüde	lüde	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	39	conj	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = LSDC_0897_1939_00831_BRA
@@ -23513,7 +23513,7 @@
 6	gaar	gaar	ADV	_	_	7	advmod	_	_
 7	to	to	ADV	_	_	8	advmod	_	_
 8	vründlikes	vründlik	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
-9	anseen	anseen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+9	anseen	anseen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = LSDC_0898_1939_02281_NNS
@@ -23526,11 +23526,11 @@
 5	Schoffels	Schoffels	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	flat	_	lemma_gml=schoffel
 6	en	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
 7	myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	lemma_gml=mîn
-8	oumke	öymken	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	lemma_gml=ômeke
+8	oumke	öymken	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	lemma_gml=ômeke|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
 10	de	de	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	det	_	lemma_gml=d'ule
 11	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	lemma_gml=d'ule
-12	veterane	veterane	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	lemma_gml=vitgerjân
+12	veterane	veterane	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	lemma_gml=vitgerjân|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0899_1939_02282_NNS
@@ -23544,7 +23544,7 @@
 6	jåren	jår	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	9	obl	_	lemma_gml=jâr
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 8	fransken	fransk	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	9	obl:arg	_	lemma_gml=franse
-9	untkneapen	entknypen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=entknîpen
+9	untkneapen	entknypen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=entknîpen|SpaceAfter=No
 10	,	,	PUNCT	_	_	15	punct	_	_
 11	en	un	CCONJ	_	_	15	cc	_	lemma_gml=ende
 12	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	aux	_	lemma_gml=hebben
@@ -23553,23 +23553,23 @@
 15	noamen	neamen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=nö̂men
 16	by	by	ADP	_	AdpType=Prep	18	case	_	lemma_gml=bî
 17	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
-18	engelsken	engelsk	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	15	obl	_	lemma_gml=engel
+18	engelsken	engelsk	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	15	obl	_	lemma_gml=engel|SpaceAfter=No
 19	,	,	PUNCT	_	_	25	punct	_	_
 20	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	lemma_gml=dû
 21	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	lemma_gml=hê,sê,et
 22	nå	nå	ADP	_	AdpType=Prep	24	case	_	lemma_gml=nâ
 23	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
 24	West-Indys	West-Indys	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	25	obl	_	lemma_gml=westsinîe
-25	stüürden	stüren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	acl:relcl	_	lemma_gml=stü̂ren
+25	stüürden	stüren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	acl:relcl	_	lemma_gml=stü̂ren|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	_
 27	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	lemma_gml=dê,dê,dat
-28	Berbiessies	Berbiessies	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	appos	_	lemma_gml=berbîsiesie
+28	Berbiessies	Berbiessies	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	24	appos	_	lemma_gml=berbîsiesie|SpaceAfter=No
 29	,	,	PUNCT	_	_	34	punct	_	_
 30	sou	sou	ADV	_	_	34	advmod	_	lemma_gml=sô
 31	as	as	SCONJ	_	_	34	mark	_	lemma_gml=alsô
 32	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	lemma_gml=hê,sê,et
 33	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	34	obj	_	lemma_gml=hê,sê,et
-34	nöömde	nömen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl	_	lemma_gml=nö̂men
+34	nöömde	nömen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl	_	lemma_gml=nö̂men|SpaceAfter=No
 35	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0900_1939_02283_NNS
@@ -23591,7 +23591,7 @@
 14	heyl	heyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	lemma_gml=hêil
 15	porty	porty	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	lemma_gml=porsie
 16	vortelsels	vortelsel	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	nmod	_	lemma_gml=vortelsêl
-17	terüggekoamen	torüggekoamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=terückōmen
+17	terüggekoamen	torüggekoamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=terückōmen|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = LSDC_0901_1939_02284_NNS
@@ -23609,7 +23609,7 @@
 10	up	up	ADP	_	AdpType=Prep	12	case	_	lemma_gml=uppe
 11	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
 12	mauwe	mauwe	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	13	obl	_	lemma_gml=man
-13	spellen	spellen	VERB	_	VerbForm=Inf	5	conj	_	lemma_gml=spellen
+13	spellen	spellen	VERB	_	VerbForm=Inf	5	conj	_	lemma_gml=spellen|SpaceAfter=No
 14	,	,	PUNCT	_	_	21	punct	_	_
 15	as	as	SCONJ	_	_	21	mark	_	lemma_gml=alsô
 16	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=hê,sê,et
@@ -23617,7 +23617,7 @@
 18	up	up	ADP	_	AdpType=Prep	20	case	_	lemma_gml=uppe
 19	et	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê,dê,dat
 20	sin	sin	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	21	obl	_	lemma_gml=sin
-21	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	lemma_gml=hebben
+21	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	lemma_gml=hebben|SpaceAfter=No
 22	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0902_1939_02285_NNS
@@ -23625,9 +23625,9 @@
 # text = As hee begun: „Ik kan juw mid en woord van wårheid getügen,“ dan wussen we wel, wår et an to was.
 1	As	as	SCONJ	_	_	3	mark	_	lemma_gml=alsô
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
-3	begun	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=beginnen
+3	begun	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=beginnen|SpaceAfter=No
 4	:	:	PUNCT	_	_	14	punct	_	_
-5	„	„	PUNCT	_	_	14	punct	_	_
+5	„	„	PUNCT	_	_	14	punct	_	SpaceAfter=No
 6	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	lemma_gml=ik
 7	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	14	aux	_	lemma_gml=künnen
 8	juw	jy	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	14	iobj	_	lemma_gml=gî
@@ -23636,19 +23636,19 @@
 11	woord	woord	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=wōrt
 12	van	van	ADP	_	AdpType=Prep	13	case	_	lemma_gml=van
 13	wårheid	wårheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	11	nmod	_	lemma_gml=worhêit
-14	getügen	getügen	VERB	_	VerbForm=Inf	3	ccomp	_	lemma_gml=tü̂gen
-15	,	,	PUNCT	_	_	14	punct	_	_
+14	getügen	getügen	VERB	_	VerbForm=Inf	3	ccomp	_	lemma_gml=tü̂gen|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	SpaceAfter=No
 16	“	“	PUNCT	_	_	14	punct	_	_
 17	dan	dan	ADV	_	_	18	advmod	_	lemma_gml=dan
 18	wussen	weaten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	cop	_	lemma_gml=wēsen
 19	we	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	lemma_gml=wî
-20	wel	wol	ADV	_	_	18	advmod	_	lemma_gml=wol
+20	wel	wol	ADV	_	_	18	advmod	_	lemma_gml=wol|SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	wår	woor	ADV	_	_	25	advmod	_	lemma_gml=wôre
 23	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=hê,sê,et
 24	an	an	ADP	_	_	25	case	_	lemma_gml=an
 25	to	to	ADV	_	_	18	ccomp	_	lemma_gml=tô
-26	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	cop	_	lemma_gml=wēsen
+26	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	cop	_	lemma_gml=wēsen|SpaceAfter=No
 27	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0903_1939_02286_NNS
@@ -23660,14 +23660,14 @@
 4	wel	wol	ADV	_	_	2	advmod	_	lemma_gml=wol
 5	eyns	eyns	ADV	_	_	2	advmod	_	lemma_gml=êines
 6	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obl	_	lemma_gml=watte
-7	grov	grov	ADJ	_	Degree=Pos	2	amod	_	lemma_gml=grāven
+7	grov	grov	ADJ	_	Degree=Pos	2	amod	_	lemma_gml=grāven|SpaceAfter=No
 8	,	,	PUNCT	_	_	14	punct	_	_
 9	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sôdâte
 10	dat	dat	SCONJ	_	_	14	mark	_	lemma_gml=sôdâte
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
 12	buren	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	lemma_gml=bûr
 13	et	et	PRON	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
-14	markeden	merken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	ccomp	_	lemma_gml=marken
+14	markeden	merken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	ccomp	_	lemma_gml=marken|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	en	un	CCONJ	_	_	18	cc	_	lemma_gml=ende
 17	dårum	dårüm	ADV	_	_	18	advmod	_	lemma_gml=dârümme
@@ -23675,17 +23675,17 @@
 19	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
 20	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	lemma_gml=hê,sê,et
 21	wel	wol	ADV	_	_	18	advmod	_	lemma_gml=wol
-22	„	„	PUNCT	_	_	24	punct	_	_
+22	„	„	PUNCT	_	_	24	punct	_	SpaceAfter=No
 23	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
-24	speksketer	speksketer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	lemma_gml=spêikschît
-25	;	;	PUNCT	_	_	24	punct	_	_
+24	speksketer	speksketer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	lemma_gml=spêikschît|SpaceAfter=No
+25	;	;	PUNCT	_	_	24	punct	_	SpaceAfter=No
 26	“	“	PUNCT	_	_	24	punct	_	_
 27	mår	mår	CCONJ	_	_	32	cc	_	lemma_gml=mêr
 28	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	nsubj	_	lemma_gml=dê,dê,dat
 29	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	aux	_	lemma_gml=künnen
 30	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	lemma_gml=hê,sê,et
 31	neet	nich	PART	_	PartType=Neg	32	advmod	_	lemma_gml=nicht
-32	skealen	skealen	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=schēlen
+32	skealen	skealen	VERB	_	VerbForm=Inf	2	conj	_	lemma_gml=schēlen|SpaceAfter=No
 33	,	,	PUNCT	_	_	37	punct	_	_
 34	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	lemma_gml=hê,sê,et
 35	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
@@ -23693,7 +23693,7 @@
 37	buren	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	32	parataxis	_	lemma_gml=bûr
 38	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	40	nsubj	_	lemma_gml=dû
 39	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	40	obj	_	lemma_gml=hê,sê,et
-40	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	37	acl:relcl	_	lemma_gml=seggen
+40	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	37	acl:relcl	_	lemma_gml=seggen|SpaceAfter=No
 41	,	,	PUNCT	_	_	44	punct	_	_
 42	en	un	CCONJ	_	_	44	cc	_	lemma_gml=ende
 43	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	lemma_gml=hê,sê,et
@@ -23701,7 +23701,7 @@
 45	der	dår	ADV	_	_	44	obl	_	lemma_gml=dâr
 46	mår	mår	ADV	_	_	44	advmod	_	lemma_gml=mêr
 47	up	up	ADP	_	AdpType=Prep	45	case	_	lemma_gml=uppe
-48	weg	weg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	44	advmod	_	lemma_gml=wech
+48	weg	weg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	44	advmod	_	lemma_gml=wech|SpaceAfter=No
 49	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0904_1939_02287_NNS
@@ -23714,10 +23714,10 @@
 5	of	af	ADP	_	_	4	case	_	lemma_gml=of
 6	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=lôpen
 7	Willem	Willem	PROPN	_	Number=Sing	6	nsubj	_	lemma_gml=willem
-8	Koulman	Koulman	PROPN	_	Number=Sing	7	flat	_	lemma_gml=koulman
+8	Koulman	Koulman	PROPN	_	Number=Sing	7	flat	_	lemma_gml=koulman|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
 10	en	en	DET	_	_	11	det	_	lemma_gml=êin,êine,êin
-11	ortodokse	ortodokse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	appos	_	lemma_gml=ôterdôk
+11	ortodokse	ortodokse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	appos	_	lemma_gml=ôterdôk|SpaceAfter=No
 12	,	,	PUNCT	_	_	23	punct	_	_
 13	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	23	obj	_	lemma_gml=watte
 14	y	jy	PRON	_	Case=Nom|Number=<UNK>|Person=2|PronType=Prs	23	nsubj	_	lemma_gml=gî
@@ -23730,7 +23730,7 @@
 21	vorkneapen	vorkneapen	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	lemma_gml=vorknêpe
 22	gesichte	gesichte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	conj	_	lemma_gml=gesichte
 23	seen	seen	VERB	_	VerbForm=Inf	11	aux	_	lemma_gml=sên
-24	kunnen	künnen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	lemma_gml=künnen
+24	kunnen	künnen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	23	aux	_	lemma_gml=künnen|SpaceAfter=No
 25	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = LSDC_0905_1939_02288_NNS
@@ -23738,18 +23738,18 @@
 # text = Et leste kwam, dat wussen we wel vöäruut, de „pöäkel-up-stelten,“ sou as see altyd teagen Roulf Roulfsemoa sean.
 1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	leste	lest	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	obl	_	lemma_gml=lat
-3	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+3	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	6	obj	_	lemma_gml=dê,dê,dat
 6	wussen	weaten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	parataxis	_	lemma_gml=wēsen
 7	we	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=wî
 8	wel	wol	ADV	_	_	6	advmod	_	lemma_gml=wol
-9	vöäruut	vöäruut	ADV	_	Tense=Past|VerbForm=Part	6	advcl	_	lemma_gml=vourôten
+9	vöäruut	vöäruut	ADV	_	Tense=Past|VerbForm=Part	6	advcl	_	lemma_gml=vourôten|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	_
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
-12	„	„	PUNCT	_	_	13	punct	_	_
-13	pöäkel-up-stelten	pöäkel-up-stelten	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	lemma_gml=pēgelôpestelte
-14	,	,	PUNCT	_	_	13	punct	_	_
+12	„	„	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	pöäkel-up-stelten	pöäkel-up-stelten	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	lemma_gml=pēgelôpestelte|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	“	“	PUNCT	_	_	13	punct	_	_
 16	sou	sou	ADV	_	_	23	advmod	_	lemma_gml=sôs
 17	as	as	SCONJ	_	_	23	mark	_	lemma_gml=sôs
@@ -23758,7 +23758,7 @@
 20	teagen	geagen	ADP	_	AdpType=Prep	21	case	_	lemma_gml=tēgen
 21	Roulf	Rolf	PROPN	_	Number=Sing	23	obl	_	lemma_gml=roulf
 22	Roulfsemoa	Roulfsema	PROPN	_	Number=Sing	21	flat	_	lemma_gml=roulfsemoa
-23	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	lemma_gml=seggen
+23	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	lemma_gml=seggen|SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0906_1939_02289_NNS
@@ -23768,7 +23768,7 @@
 2	wul	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	aux	_	lemma_gml=willen
 3	geyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	4	det	_	lemma_gml=gêin
 4	woord	woord	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	lemma_gml=wōrt
-5	hebben	hebben	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=hebben
+5	hebben	hebben	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=hebben|SpaceAfter=No
 6	,	,	PUNCT	_	_	13	punct	_	_
 7	dat	dat	SCONJ	_	_	13	mark	_	lemma_gml=dat
 8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
@@ -23776,7 +23776,7 @@
 10	yselk	yselk	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=eyslĩk
 11	lange	lang	ADJ	_	_	12	amod	_	lemma_gml=lanc
 12	beynen	beyn	NOUN	_	VerbForm=Inf	13	obj	_	lemma_gml=bêinen
-13	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl	_	lemma_gml=hebben
+13	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl	_	lemma_gml=hebben|SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
 16	dårum	dårüm	ADV	_	_	17	advmod	_	lemma_gml=dârümme
@@ -23793,21 +23793,21 @@
 27	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	lemma_gml=hê,sê,et
 28	neet	nich	PART	_	PartType=Neg	29	advmod	_	lemma_gml=nicht
 29	midkomen	midkoamen	VERB	_	VerbForm=Inf	24	advcl	_	lemma_gml=mitkōmen
-30	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	29	aux	_	lemma_gml=künnen
+30	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	29	aux	_	lemma_gml=künnen|SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0907_1939_02290_NNS
 # text_orig = Heerink, heerink! wat wazzen 't lange beinen.
 # text = Hearink, hearink! wat wassen et lange beynen.
-1	Hearink	hearink	INTJ	_	_	9	discourse	_	lemma_gml=hêrinc
+1	Hearink	hearink	INTJ	_	_	9	discourse	_	lemma_gml=hêrinc|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	hearink	hearink	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	lemma_gml=hêrinc
+3	hearink	hearink	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	lemma_gml=hêrinc|SpaceAfter=No
 4	!	!	PUNCT	_	_	1	punct	_	_
 5	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obl	_	lemma_gml=watte
 6	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	9	cop	_	lemma_gml=wēsen
 7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê,sê,et
 8	lange	lang	ADJ	_	_	9	amod	_	lemma_gml=lanc
-9	beynen	beyn	NOUN	_	_	0	root	_	lemma_gml=bêine
+9	beynen	beyn	NOUN	_	_	0	root	_	lemma_gml=bêine|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0909_1939_02292_NNS
@@ -23820,7 +23820,7 @@
 5	vast	vast	ADJ	_	Degree=Pos	3	advmod	_	lemma_gml=vast
 6	abüüs	abüse	NOUN	_	Degree=Pos	3	obj	_	lemma_gml=abûse
 7	mid	mid	ADP	_	_	4	case	_	lemma_gml=mit
-8	had	hebben	AUX	_	Number=Sing	3	aux	_	lemma_gml=hebben
+8	had	hebben	AUX	_	Number=Sing	3	aux	_	lemma_gml=hebben|SpaceAfter=No
 9	,	,	PUNCT	_	_	25	punct	_	_
 10	en	un	CCONJ	_	_	25	cc	_	lemma_gml=ende
 11	um	üm	SCONJ	_	_	16	mark	_	lemma_gml=ümme
@@ -23828,7 +23828,7 @@
 13	wear	wedder	ADV	_	_	16	advmod	_	lemma_gml=wedder
 14	good	good	ADJ	_	Degree=Pos	16	xcomp	_	lemma_gml=gôt
 15	te	to	PART	_	PartType=Inf	16	mark	_	lemma_gml=tô
-16	maken	maken	VERB	_	VerbForm=Inf	25	advcl	_	lemma_gml=māken
+16	maken	maken	VERB	_	VerbForm=Inf	25	advcl	_	lemma_gml=māken|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	aux	_	lemma_gml=hebben
 19	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=sê
@@ -23837,7 +23837,7 @@
 22	eywig	eywig	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	lemma_gml=êwich
 23	kleyn	kleyn	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	lemma_gml=klâ
 24	boavenlyv	boavenlyv	NOUN	_	Gender=Neut|Number=Sing	25	obj	_	lemma_gml=bōvenlîf
-25	geaven	geaven	VERB	_	VerbForm=Inf	3	conj	_	lemma_gml=gēven
+25	geaven	geaven	VERB	_	VerbForm=Inf	3	conj	_	lemma_gml=gēven|SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0910_1939_02293_NNS
@@ -23851,7 +23851,7 @@
 6	vöäls	veale	ADV	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	lemma_gml=vēle
 7	te	to	ADV	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	advmod	_	lemma_gml=tô
 8	kleyn	kleyn	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	xcomp	_	lemma_gml=klâne
-9	uutvallen	uutvallen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=ôtvallen
+9	uutvallen	uutvallen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=ôtvallen|SpaceAfter=No
 10	,	,	PUNCT	_	_	22	punct	_	_
 11	en	un	CCONJ	_	_	22	cc	_	lemma_gml=ende
 12	um	üm	SCONJ	_	_	20	mark	_	lemma_gml=ümme
@@ -23862,7 +23862,7 @@
 17	et	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
 18	gelyk	gelyk	ADJ	_	Degree=Pos|Gender=Neut	20	obl	_	lemma_gml=gelîk
 19	te	to	PART	_	PartType=Inf	20	mark	_	lemma_gml=tô
-20	brengen	bringen	VERB	_	VerbForm=Inf	22	advcl	_	lemma_gml=bringen
+20	brengen	bringen	VERB	_	VerbForm=Inf	22	advcl	_	lemma_gml=bringen|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	gav	geaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	conj	_	lemma_gml=gēven
 23	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	lemma_gml=sê
@@ -23870,27 +23870,27 @@
 25	der	dår	ADV	_	_	22	advmod	_	lemma_gml=dâr
 26	en	en	DET	_	_	27	det	_	lemma_gml=êin,êine,êin
 27	boggel	boggel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	lemma_gml=bochel
-28	by	by	ADP	_	_	25	case	_	lemma_gml=bî
+28	by	by	ADP	_	_	25	case	_	lemma_gml=bî|SpaceAfter=No
 29	;	;	PUNCT	_	_	22	punct	_	_
 30	do	do	ADV	_	_	34	advmod	_	lemma_gml=douwe
 31	was	weasen	AUX	_	_	34	cop	_	lemma_gml=wēsen
 32	et	de	DET	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	33	det	_	lemma_gml=dê,dê,dat
 33	gewicht	gesicht	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	lemma_gml=gewicht
 34	der	dår	ADV	_	_	22	advmod	_	lemma_gml=dâr
-35	toch	doch	ADV	_	_	34	advmod	_	lemma_gml=doch
+35	toch	doch	ADV	_	_	34	advmod	_	lemma_gml=doch|SpaceAfter=No
 36	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = LSDC_0911_1939_02294_NNS
 # text_orig = Nou, dou meer de Peukel-op-stelten der was, huifden ze nijt op anderen te wachten.
 # text = Now, do mêr de pöäkel-up-stelten der was, höövden see neet up anderen te wachten.
-1	Now	nu	INTJ	_	_	10	discourse	_	lemma_gml=nû
+1	Now	nu	INTJ	_	_	10	discourse	_	lemma_gml=nû|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	do	do	SCONJ	_	_	7	mark	_	lemma_gml=douwe
 4	mêr	mår	ADV	_	Case=Nom|Number=Plur	7	advmod	_	lemma_gml=vēle
 5	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	pöäkel-up-stelten	pöäkel-up-stelten	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	nsubj	_	lemma_gml=pēgelôpestelte
 7	der	dår	ADV	_	_	10	advcl	_	lemma_gml=dâr
-8	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen
+8	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	höövden	höven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hü̂ven
 11	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=sê
@@ -23898,38 +23898,38 @@
 13	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
 14	anderen	ander	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	16	obl	_	lemma_gml=ander
 15	te	to	PART	_	PartType=Inf	16	mark	_	lemma_gml=tô
-16	wachten	wachten	VERB	_	VerbForm=Inf	10	xcomp	_	lemma_gml=wachten
+16	wachten	wachten	VERB	_	VerbForm=Inf	10	xcomp	_	lemma_gml=wachten|SpaceAfter=No
 17	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = LSDC_0912_1939_02295_NNS
 # text_orig = „Vrunnen,“ zee dou de kastelain, „wie binnen der nou allemoal, want ik zij der geint, dij der nijt is, en ie hebben ook allemoal joen gelag veur joe.
 # text = „Vründen,“ sea do de kastelein, „wy binnen der now allemål, want ik see der geynt, dee der neet is, en y hebben ouk allemål juwen gelag vöär juw.
-1	„	„	PUNCT	_	_	2	punct	_	_
-2	Vründen	vründ	NOUN	_	_	5	vocative	_	lemma_gml=vrünt
-3	,	,	PUNCT	_	_	2	punct	_	_
+1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Vründen	vründ	NOUN	_	_	5	vocative	_	lemma_gml=vrünt|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	SpaceAfter=No
 4	“	“	PUNCT	_	_	2	punct	_	_
 5	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 6	do	do	ADV	_	_	5	advmod	_	lemma_gml=douwe
 7	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
-8	kastelein	kastelein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma_gml=kastēlinne
+8	kastelein	kastelein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma_gml=kastēlinne|SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	_
-10	„	„	PUNCT	_	_	13	punct	_	_
+10	„	„	PUNCT	_	_	13	punct	_	SpaceAfter=No
 11	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	lemma_gml=wî
 12	binnen	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	lemma_gml=wēsen
 13	der	dår	ADV	_	_	5	ccomp	_	lemma_gml=dâr
 14	now	nu	ADV	_	_	13	advmod	_	lemma_gml=nû
-15	allemål	allemål	ADV	_	_	13	advmod	_	lemma_gml=almemâl
+15	allemål	allemål	ADV	_	_	13	advmod	_	lemma_gml=almemâl|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	want	want	CCONJ	_	_	19	cc	_	lemma_gml=wan
 18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	lemma_gml=ik
 19	see	see	VERB	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	conj	_	lemma_gml=hê,sê,et
 20	der	dår	ADV	_	_	19	advmod	_	lemma_gml=dâr
-21	geynt	geyn	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	obj	_	lemma_gml=gân
+21	geynt	geyn	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	obj	_	lemma_gml=gân|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	_
 23	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	24	nsubj	_	lemma_gml=dû
 24	der	dår	ADV	_	_	21	acl:relcl	_	lemma_gml=dâr
 25	neet	nich	PART	_	PartType=Neg	24	advmod	_	lemma_gml=nicht
-26	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	cop	_	lemma_gml=wēsen
+26	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	cop	_	lemma_gml=wēsen|SpaceAfter=No
 27	,	,	PUNCT	_	_	24	punct	_	_
 28	en	un	CCONJ	_	_	30	cc	_	lemma_gml=ende
 29	y	jy	PRON	_	Case=Nom|Number=<UNK>|Person=2|PronType=Prs	30	nsubj	_	lemma_gml=gî
@@ -23939,7 +23939,7 @@
 33	juwen	juw	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	34	det	_	lemma_gml=iuwe
 34	gelag	gelag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obj	_	lemma_gml=gelach
 35	vöär	vöär	ADP	_	AdpType=Prep	36	case	_	lemma_gml=vȫr
-36	juw	jy	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	30	obl	_	lemma_gml=gî
+36	juw	jy	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	30	obl	_	lemma_gml=gî|SpaceAfter=No
 37	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
