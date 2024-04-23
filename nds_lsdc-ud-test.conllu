@@ -22835,6 +22835,82 @@
 6	good	good	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
+# sent_id = LSDC_0881_1939_00469_BRA
+# text_orig = Upd' lest is hee van sülwest furtbleewen.
+# text = Up de lest is hee van sülvst voordbleaven.
+1	Up	up	ADP	_	_	3	case	_	_
+2	de	de	DET	_	_	3	det	_	_
+3	lest	lest	ADJ	_	_	8	obl	_	_
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
+5	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+6	van	van	ADP	_	AdpType=Prep	7	case	_	_
+7	sülvst	sülve	ADV	_	_	8	obl	_	_
+8	voordbleaven	voordblyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = LSDC_0882_1939_00477_BRA
+# text_orig = Doa gung de ollsch rut un batt'n.
+# text = Do gung de oldske ruut un badden.
+1	Do	do	ADV	_	_	2	advmod	_	_
+2	gung	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	oldske	oldske	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	ruut	heruut	ADV	_	_	2	advmod	_	_
+6	un	un	CCONJ	_	_	7	cc	_	_
+7	baddden	beaden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = LSDC_0883_1939_00488_BRA
+# text_orig = Se seggen, datt vöör ollen Tiijen, as de Lüe noch in de Iir wånt hebben, då ook Lüe in wånt hebben, un de kleine Höll, de dål annen Acker to seeen is, datt sal de Poortendöör west sin.
+# text = See seggen, dat vöär olden tyden, as de lüde noch in de aerde woand hebben, dår ouk lüde in woand hebben, un de kleyne hölle, dee dale an den akker to seen is, dat sal de poortendöäre west syn.
+1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	seggen	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+3	,	,	PUNCT	_	_	23	punct	_	_
+4	dat	dat	SCONJ	_	_	23	mark	_	_
+5	vöär	vöär	ADP	_	AdpType=Prep	7	case	_	_
+6	olden	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	tyden	tyd	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	23	obl	_	_
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	as	as	CCONJ	_	_	16	mark	_	_
+10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	lüde	lüde	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+12	noch	noch	ADV	_	_	16	advmod	_	_
+13	in	in	ADP	_	AdpType=Prep	15	case	_	_
+14	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
+15	aerde	aerde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+16	woand	woanen	VERB	_	Tense=Past	7	acl	_	_
+17	hebben	hebben	AUX	_	VerbForm=Inf	16	aux	_	_
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	dår	dår	ADV	_	_	23	advmod	_	_
+20	ouk	ouk	ADV	_	_	23	advmod	_	_
+21	lüde	lüde	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	_
+22	in	in	ADP	_	AdpType=Prep	19	case	_	_
+23	woand	woanen	VERB	_	_	2	ccomp	_	_
+24	hebben	hebben	AUX	_	VerbForm=Inf	23	aux	_	_
+25	,	,	PUNCT	_	_	43	punct	_	_
+26	un	un	CCONJ	_	_	43	cc	_	_
+27	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+28	kleyne	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	hölle	hölle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	dislocated	_	_
+30	,	,	PUNCT	_	_	37	punct	_	_
+31	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	37	nsubj	_	_
+32	dale	dale	ADV	_	_	37	advmod	_	_
+33	an	an	ADP	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	35	case	_	_
+34	den	de	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	35	det	_	_
+35	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
+36	to	to	PART	_	PartType=Inf	37	mark	_	_
+37	seen	seen	VERB	_	VerbForm=Inf	29	acl	_	_
+38	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	37	aux	_	_
+39	,	,	PUNCT	_	_	37	punct	_	_
+40	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	43	nsubj	_	_
+41	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	43	aux	_	_
+42	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
+43	poortendöäre	poortendöäre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	conj	_	_
+44	west	weasen	AUX	_	Tense=Past|VerbForm=Part	43	cop	_	_
+45	syn	weasen	AUX	_	VerbForm=Inf	43	aux	_	_
+46	.	.	PUNCT	_	_	2	punct	_	_
+
+
 # sent_id = LSDC_0898_1939_02281_NNS
 # text_orig = Noast hom luipen Jurrien Schoffels en mien Oomke, d'olle viterjoane.
 # text = Nåst hum löypen Jurrien Schoffels en myn oumke, de olde veterane.
