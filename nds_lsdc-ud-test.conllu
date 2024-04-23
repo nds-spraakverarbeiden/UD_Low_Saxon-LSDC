@@ -22835,52 +22835,6 @@
 6	good	good	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0890_1939_00612_BRA
-# text_orig = Dee hett denn Iir vannen Graevenitzschen Acker in siine Schoo dån, un hett, as de Schorstettschen kåmen sinn, ören Acker to plöjen, sick upp düssen Acker stellt un hett secht, datt datt Graevenitzsch Acker wär.
-# text = Dee het dän aerde van den graevenitzsken akker in syne sko dån, un het, as de schorstettsken koamen syn, öären akker to plögen, sik up düssen akker steld un het segd, dat dat graevenitzsk akker weer.
-1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
-2	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	_
-3	dän	dan	ADV	_	_	12	advmod	_	_
-4	aerde	aerde	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obj	_	_
-5	van	van	ADP	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	case	_	_
-6	den	de	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	det	_	_
-7	graevenitzsken	graevenitzesk	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
-8	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	_
-9	in	in	ADP	_	AdpType=Prep	11	case	_	_
-10	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
-11	sko	sko	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	12	obl	_	_
-12	dån	doon	VERB	_	VerbForm=Part	_	_	_	_
-13	,	,	PUNCT	_	_	32	punct	_	_
-14	un	un	CCONJ	_	_	32	cc	_	_
-15	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	aux	_	_
-16	,	,	PUNCT	_	_	20	punct	_	_
-17	as	as	SCONJ	_	_	19	mark	_	_
-18	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	schorstettsken	schostettsk	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
-20	koamen	koamen	VERB	_	VerbForm=Inf	32	advcl	_	_
-21	syn	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	_
-22	,	,	PUNCT	_	_	26	punct	_	_
-23	öären	ear	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	24	det	_	_
-24	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	_
-25	to	to	PART	_	PartType=Inf	26	mark	_	_
-26	plögen	plögen	VERB	_	VerbForm=Inf	20	xcomp	_	_
-27	,	,	PUNCT	_	_	20	punct	_	_
-28	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	31	obj	_	_
-29	up	up	ADP	_	_	31	case	_	_
-30	düssen	disse	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
-31	akker	akker	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
-32	steld	stellen	VERB	_	Tense=Past|VerbForm=Part	12	conj	_	_
-33	un	un	CCONJ	_	_	34	cc	_	_
-34	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	aux	_	_
-35	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	32	conj	_	_
-36	,	,	PUNCT	_	_	40	punct	_	_
-37	dat	dat	SCONJ	_	_	40	mark	_	_
-38	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	40	det	_	_
-39	graevenitzsk	graevenitzesk	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	40	amod	_	_
-40	akker	akker	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	35	ccomp	_	_
-41	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	_
-42	.	.	PUNCT	_	_	12	punct	_	_
-
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
 # text = Möchel Krus’ uut Tharau vortelt:
