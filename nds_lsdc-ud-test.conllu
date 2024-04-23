@@ -22419,7 +22419,7 @@
 
 # sent_id = LSDC_0871_1939_00314_BRA
 # text_orig = Wi springen irst so lustig rin in’t Lewen, as wenn’t Enne gar nich aftoreiken wir, wi hebben so voel totosetten an Gesundheit un Kraft, det wi gar nich begriepen könn’n, wo all de oll’ krützlige Menschen herkamen, de üm uns her lopen; wi denken, so jung un kräftig sin de nich west as wi un so humpelig können wi woll nimmermehr werrn, wie de sin.
-# text = Wy springen eyrst sou lustig rin in det leaven, as wän det ende gaar nich af to reyken weer, wy hebben sou vöäl to to setten an gesundheid un kraft, det wy gaar nich begrypen können, woor al de olde krütslike mensken herkoamen, dee üm uns her loupen; wy denken, sou jung un kräftig syn dee nich west as wy un sou humpelig können wy wol nimmermeyr werden, wo dee syn.
+# text = Wy springen eyrst sou lustig rin in det leaven, as wän det ende gaar nich af to reiken weer, wy hebben sou vöäl to to setten an gesundheid un kraft, det wy gaar nich begrypen können, woor al de olde krütslike mensken herkoamen, dee üm uns her loupen; wy denken, sou jung un kräftig syn dee nich west as wy un sou humpelig können wy wol nimmermeyr werden, wo dee syn.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	springen	springen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
 3	eyrst	eyrst	ADV	_	_	2	advcl	_	_
@@ -22567,7 +22567,7 @@
 
 # sent_id = LSDC_0875_1939_00355_BRA
 # text_orig = Uppen Lanne is det äber nich der Fall, weinigstens datomal dachte keen Mensch dran, det 'ne Veränderung intreden künn un det det Lohn bi düre Tied etwas erhöht werrn müßte; der Mann kreg bi Winterdag söß Sülwergröschen, in de Sommermonaten söß Gröschen Courant un de Frau halv so voel, so was det immer west un't schen ok so to bliwen, best in alle Ewigkeit; äber Inrichtung hörde dato, wenn de paar Gröschen van eene Woche best to de änder uthaun sülln, för Band un Tand was nißt öber, der Gröschen harr dunn noch'n groten Werth.
-# text = Up den lande is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, dat ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrosse, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtige höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
+# text = Up den lande is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, det ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrosse, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtige höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	_
 2	den	de	DET	_	Number=Sing	3	det	_	_
 3	lande	land	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
@@ -22704,7 +22704,7 @@
 21	synen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	_
 22	kane	kane	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
 23	lousmaked	lousmaken	VERB	_	Tense=Past|VerbForm=Part	6	conj	_	_
-24	un	un	ADV	_	_	26	conj	_	_
+24	un	un	ADV	_	_	26	cc	_	_
 25	is	weasen	ADV	_	_	26	aux	_	_
 26	oavervöörd	öävervören	VERB	_	Tense=Past|VerbForm=Part	23	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	6	punct	_	_
@@ -22717,7 +22717,7 @@
 3	wol	willen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	14	ccomp	_	_
 4	blouts	blout	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	der	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	köster	köster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 8	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	ccomp	_	_
 9	mål	mål	ADV	_	_	8	advmod	_	_
@@ -22746,7 +22746,7 @@
 32	up	up	ADP	_	AdpType=Prep	34	case	_	_
 33	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	stråte	stråte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	nmod	_	_
-35	wat	wat	ADV	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	27	advmod	_	_
+35	wat	wat	ADV	_	_	27	advmod	_	_
 36	uut	uut	ADP	_	_	27	compound:prt	_	SpaceAfter=No
 37	!	!	PUNCT	_	_	20	punct	_	_
 
@@ -22784,7 +22784,7 @@
 
 # sent_id = LSDC_0879_1939_00428_BRA
 # text_orig = Dat Dörp Schorstett is vöör Öllers ne Statt west, dårum heett et ook Schorstett, dichte vöört Dörp is ook noch en grooten Wall, dee schiin- bårlich wiist, dattet ene Statt west is.
-# text = Dat dörp Schorstett is vöär ölders ne stad west, dårum heyt et ouk Schortstett, dichte vöär dat dörp is ouk noch en grouten wal, dee skynbårlik wyst, dat et eyne stad west is.
+# text = Dat dörp Schorstett is vöär ölders ne stad west, dårum heyt et ouk Schorstett, dichte vöär dat dörp is ouk noch en grouten wal, dee skynbårlik wyst, dat et eyne stad west is.
 1	Dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	dörp	dorp	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 3	Schorstett	Schorstett	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	appos	_	_
@@ -22799,12 +22799,12 @@
 12	heyt	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	parataxis	_	_
 13	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	ouk	ouk	ADV	_	_	12	advmod	_	_
-15	Schorstett	Schortstett	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
+15	Schorstett	Schorstett	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	xcomp	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	26	punct	_	_
-17	dichte	dichte	ADV	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	advmod	_	_
-18	vöär	vöär	ADP	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	case	_	_
-19	dat	de	DET	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	det	_	_
-20	dörp	dorp	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	26	obl	_	_
+17	dichte	dichte	ADV	_	_	18	advmod	_	_
+18	vöär	vöär	ADP	_	AdpType=Prep	20	case	_	_
+19	dat	de	DET	_	Case=Acc,Dat|Definite=Dat|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
+20	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	26	obl	_	_
 21	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	cop	_	_
 22	ouk	ouk	ADV	_	_	26	advmod	_	_
 23	noch	noch	ADV	_	_	26	advmod	_	_
