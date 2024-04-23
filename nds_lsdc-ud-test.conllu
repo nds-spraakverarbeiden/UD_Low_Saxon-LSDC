@@ -23649,7 +23649,7 @@
 24	an	an	ADP	_	_	25	case	_	lemma_gml=an
 25	to	to	ADV	_	_	18	ccomp	_	lemma_gml=tô
 26	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	cop	_	lemma_gml=wēsen|SpaceAfter=No
-27	.	.	PUNCT	_	_	3	punct	_	_
+27	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = LSDC_0903_1939_02286_NNS
 # text_orig = Hij moakte 't wel eis wat grof, zoodat de boeren 't markten, en doarom nuimden ze hom wel „de spekschijter;“ moar dat kon hom nijt schelen, 't wazzen moar boeren dij 't zeeën, en hij loog der moar op weg.
