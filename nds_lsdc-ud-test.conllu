@@ -23220,6 +23220,46 @@
 16	wachten	wachten	VERB	_	VerbForm=Inf	10	xcomp	_	lemma_gml=wachten
 17	.	.	PUNCT	_	_	10	punct	_	_
 
+# sent_id = LSDC_0912_1939_02295_NNS
+# text_orig = „Vrunnen,“ zee dou de kastelain, „wie binnen der nou allemoal, want ik zij der geint, dij der nijt is, en ie hebben ook allemoal joen gelag veur joe.
+# text = „Vründen,“ sea do de kastelein, „wy binnen der now allemål, want ik see der geynt, dee der neet is, en y hebben ouk allemål juwen gelag vöär juw.
+1	„	„	PUNCT	_	_	2	punct	_	_
+2	Vründen	vründ	NOUN	_	_	5	vocative	_	lemma_gml=vrünt
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	“	“	PUNCT	_	_	2	punct	_	_
+5	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
+6	do	do	ADV	_	_	5	advmod	_	lemma_gml=douwe
+7	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
+8	kastelein	kastelein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma_gml=kastēlinne
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	„	„	PUNCT	_	_	13	punct	_	_
+11	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	lemma_gml=wî
+12	binnen	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	lemma_gml=wēsen
+13	der	dår	ADV	_	_	5	ccomp	_	lemma_gml=dâr
+14	now	nu	ADV	_	_	13	advmod	_	lemma_gml=nû
+15	allemål	allemål	ADV	_	_	13	advmod	_	lemma_gml=almemâl
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	want	want	CCONJ	_	_	19	cc	_	lemma_gml=wan
+18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	lemma_gml=ik
+19	see	see	VERB	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	conj	_	lemma_gml=hê,sê,et
+20	der	dår	ADV	_	_	19	advmod	_	lemma_gml=dâr
+21	geynt	geyn	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	obj	_	lemma_gml=gân
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	24	nsubj	_	lemma_gml=dû
+24	der	dår	ADV	_	_	21	acl:relcl	_	lemma_gml=dâr
+25	neet	nich	PART	_	PartType=Neg	24	advmod	_	lemma_gml=nicht
+26	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	24	cop	_	lemma_gml=wēsen
+27	,	,	PUNCT	_	_	24	punct	_	_
+28	en	un	CCONJ	_	_	30	cc	_	lemma_gml=ende
+29	y	jy	PRON	_	Case=Nom|Number=<UNK>|Person=2|PronType=Prs	30	nsubj	_	lemma_gml=gî
+30	hebben	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	13	conj	_	lemma_gml=hebben
+31	ouk	ouk	ADV	_	_	30	advmod	_	lemma_gml=ôk
+32	allemål	allemål	ADV	_	_	30	advmod	_	lemma_gml=almemâl
+33	juwen	juw	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	34	det	_	lemma_gml=iuwe
+34	gelag	gelag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obj	_	lemma_gml=gelach
+35	vöär	vöär	ADP	_	AdpType=Prep	36	case	_	lemma_gml=vȫr
+36	juw	jy	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	30	obl	_	lemma_gml=gî
+37	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
