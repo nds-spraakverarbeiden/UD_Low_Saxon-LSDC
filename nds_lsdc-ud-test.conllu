@@ -24816,7 +24816,7 @@
 9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 10	lüde	lüde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	lemma_gml=lü̂de
 11	to	to	ADP	_	AdpType=Prep	12	case	_	lemma_gml=tô
-12	öäm	hee	NOUN	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	lemma_gml=ö̂le|SpaceAfter=No
+12	öäm	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	lemma_gml=ö̂le|SpaceAfter=No
 13	,	,	PUNCT	_	_	23	punct	_	_
 14	‘	‘	PUNCT	_	_	23	punct	_	SpaceAfter=No
 15	wän	wän	SCONJ	_	_	20	mark	_	lemma_gml=wan
@@ -24829,7 +24829,7 @@
 22	sou	sou	ADV	_	_	23	advmod	_	lemma_gml=sô
 23	gröte	gröten	VERB	_	Mood=Imp|Number=Sing	8	ccomp	_	lemma_gml=grâs
 24	nich	nich	PART	_	PartType=Neg	23	advmod	_	lemma_gml=nicht
-25	wear	wedder	ADV	_	_	23	compound:prt	_	lemma_gml=wēsen
+25	wear	wedder	ADV	_	_	23	compound:prt	_	lemma_gml=wēsen|SpaceAfter=No
 26	,	,	PUNCT	_	_	33	punct	_	_
 27	wän	wän	SCONJ	_	_	33	mark	_	lemma_gml=wan
 28	dik	du	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	33	iobj	_	lemma_gml=dû
