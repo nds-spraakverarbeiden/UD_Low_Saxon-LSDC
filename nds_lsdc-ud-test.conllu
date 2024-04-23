@@ -22461,7 +22461,7 @@
 39	können	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	38	aux	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	47	punct	_	_
 41	woor	woor	ADV	_	_	47	advmod	_	_
-42	alle	al	PRON	_	Case=Nom|Number=Plur	46	det	_	_
+42	al	al	PRON	_	Case=Nom|Number=Plur	46	det	_	_
 43	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
 44	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	46	amod	_	_
 45	krütslike	krütslik	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	46	amod	_	_
@@ -22567,7 +22567,7 @@
 
 # sent_id = LSDC_0875_1939_00355_BRA
 # text_orig = Uppen Lanne is det äber nich der Fall, weinigstens datomal dachte keen Mensch dran, det 'ne Veränderung intreden künn un det det Lohn bi düre Tied etwas erhöht werrn müßte; der Mann kreg bi Winterdag söß Sülwergröschen, in de Sommermonaten söß Gröschen Courant un de Frau halv so voel, so was det immer west un't schen ok so to bliwen, best in alle Ewigkeit; äber Inrichtung hörde dato, wenn de paar Gröschen van eene Woche best to de änder uthaun sülln, för Band un Tand was nißt öber, der Gröschen harr dunn noch'n groten Werth.
-# text = Up den lande is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, det ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrosse, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtige höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
+# text = Up den lande is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, det ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrossen, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtige höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	_
 2	den	de	DET	_	Number=Sing	3	det	_	_
 3	lande	land	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
@@ -22705,7 +22705,7 @@
 22	kane	kane	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
 23	lousmaked	lousmaken	VERB	_	Tense=Past|VerbForm=Part	6	conj	_	_
 24	un	un	ADV	_	_	26	cc	_	_
-25	is	weasen	ADV	_	_	26	aux	_	_
+25	is	weasen	AUX	_	_	26	aux	_	_
 26	oavervöörd	öävervören	VERB	_	Tense=Past|VerbForm=Part	23	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -22803,7 +22803,7 @@
 16	,	,	PUNCT	_	_	26	punct	_	_
 17	dichte	dichte	ADV	_	_	18	advmod	_	_
 18	vöär	vöär	ADP	_	AdpType=Prep	20	case	_	_
-19	dat	de	DET	_	Case=Acc,Dat|Definite=Dat|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
+19	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
 20	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	26	obl	_	_
 21	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	cop	_	_
 22	ouk	ouk	ADV	_	_	26	advmod	_	_
