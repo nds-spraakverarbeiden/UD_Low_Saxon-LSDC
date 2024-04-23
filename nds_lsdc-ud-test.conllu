@@ -23246,6 +23246,174 @@
 41	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	cop	_	_
 42	.	.	PUNCT	_	_	12	punct	_	_
 
+# sent_id = LSDC_0891_1939_00624_BRA
+# text_orig = ick bin upstünn's ne miehr wärth, dat 'k dien söähn heite.
+# text = ik bin upstünds ne meyr waerd, dat ik dyn söän heyte.
+1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	cop	_	_
+3	upstünds	upstünds	ADV	_	_	6	advmod	_	_
+4	ne	nich	PART	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	5	advmod	_	_
+5	meyr	veale	ADV	_	_	6	advmod	_	_
+6	waerd	waerd	ADJ	_	Mood=Ind|Number=Sing|Tense=Past	0	root	_	_
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	dat	dat	SCONJ	_	_	12	mark	_	_
+9	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
+10	dyn	dyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	_
+11	söän	söäne	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	xcomp	_	_
+12	heyte	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	advcl	_	_
+13	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = LSDC_0892_1939_00654_BRA
+# text_orig = In det kleine Dörp Motzien, wovan ick vertelln will, was det grad ewenso, t'was nich better un nich slechter wie änderwegens un van eintliche Noth was im Allgemeinen nich de Rede; ick hev ok blos seggen wollt, met wo weinig man datomal noch verstund, sick un 'ne Familie dörch de Welt to brengen.
+# text = In det kleyne dörp Motzien, woorvan ik vortellen wil, was det gerade eavensou, et was nich better un nich slechter wo änderweagens un van eygentlike noud was in dem algemeynen nich de reade; ik hev ouk blouts seggen wold, med wo weynig man dotomål noch vorstund, sik un ne familie döärch de werld to brengen.
+1	In	in	ADP	_	AdpType=Prep	4	case	_	_
+2	det	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+3	kleyne	kleyn	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	15	obl	_	_
+5	Motzien	Motzien	PROPN	_	Number=Sing	4	flat	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	woorvan	woorvan	ADV	_	_	9	advmod	_	_
+8	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	vortellen	vortellen	VERB	_	VerbForm=Inf	4	acl	_	_
+10	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	cop	_	_
+13	det	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	gerade	gerade	ADV	_	_	15	advmod	_	_
+15	eavensou	eavensou	ADV	_	_	0	root	_	_
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	et	et	PRON	_	_	20	nsubj	_	_
+18	was	weasen	AUX	_	_	20	cop	_	_
+19	nich	nich	PART	_	PartType=Neg	20	advmod	_	_
+20	better	good	ADJ	_	Degree=Pos	15	conj	_	_
+21	un	un	CCONJ	_	_	23	cc	_	_
+22	nich	nich	PART	_	PartType=Neg	23	advmod	_	_
+23	slechter	slecht	ADJ	_	Degree=Pos	20	conj	_	_
+24	wo	wo	SCONJ	_	_	25	mark	_	_
+25	änderweagens	anderweagens	ADV	_	_	20	advcl	_	_
+26	un	un	CCONJ	_	_	36	cc	_	_
+27	van	van	ADP	_	AdpType=Prep	29	case	_	_
+28	eygentlike	eygentlik	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
+29	noud	noud	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	36	obl	_	_
+30	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	36	cop	_	_
+31	in	in	ADP	_	Case=Nom|Number=Sing|PronType=Prs	33	case	_	_
+32	dem	de	DET	_	Case=Nom|Number=Sing|PronType=Prs	33	det	_	_
+33	algemeynen	algemeyn	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	36	obl	_	_
+34	nich	nich	PART	_	PartType=Neg	36	advmod	_	_
+35	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
+36	reade	reade	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	conj	_	_
+37	;	;	PUNCT	_	_	15	punct	_	_
+38	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	42	nsubj	_	_
+39	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	42	aux	_	_
+40	ouk	ouk	ADV	_	_	42	advmod	_	_
+41	blouts	blout	ADV	_	_	42	advmod	_	_
+42	seggen	seggen	VERB	_	VerbForm=Inf	15	parataxis	_	_
+43	wold	willen	AUX	_	Tense=Past|VerbForm=Part	42	aux	_	_
+44	,	,	PUNCT	_	_	51	punct	_	_
+45	med	mid	ADP	_	AdpType=Prep	47	case	_	_
+46	wo	wo	ADV	_	_	47	obl	_	_
+47	weynig	weynig	PRON	_	Case=Nom|Number=Plur	51	obl	_	_
+48	man	man	PROPN	_	_	51	nsubj	_	_
+49	dotomål	dotomål	ADV	_	_	51	advmod	_	_
+50	noch	noch	ADV	_	_	51	advmod	_	_
+51	vorstund	vorstån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	42	ccomp	_	_
+52	,	,	PUNCT	_	_	61	punct	_	_
+53	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	61	obj	_	_
+54	un	un	CCONJ	_	_	56	cc	_	_
+55	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	56	det	_	_
+56	familie	familie	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	53	conj	_	_
+57	döärch	döär	ADP	_	AdpType=Prep	59	case	_	_
+58	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	59	det	_	_
+59	werld	werld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	61	obl	_	_
+60	to	to	PART	_	PartType=Inf	61	mark	_	_
+61	brengen	bringen	VERB	_	VerbForm=Inf	51	xcomp	_	_
+62	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = LSDC_0893_1939_00664_BRA
+# text_orig = Met der Wiel harr der Köster sine Köh in den Stall brocht, harr sine lange Piepe frisch stoppt un was nu so wiet, det hä künn kieken helpen.
+# text = Med der wyle hadde de köster syne köe in den stal brocht, hadde syne lange pype vrisk stopped un was nu sou wyd, det hee kün kyken helpen.
+1	Med	mid	ADP	_	AdpType=Prep	3	case	_	_
+2	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	wyle	wyle	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	_
+4	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	_
+5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	köster	köster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+7	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
+8	köe	ko	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+9	in	in	ADP	_	AdpType=Prep	11	case	_	_
+10	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	stal	stal	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	_
+12	brocht	bringen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	aux	_	_
+15	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	_
+16	lange	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	_
+17	pype	pype	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	nsubj	_	_
+18	vrisk	vrisk	ADJ	_	Degree=Pos	19	advmod	_	_
+19	stopped	stoppen	VERB	_	Tense=Past|VerbForm=Part	12	conj	_	_
+20	un	un	CCONJ	_	_	24	cc	_	_
+21	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	cop	_	_
+22	nu	nu	ADV	_	_	24	advmod	_	_
+23	sou	sou	ADV	_	_	24	advmod	_	_
+24	wyd	wyd	ADJ	_	Degree=Pos	12	conj	_	_
+25	,	,	PUNCT	_	_	30	punct	_	_
+26	det	dat	SCONJ	_	_	30	mark	_	_
+27	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+28	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	aux	_	_
+29	kyken	kyken	VERB	_	VerbForm=Inf	30	xcomp	_	_
+30	helpen	helpen	VERB	_	VerbForm=Inf	24	advcl	_	_
+31	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = LSDC_0894_1939_00686_BRA
+# text_orig = Eerscht uppet Keese- brett, wo de Eddelfraue eeren Keese drööcht hett, denn upp de Anrichte in de Kööken, denn in de Vorråtskåmer, un måkt alle Spinnen, dee de Fraue immer toschlåten hadde, upp un keek, in alle Töppe.
+# text = Eyrst up det kaesebred, woor de eddelvrouwe earen kaese dröygd het, dän up de anrichte in de köäken, dän in de voarrådskamer, un maakt alle spinden, dee de vrouwe immer tosloaten hadde, up un keyk, in alle döppe.
+1	Eyrst	eyrst	ADV	_	_	4	advmod	_	_
+2	up	up	ADP	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	case	_	_
+3	det	de	DET	_	Number=Sing	4	det	_	_
+4	kaesebred	kaesebred	NOUN	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	woor	woor	ADV	_	_	11	advmod	_	_
+7	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	eddelvrouwe	eadelvrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+9	earen	ear	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	_
+10	kaese	kaese	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+11	dröygd	dröygen	VERB	_	Tense=Past|VerbForm=Part	4	acl	_	_
+12	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	dän	dan	CCONJ	_	_	17	cc	_	_
+15	up	up	ADP	_	_	17	case	_	_
+16	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	anrichte	anrichte	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+18	in	in	ADP	_	AdpType=Prep	20	case	_	_
+19	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	köäken	köäken	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	nmod	_	_
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	dän	dan	CCONJ	_	_	25	advmod	_	_
+23	in	in	ADP	_	AdpType=Prep	25	case	_	_
+24	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	voarrådskamer	vöärrådskamer	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	4	conj	_	_
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	un	un	CCONJ	_	_	28	cc	_	_
+28	maakt	maken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	_
+29	alle	al	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	30	det	_	_
+30	spinden	spind	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	28	obj	_	_
+31	,	,	PUNCT	_	_	36	punct	_	_
+32	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	36	obj	_	_
+33	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	vrouwe	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	nsubj	_	_
+35	immer	immer	ADV	_	_	36	advmod	_	_
+36	tosloaten	tosluten	VERB	_	Tense=Past|VerbForm=Part	30	acl	_	_
+37	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	36	aux	_	_
+38	,	,	PUNCT	_	_	36	punct	_	_
+39	up	up	ADV	_	_	28	compound:prt	_	_
+40	un	un	CCONJ	_	_	41	cc	_	_
+41	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	conj	_	_
+42	,	,	PUNCT	_	_	45	punct	_	_
+43	in	in	ADP	_	AdpType=Prep	45	case	_	_
+44	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	45	det	_	_
+45	döppe	dop	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	41	obl	_	_
+46	.	.	PUNCT	_	_	4	punct	_	_
+
 
 # sent_id = LSDC_0898_1939_02281_NNS
 # text_orig = Noast hom luipen Jurrien Schoffels en mien Oomke, d'olle viterjoane.
