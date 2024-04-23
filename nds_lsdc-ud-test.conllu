@@ -23792,7 +23792,7 @@
 26	of	of	SCONJ	_	_	29	mark	_	lemma_gml=of
 27	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	lemma_gml=hê,sê,et
 28	neet	nich	PART	_	PartType=Neg	29	advmod	_	lemma_gml=nicht
-29	midkomen	midkoamen	VERB	_	VerbForm=Inf	24	advcl	_	lemma_gml=mitkōmen
+29	midkoamen	midkoamen	VERB	_	VerbForm=Inf	24	advcl	_	lemma_gml=mitkōmen
 30	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	29	aux	_	lemma_gml=künnen|SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -23842,7 +23842,7 @@
 
 # sent_id = LSDC_0910_1939_02293_NNS
 # text_orig = Moar dat was nou weer veulste klain oetvallen, en om 't nou heilendal ien 't geliek te brengen, gaf ze hom der 'n' bochel bie ; dou was't gewicht er toch.
-# text = Mår dat was now wear vöäls te kleyn uutvallen, en um et now heylendal yn et gelyk te brengen, hav see hum der en buggel by; dow was et gewicht der toch.
+# text = Mår dat was now wear vöäls te kleyn uutvallen, en um et now heylendal yn et gelyk te brengen, gav see hum der en buggel by; dow was et gewicht der toch.
 1	Mår	mår	CCONJ	_	_	9	cc	_	lemma_gml=mêr
 2	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=dê,dê,dat
 3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	aux	_	lemma_gml=wēsen
