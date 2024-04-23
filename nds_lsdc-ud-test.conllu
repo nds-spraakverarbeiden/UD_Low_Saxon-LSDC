@@ -22621,7 +22621,7 @@
 51	vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	37	conj	_	_
 52	halv	halv	ADJ	_	Degree=Pos	54	advmod	_	_
 53	sou	sou	ADV	_	_	54	advmod	_	_
-54	vöäl	veale	ADJ	_	Degree=Pos	51	orphan	_	SpaceAfter=No
+54	vöäle	veale	ADJ	_	Degree=Pos	51	orphan	_	SpaceAfter=No
 55	,	,	PUNCT	_	_	56	punct	_	_
 56	sou	sou	ADV	_	_	37	parataxis	_	_
 57	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	56	aux	_	_
