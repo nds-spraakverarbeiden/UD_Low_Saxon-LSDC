@@ -22419,7 +22419,7 @@
 
 # sent_id = LSDC_0871_1939_00314_BRA
 # text_orig = Wi springen irst so lustig rin in’t Lewen, as wenn’t Enne gar nich aftoreiken wir, wi hebben so voel totosetten an Gesundheit un Kraft, det wi gar nich begriepen könn’n, wo all de oll’ krützlige Menschen herkamen, de üm uns her lopen; wi denken, so jung un kräftig sin de nich west as wi un so humpelig können wi woll nimmermehr werrn, wie de sin.
-# text = Wy springen eyrst sou lustig rin in dat leaven, as wän det ende gaar nich af to reyken weer, wy hebben sou vöäl to to setten an gesundheid un kraft, det wy gaar nich begrypen können, woor al de olde krütslike mensken herkoamen, dee üm uns her loupen; wy denken, sou jung un kräftig syn dee nich west as wy un sou humpelig können wy wol nimmermeyr werden, wo dee syn.
+# text = Wy springen eyrst sou lustig rin in det leaven, as wän det ende gaar nich af to reyken weer, wy hebben sou vöäl to to setten an gesundheid un kraft, det wy gaar nich begrypen können, woor al de olde krütslike mensken herkoamen, dee üm uns her loupen; wy denken, sou jung un kräftig syn dee nich west as wy un sou humpelig können wy wol nimmermeyr werden, wo dee syn.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	springen	springen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
 3	eyrst	eyrst	ADV	_	_	2	advcl	_	_
@@ -22436,8 +22436,8 @@
 14	ende	ende	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	nsubj	_	_
 15	gaar	gaarn	ADV	_	_	16	advmod	_	_
 16	nich	nich	PART	_	PartType=Neg	19	advmod	_	_
-17	af	af	ADP	_	VerbForm=Inf	19	compound:prt	_	_
-18	to	to	PART	_	VerbForm=Inf	19	mark	_	_
+17	af	af	ADP	_	_	19	compound:prt	_	_
+18	to	to	PART	_	PartType=Inf	19	mark	_	_
 19	reiken	reiken	VERB	_	VerbForm=Inf	2	advcl	_	_
 20	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	cop	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	_
@@ -22445,8 +22445,8 @@
 23	hebben	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	2	parataxis	_	_
 24	sou	sou	ADV	_	_	25	advmod	_	_
 25	vöäl	veale	ADJ	_	Degree=Pos	23	obj	_	_
-26	to	to	ADP	_	VerbForm=Inf	28	compound:prt	_	_
-27	to	to	PART	_	VerbForm=Inf	28	mark	_	_
+26	to	to	ADP	_	_	28	compound:prt	_	_
+27	to	to	PART	_	PartType=Inf	28	mark	_	_
 28	setten	setten	VERB	_	VerbForm=Inf	23	xcomp	_	_
 29	an	an	ADP	_	AdpType=Prep	30	case	_	_
 30	gesundheid	gesundheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	obl	_	_
@@ -22505,12 +22505,12 @@
 # text_orig = „Na een Düüwel hetten ängern aarfüürt", sett de Schwarte, denn den Fischer siin Nåme was Düüwel.
 # text = „Na eyn düvel het den änderen oavervöörd“, segt de swarte, dän den visker syn name was düvel.
 1	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No
-2	Na	na	INTJ	_	AdpType=Prep	8	discourse	_	_
+2	Na	na	INTJ	_	_	8	discourse	_	_
 3	eyn	eyn	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	düvel	düvel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	8	nsubj	_	_
 5	het	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	aux	_	_
-6	den	de	DET	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	det	_	_
-7	änderen	ander	ADJ	_	_	8	obj	_	_
+6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	änderen	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	_
 8	oavervöörd	öävervören	VERB	_	Tense=Past|VerbForm=Part	11	ccomp	_	SpaceAfter=No
 9	“	“	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
@@ -22533,10 +22533,10 @@
 1	Dun	dun	ADV	_	_	2	advmod	_	_
 2	rödelt	rödelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	med	mid	ADP	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	case	_	_
-5	alle	al	PRON	_	Case=Acc|Number=Plur|PronType=Tot	7	det	_	_
-6	syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
-7	kraft	kraft	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
+4	med	mid	ADP	_	AdpType=Prep	7	case	_	_
+5	alle	al	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
+6	syne	syn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
+7	kraft	kraft	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	_
 8	un	un	ADV	_	_	9	cc	_	_
 9	brengt	bringen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
 10	ouk	ouk	ADV	_	_	9	advmod	_	_
@@ -22567,8 +22567,8 @@
 
 # sent_id = LSDC_0875_1939_00355_BRA
 # text_orig = Uppen Lanne is det äber nich der Fall, weinigstens datomal dachte keen Mensch dran, det 'ne Veränderung intreden künn un det det Lohn bi düre Tied etwas erhöht werrn müßte; der Mann kreg bi Winterdag söß Sülwergröschen, in de Sommermonaten söß Gröschen Courant un de Frau halv so voel, so was det immer west un't schen ok so to bliwen, best in alle Ewigkeit; äber Inrichtung hörde dato, wenn de paar Gröschen van eene Woche best to de änder uthaun sülln, för Band un Tand was nißt öber, der Gröschen harr dunn noch'n groten Werth.
-# text = Up den landen is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, dat ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrosse, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtige höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
-1	Up	up	ADP	_	Number=Sing	3	case	_	_
+# text = Up den lande is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, dat ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrosse, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtige höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
+1	Up	up	ADP	_	AdpType=Prep	3	case	_	_
 2	den	de	DET	_	Number=Sing	3	det	_	_
 3	lande	land	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	_
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
@@ -22673,7 +22673,7 @@
 103	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	76	parataxis	_	_
 104	dun	dun	ADV	_	_	103	advmod	_	_
 105	noch	noch	ADP	_	AdpType=Prep	103	advmod	_	_
-106	en	en	DET	_	AdpType=Prep	108	det	_	_
+106	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	108	det	_	_
 107	grouten	grout	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	108	amod	_	_
 108	waerd	waerd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	103	obj	_	SpaceAfter=No
 109	.	.	PUNCT	_	_	9	punct	_	_
@@ -22682,11 +22682,11 @@
 # text_orig = åver dee uppen Röverbarch sett wiier nist as: „Hål man aar", unn då hett hee siinen Kån losmåkt unn is aarfüürt.
 # text = aver dee up den röyverbarg segt wyder nist as: „Haal man oaver“, un do het hee synen kane lousmaked un is oavervöörd.
 1	aver	aver	CCONJ	_	_	6	cc	_	_
-2	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	6	nsubj	_	_
-3	up	up	ADP	_	Number=Sing	5	case	_	_
-4	den	de	DET	_	Number=Sing	5	det	_	_
-5	röyverbarg	röyverberg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	_
-6	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+2	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	_
+3	up	up	ADP	_	AdpType=Prep	5	case	_	_
+4	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	röyverbarg	röyverberg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	nmod	_	_
+6	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	wyder	wyder	ADV	_	_	6	advmod	_	_
 8	nist	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	6	obj	_	_
 9	as	as	CCONJ	_	_	8	cc	_	SpaceAfter=No
