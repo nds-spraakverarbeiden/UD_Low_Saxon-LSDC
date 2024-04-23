@@ -22910,6 +22910,125 @@
 45	syn	weasen	AUX	_	VerbForm=Inf	43	aux	_	_
 46	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0884_1939_00511_BRA
+# text_orig = Ick bin jo nu ok in de Jahre, wo ick van mi seggen mütt, det der Herwst vör de Döhre is un as ick hüt dörch de Felder ging, da meind’ ick fast, de Jahrestied paßte so recht to min Older; äber in mi wiren keene Herwstgedanken, mine fröhste Jugendtied trat wedder vör mine Seele, all’ de enzeln Halme nehmen Gestalt un Lewen an un wenn se der Wind bögte, denn kam’t mi vör, as wiren’t luter oll leewe Bekannte, de wie’n Schattenspöll bi mi vöröber Treckten.
+# text = Ik bin jo nu ouk in de jåre, woor ik van my seggen müt, det de hervst vöär de döäre is un as ik hüde döärch de velder ging, do meynde ik vast, de jårstyd pasde sou recht to myn older; äver in my weren keyne hervstgedanken, myne vrööste jöägdtyd trad wedder vöär myne seye, alle de eynselen halme naemen gestalt un leaven an un wän see de wind böygde, dän kam et my vöär, as weren et luter olde leve bekande, dee wo en skaddenspöl by my vöäröäver trekkeden.
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	cop	_	_
+3	jo	jo	ADV	_	_	8	advmod	_	_
+4	nu	nu	ADV	_	_	8	advmod	_	_
+5	ouk	ouk	ADV	_	_	8	advmod	_	_
+6	in	in	ADP	_	AdpType=Prep	8	case	_	_
+7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	jåre	jår	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	0	root	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	woor	woor	ADV	_	_	14	advmod	_	_
+11	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+12	van	van	ADP	_	AdpType=Prep	13	case	_	_
+13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	14	obl	_	_
+14	seggen	seggen	VERB	_	VerbForm=Inf	8	acl	_	_
+15	müt	möten	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	14	aux	_	_
+16	,	,	PUNCT	_	_	14	punct	_	_
+17	det	dat	SCONJ	_	_	22	mark	_	_
+18	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	hervst	hervst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+20	vöär	vöär	ADP	_	AdpType=Prep	22	case	_	_
+21	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	döäre	döäre	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	ccomp	_	_
+23	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	cop	_	_
+24	un	un	CCONJ	_	_	34	cc	_	_
+25	as	as	SCONJ	_	_	31	mark	_	_
+26	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
+27	hüde	hüde	ADV	_	_	31	advmod	_	_
+28	döärch	döär	ADP	_	AdpType=Prep	30	case	_	_
+29	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
+30	velder	veld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	_
+31	ging	gån	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	34	advcl	_	_
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	do	do	ADV	_	_	34	advmod	_	_
+34	meynde	meynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	_
+35	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	_
+36	vast	vast	ADV	_	_	34	advmod	_	_
+37	,	,	PUNCT	_	_	40	punct	_	_
+38	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	jårstyd	jårstyd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
+40	pasde	passen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	34	ccomp	_	_
+41	sou	sou	ADV	_	_	42	advmod	_	_
+42	recht	recht	ADJ	_	Degree=Pos	40	advmod	_	_
+43	to	to	ADP	_	AdpType=Prep	45	case	_	_
+44	myn	myn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	45	det	_	_
+45	older	ölder	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	40	obl	_	_
+46	;	;	PUNCT	_	_	34	punct	_	_
+47	äver	aver	CCONJ	_	_	49	cc	_	_
+48	in	in	ADP	_	AdpType=Prep	49	case	_	_
+49	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	34	conj	_	_
+50	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	49	cop	_	_
+51	keyne	keyn	DET	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	52	det	_	_
+52	hervstgedanken	hervstgedanke	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	49	nsubj	_	_
+53	,	,	PUNCT	_	_	57	punct	_	_
+54	myne	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	56	det	_	_
+55	vrööste	vrö	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	56	amod	_	_
+56	jöägdtyd	jöägdtyd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	57	nsubj	_	_
+57	trad	treaden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	49	parataxis	_	_
+58	wedder	wedder	ADV	_	_	57	advmod	_	_
+59	vöär	vöär	ADP	_	AdpType=Prep	61	case	_	_
+60	myne	myn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	61	det	_	_
+61	seyle	seyle	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	57	obl	_	_
+62	,	,	PUNCT	_	_	68	punct	_	_
+63	alle	al	CCONJ	_	_	66	cc	_	_
+64	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	65	det	_	_
+65	eynselen	eynsel	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	66	amod	_	_
+66	halme	halm	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	67	amod	_	_
+67	naemen	neamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	57	conj	_	_
+68	gestalt	gestalt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	67	advcl	_	_
+69	un	un	CCONJ	_	_	70	cc	_	_
+70	leaven	leaven	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	68	conj	_	_
+71	an	an	ADP	_	_	67	compound:prt	_	_
+72	un	un	CCONJ	_	_	80	cc	_	_
+73	wän	wän	SCONJ	_	_	77	mark	_	_
+74	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	77	obj	_	_
+75	de	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	76	det	_	_
+76	wind	wind	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	77	nsubj	_	_
+77	böygde	böygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	80	parataxis	_	_
+78	,	,	PUNCT	_	_	77	punct	_	_
+79	dän	dan	ADV	_	_	80	advmod	_	_
+80	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	67	parataxis	_	_
+81	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	80	nsubj	_	_
+82	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	80	obl	_	_
+83	vöär	vöär	ADP	_	_	80	compound	_	_
+84	,	,	PUNCT	_	_	91	punct	_	_
+85	as	as	CCONJ	_	_	91	mark	_	_
+86	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	91	cop	_	_
+87	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	91	nsubj	_	_
+88	luter	luter	ADJ	_	_	89	advmod	_	_
+89	olde	old	ADJ	_	_	90	amod	_	_
+90	leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	91	nsubj	_	_
+91	bekande	bekend	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	80	advcl	_	_
+92	,	,	PUNCT	_	_	100	punct	_	_
+93	dee	dee	PRON	_	Case=Nom|Number=Sing|PronType=Rel	100	nsubj	_	_
+94	wo	wo	ADP	_	AdpType=Prep	96	case	_	_
+95	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	96	det	_	_
+96	skaddenspöl	skaddenspel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	100	obl	_	_
+97	by	by	ADP	_	AdpType=Prep	98	case	_	_
+98	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	100	obl	_	_
+99	vöäröäver	vöäröäver	ADV	_	_	98	advmod	_	_
+100	trekkeden	trekken	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	91	acl	_	_
+101	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = LSDC_0885_1939_00538_BRA
+# text_orig = giw mi dat dheel güö'r, dat mi 'hürt.
+# text = giv my dat deyl göder, dat my höyrt.
+1	giv	geaven	VERB	_	Mood=Imp|Number=Sing	0	root	_	_
+2	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	deyl	deyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	obj	_	_
+5	göder	good	NOUN	_	Gender=Neut|Number=Plur	4	nmod	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	_
+8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl:relcl	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
+
 
 # sent_id = LSDC_0898_1939_02281_NNS
 # text_orig = Noast hom luipen Jurrien Schoffels en mien Oomke, d'olle viterjoane.
