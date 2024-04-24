@@ -25323,6 +25323,63 @@
 23	vorsette	vorsetten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl	_	lemma_gml=vȫrsetten
 24	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = LSDC_0955_1939_08638_OFL
+# text_orig = Ja, dat hedde ek ook Oorsake, du grove Gesell!
+# text = Jå, dat hädde ek ouk oorsake, du groave geselle!
+1	Jå	jå	INTJ	_	_	4	discourse	_	lemma_gml=jâ
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	4	obl	_	lemma_gml=dê,dê,dat
+4	hädde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=hebben
+5	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=ik
+6	ouk	ouk	ADV	_	_	4	advmod	_	lemma_gml=ôk
+7	oorsake	oorsake	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	lemma_gml=ōrsāke
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	vocative	_	lemma_gml=dû
+10	groave	grov	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	lemma_gml=grof
+11	geselle	geselle	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	appos	_	lemma_gml=geselle
+12	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = LSDC_0956_1939_08639_OFL
+# text_orig = Solst du dynen Seelenhirten ook wol vor eenen Heu-Ossen anseen?
+# text = Solst du dynen seylenhaerden ouk wol voar eynen hoiossen anseen?
+1	Solst	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	10	aux	_	lemma_gml=schȫlen
+2	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	lemma_gml=dû
+3	dynen	dyn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=dîn
+4	seylenhaerden	seylenhaerde	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	lemma_gml=sêlenhêrte
+5	ouk	ouk	ADV	_	_	10	advmod	_	lemma_gml=ôk
+6	wol	wol	ADV	_	_	10	advmod	_	lemma_gml=wol
+7	voar	vöär	ADP	_	AdpType=Prep	9	case	_	lemma_gml=vȫr
+8	eynen	en	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
+9	hoiossen	hoiosse	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=hēvessene
+10	anseen	anseen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=ansên
+11	?	?	PUNCT	_	_	10	punct	_	lemma_gml=?
+
+# sent_id = LSDC_0957_1939_08640_OFL
+# text_orig = Daby sühst du eben, wo unentberlikke Lüde Lerer un Preddiger sünt, üm de Woorde recht uttoleggen.
+# text = Dårby süüst du eaven, wo unentbearlike lüde leyrer un preddiger sünt, üm de woorde recht uut to leggen.
+1	Dårby	dårby	ADV	_	_	2	advmod	_	lemma_gml=dârbî
+2	süüst	seen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=sên
+3	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=dû
+4	eaven	eaven	ADV	_	_	2	advmod	_	lemma_gml=ēvene
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	wo	wo	ADV	_	_	7	advmod	_	lemma_gml=wô
+7	unentbearlike	unentbearlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	lemma_gml=unentbērlĩk
+8	lüde	lüde	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	lemma_gml=lü̂de
+9	leyrer	leyrer	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	lemma_gml=lêrer
+10	un	un	CCONJ	_	_	11	cc	_	lemma_gml=unde
+11	preddiger	prediger	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	lemma_gml=prēdiker
+12	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	cop	_	lemma_gml=wēsen
+13	,	,	PUNCT	_	_	8	punct	_	_
+14	üm	üm	SCONJ	_	AdpType=Prep	20	mark	_	lemma_gml=ümme
+15	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
+16	woorde	woord	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	lemma_gml=wōrt
+17	recht	recht	ADJ	_	Degree=Pos	20	advmod	_	lemma_gml=recht
+18	uut	uut	ADP	_	_	20	compound:prt	_	lemma_gml=ût
+19	to	to	PART	_	_	20	mark	_	lemma_gml=tô
+20	leggen	leggen	VERB	_	Tense=Past|VerbForm=Part	8	advcl	_	lemma_gml=leggen
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
 # text = Möchel Krus’ uut Tharau vortelt:
