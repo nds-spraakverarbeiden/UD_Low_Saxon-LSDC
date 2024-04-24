@@ -25081,7 +25081,7 @@
 26	gebruuk	gebruuk	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	9	ccomp	_	lemma_gml=gebrûk
 27	weasen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	26	cop	_	lemma_gml=wēsen|SpaceAfter=No
 28	,	,	PUNCT	_	_	26	punct	_	_
-29	seylig	seylig	ADJ	_	Degree=Pos	31	amod	_	lemma_gml=sâlich
+29	seylig	seylig	ADJ	_	Degree=Pos	30	advmod	_	lemma_gml=sâlich
 30	vorstorvenen	vorstorven	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	31	amod	_	lemma_gml=vorstorven
 31	personen	persone	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	41	iobj	_	lemma_gml=persône
 32	eyne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	lemma_gml=êin,êine,êin
@@ -25091,7 +25091,7 @@
 36	oader	edder	CCONJ	_	_	39	cc	_	lemma_gml=ōder
 37	weynigstens	weynig	ADV	_	_	39	advmod	_	lemma_gml=weinichan
 38	eyne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	39	det	_	lemma_gml=êin,êine,êin
-39	standreade	standreade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	41	obj	_	lemma_gml=standerêt
+39	standreade	standreade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	34	conj	_	lemma_gml=standerêt
 40	to	to	PART	_	PartType=Inf	41	mark	_	lemma_gml=tô
 41	holden	holden	VERB	_	VerbForm=Inf	26	advcl	_	lemma_gml=hōlden|SpaceAfter=No
 42	,	,	PUNCT	_	_	41	punct	_	_
@@ -25104,11 +25104,11 @@
 49	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê,dê,dat
 50	leven	leev	ADJ	_	Case=Acc,Dat|Gender=Neut|Number=Sing	51	obl:arg	_	lemma_gml=lēvent
 51	profeten	profete	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	57	iobj	_	lemma_gml=profête
-52	as	as	CCONJ	_	_	54	cc	_	lemma_gml=alsô
+52	as	as	ADP	_	_	54	case	_	lemma_gml=alsô
 53	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	54	det	_	lemma_gml=êin,êine,êin
-54	pars	pars	X	_	Foreign=Yes	57	amod	_	lemma_gml=--
+54	pars	pars	X	_	Foreign=Yes	57	obl	_	lemma_gml=--
 55	salarii	salarii	X	_	Foreign=Yes	54	conj	_	lemma_gml=salarii
-56	med	mid	ADP	_	_	57	case	_	lemma_gml=mit
+56	med	mid	ADV	_	_	57	advmod	_	lemma_gml=mit
 57	angereakend	anreakenen	VERB	_	Tense=Past|VerbForm=Part	26	conj	_	lemma_gml=anreknen
 58	worden	werden	AUX	_	Mood=Ind	57	aux:pass	_	lemma_gml=wērden|SpaceAfter=No
 59	,	,	PUNCT	_	_	64	punct	_	_
@@ -25137,7 +25137,7 @@
 82	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	86	aux	_	lemma_gml=willen
 83	man	men	ADV	_	_	86	advmod	_	lemma_gml=men
 84	sou	sou	ADV	_	_	85	advmod	_	lemma_gml=sô
-85	veal	veale	ADJ	_	Degree=Pos	86	advmod	_	lemma_gml=vēle
+85	veal	veale	ADJ	_	Degree=Pos	86	obj	_	lemma_gml=vēle
 86	seggen	seggen	VERB	_	VerbForm=Inf	6	conj	_	lemma_gml=seggen|SpaceAfter=No
 87	:	:	PUNCT	_	_	86	punct	_	_
 88	as	as	SCONJ	_	_	137	mark	_	lemma_gml=alsô
@@ -25171,7 +25171,7 @@
 116	un	un	CCONJ	_	_	121	cc	_	lemma_gml=unde
 117	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	118	det	_	lemma_gml=êin,êine,êin
 118	slüksken	slüksken	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	121	nsubj	_	lemma_gml=slücke
-119	kümmel-akwavit	kömmel-akwavit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	118	nsubj	_	lemma_gml=kommelâkvāven
+119	kümmel-akwavit	kömmel-akwavit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	118	nmod	_	lemma_gml=kommelâkvāven
 120	dårup	dårup	ADV	_	_	121	advmod	_	lemma_gml=dâruppe
 121	setten	setten	VERB	_	VerbForm=Inf	101	conj	_	lemma_gml=setten
 122	wolde	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	121	aux	_	lemma_gml=willen|SpaceAfter=No
