@@ -25669,7 +25669,7 @@
 11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	lemma_gml=wēsen
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
-14	hertog	hertog	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	lemma_gml=hē̆rtoch
+14	hertog	hertog	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma_gml=hē̆rtoch
 15	Georg	Georg	PROPN	_	Number=Sing	14	appos	_	lemma_gml=georg
 16	Wilhelm	Wilhelm	PROPN	_	Number=Sing	15	flat	_	lemma_gml=wilhelm
 17	.	.	PUNCT	_	_	4	punct	_	_
