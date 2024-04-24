@@ -25169,7 +25169,7 @@
 114	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	113	aux	_	lemma_gml=hebben|SpaceAfter=No
 115	,	,	PUNCT	_	_	121	punct	_	_
 116	un	un	CCONJ	_	_	121	cc	_	lemma_gml=unde
-117	eyn	eyn	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	118	det	_	lemma_gml=êin,êine,êin
+117	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	118	det	_	lemma_gml=êin,êine,êin
 118	slüksken	slüksken	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	121	nsubj	_	lemma_gml=slücke
 119	kümmel-akwavit	kömmel-akwavit	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	118	nsubj	_	lemma_gml=kommelâkvāven
 120	dårup	dårup	ADV	_	_	121	advmod	_	lemma_gml=dâruppe
