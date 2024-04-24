@@ -25574,6 +25574,115 @@
 75	!	!	PUNCT	_	_	71	punct	_	_
 76	’	’	PUNCT	_	_	64	punct	_	lemma_gml=’
 
+# sent_id = LSDC_0960_1939_08644_OFL
+# text_orig = De Dood let sek ook dorch Soldaten, dorch Hellebarden un Flinten nich afschrekken; nee! saune ole Hore is he nich!
+# text = De doud let sek ouk doarch soldåten, doarch hellebaarden un flinten nich afskrekken; ney! sou ne olde hore is hee nich!
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=dôt
+3	let	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=lâten
+4	sek	sik	PRON	_	_	3	obj	_	lemma_gml=sik
+5	ouk	ouk	ADV	_	_	3	advmod	_	lemma_gml=ôk
+6	doarch	döär	ADP	_	AdpType=Prep	7	case	_	lemma_gml=dȫr
+7	soldåten	soldåt	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	3	obl	_	lemma_gml=soldât
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	doarch	döär	ADP	_	AdpType=Prep	10	case	_	lemma_gml=dȫr
+10	hellebaarden	hellebaarde	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=hellebārde
+11	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
+12	flinten	flinte	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	lemma_gml=vlint
+13	nich	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
+14	afskrekken	afskrekken	VERB	_	VerbForm=Inf	3	xcomp	_	lemma_gml=afschrekken
+15	;	;	PUNCT	_	_	3	punct	_	_
+16	ney	ney	INTJ	_	_	21	discourse	_	lemma_gml=nêin
+17	!	!	PUNCT	_	_	16	punct	_	_
+18	sou	sou	ADV	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	19	advmod	_	lemma_gml=sô
+19	ne	en	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	21	det	_	lemma_gml=êin,êine,êin
+20	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	lemma_gml=ōlt
+21	hore	hore	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	parataxis	_	lemma_gml=hôre
+22	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	21	cop	_	lemma_gml=wēsen
+23	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=hê,sê,et
+24	nich	nich	PART	_	PartType=Neg	21	advmod	_	lemma_gml=nicht
+25	!	!	PUNCT	_	_	21	punct	_	_
+
+# sent_id = LSDC_0961_1939_08646_OFL
+# text_orig = Up dem Slotte to Hannover is immer eene starke Wache, averst se het öhn doch nich afholen kunnt, dat he nich in de förstlikken Gemakke henin drungen un nich alleen alle förstlikken Kinner un Gemalinnen, sündern ook den Landesheren sülvest overwäldiget het.
+# text = Up dem slotte to hannover is immer eyne starke wake, avers see het öän doch nich afholden kund, dat hee nich in de vörstliken gemakke henin drungen un nich alleyn alle vörstliken kinder un gemålinnen, sünderen ouk den landesheyren sülvest oaverwäldigd het.
+1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
+2	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+3	slotte	slot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=slotte
+4	to	to	ADP	_	AdpType=Prep	5	case	_	lemma_gml=tô
+5	Hannover	Hannover	PROPN	_	Number=Sing	3	nmod	_	lemma_gml=hannover
+6	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	cop	_	lemma_gml=wēsen
+7	immer	immer	ADV	_	_	10	advmod	_	lemma_gml=iemmer
+8	eyne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
+9	starke	stark	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	lemma_gml=stark
+10	wake	wake	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	lemma_gml=wache
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	averst	aver	CCONJ	_	_	18	mark	_	lemma_gml=āvers
+13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
+14	het	hebben	AUX	_	Number=Sing	18	aux	_	lemma_gml=hê,sê,et
+15	öän	hee	PRON	_	Number=Sing	18	obj	_	lemma_gml=hê,sê,et
+16	doch	doch	ADV	_	_	18	advmod	_	lemma_gml=doch
+17	nich	nich	PART	_	PartType=Neg	18	advmod	_	lemma_gml=nicht
+18	afholden	afholden	VERB	_	VerbForm=Inf	10	conj	_	lemma_gml=afhōlen
+19	kund	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	lemma_gml=künnen
+20	,	,	PUNCT	_	_	29	punct	_	_
+21	dat	dat	SCONJ	_	_	29	mark	_	lemma_gml=dat
+22	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	lemma_gml=hê,sê,et
+23	nich	nich	PART	_	PartType=Neg	29	advmod	_	lemma_gml=nicht
+24	in	in	ADP	_	AdpType=Prep	27	case	_	lemma_gml=in
+25	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
+26	vörstliken	vörstlik	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	27	amod	_	lemma_gml=vörstlĩk
+27	gemakke	gemak	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	lemma_gml=gemakke
+28	henin	hein	ADV	_	_	29	advmod	_	lemma_gml=henîn
+29	drungen	dringen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	advcl	_	lemma_gml=dringen
+30	un	un	CCONJ	_	_	44	cc	_	lemma_gml=unde
+31	nich	nich	PART	_	PartType=Neg	44	advmod	_	lemma_gml=nicht
+32	alleyn	alleyne	ADV	_	_	35	advmod	_	lemma_gml=allêine
+33	alle	al	DET	_	Case=Nom|Number=Plur|PronType=Tot	35	det	_	lemma_gml=al
+34	vörstliken	vörstlik	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	35	amod	_	lemma_gml=vörstlĩk
+35	kinder	kind	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	44	obj	_	lemma_gml=kint
+36	un	un	CCONJ	_	_	37	cc	_	lemma_gml=unde
+37	gemålinnen	gemålinne	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	35	conj	_	lemma_gml=gemâlinne
+38	,	,	PUNCT	_	_	42	punct	_	_
+39	sünderen	sünder	CCONJ	_	_	42	advmod	_	lemma_gml=sünder
+40	ouk	ouk	ADV	_	_	42	advmod	_	lemma_gml=ôk
+41	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
+42	landesheyren	landesheyre	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	conj	_	lemma_gml=landeshêre
+43	sülvest	sülve	ADV	_	_	42	advmod	_	lemma_gml=sülve
+44	oaverwäldigd	öäverweldigen	VERB	_	Tense=Past|VerbForm=Part	29	conj	_	lemma_gml=ȫverwēlden
+45	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	44	aux	_	lemma_gml=hebben
+46	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = LSDC_0962_1939_08647_OFL
+# text_orig = Up düssem Slotte wonede, as ek noch en Schöler was, de Hertog Georg Wilhelm.
+# text = Up düssem slotte woande, as ek noch en sköler was, de hertog Georg Wilhelm.
+1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
+2	düssem	düsse	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	lemma_gml=desse,desse,dit
+3	slotte	slot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=slotte
+4	woande	woanen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wōnen
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	as	as	SCONJ	_	_	10	mark	_	lemma_gml=alsô
+7	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
+8	noch	noch	ADV	_	_	10	advmod	_	lemma_gml=noch
+9	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
+10	sköler	sköler	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	advcl	_	lemma_gml=schö̂ler
+11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	lemma_gml=wēsen
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+14	hertog	hertog	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	parataxis	_	lemma_gml=hē̆rtoch
+15	Georg	Georg	PROPN	_	Number=Sing	14	appos	_	lemma_gml=georg
+16	Wilhelm	Wilhelm	PROPN	_	Number=Sing	15	flat	_	lemma_gml=wilhelm
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = LSDC_0963_1939_08648_OFL
+# text_orig = Averst wo is he bleven?
+# text = Avers woor is hee bleaven?
+1	Averst	aver	CCONJ	_	_	5	cc	_	lemma_gml=āvers
+2	woor	woor	ADV	_	_	5	advmod	_	lemma_gml=wôre
+3	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma_gml=wēsen
+4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et
+5	bleaven	blyven	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=blîven
+6	?	?	PUNCT	_	_	5	punct	_	lemma_gml=?
 
 # sent_id = LSDC_0967_NPR_1893_EYL_de-mella-polz
 # text_orig = Möchel Krus’ ut Tharau vateld:
