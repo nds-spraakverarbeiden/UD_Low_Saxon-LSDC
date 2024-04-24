@@ -25052,7 +25052,7 @@
 
 # sent_id = LSDC_0949_1939_08633_OFL
 # text_orig = Ek will my nich wydlöftig inlaten, to ünnersöken, un ut düssen Woorden to bewysen trachten, dat et schon to Esaias Tyden in Gebruuk wesen, selig verstorvenen Personen eene kristlikke Lykenpreddigt, oder weinigstens eene Standrede to holen, un dat dat vellicht schon damals dem leven Profeten as en pars salarii met angeräknet worden, da jy anedem sacht denken könnt, dat ek van unsen sel. Schaulmester vör düsse Moie niks neemen were, sondern ek will man sau veel seggen: as ek am vörrigen Frydage, da ek noch am Dische sat, un eben myn betken Stokkfisch mit grönen Arften to Lyve brocht hadde, un een Slüksken Kümmel-Aquavit darup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste Dochter Anntrynken togelopen kam, un ut vullem Halse reip: Papa, de Schaulmester is dood!
-# text = Ek wil my nich wydlöftig inlåten, to ündersöken, un uut düssen woorden to bewysen trachten, dat et skoun to Esaias tyden in gebruuk weasen, seylig vorstorvenen personen eyne kristlike lykenpreddigd, oader weynigstens eyne standreade to holden, un dat dat vellicht skoun domåls dem leven profeten as en pars salarii med angereakend worden, dat jy ånedem sachte denken könnet, dat ek van unsen seyligen skoolmeyster vöär düsse möye niks neamen werde, sonderen ek wil man sou veal seggen: as ek an dem vöärigen vrydage, do ik noch an dem diske sat, un eaven myn betken stokvisk mid grönen arvten to lyve broche hadde, un en slüksken kümmel-akwavit dårup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste dochter Anntrynken togeloupen kam, un uut vullem halse reyp: Papa, de skoolmeyster is doud!
+# text = Ek wil my nich wydlöftig inlåten, to ündersöken, un uut düssen woorden to bewysen trachten, dat et skoun to Esaias tyden in gebruuk weasen, seylig vorstorvenen personen eyne kristlike lykenpreddigd, oader weynigstens eyne standreade to holden, un dat dat vellicht skoun domåls dem leven profeten as en pars salarii med angereakend worden, dat jy ånedem sachte denken könnet, dat ek van unsen seyligen skoolmeyster vöär düsse möye niks neamen werde, sonderen ek wil man sou veal seggen: as ek an dem vöärigen vrydage, do ek noch an dem diske sat, un eaven myn betken stokvisk mid grönen arvten to lyve broche hadde, un en slüksken kümmel-akwavit dårup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste dochter Anntrynken togeloupen kam, un uut vullem halse reyp: Papa, de skoolmeyster is doud!
 1	Ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
 2	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	aux	_	lemma_gml=willen
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	obj	_	lemma_gml=ik
@@ -25103,7 +25103,7 @@
 48	domåls	domåls	ADV	_	_	57	advmod	_	lemma_gml=dāmâls
 49	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê,dê,dat
 50	leven	leev	ADJ	_	Case=Acc,Dat|Gender=Neut|Number=Sing	51	obl:arg	_	lemma_gml=lēvent
-51	profeten	profete	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	57	appos	_	lemma_gml=profête
+51	profeten	profete	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	57	iobj	_	lemma_gml=profête
 52	as	as	CCONJ	_	_	54	cc	_	lemma_gml=alsô
 53	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	54	det	_	lemma_gml=êin,êine,êin
 54	pars	pars	X	_	Foreign=Yes	57	amod	_	lemma_gml=--
@@ -25123,8 +25123,8 @@
 68	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	77	nsubj	_	lemma_gml=ik
 69	van	van	ADP	_	AdpType=Prep	72	case	_	lemma_gml=van
 70	unsen	unse	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	72	det	_	lemma_gml=unse
-71	seyligen	seylig	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	72	obl	_	lemma_gml=sêil
-72	skoolmeyster	skoolmeyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	77	nsubj	_	lemma_gml=schôlemeyster
+71	seyligen	seylig	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	72	amod	_	lemma_gml=sêil
+72	skoolmeyster	skoolmeyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	77	obl	_	lemma_gml=schôlemeyster
 73	vöär	vöär	ADP	_	AdpType=Prep	75	case	_	lemma_gml=vȫr
 74	düsse	disse	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	75	det	_	lemma_gml=desse,desse,dit
 75	möye	möye	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	77	obl	_	lemma_gml=mö̂ye
