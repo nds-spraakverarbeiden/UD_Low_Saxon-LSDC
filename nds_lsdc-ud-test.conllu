@@ -24990,7 +24990,7 @@
 
 # sent_id = LSDC_0946_1939_08630_OFL
 # text_orig = Gar sünderlikke un merkwürdige Woorde sünt et, welke wy by dem eersten under den veer groten Profeten, ek meene den heil. Profeten Esaias, upgeteknet finden, wenn he sek also verneemen let: Düsse Woorde staat beschreven im veertigsten Kapittel, dasülves im söszden Vers.
-# text = Gaar sünderlike un merkwürdige woorde sünt et, welke wy by dem eyrsten un den veer grouten profeten, ek meyne den heiligen profeten Esaias, upgeteykend vinden, wän hee sek alsou vorneamen let: Düsse woorde ståt beskreaven in dem veertigsten kapittel, dårsülves in dem sösden vers.
+# text = Gaar sünderlike un merkwürdige woorde sünt et, welke wy by dem eyrsten under den veer grouten profeten, ek meyne den heiligen profeten Esaias, upgeteykend vinden, wän hee sek alsou vorneamen let: Düsse woorde ståt beskreaven in dem veertigsten kapittel, dårsülves in dem sösden vers.
 1	Gaar	gaar	ADV	_	_	2	advmod	_	lemma_gml=gār
 2	sünderlike	sünderlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	lemma_gml=sünderlĩk
 3	un	un	CCONJ	_	_	4	cc	_	lemma_gml=unde
@@ -25052,7 +25052,7 @@
 
 # sent_id = LSDC_0949_1939_08633_OFL
 # text_orig = Ek will my nich wydlöftig inlaten, to ünnersöken, un ut düssen Woorden to bewysen trachten, dat et schon to Esaias Tyden in Gebruuk wesen, selig verstorvenen Personen eene kristlikke Lykenpreddigt, oder weinigstens eene Standrede to holen, un dat dat vellicht schon damals dem leven Profeten as en pars salarii met angeräknet worden, da jy anedem sacht denken könnt, dat ek van unsen sel. Schaulmester vör düsse Moie niks neemen were, sondern ek will man sau veel seggen: as ek am vörrigen Frydage, da ek noch am Dische sat, un eben myn betken Stokkfisch mit grönen Arften to Lyve brocht hadde, un een Slüksken Kümmel-Aquavit darup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste Dochter Anntrynken togelopen kam, un ut vullem Halse reip: Papa, de Schaulmester is dood!
-# text = Ek wil my nich wydlöftig inlåten, to ündersöken, un uut düssen woorden to bewysen trachten, dat et skoun to Esaias tyden in gebruuk weasen, seylig vorstorven personen eyne kristlike lykenpreddigd, oader weynigstens eyne standreade to holden, un dat dat vellicht skoun domåls dem leven profeten as en pars salarii med angereakend worden, dat jy ånedem sachte denken könnet, dat ek van unsen seyligen skoolmeyster vöär düsse möye niks neamen werde, sonderen ek wil man sou veal seggen: as ek an dem vöärigen vrydage, do ik noch an dem diske sat, un eaven myn betken stokvisk mid grönen arvten to lyve broche hadde, un en slüksken kümmel-akwavit dårup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste dochter Anntrynken togeloupen kam, un uut vullem halse reyp: Papa, de skoolmeyster is doud!
+# text = Ek wil my nich wydlöftig inlåten, to ündersöken, un uut düssen woorden to bewysen trachten, dat et skoun to Esaias tyden in gebruuk weasen, seylig vorstorvenen personen eyne kristlike lykenpreddigd, oader weynigstens eyne standreade to holden, un dat dat vellicht skoun domåls dem leven profeten as en pars salarii med angereakend worden, dat jy ånedem sachte denken könnet, dat ek van unsen seyligen skoolmeyster vöär düsse möye niks neamen werde, sonderen ek wil man sou veal seggen: as ek an dem vöärigen vrydage, do ik noch an dem diske sat, un eaven myn betken stokvisk mid grönen arvten to lyve broche hadde, un en slüksken kümmel-akwavit dårup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste dochter Anntrynken togeloupen kam, un uut vullem halse reyp: Papa, de skoolmeyster is doud!
 1	Ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
 2	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	aux	_	lemma_gml=willen
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	6	obj	_	lemma_gml=ik
@@ -25086,7 +25086,7 @@
 31	personen	persone	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	41	iobj	_	lemma_gml=persône
 32	eyne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	lemma_gml=êin,êine,êin
 33	kristlike	kristlik	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	lemma_gml=kristlĩk
-34	lykenpreddigd	lykenpredigt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	41	obj	lemma_gml=lîkenprēdiget|SpaceAfter=No
+34	lykenpreddigd	lykenpredigt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	41	obj	_	lemma_gml=lîkenprēdiget|SpaceAfter=No
 35	,	,	PUNCT	_	_	39	punct	_	_
 36	oader	edder	CCONJ	_	_	39	cc	_	lemma_gml=ōder
 37	weynigstens	weynig	ADV	_	_	39	advmod	_	lemma_gml=weinichan
@@ -25176,7 +25176,7 @@
 121	setten	setten	VERB	_	VerbForm=Inf	101	conj	_	lemma_gml=setten
 122	wolde	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	121	aux	_	lemma_gml=willen|SpaceAfter=No
 123	,	,	PUNCT	_	_	124	punct	_	_
-124	zu	zu	X	_	_	_	121	obl	lemma_gml=zu
+124	zu	zu	X	_	_	121	obl	_	lemma_gml=zu
 125	besserer	besserer	X	_	_	124	flat	_	lemma_gml=besserer
 126	Verdauung	Verdauung	X	_	_	124	flat	_	lemma_gml=verdauung
 127	der	der	X	_	_	124	flat	_	lemma_gml=der
