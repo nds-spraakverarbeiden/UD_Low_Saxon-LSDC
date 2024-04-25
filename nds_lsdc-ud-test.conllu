@@ -25703,7 +25703,7 @@
 
 # sent_id = LSPM_1939_08656_OFL
 # text_orig = Düsse Johann Friederich was een braaf Mann, utbenomen dat he katholisch was; da kregen de Paters de Slott-Kerke in, un lesen dar de Misse, dat gaf en grot Upseen in Hannover; ek ging er sülvest mannigmal hen, as ek noch so'n junk Bengel was, deils, Gott mag my de Sünde vergeven! pur ut Nieschierigkeit, deils ook, de schöne Musik antohören.
-# text = Düsse Johann Friederich was eyn braav man, uutbenoamen dat hee katolisk was; do kreygen de paters de slotkerke in, un laesen dår de misse, dat gav en grout upseen in Hannover; ek ging der sülvest mannigmål hen, as ek noch sou en jung benkel was, deyls, God mag my de sünde vorgeaven! puur uut nyskyrigheid, deyls ouk, de sköyne musik an to höyren.
+# text = Düsse Johann Friederich was eyn braav man, uutbenoamen dat hee katolisk was; do kreygen de paters de slotkerke in, un laesen dår de misse, dat gav en grout upseen in Hannover; ek ging der sülvest mannigmål hen, as ek noch sou en jung bengel was, deyls, God mag my de sünde vorgeaven! puur uut nyskyrigheid, deyls ouk, de sköyne musik an to höyren.
 1	Düsse	disse	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	lemma_gml=desse,desse,dit
 2	Johann	Johann	PROPN	_	Number=Sing	7	nsubj	_	lemma_gml=johann
 3	Friederich	Friederich	PROPN	_	Number=Sing	2	flat	_	lemma_gml=friederich
@@ -25756,28 +25756,28 @@
 50	bengel	bengel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	38	advcl	_	lemma_gml=bengel
 51	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	50	cop	_	lemma_gml=wēsen|SpaceAfter=No
 52	,	,	PUNCT	_	_	50	punct	_	_
-53	deyls	deyls	ADV	_	_	38	advmod	_	lemma_gml=dêil|SpaceAfter=No
+53	deyls	deyls	ADV	_	_	64	cc	_	lemma_gml=dêil|SpaceAfter=No
 54	,	,	PUNCT	_	_	60	punct	_	_
 55	God	god	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	60	nsubj	_	lemma_gml=got
 56	mag	möägen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	60	aux	_	lemma_gml=mȫgen
 57	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	60	iobj	_	lemma_gml=ik
 58	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	59	det	_	lemma_gml=dê,dê,dat
 59	sünde	sünde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	60	obj	_	lemma_gml=sünde
-60	vorgeaven	vorgeaven	VERB	_	Tense=Past|VerbForm=Part	53	parataxis	_	lemma_gml=vorgēven|SpaceAfter=No
+60	vorgeaven	vorgeaven	VERB	_	Tense=Past|VerbForm=Part	64	parataxis	_	lemma_gml=vorgēven|SpaceAfter=No
 61	!	!	PUNCT	_	_	60	punct	_	_
 62	puur	puur	ADV	_	_	64	advmod	_	lemma_gml=pûr
 63	uut	uut	ADP	_	AdpType=Prep	64	case	_	lemma_gml=ût
-64	nyskyrigheid	nyskyrigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	53	orphan	_	lemma_gml=eyeschêit|SpaceAfter=No
+64	nyskyrigheid	nyskyrigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	38	obl	_	lemma_gml=eyeschêit|SpaceAfter=No
 65	,	,	PUNCT	_	_	64	punct	_	_
-66	deyls	deyls	ADV	_	_	53	conj	_	lemma_gml=dêil
-67	ouk	ouk	ADV	_	_	66	advmod	_	lemma_gml=ôk|SpaceAfter=No
+66	deyls	deyls	ADV	_	_	74	cc	_	lemma_gml=dêil
+67	ouk	ouk	ADV	_	_	74	advmod	_	lemma_gml=ôk|SpaceAfter=No
 68	,	,	PUNCT	_	_	74	punct	_	_
 69	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	71	det	_	lemma_gml=dê,dê,dat
 70	sköyne	sköyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	71	amod	_	lemma_gml=schö̂ne
 71	musik	musik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	74	obj	_	lemma_gml=mûsike
 72	an	an	ADP	_	_	74	compound:prt	_	lemma_gml=an
 73	to	to	PART	_	PartType=Inf	74	mark	_	lemma_gml=tô
-74	höyren	höyren	VERB	_	VerbForm=Inf	53	orphan	_	lemma_gml=hö̂ren|SpaceAfter=No
+74	höyren	höyren	VERB	_	VerbForm=Inf	64	conj	_	lemma_gml=hö̂ren|SpaceAfter=No
 75	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = LSPM_1939_08658_OFL
