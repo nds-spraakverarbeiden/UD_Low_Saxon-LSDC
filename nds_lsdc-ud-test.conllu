@@ -25809,8 +25809,8 @@
 24	dat	dat	SCONJ	_	_	28	mark	_	lemma_gml=dat
 25	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	lemma_gml=ik
 26	in	in	ADP	_	AdpType=Prep	28	case	_	lemma_gml=in
-27	dem	de	DET	_	Case=Dem|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	lemma_gml=dê,dê,dat
-28	himmel	himmel	NOUN	_	Case=Dem|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=hemmel
+27	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	lemma_gml=dê,dê,dat
+28	himmel	himmel	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=hemmel
 29	wöre	weasen	AUX	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	28	cop	_	lemma_gml=wēsen|SpaceAfter=No
 30	;	;	PUNCT	_	_	35	punct	_	_
 31	sou	sou	ADV	_	_	35	advmod	_	lemma_gml=sô
