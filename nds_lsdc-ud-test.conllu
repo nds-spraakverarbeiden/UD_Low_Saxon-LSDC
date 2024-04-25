@@ -25525,7 +25525,7 @@
 
 # sent_id = LSDC_0961_1939_08646_OFL
 # text_orig = Up dem Slotte to Hannover is immer eene starke Wache, averst se het öhn doch nich afholen kunnt, dat he nich in de förstlikken Gemakke henin drungen un nich alleen alle förstlikken Kinner un Gemalinnen, sündern ook den Landesheren sülvest overwäldiget het.
-# text = Up dem slotte to Hannover is immer eyne starke wake, avers see het öän doch nich afholden kund, dat hee nich in de vörstliken gemakke henin drungen un nich alleyn alle vörstliken kinder un gemålinnen, sünderen ouk den landesheyren sülvest oaverwäldigd het.
+# text = Up dem slotte to Hannover is immer eyne starke wake, averst see het öän doch nich afholden kund, dat hee nich in de vörstliken gemakke henin drungen un nich alleyn alle vörstliken kinder un gemålinnen, sünderen ouk den landesheyren sülvest oaverwäldigd het.
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
 2	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	slotte	slot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=slotte
@@ -25753,7 +25753,7 @@
 47	sou	sou	ADV	_	_	48	advmod	_	lemma_gml=sô
 48	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	50	det	_	lemma_gml=êin,êine,êin
 49	jung	jung	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	50	amod	_	lemma_gml=junc
-50	Bengel	bengel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	38	advcl	_	lemma_gml=bengel
+50	bengel	bengel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	38	advcl	_	lemma_gml=bengel
 51	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	50	cop	_	lemma_gml=wēsen|SpaceAfter=No
 52	,	,	PUNCT	_	_	50	punct	_	_
 53	deyls	deyls	ADV	_	_	38	advmod	_	lemma_gml=dêil|SpaceAfter=No
@@ -25775,9 +25775,9 @@
 69	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	71	det	_	lemma_gml=dê,dê,dat
 70	sköyne	sköyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	71	amod	_	lemma_gml=schö̂ne
 71	musik	musik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	74	obj	_	lemma_gml=mûsike
-72	an	an	ADP	_	_	74	root	_	lemma_gml=an
+72	an	an	ADP	_	_	74	compound:prt	_	lemma_gml=an
 73	to	to	PART	_	PartType=Inf	74	mark	_	lemma_gml=tô
-74	höyren	höyren	VERB	_	VerbForm=Inf	66	orphan	_	lemma_gml=hö̂ren|SpaceAfter=No
+74	höyren	höyren	VERB	_	VerbForm=Inf	53	orphan	_	lemma_gml=hö̂ren|SpaceAfter=No
 75	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = LSPM_1939_08658_OFL
