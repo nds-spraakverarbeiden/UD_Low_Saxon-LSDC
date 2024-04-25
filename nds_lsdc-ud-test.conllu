@@ -25207,7 +25207,7 @@
 
 # sent_id = LSDC_0951_1939_08635_OFL
 # text_orig = (Se hedde wol toiven mögt, bet dat ek de Maltyd sloten hedde, averst de Kinner verstaat dat so nich.)
-# text = (See hädde wol töven möcht, bet dat et de måltyd sloaten hädde, averst de kinder vorståt dat sou nich.)
+# text = (See hädde wol töven möcht, bet dat ek de måltyd sloaten hädde, averst de kinder vorståt dat sou nich.)
 1	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=sê
 3	hädde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma_gml=hebben
@@ -25223,7 +25223,7 @@
 13	sloaten	sluten	VERB	_	VerbForm=Inf	5	advcl	_	lemma_gml=slûten
 14	hädde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	aux	_	lemma_gml=hebben|SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	_
-16	averst	aver	CCONJ	_	AdpType=Prep	19	cc	_	lemma_gml=āvers
+16	averst	aver	CCONJ	_	_	19	cc	_	lemma_gml=āvers
 17	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
 18	kinder	kind	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	19	nsubj	_	lemma_gml=kint
 19	vorståt	vorstån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=vorstân
@@ -25234,7 +25234,7 @@
 24	)	)	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0952_1939_08636_OFL
-# text = Asse myne Dochter, segge ek, my dat toreip, so düchte my dat eben so veel to syn, as wenn da steit: Manch wysnäsige Kumpan möchte hyr seggen: ‘Wat preddigt unse Pastor?
+# text_orig = Asse myne Dochter, segge ek, my dat toreip, so düchte my dat eben so veel to syn, as wenn da steit: Manch wysnäsige Kumpan möchte hyr seggen: ‘Wat preddigt unse Pastor?
 # text = Asse myne dochter, segge ek, my dat toreyp, sou düchte my dat eaven sou veal to syn, as wän dår steit: Mannig wysneasige kumpane möchte hyr seggen: ‘Wat preddigt unse pastoor?
 1	Asse	as	CCONJ	_	_	10	cc	_	lemma_gml=asse
 2	myne	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	lemma_gml=mîn
@@ -25244,7 +25244,7 @@
 6	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik|SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	10	iobj	_	lemma_gml=ik
-9	dat	de	PRON	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	obj	_	lemma_gml=dê,dê,dat
+9	dat	de	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	_	lemma_gml=dê,dê,dat
 10	toreyp	toropen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	advcl	_	lemma_gml=tôrôpen|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	sou	sou	ADV	_	_	13	advmod	_	lemma_gml=sô
@@ -25259,7 +25259,7 @@
 21	,	,	PUNCT	_	_	25	punct	_	_
 22	as	as	CCONJ	_	_	25	cc	_	lemma_gml=alsô
 23	wän	wän	SCONJ	_	_	25	mark	_	lemma_gml=wan
-24	dår	dår	ADV	_	Case=Nom|Number=Sing|PronType=Prs	25	nsubj	_	lemma_gml=dat
+24	dår	dår	ADV	_	_	25	nsubj	_	lemma_gml=dat
 25	steit	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	advcl	_	lemma_gml=stân|SpaceAfter=No
 26	:	:	PUNCT	_	_	25	punct	_	_
 27	Mannig	männig	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	29	det	_	lemma_gml=mannich
@@ -25297,8 +25297,8 @@
 
 # sent_id = LSDC_0954_1939_08637_OFL
 # text_orig = My dücht aber, he wold' eene kruse Näse maken, wenn man em up der Köste, anstatt Fleisch, Heu vorsätte.
-# text = My dücht aver, hee wolde eyne kruse nease maken, wän man em up der köste anstad vleysk, hoi voarsette.
-1	My	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
+# text = My dücht aver, hee wolde eyne kruse nease maken, wän man em up der köste, anstad vleysk, hoi voarsette.
+1	My	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik
 2	dücht	dünken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=dünken
 3	aver	aver	ADV	_	_	2	advmod	_	lemma_gml=āver|SpaceAfter=No
 4	,	,	PUNCT	_	_	10	punct	_	_
@@ -25316,8 +25316,8 @@
 16	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 17	köste	köste	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	23	obl	_	lemma_gml=köste|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	_
-19	anstad	anstad	ADP	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	advcl	_	lemma_gml=anstatten
-20	vleysk	vleysk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	lemma_gml=vlêisch|SpaceAfter=No
+19	anstad	anstad	ADP	_	_	20	advcl	_	lemma_gml=anstatten
+20	vleysk	vleysk	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	23	obl	_	lemma_gml=vlêisch|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	hoi	hoi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	lemma_gml=höü
 23	vorsette	vorsetten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl	_	lemma_gml=vȫrsetten|SpaceAfter=No
@@ -25381,9 +25381,9 @@
 
 # sent_id = LSDC_0958_1939_08641_OFL
 # text_orig = ‘Alles Fleisch ist Heu’ will so veel seggen: Alle Menschen, keenen utgenomen, as Henoch un Elias; averst een oder twei Swaalken maket keenen Sommer.
-# text = ‘Alles vleysk is hoi’ wil sou veale seggen: Alle mensken, keynen uutgenoamen, as Henoch un Elias; avers eyn oader twey swaalken maket keynen sommer.
+# text = ‘Alles vleysk is hoi’ wil sou veale seggen: Alle mensken, keynen uutgenoamen, as Henoch un Elias; averst eyn oader twey swaalken maket keynen sommer.
 1	‘	‘	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Alles	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	nsubj	_	lemma_gml=al
+2	Alles	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	lemma_gml=al
 3	vleysk	vleysk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=vlêisch
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
 5	hoi	hoi	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	csubj	_	lemma_gml=hêve|SpaceAfter=No
@@ -25420,7 +25420,7 @@
 1	Jå	jå	INTJ	_	_	0	root	_	lemma_gml=jâ|SpaceAfter=No
 2	,	,	PUNCT	_	_	10	punct	_	_
 3	wän	wän	SCONJ	_	_	10	mark	_	lemma_gml=wan
-4	sek	sik	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	aux	_	lemma_gml=sik
+4	sek	sik	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	lemma_gml=sik
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	doud	doud	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	lemma_gml=dôt
 7	mid	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
@@ -25436,7 +25436,7 @@
 17	synem	syn	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma_gml=sîn,ēr,sîn
 18	harten	herte	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	nmod	_	lemma_gml=herte
 19	noch	noch	ADV	_	_	22	advmod	_	lemma_gml=noch
-20	wol	wol	ADV	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma_gml=willen
+20	wol	wol	ADV	_	_	22	advmod	_	lemma_gml=willen
 21	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=êin,êine,êin
 22	stout	stout	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=stot|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	_
