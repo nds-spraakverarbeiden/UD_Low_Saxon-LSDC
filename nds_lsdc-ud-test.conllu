@@ -25319,7 +25319,7 @@
 19	anstad	anstad	ADP	_	AdpType=Prep	20	advcl	_	lemma_gml=anstatten
 20	vleysk	vleysk	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=vlêisch|SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
-22	hoi	hoi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	lemma_gml=höü
+22	hoi	hoi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	lemma_gml=höü
 23	voarsette	vöärsetten	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	10	advcl	_	lemma_gml=vȫrsetten|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -25342,7 +25342,7 @@
 # sent_id = LSDC_0956_1939_08639_OFL
 # text_orig = Solst du dynen Seelenhirten ook wol vor eenen Heu-Ossen anseen?
 # text = Solst du dynen seylenhaerden ouk wol voar eynen hoiossen anseen?
-1	Solst	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	10	aux	_	lemma_gml=schȫlen
+1	Solst	sköälen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=2|Tense=Pres	10	aux	_	lemma_gml=schȫlen
 2	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	lemma_gml=dû
 3	dynen	dyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=dîn
 4	seylenhaerden	seylenhaerde	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	lemma_gml=sêlenhêrte
