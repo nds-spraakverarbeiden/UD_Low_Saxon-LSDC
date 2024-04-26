@@ -24806,15 +24806,15 @@
 # text_orig = ‘Nimm dik in acht!’ sëen de Lüe tau öm, ‘wenn du over den Beck geist, sau grüsze nich weer, wenn dik “Guen Avend” eboën wart.’
 # text = ‘Nim dik in acht!’ sean de lüde to öäm, ‘wän du oaver den bekke geist, sou gröte nich wear, wän dik “Goden åvend” eboaden wardt.’
 1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Nim	neamen	VERB	_	Mood=Ind|Number=Sing	8	ccomp	_	lemma_gml=nēmen
+2	Nim	neamen	VERB	_	Mood=Imp|Number=Sing	8	ccomp	_	lemma_gml=nēmen
 3	dik	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	2	obj	_	lemma_gml=dû
 4	in	in	ADP	_	AdpType=Prep	5	case	_	lemma_gml=in
-5	acht	acht	NUM	_	NumType=Card	2	obl	_	lemma_gml=achte|SpaceAfter=No
+5	acht	acht	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=achte|SpaceAfter=No
 6	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
 7	’	’	PUNCT	_	_	2	punct	_	_
-8	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=sên
-9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
-10	lüde	lüde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	lemma_gml=lü̂de
+8	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=sên
+9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+10	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	lemma_gml=lü̂de
 11	to	to	ADP	_	AdpType=Prep	12	case	_	lemma_gml=tô
 12	öäm	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	lemma_gml=ö̂le|SpaceAfter=No
 13	,	,	PUNCT	_	_	23	punct	_	_
@@ -24832,13 +24832,13 @@
 25	wear	wedder	ADV	_	_	23	compound:prt	_	lemma_gml=wēsen|SpaceAfter=No
 26	,	,	PUNCT	_	_	33	punct	_	_
 27	wän	wän	SCONJ	_	_	33	mark	_	lemma_gml=wan
-28	dik	du	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	33	iobj	_	lemma_gml=dû
+28	dik	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	33	iobj	_	lemma_gml=dû
 29	“	“	PUNCT	_	_	30	punct	_	SpaceAfter=No
-30	Goden	good	PROPN	_	Number=Sing	33	nsubj	_	lemma_gml=guen
-31	åvend	åvend	PROPN	_	Number=Sing	30	flat	_	lemma_gml=ōven|SpaceAfter=No
+30	Goden	good	PROPN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	nsubj	_	lemma_gml=guen
+31	åvend	åvend	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	30	flat	_	lemma_gml=ōven|SpaceAfter=No
 32	”	”	PUNCT	_	_	30	punct	_	lemma_gml=”
 33	eboaden	beden	VERB	_	Tense=Past|VerbForm=Part	23	advcl	_	lemma_gml=gebêden
-34	wardt	werden	AUX	_	_	33	aux	_	lemma_gml=wērden|SpaceAfter=No
+34	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	33	aux	_	lemma_gml=wērden|SpaceAfter=No
 35	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No
 36	’	’	PUNCT	_	_	23	punct	_	_
 
@@ -24846,10 +24846,10 @@
 # text_orig = ‘Lat mik man gewären,’ meine de Rüter, ‘mit dem Guen Avend will ik schon fertig weren.’
 # text = ‘Låt mik man gewearen,’ meyne de rüter, ‘mid dem Goden åvend wil ik skoun verdig werden.’
 1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Låt	låten	VERB	_	Number=Sing	8	ccomp	_	lemma_gml=lâten
+2	Låt	låten	VERB	_	Mood=Imp|Number=Plur,Sing	8	ccomp	_	lemma_gml=lâten
 3	mik	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	flat	_	lemma_gml=ik
 4	man	men	ADV	_	_	2	advmod	_	lemma_gml=men
-5	gewearen	gewearen	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	lemma_gml=gewēren|SpaceAfter=No
+5	gewearen	gewearen	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=gewēren|SpaceAfter=No
 6	,	,	PUNCT	_	_	2	punct	_	SpaceAfter=No
 7	’	’	PUNCT	_	_	2	punct	_	_
 8	meyne	meynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=mêinen
@@ -24859,13 +24859,13 @@
 12	‘	‘	PUNCT	_	_	21	punct	_	SpaceAfter=No
 13	mid	mid	ADP	_	AdpType=Prep	16	case	_	lemma_gml=mit
 14	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
-15	Goden	good	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	16	amod	_	lemma_gml=gôt
-16	åvend	åvend	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	lemma_gml=ōven
+15	Goden	good	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	lemma_gml=gôt
+16	åvend	åvend	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=ōven
 17	wil	willen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	21	aux	_	lemma_gml=willen
 18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	lemma_gml=ik
 19	skoun	skoun	ADV	_	_	21	advmod	_	lemma_gml=schö̂ne
 20	verdig	verdig	ADJ	_	Degree=Pos	21	xcomp	_	lemma_gml=--
-21	werden	werden	VERB	_	_	8	ccomp	_	lemma_gml=wēsen|SpaceAfter=No
+21	werden	werden	VERB	_	VerbForm=Inf	8	ccomp	_	lemma_gml=wēsen|SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
 23	’	’	PUNCT	_	_	21	punct	_	_
 
@@ -24877,16 +24877,16 @@
 3	lous	lous	ADV	_	_	2	advmod	_	lemma_gml=lôs
 4	un	un	CCONJ	_	_	18	cc	_	lemma_gml=unde
 5	as	as	SCONJ	_	_	10	mark	_	lemma_gml=alsô
-6	hee	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
+6	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 7	an	an	ADP	_	AdpType=Prep	9	case	_	lemma_gml=an
-8	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+8	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
 9	steg	steg	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	lemma_gml=stech
 10	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 11	,	,	PUNCT	_	_	16	punct	_	_
 12	dat	dat	PRON	_	_	16	nsubj	_	lemma_gml=dat
 13	oaver	öäver	ADP	_	AdpType=Prep	15	case	_	lemma_gml=ȫver
-14	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
-15	bekke	beake	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	lemma_gml=beck
+14	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
+15	bekke	beake	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	16	obl	_	lemma_gml=beck
 16	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	acl:relcl	_	lemma_gml=liggen|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	sag	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=sên
@@ -24900,8 +24900,8 @@
 26	dat	dat	SCONJ	_	_	32	mark	_	lemma_gml=dat
 27	eyn	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	32	nsubj	_	lemma_gml=êin,êine,êin
 28	‘	‘	PUNCT	_	_	29	punct	_	SpaceAfter=No
-29	Goden	good	NOUN	_	Number=Sing	32	ccomp	_	lemma_gml=gôt
-30	åvend	åvend	PROPN	_	Number=Sing	29	flat	_	lemma_gml=ōven|SpaceAfter=No
+29	Goden	good	NOUN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	32	ccomp	_	lemma_gml=gôt
+30	åvend	åvend	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	29	flat	_	lemma_gml=ōven|SpaceAfter=No
 31	’	’	PUNCT	_	_	30	punct	_	_
 32	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	ccomp	_	lemma_gml=seggen|SpaceAfter=No
 33	.	.	PUNCT	_	_	2	punct	_	_
@@ -24910,8 +24910,8 @@
 # text_orig = ‘Guen Avend!’ së de Ruter un do sprak de Spauk weer: ‘ik hebbe bie leftien nein minschen guen Dach un guen Wech eboën, nu moste ik ummegaan schont sau lange, ans düsse ole Boole hier ligt; nu du mik guen Avend segt hast, kann ik ruen un könt ji ruen.’
 # text = ‘Goden åvend!’ sea de rüter un do sprak de spook wear: ‘ik hebbe by leavtyden neyn minsken goden dag un goden weg eboaden, nu moste ik ummegån skount sou lange, as düsse olde boale hyr ligt; nu du mik goden åvend segd hast, kan ik rowen un köänet jy rowen.’
 1	‘	‘	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Goden	good	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=gôt
-3	åvend	åvend	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	ccomp	_	lemma_gml=ōven|SpaceAfter=No
+2	Goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=gôt
+3	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	ccomp	_	lemma_gml=ōven|SpaceAfter=No
 4	!	!	PUNCT	_	_	3	punct	_	SpaceAfter=No
 5	’	’	PUNCT	_	_	3	punct	_	_
 6	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=sên
@@ -24928,9 +24928,9 @@
 17	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	lemma_gml=ik
 18	hebbe	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	28	aux	_	lemma_gml=hebben
 19	by	by	ADP	_	AdpType=Prep	20	case	_	lemma_gml=bî
-20	leavtyden	leavtyd	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	28	obl	_	lemma_gml=leftie
-21	neyn	neyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	22	det	_	lemma_gml=nêin
-22	minsken	minske	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	28	iobj	_	lemma_gml=minsche
+20	leavtyden	leavtyd	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Plur	28	obl	_	lemma_gml=leftie
+21	neyn	neyn	DET	_	Case=Acc,Dat|Gender=Masc,Neut|Number=Sing|PronType=Neg	22	det	_	lemma_gml=nêin
+22	minsken	minske	NOUN	_	Case=Acc,Dat|Gender=Masc,Neut|Number=Sing	28	iobj	_	lemma_gml=minsche
 23	goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	lemma_gml=gôt
 24	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	lemma_gml=dach
 25	un	un	CCONJ	_	_	27	cc	_	lemma_gml=unde
@@ -24956,18 +24956,18 @@
 45	nu	nu	ADV	_	_	50	advmod	_	lemma_gml=nû
 46	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	50	nsubj	_	lemma_gml=dû
 47	mik	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	50	iobj	_	lemma_gml=ik
-48	goden	good	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	49	det	_	lemma_gml=gêin
+48	goden	good	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	det	_	lemma_gml=gêin
 49	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	50	obj	_	lemma_gml=ōven
 50	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	55	ccomp	_	lemma_gml=seggen
-51	hast	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	50	aux	_	lemma_gml=hebben|SpaceAfter=No
+51	hast	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	50	aux	_	lemma_gml=hebben|SpaceAfter=No
 52	,	,	PUNCT	_	_	50	punct	_	_
 53	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	55	aux	_	lemma_gml=künnen
 54	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	55	nsubj	_	lemma_gml=ik
 55	rowen	rowen	VERB	_	VerbForm=Inf	28	conj	_	lemma_gml=rûven
 56	un	un	CCONJ	_	_	59	cc	_	lemma_gml=unde
-57	köänet	künnen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	59	aux	_	lemma_gml=künnen
-58	jy	jy	PRON	_	Case=Nom|Number=Sing|PronType=Prs	59	nsubj	_	lemma_gml=gî
-59	rowen	rowen	VERB	_	_	55	conj	_	lemma_gml=rûven|SpaceAfter=No
+57	köänet	künnen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	59	aux	_	lemma_gml=künnen
+58	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	59	nsubj	_	lemma_gml=gî
+59	rowen	rowen	VERB	_	VerbForm=Inf	55	conj	_	lemma_gml=rûven|SpaceAfter=No
 60	.	.	PUNCT	_	_	55	punct	_	SpaceAfter=No
 61	’	’	PUNCT	_	_	28	punct	_	_
 
