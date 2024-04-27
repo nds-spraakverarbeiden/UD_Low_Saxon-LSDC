@@ -20729,7 +20729,7 @@
 # text_orig = Oen anner Jünger sia teo em: Her, giff mui Ferlaif, dat ik erst hengon un muinen Fadder begrawen kann.
 # text = Eyn ander jünger sea to em: Her, giv my vorlöyv, dat ik eyrst hengån un mynen vadder begraven kan.
 1	Eyn	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=êin,êine,êin
-2	ander	ander	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ander
+2	ander	ander	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	lemma_gml=ander
 3	jünger	Jünger	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma_gml=jünger
 4	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 5	to	to	ADP	_	AdpType=Prep	6	case	_	lemma_gml=tô
@@ -20773,7 +20773,7 @@
 5	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 6	iam	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	lemma_gml=hê,sê,et
 7	ne	en	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
-8	wille	wild	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	9	amod	_	lemma_gml=wilt
+8	wille	wild	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	lemma_gml=wilt
 9	süäge	söäge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	nsubj	_	lemma_gml=sȫge
 10	enteagen	entgeagen	ADP	_	_	5	compound:prt	_	lemma_gml=entēgen
 11	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
@@ -20810,7 +20810,7 @@
 # text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dan lag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te syn.
 1	Eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst
 2	dächen	denken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=denken
-3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1	2	nsubj	_	lemma_gml=wî|SpaceAfter=No
+3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=wî|SpaceAfter=No
 4	,	,	PUNCT	_	_	18	punct	_	_
 5	sou	sou	ADV	_	_	6	advmod	_	lemma_gml=sô
 6	straks	straks	ADV	_	_	18	advmod	_	lemma_gml=strackes
@@ -20823,7 +20823,7 @@
 13	in	in	ADP	_	AdpType=Prep	15	case	_	lemma_gml=in
 14	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
 15	bråmstrükeren	bråmstruuk	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	nmod	_	lemma_gml=brâmstrûke
-16	to	to	ADP	_	_	18	mark	_	lemma_gml=tô
+16	to	to	ADP	_	_	18	compound:prt	_	lemma_gml=tô
 17	te	to	PART	_	PartType=Inf	18	mark	_	lemma_gml=tô
 18	bissen	bissen	VERB	_	VerbForm=Inf	2	ccomp	_	lemma_gml=bissen|SpaceAfter=No
 19	,	,	PUNCT	_	_	18	punct	_	_
