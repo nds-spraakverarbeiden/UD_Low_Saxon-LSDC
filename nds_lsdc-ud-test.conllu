@@ -21259,7 +21259,7 @@
 # sent_id = LSDC_0832_1980_00237_DWF
 # text_orig = Äs de Suldaoten stonnen wi us giëgenüöwer, ne fiwentwintig Meters uuteneen.
 # text = Äs de soldåten stonden wy uus geagenöäver, ne vyventwintig meters uuteneyn.
-1	Äs	as	ADP	_	_	3	case	_	lemma_gml=alsô
+1	Äs	as	ADP	_	AdpType=Prep	3	case	_	lemma_gml=alsô
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	soldåten	soldåt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	obl	_	lemma_gml=soldât
 4	stonden	stån	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=stân
@@ -21268,7 +21268,7 @@
 7	geagenöäver	geagenöäver	ADV	_	_	4	advmod	_	lemma_gml=gēgenȫver|SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
-10	vyventwintig	vyvuntwintig	NUM	_	Case=Acc|NumType=Card	11	nummod	_	lemma_gml=vîfendetwintich
+10	vyventwintig	vyvuntwintig	NUM	_	NumType=Card	11	nummod	_	lemma_gml=vîfendetwintich
 11	meters	meter	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	lemma_gml=mēter
 12	uuteneyn	uuteneyn	ADV	_	_	4	parataxis	_	lemma_gml=ûtêin|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
@@ -21295,7 +21295,7 @@
 # sent_id = LSDC_0834_1939_00139_DWF
 # text_orig = Doe Glauwen hät, doe hät dat oewige Liewen.
 # text = Dee gelouven het, dee het dat eywige liaven.
-1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	3	nsubj	_	lemma_gml=dê,dê,dat
+1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	3	nsubj	_	lemma_gml=dê,dê,dat
 2	gelouven	gelouven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=gelôve
 3	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	dislocated	_	lemma_gml=hebben|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
@@ -21308,13 +21308,13 @@
 
 # sent_id = LSDC_0835_1980_00114_DWF
 # text_orig = Üöwer Wachollerbüske In griese Müske Fiäget de Wind.
-# text = Öäver wacholderbüske in gryse mütske veaget de wind.
+# text = Öäver wacholderbüske in gryse mütske veagt de wind.
 1	Öäver	öäver	ADP	_	AdpType=Prep	2	case	_	lemma_gml=ȫver
 2	wacholderbüske	machandelbusk	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	obl	_	lemma_gml=machandelenbusch
 3	in	in	ADP	_	AdpType=Prep	5	case	_	lemma_gml=in
-4	gryse	grys	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	lemma_gml=grîs
-5	mütske	mütsken	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	2	nmod	_	lemma_gml=mützeken
-6	veaget	veagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=vēgen
+4	gryse	grys	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=grîs
+5	mütske	mütsken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	nmod	_	lemma_gml=mützeken
+6	veagt	veagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=vēgen
 7	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	8	det	_	lemma_gml=dê,dê,dat
 8	wind	wind	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=wint|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
@@ -21327,7 +21327,7 @@
 3	kamele	kameel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	lemma_gml=kamêl
 4	sat	sad	ADJ	_	Degree=Pos	5	xcomp	_	lemma_gml=sat
 5	edrunken	drinken	VERB	_	Tense=Past|VerbForm=Part	9	advcl	_	lemma_gml=drinken
-6	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	5	aux	_	lemma_gml=hebben|SpaceAfter=No
+6	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	aux	_	lemma_gml=hebben|SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	do	do	ADV	_	_	9	advmod	_	lemma_gml=dô
 9	nam	neamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=nēmen
@@ -21337,7 +21337,7 @@
 13	güldenen	gülden	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	lemma_gml=gülden
 14	ring	ring	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	lemma_gml=rinc
 15	un	un	CCONJ	_	_	19	cc	_	lemma_gml=unde
-16	twey	twey	NUM	_	Case=Acc|NumType=Card	19	nummod	_	lemma_gml=twêne
+16	twey	twey	NUM	_	NumType=Card	19	nummod	_	lemma_gml=twêne
 17	swåre	swår	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	lemma_gml=swâr
 18	güldene	gülden	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	lemma_gml=gülden
 19	armreype	armreyp	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	conj	_	lemma_gml=armrêip
@@ -21408,7 +21408,7 @@
 
 # sent_id = LSDC_0840_1939_00024_DWF
 # text_orig = Wo dat Ächterkiamsel anfänget, hät doe Balken oenen Upsprung; do es doe Brandwand oenige Feode haiger os inner Küöken.
-# text = Woor dat ächterköämsel använgt, het dee balken eynen upsprung; dår is dee brandwand eynige vöde höyger os in der küäken.
+# text = Woor dat ächterköämsel använgt, het dee balken eynen upsprung; dår is dee brandwand eynige vöte höyger os in der küäken.
 1	Woor	woor	ADV	_	_	4	advmod	_	lemma_gml=wôre
 2	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	ächterköämsel	achterköämelse	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	lemma_gml=achterkȫmelse
@@ -21417,7 +21417,7 @@
 6	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hebben
 7	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 8	balken	balken	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=balke
-9	eynen	en	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
+9	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
 10	upsprung	upsprung	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	lemma_gml=upsprunc|SpaceAfter=No
 11	;	;	PUNCT	_	_	6	punct	_	_
 12	dår	dår	ADV	_	_	18	advmod	_	lemma_gml=dâr
@@ -21425,9 +21425,9 @@
 14	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
 15	brandwand	brandwand	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	lemma_gml=brantwant
 16	eynige	eynig	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	17	det	_	lemma_gml=êinich
-17	vöde	voot	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	lemma_gml=vôt
+17	vöte	voot	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	lemma_gml=vôt
 18	höyger	houg	ADJ	_	Degree=Cmp	6	parataxis	_	lemma_gml=hô
-19	os	as	ADP	_	_	22	case	_	lemma_gml=alsô
+19	os	as	ADP	_	AdpType=Prep	22	case	_	lemma_gml=alsô
 20	in	in	ADP	_	AdpType=Prep	22	case	_	lemma_gml=in
 21	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
 22	küäken	köäken	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	lemma_gml=kȫke|SpaceAfter=No
