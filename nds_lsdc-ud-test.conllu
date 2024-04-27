@@ -21095,7 +21095,7 @@
 4	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
 5	Bliv	blyven	VERB	_	Mood=Imp|Number=Sing	2	ccomp	_	lemma_gml=blîven
 6	noch	noch	ADV	_	_	5	advmod	_	lemma_gml=noch
-7	eynen	eyn	NUM	_	Case=Acc|Gender=Masc	8	nummod	_	lemma_gml=êin,êine,êin
+7	eynen	eyn	NUM	_	Case=Acc|Gender=Masc|NumType=Card	8	nummod	_	lemma_gml=êin,êine,êin
 8	dag	dat	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=dach
 9	hyr	hyr	ADV	_	_	5	advmod	_	lemma_gml=hîr|SpaceAfter=No
 10	;	;	PUNCT	_	_	5	punct	_	_
@@ -21138,12 +21138,12 @@
 # sent_id = LSDC_0825_1980_00273_DWF
 # text_orig = Et häng in’n siegen Stuowen Van Thymian un Lawändel,
 # text = Et häng in den sygen stuaven van tymian un lavendel,
-1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	lemma_gml=hê,sê,et
+1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	lemma_gml=hê,sê,et
 2	häng	hangen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hangen
 3	in	in	ADP	_	AdpType=Prep	6	case	_	lemma_gml=in
-4	den	en	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
-5	sygen	syge	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=sît
-6	stuaven	stoave	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=stōven
+4	den	en	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
+5	sygen	syge	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	lemma_gml=sît
+6	stuaven	stoave	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	2	obl	_	lemma_gml=stōven
 7	van	van	ADP	_	AdpType=Prep	8	case	_	lemma_gml=van
 8	tymian	tymian	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=tîmeân
 9	un	un	CCONJ	_	_	10	cc	_	lemma_gml=unde
@@ -21161,7 +21161,7 @@
 6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
 7	veld	veld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	lemma_gml=velt|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	see	see	PRON	_	Case=Nom|Number=Plur|PronType=Prs	11	nsubj	_	lemma_gml=sê
+9	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	lemma_gml=sê
 10	sint	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	lemma_gml=wēsen
 11	niks	niks	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	3	parataxis	_	lemma_gml=nichtes
 12	vöär	vöär	ADP	_	AdpType=Prep	15	case	_	lemma_gml=vȫr
@@ -21176,7 +21176,7 @@
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Låt	låten	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	0	root	_	lemma_gml=lâten
 3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=wî
-4	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	lemma_gml=dê,dê,dat
+4	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	6	obj	_	lemma_gml=dê,dê,dat
 5	sou	sou	ADV	_	_	6	advmod	_	lemma_gml=sô
 6	maken	maken	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=māken|SpaceAfter=No
 7	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -21196,8 +21196,8 @@
 9	eyn	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
 10	land	land	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=lant
 11	un	un	CCONJ	_	_	13	cc	_	lemma_gml=unde
-12	eyne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	13	det	_	lemma_gml=êin,êine,êin
-13	kläppen	klappe	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	10	conj	_	lemma_gml=kleppe|SpaceAfter=No
+12	eyne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
+13	kläppen	klappe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	lemma_gml=kleppe|SpaceAfter=No
 14	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = LSDC_0829_1939_00020_DWF
