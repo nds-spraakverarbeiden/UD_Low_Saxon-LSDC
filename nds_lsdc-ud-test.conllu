@@ -21454,7 +21454,7 @@
 16	nå	nå	ADP	_	AdpType=Prep	17	case	_	lemma_gml=nâ
 17	meidag	måndag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	15	nmod	_	lemma_gml=meydach
 18	mot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	aux	_	lemma_gml=mö̂ten
-19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	20	nsubj	_	lemma_gml=hê,sê,et
+19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=hê,sê,et
 20	ropen	ropen	VERB	_	VerbForm=Inf	12	conj	_	lemma_gml=rôpen|SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -21527,7 +21527,7 @@
 2	hiamelryke	heamelryke	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=hemmelrîke
 3	gelikt	gelyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gelîken
 4	eynem	en	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
-5	manne	man	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=man|SpaceAfter=No
+5	manne	man	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=man|SpaceAfter=No
 6	,	,	PUNCT	_	_	11	punct	_	_
 7	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	lemma_gml=dê,dê,dat
 8	in	in	ADP	_	AdpType=Prep	10	case	_	lemma_gml=in
@@ -21637,7 +21637,7 @@
 95	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	96	det	_	lemma_gml=dê,dê,dat
 96	profeten	profeet	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	93	appos	_	lemma_gml=profête|SpaceAfter=No
 97	,	,	PUNCT	_	_	96	punct	_	_
-98	os	as	ADP	_	_	100	case	_	lemma_gml=alsô
+98	os	as	ADP	_	AdpType=Prep	100	case	_	lemma_gml=alsô
 99	gode	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	100	amod	_	lemma_gml=gôt
 100	bodskop	bodskop	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	102	obl	_	lemma_gml=bōdeschop
 101	wiaten	weaten	VERB	_	VerbForm=Inf	102	xcomp	_	lemma_gml=wēten
@@ -21650,7 +21650,7 @@
 # text = Wy hebbet garven ebunden midden up dem velde.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=wî
 2	hebbet	hebben	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	aux	_	lemma_gml=hebben
-3	garven	garve	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	lemma_gml=garve
+3	garven	garve	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	lemma_gml=garve
 4	ebunden	binden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=binden
 5	midden	midden	ADV	_	_	8	advmod	_	lemma_gml=midden
 6	up	up	ADP	_	AdpType=Prep	8	case	_	lemma_gml=uppe
@@ -21688,8 +21688,8 @@
 14	,	,	PUNCT	_	_	19	punct	_	_
 15	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	19	nsubj	_	lemma_gml=watte
 16	med	mid	ADP	_	AdpType=Prep	18	case	_	lemma_gml=mit
-17	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
-18	kranken	krank	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	19	obl	_	lemma_gml=krank
+17	den	de	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+18	kranken	krank	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	19	obl	_	lemma_gml=krank
 19	skeen	skeen	VERB	_	Tense=Past|VerbForm=Part	13	acl:relcl	_	lemma_gml=schên
 20	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	aux	_	lemma_gml=wēsen|SpaceAfter=No
 21	.	.	PUNCT	_	_	8	punct	_	_
