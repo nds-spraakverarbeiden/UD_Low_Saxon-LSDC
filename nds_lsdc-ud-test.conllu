@@ -22316,7 +22316,7 @@
 10	låten	låten	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	dän	dan	CCONJ	_	_	30	cc	_	_
-13	dee	dee	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	30	nsubj	_	SpaceAfter=No
+13	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	30	nsubj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	wek	wek	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	20	nsubj	_	_
 16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -22340,7 +22340,7 @@
 34	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	45	nsubj	_	_
 35	up	up	ADP	_	AdpType=Prep	37	case	_	_
 36	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
-37	lest	lest	NOUN	_	Case=Acc,Dat|Degree=Sup|Gender=Fem|Number=Sing	45	obl	_	_
+37	lest	lest	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Fem|Number=Sing	45	obl	_	_
 38	ümmer	immer	ADV	_	_	45	advmod	_	_
 39	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	34	nmod	_	_
 40	to	to	ADP	_	AdpType=Prep	41	case	_	_
@@ -22349,7 +22349,7 @@
 43	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	44	det	_	_
 44	bedde	bedde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	45	obl	_	_
 45	sprungen	springen	VERB	_	Tense=Past|VerbForm=Part	30	advcl	_	_
-46	syn	weasen	AUX	_	Mood=Inf|Number=Plur|Person=3|Tense=Pres	45	aux	_	SpaceAfter=No
+46	syn	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	45	aux	_	SpaceAfter=No
 47	;	;	PUNCT	_	_	45	punct	_	_
 48	un	un	CCONJ	_	_	58	cc	_	_
 49	ofte	ofte	ADV	_	_	58	advmod	_	_
@@ -22365,7 +22365,7 @@
 59	,	,	PUNCT	_	_	63	punct	_	_
 60	un	un	CCONJ	_	_	63	cc	_	_
 61	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	62	det	_	_
-62	lest	lest	NOUN	_	Case=Nom|Degree=Sup|Gender=Fem,Masc|Number=Sing	63	nsubj	_	_
+62	lest	lest	ADJ	_	Case=Nom|Degree=Sup|Gender=Fem,Masc|Number=Sing	63	nsubj	_	_
 63	kreyg	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	45	conj	_	_
 64	doch	doch	ADV	_	_	63	advmod	_	_
 65	synen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	66	det	_	_
@@ -22558,11 +22558,11 @@
 6	un	un	CCONJ	_	_	13	cc	_	_
 7	allet	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	13	nsubj	_	_
 8	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	_
-9	myn	myn	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Poss=Yes	7	acl:relcl	_	_
+9	myn	myn	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	7	acl:relcl	_	_
 10	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	_
-13	dyn	dyn	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Poss=Yes	5	conj	_	SpaceAfter=No
+13	dyn	dyn	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	5	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0875_BRA_1885_marksk_dree-wiehnachten
@@ -22837,7 +22837,7 @@
 
 # sent_id = LSDC_0881_BRA_1843_marksk_Der-Teufel-zu-Schorstedt
 # text_orig = Upd' lest is hee van sülwest furtbleewen.
-# text = Up det lest is hee van sülvst voordbleaven.
+# text = Up de lest is hee van sülvst voordbleaven.
 1	Up	up	ADP	_	_	3	case	_	_
 2	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	lest	lest	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Fem|Number=Sing	8	obl	_	_
@@ -23313,7 +23313,7 @@
 45	med	mid	ADP	_	AdpType=Prep	47	case	_	_
 46	wo	wo	ADV	_	_	47	obl	_	_
 47	weynig	weynig	PRON	_	Case=Acc,Dat|Gender=Neut|Number=Sing	51	obl	_	_
-48	man	man	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	51	nsubj	_	_
+48	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	51	nsubj	_	_
 49	dotomål	dotomål	ADV	_	_	51	advmod	_	_
 50	noch	noch	ADV	_	_	51	advmod	_	_
 51	vorstund	vorstån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	42	ccomp	_	SpaceAfter=No
@@ -23483,7 +23483,7 @@
 31	ryken	ryk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
 32	ryken	ryk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
 33	man	man	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	34	xcomp	_	_
-34	worden	werden	AUX	_	Tense=PastVerbForm=Part	27	conj	_	SpaceAfter=No
+34	worden	werden	AUX	_	Tense=Past|VerbForm=Part	27	conj	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	39	punct	_	_
 36	un	un	CCONJ	_	_	39	cc	_	_
 37	syne	syn	DET	_	Case=Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	38	det	_	_
