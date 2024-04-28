@@ -18529,7 +18529,7 @@
 20	kryge	kryg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	lemma_gml=krîch|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0701_1939_00088_MVP
+# sent_id = LSDC_0701_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = Up dese olle Fründin verlet sick de Kapteihn, un den annern Morgen Klock vir seten wi tausam up den Wagen un führten mit twei Schandoren in den kollen Wintermorgen herin.
 # text = Up dease olde vründin vorleyt sik de kaptein, un den anderen morgen klokke veer saeten wy tosamen up den wagen un vöörden mid twey gendarmen in den kolden wintermorgen herin.
 1	Up	up	ADP	_	AdpType=Prep	4	case	_	lemma_gml=uppe
@@ -18565,7 +18565,7 @@
 31	herin	herin	ADV	_	_	23	advmod	_	lemma_gml=hērîn|SpaceAfter=No
 32	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0702_1939_00089_MVP
+# sent_id = LSDC_0702_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = Man dor wardt ji juch noch vullstännig up besinnen, wat de oll Dwinger hart an den Steendurschen Wallgrabenwall stöten ded un man eenen Ingang nah de Nurdkant hadd.
 # text = Man dår wardet jy juw noch vulständig up besinnen, wat de olde dwinger hard an den steyndoorsken walgravenwal stöyten dead un man eynen ingang nå de noordkant hadde.
 1	Man	men	CCONJ	_	_	9	cc	_	lemma_gml=men
@@ -18599,7 +18599,7 @@
 29	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	conj	_	lemma_gml=hebben|SpaceAfter=No
 30	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0703_1939_00090_MVP
+# sent_id = LSDC_0703_MVP_1879-80_meakelenborgsk_vogel-fenus
 # text_orig = De König wull sei em nich girn laten, wüst œwer nich, woans hei dat anfangen süll, denn grad' tau ne-seggen wull hei ok nich.
 # text = De köäning wul see em nich gaern låten, wüst äver nich, woans hee dat anvangen sül, dän gerade to neyseggen wul hee ouk nich.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -18631,7 +18631,7 @@
 27	nich	nich	PART	_	PartType=Neg	23	advmod	_	lemma_gml=nicht|SpaceAfter=No
 28	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0704_1939_00091_DNS
+# sent_id = LSDC_0704_DNS_1876_holsteynsk_mien-jungsparadies
 # text_orig = He böög' de Heidtulln rünner, he keek achter de Wichelnbüscher.
 # text = Hee böyg de heidtollen ründer, hee keyk achter de wichelenbüsker.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -18647,7 +18647,7 @@
 11	wichelenbüsker	wichelenbusk	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	lemma_gml=wichelenbusch|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0705_1939_00092_DNS
+# sent_id = LSDC_0705_DNS_1876_holsteynsk_mien-jungsparadies
 # text_orig = Do hör ick to'n erstenmal de deepe Stimm, de ick sietdem nie wedder vergeten heff.
 # text = Do höyr ik to 'n eyrsten mål de depe stimme, dee ik syddeam nee wedder vorgeaten hev.
 1	Do	do	ADV	_	_	2	advmod	_	lemma_gml=dô
@@ -18670,7 +18670,7 @@
 18	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	aux	_	lemma_gml=hebben|SpaceAfter=No
 19	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0706_1939_00093_DWF
+# sent_id = LSDC_0706_DWF_1878_SUD_suderlandsk_caspar-brocksieper_der-plattdeutsche-volksspeigel_daunlots-12
 # text_orig = „Düörch dei Opklärung wiärd viäler dumme Glowe tau Water.“
 # text = „Düärch dee upkläringe werdt vialer dumme gelouve to water.“
 1	„	„	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -18686,7 +18686,7 @@
 11	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 12	“	“	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0707_1939_00094_DWF
+# sent_id = LSDC_0707_DWF_1878_SUD_suderlandsk_caspar-brocksieper_der-plattdeutsche-volksspeigel_daunlots-12
 # text_orig = – Doch der Menschen klauker Sinnesglowe wiärd gar nit tau Water.
 # text = – Doch der mensken kloker sinnesgelouve werdt gaar neet to water.
 1	–	–	PUNCT	_	_	7	punct	_	_
@@ -18702,7 +18702,7 @@
 11	water	water	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	obl	_	lemma_gml=wāter|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0708_1939_00095_MVP
+# sent_id = LSDC_0708_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = Dat hett nöch een poor Johren Tid dormit.
 # text = Dat het noch en pår jåren tyd dårmid.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
@@ -18715,7 +18715,7 @@
 8	dårmid	dårmid	ADV	_	_	2	advmod	_	lemma_gml=dârmēde|SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0709_1939_00096_MVP
+# sent_id = LSDC_0709_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = Aewer as hei tau Hus kamm, dunn was dat ganz anners, as vördem.
 # text = Äver as hee to huus kam, dun was dat gans anders, as vöärdeam.
 1	Äver	aver	CCONJ	_	_	12	cc	_	lemma_gml=āver
@@ -18735,7 +18735,7 @@
 15	vöärdeam	vöärdem	ADV	_	_	12	obl	_	lemma_gml=vȫrdēme|SpaceAfter=No
 16	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0710_1939_00097_DNS
+# sent_id = LSDC_0710_DNS_1876_HOL_holsteynsk_mien-jungsparadies
 # text_orig = As wi tosam bi'n warm Avend un brenn Licht in'e Stuv seeten, do weer mien Furcht un Angst weg, as de Küll un dat Düster, ick sett mi ganz behaglich an'n Disch un wunner mi, dat Anna nich ebenso weer.
 # text = As wy tosamen by den warm oaven un brennen licht in de stuve saeten, do weer myn vurcht un angst weg, as de kül un dat düüster, ik set my gans behaaglik an den disk un wunder my, dat Anna nich eavensou weer.
 1	As	as	SCONJ	_	_	14	mark	_	lemma_gml=alsô
@@ -18787,7 +18787,7 @@
 47	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	46	cop	_	lemma_gml=wēsen|SpaceAfter=No
 48	.	.	PUNCT	_	_	22	punct	_	_
 
-# sent_id = LSDC_0711_1939_00098_MVP
+# sent_id = LSDC_0711_MVP_1860_meakelenborgsk_ut-de-franzosentid
 # text_orig = »Denn geföllt hei mi all en ganz Deil beter.
 # text = »Dän gevölt hee my al en gans deyl beater.
 1	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -18802,7 +18802,7 @@
 10	beater	good	ADJ	_	Degree=Cmp	3	advmod	_	lemma_gml=gôt|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0712_1939_00100_MVP
+# sent_id = LSDC_0712_MVP_1860_meakelenborgsk_ut-de-franzosentid
 # text_orig = Mit den sünd wi utenein, de hett sin Geld.« –
 # text = Mid den sünt wy uuteneyn, dee het syn geld.« –
 1	Mid	mid	ADP	_	AdpType=Prep	2	case	_	lemma_gml=mit
@@ -18819,7 +18819,7 @@
 12	«	«	PUNCT	_	_	5	punct	_	_
 13	–	–	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0713_1980_00236_DWF
+# sent_id = LSDC_0713_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text_orig = Un de Riängen, de singet.
 # text = Un de reagen, dee singt.
 1	Un	un	CCONJ	_	_	6	cc	_	lemma_gml=unde
@@ -18830,7 +18830,7 @@
 6	singt	singen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=singen|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0714_1980_00082_DWF
+# sent_id = LSDC_0714_DWF_<2011_SUD_suderlandsk_caspar-lahme-vertellt_mundart-von-brilon-alme_daunlots-29
 # text_orig = Jossef wur ne fleytegen Kerel.
 # text = Jossef wurd ne vlytigen kearl.
 1	Jossef	Jossef	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=jossef
@@ -18840,7 +18840,7 @@
 5	kearl	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	lemma_gml=kē̆rl|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0715_1980_00012_DWF
+# sent_id = LSDC_0715_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text_orig = Met di göng mien Hiärtensslag.
 # text = Med dy göng myn hertensslag.
 1	Med	mid	ADP	_	AdpType=Prep	2	case	_	lemma_gml=mit
@@ -18850,7 +18850,7 @@
 5	hertensslag	hertensslag	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=hertenslach|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0716_1980_00089_DWF
+# sent_id = LSDC_0716_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-4-daunlots-17
 # text_orig = Sei ääten un at se sât wäären, dao makeren se siëck nuoch in derselftigen Nacht op en Padt.
 # text = See aeten un at see sad weren, do makeden see sik noch in derselvtigen nacht up den pad.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=sê
@@ -18874,7 +18874,7 @@
 19	pad	pad	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=pat|SpaceAfter=No
 20	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0717_1939_00147_DWF
+# sent_id = LSDC_0717_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Wenn ik owwer richte, dann est muin Gericht gerecht.
 # text = Wän ik aver richte, dan is myn gerichte gerecht.
 1	Wän	wän	SCONJ	_	_	4	mark	_	lemma_gml=wan
@@ -18889,7 +18889,7 @@
 10	gerecht	gerecht	ADJ	_	Degree=Pos	0	root	_	lemma_gml=gerecht|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0718_1939_00124_DWF
+# sent_id = LSDC_0718_DWF_1905_SUD_suderlandsk_gottfried-heine_krümeln-un-kuasten-nigge-vertellekes-iutem-surlande_daunlots-22
 # text_orig = Nit blaut Strauhdecker, ok ne Bielersnitzer was Berend van Mausebolle un taum Üwerflaut ne Süaper un’n Schandmiul.
 # text = Neet blout stroudekker, ouk ne bylersnitser was Berend van Mausebolle un to 'm öävervlood ne süper un en skandmuul.
 1	Neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
@@ -18914,7 +18914,7 @@
 20	skandmuul	skandmuul	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	conj	_	lemma_gml=schantmûl|SpaceAfter=No
 21	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0719_1980_00140_DWF
+# sent_id = LSDC_0719_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-4-daunlots-17
 # text_orig = Gao dann vüör mi raff nao Gilgal.
 # text = Gå dan vöär my raf nå Gilgal.
 1	Gå	gån	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=gân
@@ -18926,7 +18926,7 @@
 7	Gilgal	Gilgal	PROPN	_	Number=Sing	5	obl	_	lemma_gml=gilgal|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0720_1939_00120_DWF
+# sent_id = LSDC_0720_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Gnade sui met jiu un Fruide fan Gott, iusem Fadder un dem Heren Jesus Christus!
 # text = Genåde sy med juw un vroide van God, usem vadder un dem heyren Jesus Kristus!
 1	Genåde	genåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	lemma_gml=genâde
@@ -18947,7 +18947,7 @@
 16	Kristus	Kristus	PROPN	_	Number=Sing	15	flat	_	lemma_gml=krist|SpaceAfter=No
 17	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0721_1939_00201_DWF
+# sent_id = LSDC_0721_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Wui sollen duür twoe siekere Dinge, duür Ferspriaken un Oed, --- Gott kann doch nich loegen, --- Traust häwwen un us an dem Huapen haulen, dat us anbuan est.
 # text = Wy sollen düär twey siakere dinge, düär vorspreaken un eyd, --- God kan doch nich legen, --- troust hevven un uus an dem hoapen holden, dat uus anboaden is.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	_	lemma_gml=wî
@@ -18985,7 +18985,7 @@
 33	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	aux	_	lemma_gml=wēsen|SpaceAfter=No
 34	.	.	PUNCT	_	_	22	punct	_	_
 
-# sent_id = LSDC_0722_1939_00190_DWF
+# sent_id = LSDC_0722_DWF_1907_SUD_suderlandsk_gottfried-heine_blaumen-un-disseln-nigge-vertellekes-iutem-surlande_daunlots-22
 # text_orig = – De Pastauer was de Fröndlichkeit selwer, hai lait nit noh, bit de Studänten oppem Kannepäi Platz nehmen.
 # text = – De pastor was de vründlikheid selver, hee leyt neet nå, bit de studenten up dem kanapee plats naemen.
 1	–	–	PUNCT	_	_	3	punct	_	_
@@ -19011,7 +19011,7 @@
 21	naemen	neamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	10	advcl	_	lemma_gml=nēmen|SpaceAfter=No
 22	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0723_1939_00215_DWF
+# sent_id = LSDC_0723_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Duin Folk un doe Haugenpruister häwwet dui mui iawergiewen; wat häs diu don?
 # text = Dyn volk un dee hougenpreester hevvet dy my öävergiaven; wat hes du dån?
 1	Dyn	dyn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=dîn
@@ -19030,7 +19030,7 @@
 14	dån	doon	VERB	_	Tense=Past|VerbForm=Part	9	parataxis	_	lemma_gml=dôn|SpaceAfter=No
 15	?	?	PUNCT	_	_	14	punct	_	_
 
-# sent_id = LSDC_0724_1980_00117_DWF
+# sent_id = LSDC_0724_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text_orig = Biärkenbaimkes häbbt lange Haor.
 # text = Berkenböymkes hebbet lange hår.
 1	Berkenböymkes	berkenböymken	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	lemma_gml=berkenbö̂meken
@@ -19039,7 +19039,7 @@
 4	hår	hår	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	lemma_gml=hâr|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0725_1939_00018_DWF
+# sent_id = LSDC_0725_DWF_1931_OWL_ravensbergsk_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = Doe lütken Flaitgriawens innen Wisken mössen oll rummt weren, wenn dat Gräss no kott was.
 # text = De lütken vleetgrävens in den wisken mössen ol rumd werden, wän dat gräs noch kort was.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
@@ -19061,7 +19061,7 @@
 17	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	cop	_	lemma_gml=wēsen|SpaceAfter=No
 18	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0726_1939_00173_DWF
+# sent_id = LSDC_0726_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Hoe hät soe in foriut kennt un hät soe auk in foriut doteo bestimmet, dat soe suinem Suonen änlik weren süöt; doe sall doe erste unner fielen Broörn suin.
 # text = Hee het see in voaruut kend un het see ouk in voaruut dårto bestimd, dat see synem suanen äänlik werden süälet; dee sal dee eyrste under vialen bröderen syn.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
@@ -19097,7 +19097,7 @@
 31	syn	weasen	AUX	_	VerbForm=Inf	27	cop	_	lemma_gml=wēsen|SpaceAfter=No
 32	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0727_1980_00098_DWF
+# sent_id = LSDC_0727_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-4-daunlots-17
 # text_orig = At Alkana dat nöggeste Maol met Hanna 'eschlaopen harre, dao was iät gurrer Huoppnunge un as dat sou wît was, dao brache iät en Suohn op de Welt un näumere 'ne Samuel, wîl dat iät 'ne vam Häären erbîen harre.
 # text = At Alkana dat nöggeste mål med Hanna eslåpen hadde, do was et goder hoapeninge un as dat sou wyd was, do brachte et en suan up de werld un nömede ne Samuel, wyl dat et ne van dem heyren erbiaden hadde.
 1	At	as	SCONJ	_	_	8	mark	_	lemma_gml=alsôdat
@@ -19146,7 +19146,7 @@
 44	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	43	aux	_	lemma_gml=hebben|SpaceAfter=No
 45	.	.	PUNCT	_	_	15	punct	_	_
 
-# sent_id = LSDC_0728_1980_00225_DWF
+# sent_id = LSDC_0728_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text_orig = Up ’n Waort: Häs du’t al häört?
 # text = Up en woord: Hes du et al höyrd?
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
@@ -19160,7 +19160,7 @@
 9	höyrd	höyren	VERB	_	Tense=Past|VerbForm=Part	3	parataxis	_	lemma_gml=hö̂ren|SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0729_1980_00002_DWF
+# sent_id = LSDC_0729_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text_orig = − Staoht bineen to’t leste Maol.
 # text = − Ståt byeneyn to 't leste mål.
 1	−	−	DET	_	_	2	det	_	_
@@ -19172,7 +19172,7 @@
 7	mål	mål	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=mâl|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0730_1980_00003_DWF
+# sent_id = LSDC_0730_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-3-daunlots-16
 # text_orig = Jabin harre niggenhunnert iserne Strîtwagens .
 # text = Jabin hadde niagenhunderd yserne strydwagens.
 1	Jabin	Jabin	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=jabin
@@ -19182,7 +19182,7 @@
 5	strydwagens	strydwagen	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	lemma_gml=strîtwāgen|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0731_1980_00198_DWF
+# sent_id = LSDC_0731_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-2-daunlots-15
 # text_orig = Dei Lüü in diäm Lanne sind viëll stiärker as vî.
 # text = Dee lüde in deam lande sint vial stärker as wy.
 1	Dee	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -19197,7 +19197,7 @@
 10	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	obl	_	lemma_gml=wî|SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0732_1980_00136_DWF
+# sent_id = LSDC_0732_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-4-daunlots-17
 # text_orig = Iëck kann dat Kind jao duoch nit wîer lambännig maken.
 # text = Ik kan dat kind jo doch neet wiader leavendig maken.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
@@ -19212,7 +19212,7 @@
 10	maken	maken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=māken|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0733_20th_00291_DWF
+# sent_id = LSDC_0733_DWF_1995-96_SUD_suderlandsk_hubert-wacker_reineke-voss_daunlots-05
 # text_orig = Et follen Schlag op Schlia mi üewer dian Pelz, iék harre min Liawen Keinen trurigern Dag, un kum entkam iék diam Doue.
 # text = Et vollen slag up släge my öäver dean pels, ik hadde myn leaven keynen trurigeren dag, un kuum entkam ik deam doude.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl:pv	_	lemma_gml=hê,sê,et
@@ -19241,7 +19241,7 @@
 24	doude	doud	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	21	iobj	_	lemma_gml=dôt|SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0734_1980_00030_DWF
+# sent_id = LSDC_0734_DWF_2006-07_OWL_lipsk_hannelore-budde_kür-mol-wedder-lippisch-platt_sünte-märten
 # text_orig = Klipp, klapp düt un dat, leuve Früwwe, giv us wat!
 # text = Klip, klap düt un dat, leve vrouwe, giv uus wat!
 1	Klip	klip	INTJ	_	_	11	discourse	_	lemma_gml=klip|SpaceAfter=No
@@ -19259,7 +19259,7 @@
 13	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	obj	_	lemma_gml=watte|SpaceAfter=No
 14	!	!	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0735_1980_00113_DWF
+# sent_id = LSDC_0735_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-1-daunlots-14
 # text_orig = Blouß dä, becker diän Stuoff op de Äärde tellen kann, kann diëck un dine Naokuommen tellen.
 # text = Blouts dee, hwekker den stov up de aerde tellen kan, kan dik un dyne nåkuamen tellen.
 1	Blouts	blouts	ADV	_	_	18	advmod	_	lemma_gml=blôt
@@ -19282,7 +19282,7 @@
 18	tellen	tellen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=tellen|SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
 
-# sent_id = LSDC_0736_1980_00215_DWF
+# sent_id = LSDC_0736_DWF_2010_SUD_suderlandsk_walter-sprenger-siepen_vertellekes-öüt-fleckmereg-un-ümgiebung_daunlots-27
 # text_orig = Dä Meäkens woren abber talenmäßig überliégen.
 # text = De mäkens wåren aver talenmätig öäverliagen.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -19293,7 +19293,7 @@
 6	öäverliagen	öäverleagen	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	0	root	_	lemma_gml=ȫverlēgen|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0737_1980_00018_DWF
+# sent_id = LSDC_0737_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text_orig = Wat fraog’k dernao?
 # text = Wat vråge ik dernå?
 1	Wat	wat	PRON	_	Gender=Neut|Number=Sing|PronType=Int	2	obl	_	lemma_gml=watte
@@ -19302,7 +19302,7 @@
 4	dernå	dårnå	ADV	_	_	2	advmod	_	lemma_gml=dârnâ|SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0738_1980_00186_DWF
+# sent_id = LSDC_0738_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-2-daunlots-15
 # text_orig = Dann leit hei sei äin Land an siëck rîten.
 # text = Dan leyt hee see eyn land an sik ryten.
 1	Dan	dan	ADV	_	_	2	advmod	_	lemma_gml=den
@@ -19316,7 +19316,7 @@
 9	ryten	ryten	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=rîten|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0739_1980_00272_DWF
+# sent_id = LSDC_0739_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-1-daunlots-14
 # text_orig = Iëck well iëhme 'nen Kumpanen maken, dä tau iëhme pässet.
 # text = Ik wel iame nen kumpanen maken, dee to iame päst.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
@@ -19332,7 +19332,7 @@
 11	päst	passen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:relcl	_	lemma_gml=passen|SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0740_1980_00048_DWF
+# sent_id = LSDC_0740_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-1-daunlots-14
 # text_orig = At Jakob dat haore, was hei wane verschruocken.
 # text = At Jakob dat houre, was hee wane vorskrokken.
 1	At	as	SCONJ	_	_	4	mark	_	lemma_gml=alsôdat
@@ -19346,14 +19346,14 @@
 9	vorskrokken	vorskrokken	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorschrocken|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0741_1939_00293_DWF
+# sent_id = LSDC_0741_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = „Säu?
 # text = „Sou?
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Sou	sou	ADV	_	_	0	root	_	lemma_gml=sô|SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0742_1939_00072_DWF
+# sent_id = LSDC_0742_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Sau geng Jesus duür olle Stia un Diarper; hoe lere innen Scheolen, ferkünnige doe geoe Buaskop fan Gott suinem Ruike un hoele ollerhand Krankhoeden un Suüken.
 # text = Sou geng Jesus düär olle städe un dörper; hee leyre in den skolen, vorkündige dee gode bodskop van God synem ryke un heyle ollerhand krankheiden un süken.
 1	Sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
@@ -19387,7 +19387,7 @@
 29	süken	süke	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	27	conj	_	lemma_gml=sü̂ke|SpaceAfter=No
 30	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0743_1980_00155_DWF
+# sent_id = LSDC_0743_DWF_2018_MON_mönsterlandsk_paul-baumann_christine-koch-ausgewählte-gedichte-übertragen-in-münsterländer-mundart-von-paul-baumann
 # text = 14 WAIGENLEED Hilleken, stilleken, Aigeskes to!
 1	14	14	NUM	_	NumType=Card	0	root	_	lemma_gml=14
 2	WAIGENLEED	wegenleed	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	parataxis	_	lemma_gml=wêgenlêt
@@ -19399,7 +19399,7 @@
 8	to	to	ADV	_	_	7	advmod	_	lemma_gml=tô|SpaceAfter=No
 9	!	!	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0744_19th_00297_DWF
+# sent_id = LSDC_0744_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = Eunes Dages kam Hiärmen mol iut der Schaule no Hius un saggte: „Mömme, ick goh niu gar nit mehr in de Schaule!“
 # text = Eynes dages kam Hiärmen mål uut der skole nå huus un sagde: „Mömme, ik gå nu gaar neet meyr in de skole!“
 1	Eynes	eyn	DET	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
@@ -19430,7 +19430,7 @@
 26	!	!	PUNCT	_	_	18	punct	_	SpaceAfter=No
 27	“	“	PUNCT	_	_	18	punct	_	_
 
-# sent_id = LSDC_0745_20th_00231_DWF
+# sent_id = LSDC_0745_DWF_1995-96_SUD_suderlandsk_hubert-wacker_reineke-voss_daunlots-05
 # text_orig = Éin Lämmken béit iék te Doué, Leck're dat Blaut, et schmak're mi köstliék! un mordere widder Véir diar jüng'sten Ziehen un ât sei un üw're miék ferner; Sparde keine Vüel', noch Hauhner, noch Enten, noch Göise, Wo iék sei fung, un häwwe wall mann'get im Sande vergrawen, Wat iék do schlachtet un wat mi nit alles te iaten beleiw're.
 # text = Eyn lämken beyt ik te doude, lekkede dat blood, et smakkede my köstlik! un mordede wyder veer der jüngsten siagen un åt see un öövde mik veerner; spaarde keyne vüägel, noch honer, noch enden, noch göse, woor ik see vung, un hevve wal manniget in dem sande vorgraven, wat ik do slachted un wat my neet alles te eaten beleevde.
 1	Eyn	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
@@ -19505,7 +19505,7 @@
 70	beleevde	beleven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	62	xcomp	_	lemma_gml=belêven|SpaceAfter=No
 71	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0746_1939_00063_DWF
+# sent_id = LSDC_0746_DWF_1931_OWL_ravensbergsk_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = Sau os doe Gaise gewüönt send, sau got soe.
 # text = Sou os dee göse gewöänd sint, sou gåt see.
 1	Sou	sou	ADV	_	_	9	dislocated	_	lemma_gml=sô
@@ -19520,7 +19520,7 @@
 10	see	see	PRON	_	_	9	nsubj	_	lemma_gml=sê|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0747_1939_00188_DWF
+# sent_id = LSDC_0747_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Wenn diu duine Gawe no dem Altor bringen wullt un dui infällt, dat duin Breor wat giegen dui hät, denn lott duine Gawe for dem Altor luiggen un go erst hen un ferdrägg dui wir met duinem Breor; dann kumm wuir un bringe duine Gawe!
 # text = Wän du dyne gåve nå dem altaar bringen wult un dy invält, dat dyn broder wat giagen dy het, dän låt dyne gåve voar dem altaar liggen un gå eyrst hen un vordräg dy wiar med dynem broder; dan kum wiar un bringe dyne gåve!
 1	Wän	wän	SCONJ	_	_	8	mark	_	lemma_gml=wan
@@ -19573,7 +19573,7 @@
 48	gåve	gåve	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	46	obj	_	lemma_gml=gâve|SpaceAfter=No
 49	!	!	PUNCT	_	_	23	punct	_	_
 
-# sent_id = LSDC_0748_19th_00290_DWF
+# sent_id = LSDC_0748_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = Wo hai byi syinen Vaaren op de Kammer kam, saggte dai: „Suih Kind, ick matt niu stiärwen, ower …“
 # text = Wo hee by synen vaderen up de kammer kam, sagde dee: „Sü kind, ik mat nu sterven, aver…“
 1	Wo	wo	SCONJ	_	_	9	mark	_	lemma_gml=wô
@@ -19602,7 +19602,7 @@
 24	…	…	PUNCT	_	_	15	punct	_	SpaceAfter=No
 25	“	“	PUNCT	_	_	15	punct	_	_
 
-# sent_id = LSDC_0749_1939_00204_DWF
+# sent_id = LSDC_0749_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Dorümme suid nich bange!
 # text = Dårümme syt nich bange!
 1	Dårümme	dårüm	ADV	_	_	4	advmod	_	lemma_gml=dârümme
@@ -19611,7 +19611,7 @@
 4	bange	bange	ADJ	_	Degree=Pos	0	root	_	lemma_gml=bange|SpaceAfter=No
 5	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0750_1939_00122_DWF
+# sent_id = LSDC_0750_DWF_<1935_MON_mönsterlandsk_rosa-verlage_riesenbeck_de-pastoor-un-sien-schäöpken
 # text_orig = „Jau, Drüüksken, biäter äs ik dacht´,  dän Halwschaid häb ik wierbragt."
 # text = „Jo, Drüüksken, beater äs ik dacht, den halvskeyd heb ik wiarbracht."
 1	„	„	PUNCT	_	_	6	punct	_	SpaceAfter=No
