@@ -24345,7 +24345,7 @@
 19	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
 20	“	“	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0926_1939_08616_OFL
+# sent_id = LSDC_0926_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = De Buer ut Gassen.
 # text = De buur uut Gassen.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -24354,7 +24354,7 @@
 4	Gassen	Gassen	PROPN	_	Number=Sing	2	nmod	_	lemma_gml=gassen|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0927_1939_08617_OFL
+# sent_id = LSDC_0927_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Vor Gassen ligt'n Vorwark un bie den Vorwarke ein Dannenholt; en Buer hat sik versworen, dat Holt höre öme, un dat was nich wahr.
 # text = Voar Gassen ligt en voarwark un by den voarwarke eyn dannenholt; en buur hat sik vorswoaren, dat holt höyre öäme, un dat was nich wår.
 1	Voar	vöär	ADP	_	AdpType=Prep	2	case	_	lemma_gml=vȫr
@@ -24387,7 +24387,7 @@
 28	wår	wår	ADJ	_	Degree=Pos	21	conj	_	lemma_gml=wâr|SpaceAfter=No
 29	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0928_1939_08618_OFL
+# sent_id = LSDC_0928_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Nu is he estorven un geit umme.
 # text = Nu is hee estorven un geit umme.
 1	Nu	nu	ADV	_	_	4	advmod	_	lemma_gml=nû
@@ -24399,7 +24399,7 @@
 7	umme	üm	ADV	_	_	6	compound:prt	_	lemma_gml=ümme|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0929_1939_08619_OFL
+# sent_id = LSDC_0929_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = En Buer ut Gassen moste bie Winterdagen na Boye gaan un kam't abens weer trügge; hei geit sines Weges like ut, avers hei fäult, dat jim immer einer in de Site stött; ans he sik tor halve kikt, geit de groote Kerl mit'n langen Stocke neven öme her un is ganz knisterswart, dei verleitet den Buern, dat e ganz von en Wege afkumt un over Sniebarge un Lemkulen weg, do süt e an en lesten Enne en lütjet Lucht un denkt: ‘du sast da mal up tau gaan.’
 # text = En buur uut Gassen moste by winterdagen nå Boye gån un kam 't åvends wear torügge; hee geit synes weages lyke uut, avers hee vöölt, dat jim immer eyner in de syde stöt; as hee sik to 'r halve kikt, geit de groute kearl mid en langen stokke neaven öäme her un is gans knisterswart, dee vorleidt den buren, dat hee gans van den weage afkumt un oaver Sniebarge un Lemkulen weg, do süüt hee an den lesten ende en lütjet lucht un denkt: ‘du sast dår mål up to gån.’
 1	En	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
@@ -24506,7 +24506,7 @@
 102	.	.	PUNCT	_	_	101	punct	_	SpaceAfter=No
 103	’	’	PUNCT	_	_	101	punct	_	_
 
-# sent_id = LSDC_0930_1939_08619_OFL
+# sent_id = LSDC_0930_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Wie e hen kumt, is e ganz von en rechten Wege af un na Scheuen koomen.
 # text = Wo hee hen kumt, is hee gans van den rechten weage af un nå Scheuen koamen.
 1	Wo	Wo	SCONJ	_	_	4	mark	_	lemma_gml=wî
@@ -24528,7 +24528,7 @@
 17	koamen	koamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=kōmen|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
-# sent_id = LSDC_0931_1939_08620_OFL
+# sent_id = LSDC_0931_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = De Buer was ut Scheuen bürtig un denkt: ‘nu sast du den Weg doch wol na Gassen nich weer verleisen.’
 # text = De buur was uut Scheuen bördig un denkt: ‘nu sast du den weg doch wol nå Gassen nich wear vorlesen.’
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -24556,7 +24556,7 @@
 23	.	.	PUNCT	_	_	22	punct	_	SpaceAfter=No
 24	’	’	PUNCT	_	_	22	punct	_	_
 
-# sent_id = LSDC_0932_1939_08620_OFL
+# sent_id = LSDC_0932_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Hei geit also weer tau, avers de kerl buftt ön weer in de Siten un will'n weer verleiten.
 # text = Hee geit alsou wear to, avers de kearl buft öän wear in de syden un wil öän wear vorleiden.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -24581,7 +24581,7 @@
 20	vorleiden	vorleiden	VERB	_	VerbForm=Inf	10	conj	_	lemma_gml=vorlâten|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0933_1939_08621_OFL
+# sent_id = LSDC_0933_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = De Buer steit stille un besint sik, wo öm denn eigentlich is, da steit de Kerl ok stille un legt de Hänne over sinen Stock, dat Kinn up de Hänne un kikt den Buern an.
 # text = De buur steit stille un besint sik, wo öäm dän eygentlik is, do steit de kearl ouk stille un legt de hände oaver synen stok, dat kin up de hände un kikt den buren an.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -24624,7 +24624,7 @@
 38	an	an	ADP	_	_	35	compound:prt	_	lemma_gml=an|SpaceAfter=No
 39	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0934_1939_08622_OFL
+# sent_id = LSDC_0934_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = ‘Mien Gott,’ segt de Buer bie sik, ‘wo wer' ik den Kerl los?’
 # text = ‘Myn God,’ segt de buur by sik, ‘wo werde ik den kearl lous?’
 1	‘	‘	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -24648,7 +24648,7 @@
 19	?	?	PUNCT	_	_	14	punct	_	SpaceAfter=No
 20	’	’	PUNCT	_	_	14	punct	_	_
 
-# sent_id = LSDC_0935_1939_08622_OFL
+# sent_id = LSDC_0935_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Da fallt öme in, dat se segget, wenn man wat ummekere, so dröften de bösen Geister ein nich länger plagen, un hei gript förens in de Tasche un legt sien Mest umme up de annere Halve.
 # text = Do valt öäme in, dat see segget, wän man wat ummekeyre, sou drövden de böysen geyster eyn nich länger plågen, un hee gript vöärens in de taske un legt syn mest umme up de andere halve.
 1	Do	do	ADV	_	_	2	advmod	_	lemma_gml=dâr
@@ -24693,7 +24693,7 @@
 40	halve	halv	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	33	obl	_	lemma_gml=half|SpaceAfter=No
 41	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0936_1939_08623_OFL
+# sent_id = LSDC_0936_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Von der Tiet süt e nix mehr; aver mit der Site, wo ön de swarte Kerl inne bufft hat, mot he noch hinken.
 # text = Van der tyd süüt hee niks meyr; aver mid der syde, woor öän de swarte kearl inne bufd hat, mot hee noch hinken.
 1	Van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
@@ -24724,7 +24724,7 @@
 26	hinken	hinken	VERB	_	VerbForm=Inf	4	conj	_	lemma_gml=hinken|SpaceAfter=No
 27	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0937_1939_08624_OFL
+# sent_id = LSDC_0937_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = De Pastor ut Grotenhelen un de Schaulmester ut Gassen sint ok verleitet, aver se heft er nich sau reine mit herut ewollt.
 # text = De pastoor uut Grotenhelen un de skoolmeyster uut Gassen sint ouk vorleided, aver see hevvet der nich sou reine mid heruut ewold.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -24752,7 +24752,7 @@
 23	ewold	willen	VERB	_	Tense=Past|VerbForm=Part	12	conj	_	lemma_gml=ewōlen|SpaceAfter=No
 24	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0938_1939_08625_OFL
+# sent_id = LSDC_0938_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Düssen Winter hat e weer einen verleitet.
 # text = Düssen winter hat hee wear eynen vorleided.
 1	Düssen	disse	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	lemma_gml=desse,desse,dit
@@ -24764,7 +24764,7 @@
 7	vorleided	vorleiden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorlâten|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0939_1939_08626_OFL
+# sent_id = LSDC_0939_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = ‘Guen Avend.’
 # text = ‘Goden åvend.’
 1	‘	‘	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -24773,7 +24773,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 5	’	’	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0940_1939_08627_OFL
+# sent_id = LSDC_0940_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = In einem Dörpe lag en Rüter, dei en Breif kreg, dat he an denselven avend noch na'n annern Dörpe koomen schölle.
 # text = In eynem dörpe lag en rüter, dee en breev kreyg, dat hee an denselven åvend noch nå en anderen dörpe koamen skölle.
 1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma_gml=in
@@ -24802,7 +24802,7 @@
 24	skölle	sköälen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	23	aux	_	lemma_gml=schȫlen|SpaceAfter=No
 25	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0941_1939_08628_OFL
+# sent_id = LSDC_0941_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = ‘Nimm dik in acht!’ sëen de Lüe tau öm, ‘wenn du over den Beck geist, sau grüsze nich weer, wenn dik “Guen Avend” eboën wart.’
 # text = ‘Nim dik in acht!’ sean de lüde to öäm, ‘wän du oaver den bekke geist, sou gröte nich wear, wän dik “Goden åvend” eboaden wardt.’
 1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -24842,7 +24842,7 @@
 35	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No
 36	’	’	PUNCT	_	_	23	punct	_	_
 
-# sent_id = LSDC_0942_1939_08628_OFL
+# sent_id = LSDC_0942_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = ‘Lat mik man gewären,’ meine de Rüter, ‘mit dem Guen Avend will ik schon fertig weren.’
 # text = ‘Låt mik man gewearen,’ meyne de rüter, ‘mid dem Goden åvend wil ik skoun verdig werden.’
 1	‘	‘	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -24869,7 +24869,7 @@
 22	.	.	PUNCT	_	_	21	punct	_	SpaceAfter=No
 23	’	’	PUNCT	_	_	21	punct	_	_
 
-# sent_id = LSDC_0943_1939_08628_OFL
+# sent_id = LSDC_0943_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = Hei ging los un ans hei an dat Steg kam, dat over den Beck lag, sach hei nix, aver hei höre, dat ein ‘Guen Avend’ së.
 # text = Hee ging lous un as hee an dat steg kam, dat oaver den bekke lag, sag hee niks, aver hee höyre, dat eyn ‘Goden åvend’ sea.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -24906,7 +24906,7 @@
 32	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	ccomp	_	lemma_gml=seggen|SpaceAfter=No
 33	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0944_1939_08629_OFL
+# sent_id = LSDC_0944_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = ‘Guen Avend!’ së de Ruter un do sprak de Spauk weer: ‘ik hebbe bie leftien nein minschen guen Dach un guen Wech eboën, nu moste ik ummegaan schont sau lange, ans düsse ole Boole hier ligt; nu du mik guen Avend segt hast, kann ik ruen un könt ji ruen.’
 # text = ‘Goden åvend!’ sea de rüter un do sprak de spook wear: ‘ik hebbe by leavtyden neyn minsken goden dag un goden weg eboaden, nu moste ik ummegån skount sou lange, as düsse olde boale hyr ligt; nu du mik goden åvend segd hast, kan ik rowen un köänet jy rowen.’
 1	‘	‘	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -24971,7 +24971,7 @@
 60	.	.	PUNCT	_	_	55	punct	_	SpaceAfter=No
 61	’	’	PUNCT	_	_	28	punct	_	_
 
-# sent_id = LSDC_0945_1939_08629_OFL
+# sent_id = LSDC_0945_OFL_1882_oustfalen_celle_guen_avend
 # text_orig = Von der Tiet an hat sik dat Späukeding nich weer seien laten.
 # text = Van der tyd an hat sik dat spökeding nich wear seen låten.
 1	Van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
@@ -24988,7 +24988,7 @@
 12	låten	låten	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=lâten|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0946_1939_08630_OFL
+# sent_id = LSDC_0946_OFL_1670-90_oustfalen_hannover_leichen-predigt_auf_michael_wichman
 # text_orig = Gar sünderlikke un merkwürdige Woorde sünt et, welke wy by dem eersten under den veer groten Profeten, ek meene den heil. Profeten Esaias, upgeteknet finden, wenn he sek also verneemen let: Düsse Woorde staat beschreven im veertigsten Kapittel, dasülves im söszden Vers.
 # text = Gaar sünderlike un merkwürdige woorde sünt et, welke wy by dem eyrsten under den veer grouten profeten, ek meyne den heiligen profeten Esaias, upgeteykend vinden, wän hee sek alsou vorneamen let: Düsse woorde ståt beskreaven in dem veertigsten kapittel, dårsülves in dem sösden vers.
 1	Gaar	gaar	ADV	_	_	2	advmod	_	lemma_gml=gār
@@ -25043,14 +25043,14 @@
 50	vers	vers	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	44	appos	_	lemma_gml=versche|SpaceAfter=No
 51	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0948_1939_08632_OFL
+# sent_id = LSDC_0948_OFL_1670-90_oustfalen_hannover_leichen-predigt_auf_michael_wichman
 # text_orig = Myne Andächtige!
 # text = Myne andächtige!
 1	Myne	myn	DET	_	Case=Nom|Gender=Fem,Masc,Neut|Number=Plur|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=mîn
 2	andächtige	andächtig	NOUN	_	Case=Nom|Gender=Fem,Masc,Neut|Number=Plur	0	root	_	lemma_gml=andechtinge|SpaceAfter=No
 3	!	!	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0949_1939_08633_OFL
+# sent_id = LSDC_0949_OFL_1670-90_oustfalen_hannover_leichen-predigt_auf_michael_wichman
 # text_orig = Ek will my nich wydlöftig inlaten, to ünnersöken, un ut düssen Woorden to bewysen trachten, dat et schon to Esaias Tyden in Gebruuk wesen, selig verstorvenen Personen eene kristlikke Lykenpreddigt, oder weinigstens eene Standrede to holen, un dat dat vellicht schon damals dem leven Profeten as en pars salarii met angeräknet worden, da jy anedem sacht denken könnt, dat ek van unsen sel. Schaulmester vör düsse Moie niks neemen were, sondern ek will man sau veel seggen: as ek am vörrigen Frydage, da ek noch am Dische sat, un eben myn betken Stokkfisch mit grönen Arften to Lyve brocht hadde, un een Slüksken Kümmel-Aquavit darup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste Dochter Anntrynken togelopen kam, un ut vullem Halse reip: Papa, de Schaulmester is dood!
 # text = Ek wil my nich wydlöftig inlåten, to ündersöken, un uut düssen woorden to bewysen trachten, dat et skoun to Esaias tyden in gebruuk weasen, seylig vorstorvenen personen eyne kristlike lykenpreddigd, oader weynigstens eyne standreade to holden, un dat dat vellicht skoun domåls dem leven profeten as en pars salarii med angereakend worden, dat jy ånedem sachte denken könnet, dat ek van unsen seyligen skoolmeyster vöär düsse möye niks neamen werde, sonderen ek wil man sou veale seggen: as ek an dem vöärigen vrydage, do ek noch an dem diske sat, un eaven myn betken stokvisk mid grönen arvten to lyve brocht hadde, un en slüksken kümmel-akwavit dårup setten wolde, zu besserer Verdauung der lieben harten Speise, myne jüngste dochter Anntrynken togeloupen kam, un uut vullem halse reyp: Papa, de skoolmeyster is doud!
 1	Ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
