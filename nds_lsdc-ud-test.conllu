@@ -15331,7 +15331,7 @@
 96	.	.	PUNCT	_	_	92	punct	_	SpaceAfter=No
 97	«	«	PUNCT	_	_	92	punct	_	_
 
-# sent_id = LSDC_0601_19th_00300_DNS
+# sent_id = LSDC_0601_DNS_<1899_HOL_holsteynsk_in-t-fahrhus_fragment
 # text_orig = So ok bi'n Minschen, int Öller fehl de Phosphor un war toletz all, in de Jugend harr man sik to höden, wo't to vel war slag licht mal de Blitz dartwischen un slog dat ganze Leben entwei.
 # text = Sou ouk by den minsken, in 't ölder veyl de fosfor un word tolest alle, in de jöägd hadde man sik to höden, woor et to veal word sloog licht mål de bliks dårtwisken un sloog dat ganse leaven entwei.
 # remarks = 'Jugend' is a loanword from German, the Low Saxon word is 'jöägd/jȫget'.
@@ -15380,7 +15380,7 @@
 43	entwei	entwei	ADV	_	_	39	xcomp	_	lemma_gml=entwey|SpaceAfter=No
 44	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0602_1939_00266_DNS
+# sent_id = LSDC_0602_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = FRU kickt em na, steiht langsaam up, ehr Bussen fangt an to bülgen.
 # text = Vrouwe kikt em nå, steit langsaam up, ear bussen vangt an to bülgen.
 1	Vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	lemma_gml=vrouwe
@@ -15400,7 +15400,7 @@
 15	bülgen	bülgen	VERB	_	VerbForm=Inf	13	xcomp	_	lemma_gml=bülgen|SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0603_19th_00277_MVP
+# sent_id = LSDC_0603_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = Weeten Se, wat ick dorvon denken do?
 # text = Weaten See, wat ik dårvan denken do?
 1	Weaten	weaten	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	0	root	_	lemma_gml=wēten
@@ -15413,7 +15413,7 @@
 8	do	doon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	7	aux	_	lemma_gml=dôn|SpaceAfter=No
 9	?	?	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0604_1939_00214_DNS
+# sent_id = LSDC_0604_DNS_1921_HAM_hamborgsk_de_rode_unnerrock
 # text_orig = Un wo faken al!
 # text = Un wo vaken al!
 1	Un	un	CCONJ	_	_	3	cc	_	lemma_gml=unde
@@ -15422,7 +15422,7 @@
 4	al	al	ADV	_	_	3	advmod	_	lemma_gml=al|SpaceAfter=No
 5	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0605_1939_00129_DNS
+# sent_id = LSDC_0605_DNS_1907_HOL_holsteynsk_maren
 # text_orig = He harr sik den groten Ruun töömt, de eerst en beetjen mit em rümdanz, aver bald in den Snee un ünner sinen Meister sinniger waar – he wüß en Peerd to haltern.
 # text = Hee hadde sik den grouten rune töymd, dee eyrst en beatjen mid em rümdans, aver bald in den sney un ünder synen meyster sinniger word – hee wüs en peard to halteren.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=hê,sê,et
@@ -15461,7 +15461,7 @@
 34	halteren	halteren	VERB	_	VerbForm=Inf	30	xcomp	_	lemma_gml=helteren|SpaceAfter=No
 35	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0606_20th_00151_DWF
+# sent_id = LSDC_0606_DWF_1995-96_SUD_suderlandsk_hubert-wacker_reineke-voss_daunlots-05
 # text_orig = Sine Böir mag jéideréin drian, un jéideréin giawe Red' un Antwort, wu hei in sinem Stande dei Flichten Te erfüllen striaw't.
 # text = Syne böörde mag ydereyn drägen, un ydereyn geave reade un antwoord, wo hee in synem stande dee plichten te ervüllen streavt.
 1	Syne	syn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=sîn,ēr,sîn
@@ -15489,7 +15489,7 @@
 23	streavt	streaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	acl	_	lemma_gml=strēven|SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0607_20th_00007_DWF
+# sent_id = LSDC_0607_DWF_1905_SUD_suderlandsk_gottfried-heine_krümeln-un-kuasten-nigge-vertellekes-iutem-surlande_daunlots-22
 # text_orig = Dai frogere smunzelnd: „Na, biu mannigmol fier Christdag?“
 # text = Dee vrågede smunselend: „Na, hwo mannigmål vöär kristdag?“
 1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
@@ -15506,7 +15506,7 @@
 12	?	?	PUNCT	_	_	9	punct	_	SpaceAfter=No
 13	“	“	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0608_1980_00116_DWF
+# sent_id = LSDC_0608_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-4-daunlots-17
 # text_orig = Et lurre: Dout'eschlaon liëtt se op dinen Biärgen, Oh Israel!
 # text = Et ludde: Doudeslån ligget see up dynen bergen, o Israel!
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -15523,7 +15523,7 @@
 12	Israel	Israel	PROPN	_	Number=Sing	5	vocative	_	lemma_gml=îsrahel|SpaceAfter=No
 13	!	!	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0609_1980_00255_DWF
+# sent_id = LSDC_0609_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-3-daunlots-16
 # text_orig = Dao vertallten sei iëhme düese Geschichte: »Dine Knechte küömmet ut diär Früömde, wiägen inkem Guott.
 # text = Do vortalden see iame düsse geskigde: »Dyne knechte küämet uut dear vröämde, weagen inkem god.
 1	Do	do	ADV	_	_	2	advmod	_	lemma_gml=dô
@@ -15546,7 +15546,7 @@
 18	god	god	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=gôt|SpaceAfter=No
 19	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0610_1980_00229_DWF
+# sent_id = LSDC_0610_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-1-daunlots-14
 # text_orig =  Am selwen Daġġ sochte hei ut sinen Tröppen alle Hitten un Hittenböcke rut, bo me wat Wittes seihn konn, un alle schwattbunten Schaope un gaffe se an sine Süöhne un befuohl 'ne, siëck drei Dagesreisen van iëhme returtetrecken.
 # text = An dem selven dag sochte hee uut synen tröppen alle hitten un hittenbökke ruut, hwoor men wat wits seen kon, un alle swartbunten skåpe un gavve see an syne süäne un bevual ne, sik dree dagesreisen van iame retuur te trekken.
 1	An	an	ADP	_	AdpType=Prep	4	case	_	lemma_gml=an
@@ -15595,7 +15595,7 @@
 44	trekken	trekken	VERB	_	VerbForm=Inf	34	ccomp	_	lemma_gml=trecken|SpaceAfter=No
 45	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0611_1939_00228_DWF
+# sent_id = LSDC_0611_DWF_1931_OWL_ravensbergsk_heinrich-stolte_ravensberg_der-bauernhof-um-1870
 # text_orig = Wenn doe Porden teomaket wören, konn dat Foe one Hoeer uppen Huawe herümmelaupen.
 # text = Wän dee poorten tomaked wören, kon dat vee åne heyre up den hoave herümmeloupen.
 1	Wän	wän	SCONJ	_	_	4	mark	_	lemma_gml=wan
@@ -15615,7 +15615,7 @@
 15	herümmeloupen	herümloupen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=hērümmelôpen|SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
-# sent_id = LSDC_0612_1980_00151_DWF
+# sent_id = LSDC_0612_DWF_<2019_MON_mönsterlandsk_klaus-werner-kahl_täöten-maken
 # text_orig = Dat een of ännere was nao to maken.
 # text = Dat eyn of ändere was noch to maken.
 1	Dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -15628,7 +15628,7 @@
 8	maken	maken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=māken|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0613_1980_00298_DWF
+# sent_id = LSDC_0613_DWF_1995-96_SUD_suderlandsk_hubert-wacker_reineke-voss_daunlots-05
 # text_orig = Sachte Nahm iék dat Würstken, iék well et gestohn; doch harre tau diéser Wackerloss irgendéin Recht, sou dank'r hei't minem Bemaihen.
 # text = Sachte naam ik dat würstken, ik wel et gestån; doch hadde to diaser Wackerloss ergendeyn recht, sou dankede hee et mynem bemöien.
 1	Sachte	sacht	ADV	_	_	2	advmod	_	lemma_gml=sachte
@@ -15658,7 +15658,7 @@
 25	bemöien	bemöien	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	21	obl:arg	_	lemma_gml=bemö̂yent|SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0614_19th_00289_DWF
+# sent_id = LSDC_0614_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = „Nai“, saggte de Mömme, „säu maine ick et nit, ick maine de Vaar is säu krank, un ick gloiwe, hai dait et nit lange mehr.“
 # text = „Ney“, sagde de mömme, „sou meyne ik et neet, ik meyne de vader is sou krank, un ik gelöyve, hee deit et neet lange meyr.“
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -15697,7 +15697,7 @@
 34	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 35	“	“	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0615_19th_00298_DWF
+# sent_id = LSDC_0615_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = „Worümme dann nit, myin Sühneken?“ saggte de Mömme.
 # text = „Worümme dan neet, myn süäneken?“ sagde de mömme.
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -15714,7 +15714,7 @@
 12	mömme	möme	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	lemma_gml=mö̂me|SpaceAfter=No
 13	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0616_1980_00138_DWF
+# sent_id = LSDC_0616_DWF_1999_SUD_suderlandsk_walter-höher_rüümstraote-zweiter-teil_daunlots-34
 # text_orig = "Dat es villichts en Schnäppken", sağğe Vâ'er.
 # text = "Dat is villichts en snäpken", sagde vader.
 1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -15729,7 +15729,7 @@
 10	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	lemma_gml=vāder|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0617_1939_00001_DWF
+# sent_id = LSDC_0617_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = Dai laip ower gau iut der Stuowe un iut me Hiuse.
 # text = Dee leyp aver gauw uut der stuave un uut me huse.
 1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
@@ -15745,7 +15745,7 @@
 11	huse	huus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	conj	_	lemma_gml=hûs|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0618_1939_00002_MVP
+# sent_id = LSDC_0618_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – Hanning seggt, sei hett 'ne Idee – wat dat is, weit ick nich; æwer 't ward woll nah dat sülwige henstangeln, wat wi Lunen un Schrullen un Mafökens näumen – un dor hett sei nu vördem mal en Bauk lesen, dor hett instahn, dat hir öltlings mal wat mit en jung Mäten passirt is – ick weit nich – de ollen Nam's!
 # text = – Hanning segt, see het ne idee – wat dat is, weyt ik nich; äver et wardt wol nå dat sülvige henstangelen, wat wy lunen un skrullen un mafökens nömen – un dår het see nu vöärdeam mål en book leasen, dår het instån, dat hyr öldlings mål wat mid en jung mäden passeerd is – ik weyt nich – de olden namens!
 1	–	–	PUNCT	_	_	3	punct	_	_
@@ -15819,7 +15819,7 @@
 69	namens	name	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	parataxis	_	lemma_gml=nāme|SpaceAfter=No
 70	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0619_1939_00003_MVP
+# sent_id = LSDC_0619_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = denn de Erzbischoff was katholsch, un keiner von uns hadd tau sinen geistlichen Stand rechten Fiduz.
 # text = Dän de ersbiskop was katoolsk, un keyner van uns hadde to synen geistliken stand rechten fiduts.
 1	Dän	dän	CCONJ	_	_	5	cc	_	lemma_gml=den
@@ -15841,7 +15841,7 @@
 17	fiduts	fiduty	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=fidûcie|SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0620_1939_00005_MVP
+# sent_id = LSDC_0620_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = Du kannst nu woll all ganz moi Türksch, wat denn?«
 # text = Du kanst nu wol al gans mooi törksk, wat dän?«
 1	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=dû
@@ -15858,7 +15858,7 @@
 12	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
 13	«	«	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0621_1939_00006_MVP
+# sent_id = LSDC_0621_MVP_1860_meakelenborgsk_ut-de-franzosentid
 # text_orig = Dat möt nich lang' hacken un knarren un knacken; as du losdrückst, möt't ok blitzen.
 # text = Dat mööt nich lange hakken un knarren un knakken; as du lousdrükst, mööt et ouk bliksen.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=dê,dê,dat
@@ -15881,7 +15881,7 @@
 18	bliksen	bliksemen	VERB	_	VerbForm=Inf	5	parataxis	_	lemma_gml=blixemen|SpaceAfter=No
 19	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0622_1939_00007_MVP
+# sent_id = LSDC_0622_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = Un nu will ick Sei wat seggen: nu gahn Sei nah den Kirl hen un seggen Sei em, dese Dam' hir un ick, wie hadden Sei den Rath gewen – hei ward uns woll kennen – Sei süllen sick von em los maken, un dat wullen Sei denn ok, un wenn hei wider wat wull, denn süll hei sick an uns wennen, wi wiren dortau in 'n Stand, em Ogen un Uhren en beten uptauknöpen.«« –
 # text = Un nu wil ik See wat seggen: nu gån See nå den kearl hen un seggen See em, dease dame hyr un ik, wy hadden See den råd geaven – hee wardt uns wol kennen – See süllen sik van em lous maken, un dat wullen See dän ouk, un wän hee wyder wat wul, dän sül hee sik an uns wenden, wy weren dårto in den stand, em ougen un ouren en beaten up to knöypen.«« –
 1	Un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
@@ -15973,7 +15973,7 @@
 87	««	««	PUNCT	_	_	7	punct	_	_
 88	–	–	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0623_1939_00008_MVP
+# sent_id = LSDC_0623_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = »»Worüm denn nich?«« –
 # text = »»Worüm dän nich?«« –
 1	»»	»»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -15984,7 +15984,7 @@
 6	««	««	PUNCT	_	_	2	punct	_	_
 7	–	–	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0624_1939_00009_MVP
+# sent_id = LSDC_0624_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = »»Na, denn reisen S' mit Gott,«« säd de Oll, »»wen nich tau raden is, den is nich tau helpen,«« un ratsch dreihte de Oll sick üm un fot Tanten Line unner den Arm un gung mit ehr den Markusplatz dal.
 # text = »»Na, dän reisen See mid God,«« sead de olde, »»wen nich to råden is, den is nich to helpen,«« un rats draide de olde sik üm un vaat tanten Line under den arm un gung mid ear den Markusplats dale.
 1	»»	»»	PUNCT	_	_	5	punct	_	SpaceAfter=No
@@ -16038,7 +16038,7 @@
 49	dale	dale	ADP	_	_	48	case	_	lemma_gml=dāle|SpaceAfter=No
 50	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0625_1939_00010_MVP
+# sent_id = LSDC_0625_MVP_1860_meakelenborgsk_ut-de-franzosentid
 # text_orig = Ick bün blot dat bütelst En'n von sinen Kopp un wippel all so kurjos in de Welt herin, nu kannst du di verstellen, wo lustig dat binnen utsüht.«
 # text = Ik bün blout dat bütelst ende van synen kop un wippele al sou kurioos in de werld herin, nu kanst du dy vorstellen, wo lustig dat binnen uutsüüt.«
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
@@ -16074,7 +16074,7 @@
 31	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 32	«	«	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0626_1939_00011_MVP
+# sent_id = LSDC_0626_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = – »»Will tauseihn,«« säd Jochen un führte los.
 # text = – »»Wil toseen,«« sead Jochen un vöörde lous.
 1	–	–	PUNCT	_	_	7	punct	_	_
@@ -16090,7 +16090,7 @@
 11	lous	lous	ADV	_	_	10	compound:prt	_	lemma_gml=lôs|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0627_1939_00012_MVP
+# sent_id = LSDC_0627_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = Dunn stek Rand wedder den Kopp in de Dör: »»Dörchläuchten, eben het't inslagen, Schultsch seggt, up den Wall in 'ne Pöppel; äwer't geiht glik wedder los, Schultsch seggt.
 # text = Dun staek Rand wedder den kop in de döäre: »»Dörchläuchten, eaven het et inslågen, skultske segt, up den wal in ne pöppel; äver et geit gelyk wedder lous, skultske segt.
 1	Dun	dun	ADV	_	_	2	advmod	_	lemma_gml=dô
@@ -16132,7 +16132,7 @@
 37	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	conj	_	lemma_gml=seggen|SpaceAfter=No
 38	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0628_1939_00013_MVP
+# sent_id = LSDC_0628_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = Sei rungeniren jo den deipen Respekt vör Ehre Hofchargen!
 # text = See rungeneren jo den depen respekt vöär eare hovchargen!
 1	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=sê
@@ -16146,7 +16146,7 @@
 9	hovchargen	hovcharge	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	nmod	_	lemma_gml=hofcharge|SpaceAfter=No
 10	!	!	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0629_1939_00014_DWF
+# sent_id = LSDC_0629_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = Sai harr’ sick all säu frögget, dat hai de Lähre bolle iute harr’, un niu kam hai anteläupen, wo hai de Lähre no nit iute harr’, un halp iähr, dai paar Tiufeln, dai se noch harr’, vertiähren.
 # text = See hadde sik al sou vrögged, dat hee de leyre bolde ute hadde, un nu kam hee an te loupen, woor hee de leyre noch neet ute hadde, un halp ear, dee pår tufelen, dee see noch hadde, vortearen.
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
@@ -16197,7 +16197,7 @@
 46	vortearen	vortearen	VERB	_	VerbForm=Inf	34	xcomp	_	lemma_gml=vortēren|SpaceAfter=No
 47	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0630_1939_00015_MVP
+# sent_id = LSDC_0630_MVP_1860_meakelenborgsk_ut-de-franzosentid
 # text_orig = »Seggen S' mal, Kindting, hett Ehr Vader noch de hellen, brunen Ogen?
 # text = »Seggen See mål, kinding, het ear vader noch de hellen, brunen ougen?
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -16218,7 +16218,7 @@
 16	ougen	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	lemma_gml=ôge|SpaceAfter=No
 17	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0631_1939_00016_MVP
+# sent_id = LSDC_0631_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = – Na, un heww ick't nich?
 # text = – Na, un hev ik et nich?
 1	–	–	PUNCT	_	_	5	punct	_	_
@@ -16231,7 +16231,7 @@
 8	nich	nich	PART	_	PartType=Neg	5	advmod	_	lemma_gml=nicht|SpaceAfter=No
 9	?	?	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0632_1939_00017_MVP
+# sent_id = LSDC_0632_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – Hest Du 't verstahn?«« –
 # text = – Hest du et vorstån?«« –
 1	–	–	PUNCT	_	_	5	punct	_	_
@@ -16243,7 +16243,7 @@
 7	««	««	PUNCT	_	_	5	punct	_	_
 8	–	–	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0633_1939_00018_MVP
+# sent_id = LSDC_0633_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = »Ja, Vatting, æwer wat .
 # text = »Jå, vadding, aver wat.
 1	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
@@ -16255,7 +16255,7 @@
 7	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	0	root	_	lemma_gml=watte|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0634_1939_00019_MVP
+# sent_id = LSDC_0634_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – Weg was dat bleike Gesicht, weg was de Verdreitlichkeit, de wil de ganze Reis' em as en grises Spennwew' æwerspunnen hadd, un hei sach so fidel un kregel ut, as en ollen Junggesell von virtig Johren, de sick 'ne Brut von achteihn anhandelt hett.
 # text = – Weg was dat bleyke gesichte, weg was de vordreetlikheid, dee wyle de ganse reise em as en gryses spenweave öäverspunnen hadde, un hee sag sou fideel un kreagel uut, as en olden junggeselle van veertig jåren, dee sik ne bruud van achttein anhandeld het.
 1	–	–	PUNCT	_	_	2	punct	_	_
@@ -16310,7 +16310,7 @@
 50	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	49	aux	_	lemma_gml=hebben|SpaceAfter=No
 51	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0635_1939_00020_MVP
+# sent_id = LSDC_0635_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = »Hm, Hm!« – säd de Professer.
 # text = »Hm, hm!« – sead de professor.
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -16325,7 +16325,7 @@
 10	professor	professor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	lemma_gml=professor|SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0636_1939_00021_MVP
+# sent_id = LSDC_0636_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = – Wat de Herr Konrekter sick mit sine Mag' vertellte.
 # text = – Wat de her konrektor sik mid syne maagd vortelde.
 1	–	–	PUNCT	_	_	10	punct	_	_
@@ -16340,7 +16340,7 @@
 10	vortelde	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vortellen|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0637_1939_00022_MVP
+# sent_id = LSDC_0637_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = Dat wir jo so'n bitterbösen Schicksalshohn, dat mi de Tranen in eensento as Spölwater öwer de Näsenbog wegsimmten.
 # text = Dat weer jo sou en bitterböysen skiksaalshoon, dat my de trånen in eynsento as spöölwater öäver de neasenboage wegsimden.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=dê,dê,dat
@@ -16365,7 +16365,7 @@
 20	wegsimden	wegsimmen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	advcl	_	lemma_gml=wechsimmen|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0638_1939_00023_MVP
+# sent_id = LSDC_0638_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – De Lüd' säden vördem, dat wir mit em nich richtig; ick segg æwer, dat is nu mit em nich richtig; ok würd mi gor nich wunnern, wenn hei up sine ollen Dagen de olle Dam' noch frigen ded.«« –
 # text = – De lüde seaden vöärdeam, dat weer mid em nich richtig; ik segge äver, dat is nu mid em nich richtig; ouk würd my gaar nich wunderen, wän hee up syne olden dagen de olde dame noch vrygen dead.«« –
 1	–	–	PUNCT	_	_	4	punct	_	_
@@ -16416,7 +16416,7 @@
 46	««	««	PUNCT	_	_	4	punct	_	_
 47	–	–	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0639_1939_00024_MVP
+# sent_id = LSDC_0639_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – Dat Pund Eddelmannsfleisch taunächst den Harten un de arme Herr Nemlich.
 # text = – Dat pund eddelmansvleysk tonaegst den harten un de arme her Nemlich.
 1	–	–	PUNCT	_	_	3	punct	_	_
@@ -16433,7 +16433,7 @@
 12	Nemlich	Nemlich	PROPN	_	Number=Sing	3	conj	_	lemma_gml=nemlich|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0640_1939_00025_MVP
+# sent_id = LSDC_0640_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = Mit dat Recht hadd wi nu all so lang' Bekanntschaft makt, uns verlangt nich wider dornah – un wat süllen wi denn dauhn?
 # text = Mid dat recht had wy nu al sou lange bekandskop maked, uns vorlangt nich wyder dårnå – un wat süllen wy dän doon?
 1	Mid	mid	ADP	_	AdpType=Prep	3	case	_	lemma_gml=mit
@@ -16462,7 +16462,7 @@
 24	doon	doon	VERB	_	VerbForm=Inf	11	conj	_	lemma_gml=dôn|SpaceAfter=No
 25	?	?	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0641_1939_00026_MVP
+# sent_id = LSDC_0641_MVP_1868_meakelenborgsk_1868_de-reis-nah-konstantinopel
 # text_orig = – Ja, min leiw' Dochter, von de Franzosen was dat up uns grad' so afseihn, as von de Spartaner up de Messenier, æwer – Gottlob!
 # text = – Ja, myn leev dochter, van de fransosen was dat up uns gerade sou afseen, as van de spartaner up de messenier, äver – godlov!
 1	–	–	PUNCT	_	_	17	punct	_	_
@@ -16496,7 +16496,7 @@
 29	godlov	godlov	INTJ	_	_	17	conj	_	lemma_gml=gotlof|SpaceAfter=No
 30	!	!	PUNCT	_	_	17	punct	_	_
 
-# sent_id = LSDC_0642_1939_00027_DNS
+# sent_id = LSDC_0642_DNS_<1857_oustfreesk_fooke-hoissen-müller_aurich_tweespraak
 # text_orig = Vader: Uns Heer versteit uns alle like good, Of wi Latiensk of Hollandsk mit hum spräken, Hebreesk of Hoogdüütsk, kummt man alle dat Van Harten un is waar, na Minskenräken.
 # text = Vader: Uns heyre vorsteit uns alle lyke good, of wy latynsk of hollandsk mid hum spreaken, hebrääsk of hougdüütsk, kumt man alle dat van harten un is wår, nå minskenreakenen.
 1	Vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=vāder|SpaceAfter=No
@@ -16536,7 +16536,7 @@
 35	minskenreakenen	minskenreakenen	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	32	obl	_	lemma_gml=minschenrēkenent|SpaceAfter=No
 36	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0643_1939_00028_MVP
+# sent_id = LSDC_0643_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = Wenn du sülben so von Gretenwäschen af un in de Ewigkeit rinne sülst!
 # text = Wän du sülven sou van Gretenwäschen af un in de eywigheid rinne sülst!
 1	Wän	wän	SCONJ	_	_	13	mark	_	lemma_gml=wan
@@ -16554,7 +16554,7 @@
 13	sülst	sköälen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	lemma_gml=schȫlen|SpaceAfter=No
 14	!	!	PUNCT	_	_	13	punct	_	_
 
-# sent_id = LSDC_0644_1939_00029_MVP
+# sent_id = LSDC_0644_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = »Well, Jungs!« säd ick, »Türksch kænt ji woll all noch?«
 # text = »Wel, jungens!« sead ik, »törksk köänet jy wol al noch?«
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -16576,7 +16576,7 @@
 17	?	?	PUNCT	_	_	12	punct	_	SpaceAfter=No
 18	«	«	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0645_1939_00030_MVP
+# sent_id = LSDC_0645_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
 # text_orig = – Dor liggt de Bosporus!
 # text = – Dår ligt de Bosporus!
 1	–	–	PUNCT	_	_	3	punct	_	_
@@ -16586,7 +16586,7 @@
 5	Bosporus	Bosporus	PROPN	_	Number=Sing	3	nsubj	_	lemma_gml=bosporus|SpaceAfter=No
 6	!	!	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0646_1939_00031_MVP
+# sent_id = LSDC_0646_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = De smet wedder, un nu gung dat Küssen in de Klass' herum, as wir't en Ball taum Spelen, un de smet den, un de smet den annern, un as Pagel Zarnewitz Korl Siemßen dor recht mit bedenken wull, smet hei vörbi un smet den Herrn Konrekter, de grad' in de Dör kamm – baff – in de Ogen.
 # text = Dee smeyt wedder, un nu gung dat küssen in de klasse herum, as weer et en bal to 'm spealen, un dee smeyt den, un dee smeyt den anderen, un as Pagel Zarnewitz Korl Siemßen dår recht mid bedenken wul, smeyt hee vöärby un smeyt den herren konrektor, dee gerade in de döäre kam – baf – in de ougen.
 1	Dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
@@ -16658,7 +16658,7 @@
 67	ougen	ouge	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	51	obl	_	lemma_gml=ôge|SpaceAfter=No
 68	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0647_1939_00032_DWF
+# sent_id = LSDC_0647_DWF_<1879_SUD_suderlandsk_johann-friedrich-leopold-woeste_daunlots-23
 # text_orig = „Jo“, raupet viele, „so es ́t recht! ant Werk!“ –
 # text = „Jo“, ropet viale, „sou is et recht! an 't werk!“ –
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -16681,7 +16681,7 @@
 18	“	“	PUNCT	_	_	12	punct	_	_
 19	–	–	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0648_1939_00033_DWF
+# sent_id = LSDC_0648_DWF_<1879_SUD_suderlandsk_johann-friedrich-leopold-woeste_daunlots-23
 # text_orig = „Doch nitt lebennig!“ smitt da bai dertüsken, „Wer dat nitt gar te grusam; beter es ́t, Dat wi me erst inför de Platte klövet!“ –
 # text = „Doch neet leavendig!“ smit do hwee dertwüsken, „weer dat neet gaar te gruwsaam; beater is et, dat wy me eyrst invöär de platte klöyvet!“ –
 1	„	„	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -16719,7 +16719,7 @@
 33	“	“	PUNCT	_	_	18	punct	_	_
 34	–	–	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0649_1939_00034_DWF
+# sent_id = LSDC_0649_DWF_<1879_SUD_suderlandsk_johann-friedrich-leopold-woeste_daunlots-23
 # text_orig = „Herr Benzler, holla he! ne scharpe Exe!“ –
 # text = „Her Benzler, holla he! ne skarpe äkse!“ –
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -16736,7 +16736,7 @@
 12	“	“	PUNCT	_	_	10	punct	_	_
 13	–	–	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0650_1939_00035_MVP
+# sent_id = LSDC_0650_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = ick was man nich fri –
 # text = ik was man nich vry –
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
