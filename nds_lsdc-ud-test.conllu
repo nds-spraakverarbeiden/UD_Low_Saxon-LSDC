@@ -13438,7 +13438,7 @@
 57	wind	wind	NOUN	_	Gender=Masc|Number=Sing	56	nmod	_	lemma_gml=wint|SpaceAfter=No
 58	!	!	PUNCT	_	_	15	punct	_	_
 
-# sent_id = LSDC_0523_1939_00218_DNS
+# sent_id = LSDC_0523_DNS_1907_HOL_holsteynsk_maren
 # text_orig = Wat glöövt Se woll, wat en lose Tung darvon seggt, wenn en jung Mäden mit en Leutnant op de Heid rümdammelt?«
 # text = Wat gelöyvet See wol, wat en louse tunge dårvan segt, wän en jung mäden mid en lütenant up de heide rümdammelt?«
 1	Wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	lemma_gml=watte
@@ -13467,7 +13467,7 @@
 24	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
 25	«	«	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0524_1939_00145_DNS
+# sent_id = LSDC_0524_DNS_1907_HOL_holsteynsk_maren
 # text_orig = Se kroop wider un keem na en paar Minuten an den Möölnbeek.
 # text = See kroup wyder un kaem nå en pår minuten an den möälenbeake.
 1	See	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -13484,7 +13484,7 @@
 12	möälenbeake	möälenbeake	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=mȫlenbēke|SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0525_1939_00225_DNS
+# sent_id = LSDC_0525_DNS_1907_HOL_holsteynsk_maren
 # text_orig = Du verköffst Di wedder mal, un an en Mann – wat segg ik, Mann?
 # text = Du vorköfst dy wedder mål, un an en man – wat segge ik, man?
 1	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=dû
@@ -13505,7 +13505,7 @@
 16	man	man	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	dislocated	_	lemma_gml=man|SpaceAfter=No
 17	?	?	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0526_1939_00049_DNS
+# sent_id = LSDC_0526_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = Ward nich lang duurn, denn hest' ganz'n Vagel un sühst' Spökels an'n hellichten Dag.
 # text = Wardt nich lange duren, dän hest gans en voagel un süüst spökels an den hellichten dag.
 1	Wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	lemma_gml=wērden
@@ -13527,7 +13527,7 @@
 17	dag	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	12	obl	_	lemma_gml=dach|SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0527_1939_00058_DNS
+# sent_id = LSDC_0527_DNS_1910_HOL_holsteynsk_as-noch-de-trankrusel-brenn
 # text_orig = Un darbi grient he so vör sik hen.
 # text = Un dårby grynt hee sou vöär sik hen.
 1	Un	un	CCONJ	_	_	3	cc	_	lemma_gml=unde
@@ -13540,7 +13540,7 @@
 8	hen	hen	ADV	_	_	7	advmod	_	lemma_gml=hen|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0528_1939_00091_DNS
+# sent_id = LSDC_0528_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = HOLTVAAGT is wieldeß in de Koekendoer träden un höört to.
 # text = Holtvoagd is wyldes in de köäkendöäre treaden un höyrt to.
 1	Holtvoagd	holtvoagd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma_gml=holtvōget
@@ -13555,7 +13555,7 @@
 10	to	to	ADP	_	_	9	compound:prt	_	lemma_gml=tô|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
 
-# sent_id = LSDC_0529_1939_00143_DNS
+# sent_id = LSDC_0529_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = Jawoll, so säd he.
 # text = Jåwol, sou sead hee.
 1	Jåwol	jåwol	INTJ	_	_	0	root	_	lemma_gml=jâwol|SpaceAfter=No
@@ -13565,7 +13565,7 @@
 5	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0530_19th_00239_MVP
+# sent_id = LSDC_0530_MVP_1855_meakelenborgsk_Kaspar-Ohm-un-ick
 # text_orig = »Je, kik mal, Kasper-Ohm!
 # text = »Je, kyk mål, Kasper-oum!
 1	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -13577,7 +13577,7 @@
 7	Kasper-oum	Kasper-oum	PROPN	_	Number=Sing	4	vocative	_	lemma_gml=kasper-ôm|SpaceAfter=No
 8	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0531_1939_00038_DNS
+# sent_id = LSDC_0531_DNS_1921_HAM_hamborgsk_de_rode_unnerrock
 # text_orig = Ik künn em jo söken laten.
 # text = Ik kün em jo söken låten.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
@@ -13588,7 +13588,7 @@
 6	låten	låten	VERB	_	VerbForm=Inf	5	xcomp	_	lemma_gml=lâten|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0532_1939_00093_DNS
+# sent_id = LSDC_0532_DNS_1910_HOL_holsteynsk_as-noch-de-trankrusel-brenn
 # text_orig = Ik un Friech Burmester arbeidn all eenige Dag' inne Hollenrien un möken Fadenholt.
 # text = Ik un Friech Burmester arbeiden al eynige dage in de holländeryen un möken vadenholt.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
@@ -13607,7 +13607,7 @@
 14	vadenholt	vademholt	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	lemma_gml=vādemholt|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0533_1939_00042_DNS
+# sent_id = LSDC_0533_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = Denn sünd dat nu veer Mark twintig – höörst'?
 # text = Dän sünt dat nu veer mark twintig – höyrst?
 1	Dän	dän	ADV	_	_	6	advmod	_	lemma_gml=den
@@ -13621,7 +13621,7 @@
 9	höyrst	höyren	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	parataxis	_	lemma_gml=hö̂ren|SpaceAfter=No
 10	?	?	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0534_1939_00061_DNS
+# sent_id = LSDC_0534_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = Wenn dat man doon wullst!
 # text = Wän dat man doon wulst!
 1	Wän	wän	SCONJ	_	_	4	mark	_	lemma_gml=wan
@@ -13631,7 +13631,7 @@
 5	wulst	willen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	aux	_	lemma_gml=willen|SpaceAfter=No
 6	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0535_1939_00089_DNS
+# sent_id = LSDC_0535_DNS_1907_HOL_holsteynsk_maren
 # text_orig = Aver se lees dat Book doch ümmer wedder un dach darbi an sik sülben.
 # text = Aver see leas dat book doch ümmer wedder un dach dårby an sik sülven.
 1	Aver	aver	CCONJ	_	_	3	cc	_	lemma_gml=āver
@@ -13650,7 +13650,7 @@
 14	sülven	sülve	ADV	_	_	13	advmod	_	lemma_gml=sülve|SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0536_20th_00263_DNS
+# sent_id = LSDC_0536_DNS_1927_HOL_holsteynsk_kumm-rin-kiek-rut
 # text_orig = Un wenn een un de anner dat nich glöwen wull, denn sett he hento: »De Discher hett mi't seggt, de würr't nich seggen, wenn't nich wahr weer, un dat Sark hev ik sülben sehn.«
 # text = Un wän eyn un de ander dat nich gelöyven wul, dän set hee hento: »De disker het my dat segd, dee würd et nich seggen, wän et nich wår weer, un dat sark hev ik sülven seen.«
 1	Un	un	CCONJ	_	_	13	cc	_	lemma_gml=unde
@@ -13699,7 +13699,7 @@
 44	.	.	PUNCT	_	_	23	punct	_	SpaceAfter=No
 45	«	«	PUNCT	_	_	23	punct	_	_
 
-# sent_id = LSDC_0537_1939_00297_DNS
+# sent_id = LSDC_0537_DNS_1921_HAM_hamborgsk_de_rode_unnerrock
 # text_orig = In dree Wäken is Hochtied, un denn wardt ut de Tranen rode Wiendrüppen.
 # text = In dree weaken is hougtyd, un dän wardet uut de trånen roude wyndrüppen.
 1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma_gml=in
@@ -13718,7 +13718,7 @@
 14	wyndrüppen	wyndrüppen	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	xcomp	_	lemma_gml=wîndrüppe|SpaceAfter=No
 15	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0538_19th_00294_MVP
+# sent_id = LSDC_0538_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = – Hei tred en por Schritt von mi taurügg, dat hei mi ut de Fingern kamm, un säd dunn, indem dat hei mi von baben bet unnen besach un tauletzt ok mine Waden – grad as bi den Erzbischoff – in't Og faten ded: »So ein Klotz!« – grad as bi den Erzbischoff.
 # text = – Hee tread en pår skrid van my torügge, dat hee my uut de vingeren kam, un sead dun, indeam dat hee my van boaven bet unden besag un tolest ouk myne waden – gerade as by den ersbiskop – in dat ouge vaten dead: »Sou en klot!« – gerade as by den ersbiskop.
 1	–	–	PUNCT	_	_	3	punct	_	_
@@ -13784,7 +13784,7 @@
 61	ersbiskop	ersbiskop	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	20	parataxis	_	lemma_gml=archebischop|SpaceAfter=No
 62	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0539_1939_00112_DNS
+# sent_id = LSDC_0539_DNS_1911_HAM_hamborgsk_hein_godenwind_de_admirol_von_moskitonien
 # text_orig = »Fixen Ors vull harr he ober doch eegentlich hebben mußt,« lach Hein, »ik harr man dor west mußt, denn harr he dor nich von free komen!«
 # text = »Fiksen aars vul hadde hee aver doch eygentlik hebben must,« lach Hein, »ik hadde man dår west must, dän hadde hee dår nich van vry koamen!«
 1	»	»	PUNCT	_	_	10	punct	_	SpaceAfter=No
@@ -13822,7 +13822,7 @@
 33	!	!	PUNCT	_	_	21	punct	_	SpaceAfter=No
 34	«	«	PUNCT	_	_	21	punct	_	_
 
-# sent_id = LSDC_0540_20th_00048_DNS
+# sent_id = LSDC_0540_DNS_1909_NNI_noordneddersassisk_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
 # text_orig = »Ick schall morn in de Karke singen: Hoho int Holt!
 # text = »Ik skal morgen in de karke singen: Hoho in dat holt!
 1	»	»	PUNCT	_	_	8	punct	_	SpaceAfter=No
@@ -13840,7 +13840,7 @@
 13	holt	holt	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	8	ccomp	_	lemma_gml=holt|SpaceAfter=No
 14	!	!	PUNCT	_	_	13	punct	_	_
 
-# sent_id = LSDC_0541_1939_00256_DNS
+# sent_id = LSDC_0541_DNS_1909_NNI_noordneddersassisk_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
 # text_orig = »Moder, Moder, wat heww ick dar funnen, 'n Kasten mit twee littje Kinner«, denn sülwst harr he kin Kinner mit sin Fro.
 # text = »Moder, moder, wat hev ik dår vunden, en kasten mid twey lütje kinder«, dän sülvst hadde hee kyn kinder mid syn vrouwe.
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -13873,7 +13873,7 @@
 28	vrouwe	vrouwe	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	22	obl	_	lemma_gml=vrouwe|SpaceAfter=No
 29	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0542_19th_00253_MVP
+# sent_id = LSDC_0542_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = Ick lagg noch lang' un kunn nich slapen vör Freuden.
 # text = Ik lag noch lange un kun nich slåpen vöär vroiden.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
@@ -13888,7 +13888,7 @@
 10	vroiden	vroide	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	lemma_gml=vröude|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0543_1939_00107_MVP
+# sent_id = LSDC_0543_MVP_1866_meakelenborgsk_dorchlauchting
 # text_orig = – »Hir is en Nigen!« rep de Ein.
 # text = – »Hyr is en nygen!« reyp de eyn.
 1	–	–	PUNCT	_	_	6	punct	_	_
@@ -13904,7 +13904,7 @@
 11	eyn	eyn	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Ind	9	nsubj	_	lemma_gml=êin,êine,êin|SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0544_20th_00034_DNS
+# sent_id = LSDC_0544_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = BAHNWERTER mit de Fuust up'n Disch.
 # text = Baanwärder mid de vuust up den disk.
 1	Baanwärder	baanwärder	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=bānewarder
@@ -13916,7 +13916,7 @@
 7	disk	disk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	orphan	_	lemma_gml=disch|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0545_19th_00264_MVP
+# sent_id = LSDC_0545_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = Dat hadd denn nu de Kapteihn woll nich in mi söcht, denn hei was ogenschinlich erfreut, as hei dat tau hüren kreg, un hei würd noch tauvertrulicher un verteilte mi nu, hei hadd sin Auguste nahsten nochmals spraken, as de Oll up de Parad' gahn was.
 # text = Dat hadde dän nu de kaptein wol nich in my söcht, dän hee was ougenskynlik ervroid, as hee dat to höyren kreyg, un hee würd noch tovortruwliker un vortelde my nu, hee hadde syn Auguste nåsten nochmåls sproaken, as de olde up de parade gån was.
 1	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	lemma_gml=dê,dê,dat
@@ -13972,7 +13972,7 @@
 51	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	50	aux	_	lemma_gml=wēsen|SpaceAfter=No
 52	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0546_1939_00156_DNS
+# sent_id = LSDC_0546_DNS_1921_HAM_hamborgsk_de_rode_unnerrock
 # text_orig = He hett gor nix to seggen, wenn he ook jümmers so beert mit sien een Johr öller, de Torfkopp!
 # text = Hee het gaar niks to seggen, wän hee ouk jümmers sou beart mid syn eyn jår ölder, de torvkop!
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -13998,7 +13998,7 @@
 21	torvkop	torvkop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	parataxis	_	lemma_gml=torfkop|SpaceAfter=No
 22	!	!	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0547_1939_00246_DNS
+# sent_id = LSDC_0547_DNS_1909_NNI_noordneddersassisk_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
 # text_orig = As dat Joar bolle tau Enne günk, köff de Schnider 'n grot Stück Tüg, dat sneed he mit sine groten Scheere twei in luter Fitzkes un Fetzkes.
 # text = As dat jår bolde to ende güng, köf de snyder en grout stük tüüg, dat sneyd hee mid syne grouten skaere twei in luter fitskes un fetskes.
 1	As	as	SCONJ	_	_	7	mark	_	lemma_gml=alsô
@@ -14032,7 +14032,7 @@
 29	fetskes	fetsken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	27	conj	_	lemma_gml=fetseken|SpaceAfter=No
 30	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0548_20th_00032_DNS
+# sent_id = LSDC_0548_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = An densülven Dag hen na Klock teihn.
 # text = An densülven dag hen nå klokke tein.
 1	An	an	ADP	_	AdpType=Prep	3	case	_	lemma_gml=an
@@ -14044,7 +14044,7 @@
 7	tein	tein	NUM	_	_	6	nmod	_	lemma_gml=teyn|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0549_1980_00035_DNS
+# sent_id = LSDC_0549_DNS_2009_OFR_oustfreesk_clemens-bollen_leer_bundsdagsdebatt-29-januar-2009
 # text_orig = Blot so könt wi Plattdütsk as en egen un lebennigen Spraak erhollen.
 # text = Blout sou köänet wy platdüütsk as en eygen un leavendigen språke erholden.
 1	Blout	blout	ADV	_	_	2	advmod	_	lemma_gml=blôt
@@ -14061,7 +14061,7 @@
 12	erholden	erholden	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=erhōlden|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0550_1939_00206_DNS
+# sent_id = LSDC_0550_DNS_1911_HAM_hamborgsk_hein_godenwind_de_admirol_von_moskitonien
 # text_orig = Un Hein klau in de Boot un wrigg no den groten Dalailama von Snelldamper röber, de as dat grötste dütsche Schipp den Nom von den grötsten Dütschen harr un » Goethe« heeten dä.
 # text = Un Hein klauw in de bout un wrig nå den grouten dalailama van sneldamper röäver, dee as dat grötste düütske skip den name van den grötsten düütsken hadde un »Goethe« heyten dea.
 1	Un	un	CCONJ	_	_	3	cc	_	lemma_gml=unde
