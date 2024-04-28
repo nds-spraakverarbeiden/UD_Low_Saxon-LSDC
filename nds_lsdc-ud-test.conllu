@@ -23516,7 +23516,7 @@
 9	anseen	anseen	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0898_1939_02281_NNS
+# sent_id = LSDC_0898_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Noast hom luipen Jurrien Schoffels en mien Oomke, d'olle viterjoane.
 # text = Nåst hum löypen Jurrien Schoffels en myn oumke, de olde veterane.
 1	Nåst	nåst	ADP	_	AdpType=Prep	2	case	_	lemma_gml=nâ
@@ -23533,7 +23533,7 @@
 12	veterane	veterane	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	lemma_gml=vitgerjân|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0899_1939_02282_NNS
+# sent_id = LSDC_0899_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Hij was ien zien jonge joaren de Fransen ontknepen, en har dou dijnst nomen bie de Engelsen, dij hom noa de West-Injes stuurden, de Berbiessies, zoo as hij 't nuimde.
 # text = Hee was yn syn junge jåren de fransken untkneapen, en hadde do deenst noamen by de engelsken, dee hum nå de West-Indys stüürden, de Berbiessies, sou as hee et nöömde.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê,sê,et
@@ -23572,7 +23572,7 @@
 34	nöömde	nömen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl	_	lemma_gml=nö̂men|SpaceAfter=No
 35	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0900_1939_02283_NNS
+# sent_id = LSDC_0900_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Veur 'n joar of wat was 'e met 'n Engels pensjountje en 'n heil porsie vertelsels terugkomen.
 # text = Vöär en jår of wat was hee med en engelsk pensioontje en en heyl porty vortelsels terüggekoamen.
 1	Vöär	vöär	ADP	_	AdpType=Prep	3	case	_	lemma_gml=vȫr
@@ -23594,7 +23594,7 @@
 17	terüggekoamen	torüggekoamen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=terückōmen|SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
-# sent_id = LSDC_0901_1939_02284_NNS
+# sent_id = LSDC_0901_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Dij kon joe wat veur dokteren en de boeren wat op de mau spellen, as 'e 't op 't zin har.
 # text = Dee kun juw wat vöärdokteren en de buren wat up de mauwe spellen, as hee et up et sin hadde.
 1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	5	nsubj	_	lemma_gml=dê,dê,dat
@@ -23620,7 +23620,7 @@
 21	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	lemma_gml=hebben|SpaceAfter=No
 22	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0902_1939_02285_NNS
+# sent_id = LSDC_0902_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = As 'e begon: „Ik kan joe mit 'n woord van woarhaid getugen,“ dan wozzen we wel, woar 't an tou was.
 # text = As hee begun: „Ik kan juw mid en woord van wårheid getügen,“ dan wussen we wel, wår et an to was.
 1	As	as	SCONJ	_	_	3	mark	_	lemma_gml=alsô
@@ -23651,7 +23651,7 @@
 26	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	cop	_	lemma_gml=wēsen|SpaceAfter=No
 27	.	.	PUNCT	_	_	18	punct	_	_
 
-# sent_id = LSDC_0903_1939_02286_NNS
+# sent_id = LSDC_0903_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Hij moakte 't wel eis wat grof, zoodat de boeren 't markten, en doarom nuimden ze hom wel „de spekschijter;“ moar dat kon hom nijt schelen, 't wazzen moar boeren dij 't zeeën, en hij loog der moar op weg.
 # text = Hee makede et wel eyns wat grov, sou dat de buren et markeden, en dårum nöömden see hum wel „de speksketer;“ mår dat kun hum neet skealen, et wassen mår buren dee et sean, en hee loug der mår up weg.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -23704,7 +23704,7 @@
 48	weg	weg	ADV	_	_	44	advmod	_	lemma_gml=wech|SpaceAfter=No
 49	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0904_1939_02287_NNS
+# sent_id = LSDC_0904_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = 'n Endje van heur of luip Willem Koulman, n' otterdokse, wat ie wel an zien sloek hoar en verknepen gezicht zijn konnen.
 # text = En endje van höär of löyp Willem Koulman, en ortodokse, wat y wel an syn sluuk hår en vorkneapen gesichte seen kunnen.
 1	En	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
@@ -23733,7 +23733,7 @@
 24	kunnen	künnen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	23	aux	_	lemma_gml=künnen|SpaceAfter=No
 25	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0905_1939_02288_NNS
+# sent_id = LSDC_0905_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = 't Leste kwam, dat wozzen we wel veuroet, de „Peukel-op-stelten,“ zooas ze altied tegen Roulf Roulfsemoa zeeën.
 # text = Et leste kwam, dat wussen we wel vöäruut, de „pöäkel-up-stelten,“ sou as see altyd teagen Roulf Roulfsemoa sean.
 1	Et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -23761,7 +23761,7 @@
 23	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	lemma_gml=seggen|SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0906_1939_02289_NNS
+# sent_id = LSDC_0906_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Hij wol gein woord hebben, dat 'e zukke ieselk lange beinen har, en doarom dee 'e altied heil klaine stapkes en tierde zuk of 'e nijt mit komen kon.
 # text = Hee wul geyn woord hebben, dat hee sükke yselk lange beynen hadde, en dårum dea hee altyd heyl kleyne stapkes en tyrde sük of hee neet midkoamen kun.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et
@@ -23796,7 +23796,7 @@
 30	kun	künnen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	29	aux	_	lemma_gml=künnen|SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0907_1939_02290_NNS
+# sent_id = LSDC_0907_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Heerink, heerink! wat wazzen 't lange beinen.
 # text = Hearink, hearink! wat wassen et lange beynen.
 1	Hearink	hearink	INTJ	_	_	9	discourse	_	lemma_gml=hêrinc|SpaceAfter=No
@@ -23810,7 +23810,7 @@
 9	beynen	beyn	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=bêine|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0909_1939_02292_NNS
+# sent_id = LSDC_0908_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = De natuur har der vast abuus mit had, en om 't weer goud te moaken, har ze hom 'n ijwig klain bovenlief geven.
 # text = De natüür hadde der vast abüüs mid had, en um et wear good te maken, hadde see hum en eywig kleyn boavenlyv geaven.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
@@ -23840,7 +23840,7 @@
 25	geaven	geaven	VERB	_	Tense=Past|VerbForm=Part	8	conj	_	lemma_gml=gēven|SpaceAfter=No
 26	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0910_1939_02293_NNS
+# sent_id = LSDC_0909_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Moar dat was nou weer veulste klain oetvallen, en om 't nou heilendal ien 't geliek te brengen, gaf ze hom der 'n' bochel bie ; dou was't gewicht er toch.
 # text = Mår dat was now wear vöäls te kleyn uutvallen, en um et now heylendal yn et gelyk te brengen, gav see hum der en boggel by; do was et gewicht der toch.
 1	Mår	mår	CCONJ	_	_	9	cc	_	lemma_gml=mêr
@@ -23880,7 +23880,7 @@
 35	toch	doch	ADV	_	_	34	advmod	_	lemma_gml=doch|SpaceAfter=No
 36	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0911_1939_02294_NNS
+# sent_id = LSDC_0910_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Nou, dou meer de Peukel-op-stelten der was, huifden ze nijt op anderen te wachten.
 # text = Now, do mêr de pöäkel-up-stelten der was, höövden see neet up anderen te wachten.
 1	Now	nu	INTJ	_	_	10	discourse	_	lemma_gml=nû|SpaceAfter=No
@@ -23901,7 +23901,7 @@
 16	wachten	wachten	VERB	_	VerbForm=Inf	10	xcomp	_	lemma_gml=wachten|SpaceAfter=No
 17	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0912_1939_02295_NNS
+# sent_id = LSDC_0911_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = „Vrunnen,“ zee dou de kastelain, „wie binnen der nou allemoal, want ik zij der geint, dij der nijt is, en ie hebben ook allemoal joen gelag veur joe.
 # text = „Vründen,“ sea do de kastelein, „wy binnen der now allemål, want ik see der geynt, dee der neet is, en y hebben ouk allemål juwen gelag vöär juw.
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -23942,7 +23942,7 @@
 36	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	30	obl	_	lemma_gml=gî|SpaceAfter=No
 37	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0913_1939_02296_NNS
+# sent_id = LSDC_0912_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Dan konnen wie nou wel eis mit de zoaken begunnen.“
 # text = Dan kunnen wy now wel eyns mid de saken begünnen.“
 1	Dan	dan	ADV	_	_	10	advmod	_	lemma_gml=dan
@@ -23958,7 +23958,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	SpaceAfter=No
 12	“	“	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0914_1939_02297_NNS
+# sent_id = LSDC_0913_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Hij huil 'n pooske op, om eis te heuren, of er ook eine wat zeggen wol.
 # text = Hee hööld en pooske up, um eyns te höyren, of der ouk eyne wat seggen wul.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -23981,7 +23981,7 @@
 18	wul	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	aux	_	lemma_gml=willen|SpaceAfter=No
 19	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0915_1939_02298_NNS
+# sent_id = LSDC_0914_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Moar ze stakken allemoal heur neuze ien 't glaske, behalve Loeks Poester, dij stak hom der weer as altied an alle kanten overhen.
 # text = Mår see stakken allemål höär nöäse yn et glaske, behalve Loeks Poester, dee stak hum der wear as altyd an alle kanten oaverhen.
 1	Mår	mår	CCONJ	_	_	3	cc	_	lemma_gml=mêr
@@ -24011,7 +24011,7 @@
 25	oaverhen	öäverhen	ADV	_	_	18	advmod	_	lemma_gml=??|SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0916_1939_02299_NNS
+# sent_id = LSDC_0915_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Gein eine zee 'n woord.
 # text = Geyn eyne sea en woord.
 1	Geyn	geyn	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Neg	2	det	_	lemma_gml=gân
@@ -24021,7 +24021,7 @@
 5	woord	woord	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma_gml=wōrt|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0917_1939_02300_NNS
+# sent_id = LSDC_0916_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Ze dochten vast, dat 't mit 't klokjes drinken net gait as mit 't visch eten, dat je der nijt bie proaten mouten.
 # text = See dochten vast, dat et mid et klukjes drinken net geit as mid et visk eaten, dat jy der neet by pråten moten.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
@@ -24051,7 +24051,7 @@
 25	moten	möten	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	24	aux	_	lemma_gml=mö̂ten|SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0918_1939_02301_NNS
+# sent_id = LSDC_0917_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Moar 'k kon toch nijt zijn, dat ze der groaten ien vonnen; 't gong der glad genog deur.
 # text = Mår ik kun toch neet seen, dat see der gråten yn vunden; et gung der glad genug döär.
 1	Mår	mår	CCONJ	_	_	6	cc	_	lemma_gml=mêr
@@ -24076,7 +24076,7 @@
 20	döär	döär	ADP	_	_	17	case	_	lemma_gml=dȫr|SpaceAfter=No
 21	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0919_1939_02302_NNS
+# sent_id = LSDC_0918_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = „Ie weiten, zee de kastelain dou Weer, „woarom dat we hier bie 'n ander binnen; 't is 'n malle boudel.“
 # text = „Y weyten, sea de kastelein do wear, „wårum dat we hyr by en ander binnen; et is en malle bodel.“
 1	„	„	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -24107,7 +24107,7 @@
 26	.	.	PUNCT	_	_	18	punct	_	SpaceAfter=No
 27	“	“	PUNCT	_	_	18	punct	_	_
 
-# sent_id = LSDC_0920_1939_02303_NNS
+# sent_id = LSDC_0919_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = De meiste boeren schudden mit 't heufd, as of ze zeggen wollen: „'n Aldergemeinste boudel; 'k wol 't moar oet was.“
 # text = De meyste buren sküdden mid et höyvd, as of see seggen wullen: „En aldergemeynste bodel; ik wul et mår uut was.“
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
@@ -24138,7 +24138,7 @@
 26	.	.	PUNCT	_	_	18	punct	_	SpaceAfter=No
 27	“	“	PUNCT	_	_	18	punct	_	_
 
-# sent_id = LSDC_0921_1939_02304_NNS
+# sent_id = LSDC_0920_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = „Joa,“ zee de kastelain, „'t geval is misselk genog, moar 't zit er nou einmoal tou, en 't mout oet de wege.
 # text = „Jå,“ sea de kastelein, „et geval is misselk genug, mår et sit der now eynmål to, en et moot uut de weage.
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
@@ -24172,7 +24172,7 @@
 29	weage	weg	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	lemma_gml=wech|SpaceAfter=No
 30	.	.	PUNCT	_	_	13	punct	_	_
 
-# sent_id = LSDC_0922_1939_02305_NNS
+# sent_id = LSDC_0921_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = 't Olle mens mout an kant; ze mout 'n henkomen hebben.
 # text = Et olde menske moot an kante; see moot en henkoamen hebben.
 1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
@@ -24189,7 +24189,7 @@
 12	hebben	hebben	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=hebben|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0923_1939_02306_NNS
+# sent_id = LSDC_0922_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Was ze nijt hulpbehuivend, joa, dan was 't niks, ien 't armhoes zol nog wel 'n hörntje veur heur open wezen; moar ze is zoo goud as blind, en 't liekt mie tou, dat ze wat kinds begunt te worden.
 # text = Was see neet hülpbehövend, jå, dan was et niks, yn et armhuus sul noch wel en höörntje vöär höär oapen weasen; mår see is sou good as blind, en et lykt my to, dat see wat kindsk begünt te worden.
 1	Was	weasen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	4	cop	_	lemma_gml=wēsen
@@ -24240,7 +24240,7 @@
 46	worden	werden	VERB	_	VerbForm=Inf	44	xcomp	_	lemma_gml=wērden|SpaceAfter=No
 47	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0924_1939_02307_NNS
+# sent_id = LSDC_0923_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Guster, dou 'k heur der nog eis over onderhuil, zee ze niks, heilendal niks; ze dee net of 't heur nijt angong.
 # text = Güster, do ik höär der noch eyns oaver underhööld, sea see niks, heylendal niks; see dea net of et höär neet angung.
 1	Güster	güsteren	ADV	_	_	12	discourse	_	lemma_gml=goster|SpaceAfter=No
@@ -24271,7 +24271,7 @@
 26	angung	angån	VERB	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	20	advcl	_	lemma_gml=angân|SpaceAfter=No
 27	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0925_1939_02308_NNS
+# sent_id = LSDC_0924_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Eerst dou 'k al weer bie de deur was, ruip ze mie nao: „Heur, zoolang der nog barmhartighaid ien de wereld is, zoolang is der ook nog ien de hemel, dat zeg ik dij, heur!“
 # text = Eyrst do ik al wear by de döäre was, röyp see my nå: „Höyr, sou lange der noch barmhartigheid yn de wearld is, sou lange is der ouk noch yn de heamel, dat segge ik dy, höyr!“
 1	Eyrst	eyrst	ADV	_	_	11	advmod	_	lemma_gml=êrst
@@ -24321,7 +24321,7 @@
 45	!	!	PUNCT	_	_	37	punct	_	SpaceAfter=No
 46	“	“	PUNCT	_	_	37	punct	_	_
 
-# sent_id = LSPM_1939_02310_NNS
+# sent_id = LSPM_0925_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Nou, wat zol ie doar van moaken, doar kon jà gein verstandig mens oet wies worden.“
 # text = Now, wat sol y dår van maken, dår kun ja geyn vorstandig menske uut wys worden.“
 1	Now	nu	INTJ	_	_	8	discourse	_	lemma_gml=nû|SpaceAfter=No
