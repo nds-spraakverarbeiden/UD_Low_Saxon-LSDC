@@ -24956,7 +24956,7 @@
 45	nu	nu	ADV	_	_	50	advmod	_	lemma_gml=nû
 46	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	50	nsubj	_	lemma_gml=dû
 47	mik	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	50	iobj	_	lemma_gml=ik
-48	goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	det	_	lemma_gml=gêin
+48	goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	amod	_	lemma_gml=gêin
 49	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	50	obj	_	lemma_gml=ōven
 50	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	55	ccomp	_	lemma_gml=seggen
 51	hast	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	50	aux	_	lemma_gml=hebben|SpaceAfter=No
