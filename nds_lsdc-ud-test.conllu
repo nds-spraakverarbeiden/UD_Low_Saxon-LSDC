@@ -21712,7 +21712,7 @@
 13	skaffen	skaffen	VERB	_	VerbForm=Inf	2	ccomp	_	lemma_gml=schaffen|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0851_1939_00131_DWF
+# sent_id = LSDC_0851_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
 # text_orig = Niu dücht mui, dat olle Loeden in düöser Tuit niks giegen doe Herlikkoet send, doe us teodacht est.
 # text = Nu dücht my, dat olle leyden in düäser tyd niks giagen dee herlikheid sent, dee uus todacht is.
 1	Nu	nu	ADV	_	_	2	advmod	_	lemma_gml=nû
@@ -21737,7 +21737,7 @@
 20	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	acl:relcl	_	lemma_gml=wēsen|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0852_1939_00004_BRA
+# sent_id = LSDC_0852_BRA_1843_marksk_Der-Teufel-zu-Schorstedt
 # text_orig = De Boes hett ääwer ümmerfurt då rümwookert un regeert, un wenn de Schulte, dee um düsse Tiit, de olle Kassel was, vöörbiigån is, denn hett he innene rooe Jack upt Hecken sitten gån un hett emm toroopen: „Vadder Kassel wist nich häärkummen bäjen?"
 # text = De böyse het äver ümmervoord dår rümwokerd un regeerd, un wän de skulte, dee um düsse tyd, de olde Kassel was, vöärbygån is, dän het hee in eyne roude jakke up dat hekken sitten gån un het em toropen: „Vadder Kassel wist nich herkummen beaden?“
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
@@ -21795,7 +21795,7 @@
 53	?	?	PUNCT	_	_	51	punct	_	SpaceAfter=No
 54	“	“	PUNCT	_	_	51	punct	_	_
 
-# sent_id = LSDC_0853_1939_00047_BRA
+# sent_id = LSDC_0853_BRA_1843_marksk_De-Kobold-to-Ferchlipp
 # text_orig = Un so häijet ümmer jån.
 # text = Un sou het et ümmer gån.
 1	Un	un	CCONJ	_	_	6	cc	_	_
@@ -21806,7 +21806,7 @@
 6	gån	gån	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0854_1939_00072_BRA
+# sent_id = LSDC_0854_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Un 'r har goar gärn sien'n liew' füllt met dat, wat de sü freeten; awer 't gaw em keinen wat.
 # text = Un 'r hadde gaar gaern synen lyv vüld med dat, wat de süäge vraeten; aver et gav em keynen wat.
 1	Un	un	CCONJ	_	_	8	cc	_	_
@@ -21833,7 +21833,7 @@
 22	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	19	obj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0855_1939_00099_BRA
+# sent_id = LSDC_0855_BRA_1885_marksk_dree-wiehnachten
 # text_orig = - De Sunne brennde un pänkerde van fröh Morgens an, as wenn se det letzte bitchen Gras up de Wischen noch versengen süll un de Utsichten up Herwstfrüchte, tomal up de Tüffeln, de doch bi de Landlüd sönne grote Rolle spölen, würrn von Dag to Dag truriger.
 # text = - De sunne brende un penkerde van vrö morgens an, as wän see det letste bitjen gras up de wisken noch vorsengen sül un de uutsichten up hervstvrüchte, tomål up de tüffelen, dee doch by de landlüde sou ne groute rolle spöälen, würden van dag to dag truriger.
 1	-	-	PUNCT	_	_	4	punct	_	_
@@ -21890,7 +21890,7 @@
 52	truriger	trurig	ADJ	_	Degree=Cmp	47	xcomp	_	SpaceAfter=No
 53	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0856_1939_00104_BRA
+# sent_id = LSDC_0856_BRA_1885_marksk_1885_dree-wiehnachten
 # text_orig = Wat sick der woll denkt, will mi seggen, wie't heten mütt!"
 # text = Wat sik dee wol denkt, wil my seggen, wo et heyten müt!“
 1	Wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	_	_
@@ -21910,7 +21910,7 @@
 15	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
 16	“	“	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0857_1939_00105_BRA
+# sent_id = LSDC_0857_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Hä awer sprok to em: mien söähn!
 # text = Hee aver sprouk to em: myn söän!
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -21923,7 +21923,7 @@
 8	söän	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	ccomp	_	SpaceAfter=No
 9	!	!	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0858_1939_00108_BRA
+# sent_id = LSDC_0858_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Freilich verliert'n Bure in sönne Jahre mehr wie'n Daglöhnder, äber de Wehdagen van dise letzte Klasse sin doch de grötsten, denn wer ut de Hand in'n Mund lewen mütt, wer up det Swieniken, wat hä sick inslacht', un up de Tüffeln, de hä sick winnt, ewen so sehre anwesen is, wie up de paar Gröschen, de he verdent, den is de Sorge üm't dägliche Brod nich fremd un det is 'ne gar to sware Sorge.
 # text = Vrylik vorleert en bure in sou 'ne jåre meyr wo en daglöynder, äver de weydagen van disse letste klasse syn doch de grötsten, dän wee uut de hand in den mund leaven müt, wee up det swyniken, wat hee sik inslacht, un up de tüffelen, dee hee sik wint, eaven sou seyre anweasen is, wo up de pår grossen, dee hee vordeent, den is de sorge üm dat dääglike broud nich vremd un det is ne gaar to swåre sorge.
 1	Vrylik	vrylik	ADJ	_	Degree=Pos	2	advmod	_	_
@@ -22018,7 +22018,7 @@
 90	sorge	sorge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	82	conj	_	SpaceAfter=No
 91	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0859_1939_00109_BRA
+# sent_id = LSDC_0859_BRA_1843_marksk_Der-gefangene-Dachs
 # text_orig = Unn as se dunn nå Huus keemen, unn Koppe siinen Sack nåkeeken deee, fund hee richtig ne olle eenöögige Sau un keenen Dachs drin.
 # text = Un as see dun nå huus kaemen, un Koppe synen sak nåkyken dea, vund hee richtig ne olde eynöygige söäge un keynen das dårin.
 1	Un	un	ADV	_	_	16	cc	_	_
@@ -22049,7 +22049,7 @@
 26	dårin	dårin	ADV	_	_	16	advmod	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	16	punct	_	_
 
-# sent_id = LSDC_0860_1939_00112_BRA
+# sent_id = LSDC_0860_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Nu awer disser dien söähn kümmt, dä sien guot met de minscher dodtschloan hät, häste em 'n gemäst kaw schlacht't.
 # text = Nu aver disse dyn söän kümt, dee syn good med de minsker doudslån het, hest du em en gemästed kalv slachted.
 1	Nu	nu	SCONJ	_	_	6	mark	_	_
@@ -22077,7 +22077,7 @@
 23	slachted	slachten	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	23	punct	_	_
 
-# sent_id = LSDC_0861_1939_00225_BRA
+# sent_id = LSDC_0861_BRA_1843_marksk_Der-Silberberg
 # text_orig = Bi Schorstett liggt en kleinen Barg, dee mag wol so hoch wesen as en Huus, un is janz runt un heett de Silverbarg, wovan he ääwer düssen Nåmen hett, datt weet kein.
 # text = By Schorstett ligt en kleynen barg, dee mag wol sou houg weasen as en huus, un is gans rund un heyt de silverbarg, woorvan hee äver düssen namen het, dat weyt keyn.
 1	By	by	ADP	_	AdpType=Prep	2	case	_	_
@@ -22118,7 +22118,7 @@
 36	keyn	keyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	35	nsubj	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0862_1939_00231_BRA
+# sent_id = LSDC_0862_BRA_1885_marksk_dree-wiehnachten
 # text_orig = - Keen Mensch glöwte, det det Bürschken wedder kamen künn, denn da was jo nich Saft oder Kraft in; det Mulwerk was freilich grot nogt, blos damet was gegen de Franzosen nich voel to verrichten.
 # text = - Keyn menske gelöyvde, det det bürsken wedder koamen kün, dän dår was jo nich saft oader kraft in; det muulwerk was vrylik grout noog, blouts dårmed was geagen de fransosen nich vöäle to vorrichten.
 1	-	-	PUNCT	_	_	4	punct	_	_
@@ -22162,7 +22162,7 @@
 39	vorrichten	vorrichten	VERB	_	VerbForm=Inf	27	conj	_	SpaceAfter=No
 40	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0863_1939_00246_BRA
+# sent_id = LSDC_0863_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Un hä reep to sich einen van de knächte, un fruoch wat doa wier.
 # text = Un hee reyp to sik eynen van de knechte, un vroog wat dår weer.
 1	Un	un	CCONJ	_	_	3	cc	_	_
@@ -22182,7 +22182,7 @@
 15	weer	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	14	cop	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0864_1939_00250_BRA
+# sent_id = LSDC_0864_BRA_1843_marksk_Der-letzte-von-Britzke-zu-Kemnitz
 # text_orig = Ofte hebben ook siine Lüüe, wenn hee uutfüürt was, en grootet Gepolder vannen Wågen hüürt, un hebben löövt, dett eer Herre nå Huus kåmen wär, un wenn se denn ruutkåmen sint, is allet still un nist då west.
 # text = Ofte hebben ouk syne lüde, wän hee uutvöörd was, en groutet gepolder van nen wagen höyrd, un hebben löyvd, det ear herre nå huus koamen weer, un wän see dän ruutkoamen sint, is allet stil un nist dår west.
 1	Ofte	ofte	ADV	_	_	18	advmod	_	_
@@ -22232,7 +22232,7 @@
 45	west	weasen	AUX	_	Tense=Past|VerbForm=Part	41	cop	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	18	punct	_	_
 
-# sent_id = LSDC_0865_1939_00285_BRA
+# sent_id = LSDC_0865_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Ewen harr hä wedder van sin Husrecht Gebruk mockt, as hä gliek naher sülwenst in de Döhre sichtbar word.
 # text = Eaven hadde hee wedder van syn huusrecht gebruuk maked, as hee gelyk nåher sülvenst in de döäre sichtbår word.
 1	Eaven	eaven	ADV	_	_	9	advmod	_	_
@@ -22257,7 +22257,7 @@
 20	word	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0866_1939_00262_BRA
+# sent_id = LSDC_0866_BRA_1843_marksk_Die-Streithufe
 # text_orig = In fröere Tiijen hett to Schorstett miir Acker hüürt as zund, dee is ääwer as de ollen datt immer vertellt hebben upp düsse Wiis afkåmen.
 # text = In vröere tyden het to Schorstett meyr akker höyrd as itsund, dee is äver as de olden dat immer vorteld hebben up düsse wyse afkoamen.
 1	In	in	ADP	_	AdpType=Prep	3	case	_	_
@@ -22288,7 +22288,7 @@
 26	afkoamen	afkoamen	VERB	_	Tense=Past|VerbForm=Part	9	parataxis	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0867_1939_00269_BRA
+# sent_id = LSDC_0867_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Doa wur 'r zurnig un wull' ne ringoahn.
 # text = Do wurd 'r tornig un wul ne ringån.
 1	Do	do	ADV	_	_	2	advmod	_	_
@@ -22301,9 +22301,9 @@
 8	ringån	heringån	VERB	_	VerbForm=Inf	2	conj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0868_1939_00278_BRA
+# sent_id = LSDC_0868_BRA_1843_marksk_De-Kobold-to-Ferchlipp
 # text_orig = Upd iirst deee hee datt Ge- sinne nich tofreden låten, denn dee, weck de lezt to Bejje« gån is, hett allebott enen Slach vöörn Hinnern kreejen, so dat se up de lezt ümmer all to hoope int Bejje sprungen sin; un ofte was ook de rootjaeckige Junge går nich to seeen, un de lezt kreech doch siinen Slach.
-# text = Up det eyrst dea hee dat gesinde nich tovreaden låten, dän dee, wek de lest to bedde gån is, het allebot eynen slag vöär den hinderen kreagen, sou dat see up de lest ümmer alle to houpe in dat bedde sprungen syn; un ofte was ouk de roudjakkige junge gaar nich to seen, un de lest kreyg doch synen slag.
+# text = Up de eyrst dea hee dat gesinde nich tovreaden låten, dän dee, wek de lest to bedde gån is, het allebot eynen slag vöär den hinderen kreagen, sou dat see up de lest ümmer alle to houpe in dat bedde sprungen syn; un ofte was ouk de roudjakkige junge gaar nich to seen, un de lest kreyg doch synen slag.
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	_
 2	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	eyrst	eyrst	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Fem|Number=Sing	10	obl	_	_
@@ -22372,7 +22372,7 @@
 66	slag	slag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	63	obj	_	SpaceAfter=No
 67	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = LSDC_0869_1939_00309_BRA
+# sent_id = LSDC_0869_BRA_1843_marksk_Die-Todtenfahrt
 # text_orig = As hee nu upp de aenner Siie ankåmen deee, stund da sonnen grooten schwarten Keerel, dee sett: „Füür mii aar!"
 # text = As hee nu up de ander syde ankoamen dea, stund dår sou nen grouten swarten kearel, dee segt: „Vöör my oaver!“
 1	As	as	SCONJ	_	_	8	mark	_	_
@@ -22403,7 +22403,7 @@
 26	!	!	PUNCT	_	_	23	punct	_	SpaceAfter=No
 27	“	“	PUNCT	_	_	23	punct	_	_
 
-# sent_id = LSDC_0870_1939_00313_BRA
+# sent_id = LSDC_0870_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = ick häw sünnigt im himmel un vör di;
 # text = ik hev sündigd in dem himmel un vöär dy;
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -22417,7 +22417,7 @@
 9	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	SpaceAfter=No
 10	;	;	PUNCT	_	_	3	punct	_	_
 
-# sent_id = LSDC_0871_1939_00314_BRA
+# sent_id = LSDC_0871_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Wi springen irst so lustig rin in’t Lewen, as wenn’t Enne gar nich aftoreiken wir, wi hebben so voel totosetten an Gesundheit un Kraft, det wi gar nich begriepen könn’n, wo all de oll’ krützlige Menschen herkamen, de üm uns her lopen; wi denken, so jung un kräftig sin de nich west as wi un so humpelig können wi woll nimmermehr werrn, wie de sin.
 # text = Wy springen eyrst sou lustig rin in det leaven, as wän det ende gaar nich af to reiken weer, wy hebben sou vöäle to to setten an gesundheid un kraft, det wy gaar nich begrypen können, woor al de olde krütslike mensken herkoamen, dee üm uns her loupen; wy denken, sou jung un kräftig syn dee nich west as wy un sou humpelig können wy wol nimmermeyr werden, wo dee syn.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
@@ -22501,7 +22501,7 @@
 79	syn	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	77	cop	_	SpaceAfter=No
 80	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0872_1939_00336_BRA
+# sent_id = LSDC_0872_BRA_1843_marksk_Die-Todtenfahrt
 # text_orig = „Na een Düüwel hetten ängern aarfüürt", sett de Schwarte, denn den Fischer siin Nåme was Düüwel.
 # text = „Na eyn düvel het den änderen oavervöörd“, segt de swarte, dän den visker syn name was düvel.
 1	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No
@@ -22527,7 +22527,7 @@
 21	düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0873_1939_00349_BRA
+# sent_id = LSDC_0873_BRA_1843_marksk_Die-Todtenfahrt
 # text_orig = Dunn rüüelt hee mett alle siine Kraft unn brengt ook tolest den Kån glücklich aar.
 # text = Dun rödelt hee med alle syne kraft un brengt ouk tolest den kane gelüklik oaver.
 1	Dun	dun	ADV	_	_	2	advmod	_	_
@@ -22547,7 +22547,7 @@
 15	oaver	öäver	ADP	_	_	9	compound:prt	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0874_1939_00350_BRA
+# sent_id = LSDC_0874_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = do bis' alltied bi mi un allt wat mien is, is dien.
 # text = du bis altyd by my un allet wat myn is, is dyn.
 1	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
@@ -22565,7 +22565,7 @@
 13	dyn	dyn	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs|Poss=Yes	5	conj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	_
 
-# sent_id = LSDC_0875_1939_00355_BRA
+# sent_id = LSDC_0875_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Uppen Lanne is det äber nich der Fall, weinigstens datomal dachte keen Mensch dran, det 'ne Veränderung intreden künn un det det Lohn bi düre Tied etwas erhöht werrn müßte; der Mann kreg bi Winterdag söß Sülwergröschen, in de Sommermonaten söß Gröschen Courant un de Frau halv so voel, so was det immer west un't schen ok so to bliwen, best in alle Ewigkeit; äber Inrichtung hörde dato, wenn de paar Gröschen van eene Woche best to de änder uthaun sülln, för Band un Tand was nißt öber, der Gröschen harr dunn noch'n groten Werth.
 # text = Up den lande is det äver nich de val, weynigstens dotomål dachte keyn menske dåran, det ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste; de man kreyg by winterdag sös sülvergrossen, in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle, sou was det immer west un et skeyn ouk sou to blyven, bet in alle eywigheid; äver inrichtinge höyrde dårto, wän de pår grossen van eyne weake bet to de änder uuthauwen süllen, vöär band un tand was nist öäver, de grossen hadde dun noch en grouten waerd.
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	_
@@ -22678,7 +22678,7 @@
 108	waerd	waerd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	103	obj	_	SpaceAfter=No
 109	.	.	PUNCT	_	_	9	punct	_	_
 
-# sent_id = LSDC_0876_1939_00365_BRA
+# sent_id = LSDC_0876_BRA_1843_marksk_Die-Todtenfahrt
 # text_orig = åver dee uppen Röverbarch sett wiier nist as: „Hål man aar", unn då hett hee siinen Kån losmåkt unn is aarfüürt.
 # text = aver dee up den röyverbarg segt wyder nist as: „Haal man oaver“, un do het hee synen kane lousmaked un is oavervöörd.
 1	aver	aver	CCONJ	_	_	6	cc	_	_
@@ -22709,7 +22709,7 @@
 26	oavervöörd	öävervören	VERB	_	Tense=Past|VerbForm=Part	23	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0877_1939_00373_BRA
+# sent_id = LSDC_0877_BRA_1885_marksk_dree-wiehnachten
 # text_orig = "Ick woll blos, der Köster kem mal na Frankreich," seggt der Lienewewer, "un finge mit sine Contenanzen an, den lachten jo woll de Kinder up de Strate wat ut!
 # text = "Ik wol blouts, der köster kaem mål nå Frankryke," segt de lyneweaver, "un vinge mid syne kontenansen an, den lachten jo wol de kinder up de stråte wat uut!
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
@@ -22750,7 +22750,7 @@
 36	uut	uut	ADP	_	_	27	compound:prt	_	SpaceAfter=No
 37	!	!	PUNCT	_	_	20	punct	_	_
 
-# sent_id = LSDC_0878_1939_00383_BRA
+# sent_id = LSDC_0878_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Wenn ick mi vörstelle, wie det fröher was, wat ick as Junge sehn un met erlewt hev un wenn ick de jitzige Tieden dagegen holl!
 # text = Wän ik my vöärstelle, wo det vröer was, wat ik as junge seen un med erleavd hev un wän ik de jitsige tyden dårgeagen holde!
 1	Wän	wän	SCONJ	_	_	4	mark	_	_
@@ -22782,7 +22782,7 @@
 27	holde	holden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	conj	_	SpaceAfter=No
 28	!	!	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0879_1939_00428_BRA
+# sent_id = LSDC_0879_BRA_1843_marksk_Die-verwusteten-Stadte
 # text_orig = Dat Dörp Schorstett is vöör Öllers ne Statt west, dårum heett et ook Schorstett, dichte vöört Dörp is ook noch en grooten Wall, dee schiin- bårlich wiist, dattet ene Statt west is.
 # text = Dat dörp Schorstett is vöär ölders ne stad west, dårum heyt et ouk Schorstett, dichte vöär dat dörp is ouk noch en grouten wal, dee skynbårlik wyst, dat et eyne stad west is.
 1	Dat	dat	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
@@ -22824,7 +22824,7 @@
 37	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	aux	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0880_1939_00435_BRA
+# sent_id = LSDC_0880_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Un de oll' dheelte dat guot.
 # text = Un de olde deylde dat good.
 1	Un	un	CCONJ	_	_	4	cc	_	_
@@ -22835,7 +22835,7 @@
 6	good	good	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0881_1939_00469_BRA
+# sent_id = LSDC_0881_BRA_1843_marksk_Der-Teufel-zu-Schorstedt
 # text_orig = Upd' lest is hee van sülwest furtbleewen.
 # text = Up det lest is hee van sülvst voordbleaven.
 1	Up	up	ADP	_	_	3	case	_	_
@@ -22848,7 +22848,7 @@
 8	voordbleaven	voordblyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0882_1939_00477_BRA
+# sent_id = LSDC_0882_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = Doa gung de ollsch rut un batt'n.
 # text = Do gung de oldske ruut un badden.
 1	Do	do	ADV	_	_	2	advmod	_	_
@@ -22860,7 +22860,7 @@
 7	badden	beaden	VERB	_	VerbForm=Inf	2	conj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0883_1939_00488_BRA
+# sent_id = LSDC_0883_BRA_1843_marksk_Der-Silberberg
 # text_orig = Se seggen, datt vöör ollen Tiijen, as de Lüe noch in de Iir wånt hebben, då ook Lüe in wånt hebben, un de kleine Höll, de dål annen Acker to seeen is, datt sal de Poortendöör west sin.
 # text = See seggen, dat vöär olden tyden, as de lüde noch in de aerde woand hebben, dår ouk lüde in woand hebben, un de kleyne hölle, dee dale an den akker to seen is, dat sal de poortendöäre west syn.
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
@@ -22910,7 +22910,7 @@
 45	syn	weasen	AUX	_	VerbForm=Inf	43	aux	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	2	punct	_	_
 
-# sent_id = LSDC_0884_1939_00511_BRA
+# sent_id = LSDC_0884_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Ick bin jo nu ok in de Jahre, wo ick van mi seggen mütt, det der Herwst vör de Döhre is un as ick hüt dörch de Felder ging, da meind’ ick fast, de Jahrestied paßte so recht to min Older; äber in mi wiren keene Herwstgedanken, mine fröhste Jugendtied trat wedder vör mine Seele, all’ de enzeln Halme nehmen Gestalt un Lewen an un wenn se der Wind bögte, denn kam’t mi vör, as wiren’t luter oll leewe Bekannte, de wie’n Schattenspöll bi mi vöröber Treckten.
 # text = Ik bin jo nu ouk in de jåre, woor ik van my seggen müt, det de hervst vöär de döäre is un as ik hüde döärch de velder ging, do meynde ik vast, de jårstyd pasde sou recht to myn older; äver in my weren keyne hervstgedanken, myne vrööste jöägdtyd trad wedder vöär myne seyle, alle de eynselen halme naemen gestalt un leaven an un wän see de wind böygde, dän kam et my vöär, as weren et luter olde leve bekande, dee wo en skaddenspöl by my vöäröäver trekkeden.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
@@ -23015,7 +23015,7 @@
 100	trekkeden	trekken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	91	acl	_	SpaceAfter=No
 101	.	.	PUNCT	_	_	8	punct	_	_
 
-# sent_id = LSDC_0885_1939_00538_BRA
+# sent_id = LSDC_0885_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = giw mi dat dheel güö'r, dat mi 'hürt.
 # text = giv my dat deyl göder, dat my höyrt.
 1	giv	geaven	VERB	_	Mood=Imp|Number=Sing	0	root	_	_
@@ -23029,7 +23029,7 @@
 9	höyrt	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl:relcl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
-# sent_id = LSDC_0886_1939_00557_BRA
+# sent_id = LSDC_0886_BRA_1843_marksk_Der-Spuk-auf-dem-Schloss-zu-Kemnitz
 # text_orig = Int olle Schlott to Kemnitz isset nie recht richtig west, denn Nachtens hebben de Lüüe ofte en grooten Lärm un Spittåkel, hüürt, un watt dett west is, dat kunne Martin Runge, de Knecht upt Schlott was, am besten vertellen.
 # text = In dat olde slot to Kemnitz is et nich recht richtig west, dän nachtens hebben de lüde ofte en grouten lärm un spektakel, höyrd, un wat det west is, dat kunne Martin Runge, dee knecht up det slot was, an dem besten vortellen.
 1	In	in	ADP	_	AdpType=Prep	4	case	_	_
@@ -23083,7 +23083,7 @@
 49	vortellen	vortellen	VERB	_	VerbForm=Inf	26	conj	_	SpaceAfter=No
 50	.	.	PUNCT	_	_	11	punct	_	_
 
-# sent_id = LSDC_0887_1939_00571_BRA
+# sent_id = LSDC_0887_BRA_1885_marksk_dree-wiehnachten
 # text_orig = - Wenn ok det Korn woll noch so handlich geraden was, met de hohe Feldwischen un de Weid' för det Veh sach't slimm ut, so det keen Landmann ahn bange Sorgen an den nächsten Winter denken künn.
 # text = - Wän ouk det koorn wol noch sou handlik geråden was, med de houge veldwisken un de weide vöär det vee sag et slim uut, sou det keyn landman åne bange sorgen an den naegsten winter denken kün.
 1	-	-	PUNCT	_	_	23	punct	_	_
@@ -23128,7 +23128,7 @@
 40	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	39	aux	_	SpaceAfter=No
 41	.	.	PUNCT	_	_	23	punct	_	_
 
-# sent_id = LSDC_0888_1939_00581_BRA
+# sent_id = LSDC_0888_BRA_1843_marksk_Der-weissagende-Schwan
 # text_orig = Un dett hett ook keene acht Dåge duurt, då is de Eddelmann doot west.
 # text = Un det het ouk keyne acht dage duurd, do is de eddelman doud west.
 1	Un	un	CCONJ	_	_	8	cc	_	_
@@ -23148,7 +23148,7 @@
 15	west	weasen	AUX	_	Tense=Past|VerbForm=Part	14	cop	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	14	punct	_	_
 
-# sent_id = LSDC_0889_1939_00605_BRA
+# sent_id = LSDC_0889_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Was der Winter mal apartig kolt, denn künn sick der Mann dadörch helpen, det hä twee Jacken un twee paar Hasen antreckte, de Jungs rönnden sick up de Slidderbahnen warm un de Scholstuv was so met Kindertüg vullpekelt, det det Linnentüg god utreikte.
 # text = Was de winter mål apartig kold, dän kün sik de man dårdöärch helpen, det hee twey jakken un twey pår hoasen antrekkede, de jungens rönden sik up de slidderbanen warm un de skoolstuve was sou med kindertüüg vulpekeld, det det linnentüüg good uutreykede.
 1	Was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	aux	_	_
@@ -23200,7 +23200,7 @@
 47	uutreykede	uutreyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	advcl	_	SpaceAfter=No
 48	.	.	PUNCT	_	_	14	punct	_	_
 
-# sent_id = LSDC_0890_1939_00612_BRA
+# sent_id = LSDC_0890_BRA_1843_marksk_Die-Streithufe
 # text_orig = Dee hett denn Iir vannen Graevenitzschen Acker in siine Schoo dån, un hett, as de Schorstettschen kåmen sinn, ören Acker to plöjen, sick upp düssen Acker stellt un hett secht, datt datt Graevenitzsch Acker wär.
 # text = Dee het dän aerde van den graevenitzsken akker in syne sko dån, un het, as de schorstettsken koamen syn, öären akker to plögen, sik up düssen akker steld un het segd, dat dat graevenitzsk akker weer.
 1	Dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
@@ -23246,7 +23246,7 @@
 41	weer	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	40	cop	_	SpaceAfter=No
 42	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0891_1939_00624_BRA
+# sent_id = LSDC_0891_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = ick bin upstünn's ne miehr wärth, dat 'k dien söähn heite.
 # text = ik bin upstünds ne meyr waerd, dat ik dyn söän heyte.
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -23263,7 +23263,7 @@
 12	heyte	heyten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	6	advcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0892_1939_00654_BRA
+# sent_id = LSDC_0892_BRA_1885_marksk_dree-wiehnachten
 # text_orig = In det kleine Dörp Motzien, wovan ick vertelln will, was det grad ewenso, t'was nich better un nich slechter wie änderwegens un van eintliche Noth was im Allgemeinen nich de Rede; ick hev ok blos seggen wollt, met wo weinig man datomal noch verstund, sick un 'ne Familie dörch de Welt to brengen.
 # text = In det kleyne dörp Motzien, woorvan ik vortellen wil, was det gerade eavensou, et was nich better un nich slechter wo änderweagens un van eygentlike noud was in dem algemeynen nich de reade; ik hev ouk blouts seggen wold, med wo weynig man dotomål noch vorstund, sik un ne familie döärch de werld to brengen.
 1	In	in	ADP	_	AdpType=Prep	4	case	_	_
@@ -23329,7 +23329,7 @@
 61	brengen	bringen	VERB	_	VerbForm=Inf	51	xcomp	_	SpaceAfter=No
 62	.	.	PUNCT	_	_	15	punct	_	_
 
-# sent_id = LSDC_0893_1939_00664_BRA
+# sent_id = LSDC_0893_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Met der Wiel harr der Köster sine Köh in den Stall brocht, harr sine lange Piepe frisch stoppt un was nu so wiet, det hä künn kieken helpen.
 # text = Med der wyle hadde de köster syne köe in den stal brocht, hadde syne lange pype vrisk stopped un was nu sou wyd, det hee kün kyken helpen.
 1	Med	mid	ADP	_	AdpType=Prep	3	case	_	_
@@ -23364,7 +23364,7 @@
 30	helpen	helpen	VERB	_	VerbForm=Inf	24	advcl	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	12	punct	_	_
 
-# sent_id = LSDC_0894_1939_00686_BRA
+# sent_id = LSDC_0894_BRA_1843_marksk_Der-Spuk-auf-dem-Schloss-zu-Kemnitz
 # text_orig = Eerscht uppet Keese- brett, wo de Eddelfraue eeren Keese drööcht hett, denn upp de Anrichte in de Kööken, denn in de Vorråtskåmer, un måkt alle Spinnen, dee de Fraue immer toschlåten hadde, upp un keek, in alle Töppe.
 # text = Eyrst up det kaesebred, woor de eddelvrouwe earen kaese dröygd het, dän up de anrichte in de köäken, dän in de voarrådskamer, un maakt alle spinden, dee de vrouwe immer tosloaten hadde, up un keyk, in alle döppe.
 1	Eyrst	eyrst	ADV	_	_	4	advmod	_	_
@@ -23414,7 +23414,7 @@
 45	döppe	dop	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	41	obl	_	SpaceAfter=No
 46	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = LSDC_0895_1939_00698_BRA
+# sent_id = LSDC_0895_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Wie rasch doch de Tied vergeit un wie kort doch de Jahre werrn, wenn man an sick sülwenst föhlt, det det Ölder vör de Döhre is.
 # text = Wo rask doch de tyd vorgeit un wo kort doch de jåre werden, wän man an sik sülvenst vöölt, det det ölder vöär de döäre is.
 1	Wo	wo	ADV	_	_	2	advmod	_	_
@@ -23447,7 +23447,7 @@
 28	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	cop	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	6	punct	_	_
 
-# sent_id = LSDC_0896_1939_00758_BRA
+# sent_id = LSDC_0896_BRA_1843_marksk_Die-Todtenfahrt
 # text_orig = Unn so wo de Doot dat den Fischer vertellt hett, isset ook ekåmen; dat ganze Dörp is uutstorven, man de Fischer is aarbliiwen unn issen riiken riiken Mann wåren, unn siene Kinger leewen noch bett upp dissen Dach in Göttin unn sinn riike Lüüe.
 # text = Un sou wo de doud dat den visker vorteld het, is et ouk ekoamen; dat ganse dörp is uutstorven, man de visker is oaverbliaven un is en ryken ryken man worden, un syne kinder leaven noch bet up dissen dag in Göttin un sin ryke lüde.
 1	Un	un	CCONJ	_	_	15	cc	_	_
@@ -23502,7 +23502,7 @@
 50	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	39	conj	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	15	punct	_	_
 
-# sent_id = LSDC_0897_1939_00831_BRA
+# sent_id = LSDC_0897_BRA_1885_marksk_dree-wiehnachten
 # text_orig = Det olle Dörp har'n gar to fründliges Ansehn.
 # text = Det olde dörp hadde en gaar to vründlikes anseen.
 1	Det	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
