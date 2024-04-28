@@ -23896,7 +23896,7 @@
 11	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=sê
 12	neet	nich	PART	_	PartType=Neg	10	advmod	_	lemma_gml=nicht
 13	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
-14	anderen	ander	PRON	_	Case=Acc|Degree=Pos|Number=Plur|PronType=Ind	16	obl	_	lemma_gml=ander
+14	anderen	ander	PRON	_	Case=Acc|Number=Plur|PronType=Ind	16	obl	_	lemma_gml=ander
 15	te	to	PART	_	PartType=Inf	16	mark	_	lemma_gml=tô
 16	wachten	wachten	VERB	_	VerbForm=Inf	10	xcomp	_	lemma_gml=wachten|SpaceAfter=No
 17	.	.	PUNCT	_	_	10	punct	_	_
@@ -24033,14 +24033,14 @@
 7	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma_gml=mit
 8	et	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 9	klukjes	klüksken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	lemma_gml=klôk
-10	drinken	drinken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing|VerbForm=Inf	12	obl	_	lemma_gml=drinken
+10	drinken	drinken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	obl	_	lemma_gml=drinken
 11	net	net	ADV	_	_	12	advmod	_	lemma_gml=net
 12	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma_gml=gân
 13	as	as	SCONJ	_	_	17	mark	_	lemma_gml=alsô
 14	mid	mid	ADP	_	AdpType=Prep	17	case	_	lemma_gml=mit
 15	et	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 16	visk	visk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	lemma_gml=visch
-17	eaten	eaten	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing|VerbForm=Inf	12	conj	_	lemma_gml=ēten|SpaceAfter=No
+17	eaten	eaten	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	conj	_	lemma_gml=ēten|SpaceAfter=No
 18	,	,	PUNCT	_	_	24	punct	_	_
 19	dat	dat	SCONJ	_	_	24	mark	_	lemma_gml=dat
 20	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	24	nsubj	_	lemma_gml=gî
@@ -24834,8 +24834,8 @@
 27	wän	wän	SCONJ	_	_	33	mark	_	lemma_gml=wan
 28	dik	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	33	iobj	_	lemma_gml=dû
 29	“	“	PUNCT	_	_	30	punct	_	SpaceAfter=No
-30	Goden	good	PROPN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	nsubj	_	lemma_gml=guen
-31	åvend	åvend	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	30	flat	_	lemma_gml=ōven|SpaceAfter=No
+30	Goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	33	nsubj	_	lemma_gml=guen
+31	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	flat	_	lemma_gml=ōven|SpaceAfter=No
 32	”	”	PUNCT	_	_	30	punct	_	lemma_gml=”
 33	eboaden	beden	VERB	_	Tense=Past|VerbForm=Part	23	advcl	_	lemma_gml=gebêden
 34	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	33	aux	_	lemma_gml=wērden|SpaceAfter=No
@@ -24900,8 +24900,8 @@
 26	dat	dat	SCONJ	_	_	32	mark	_	lemma_gml=dat
 27	eyn	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	32	nsubj	_	lemma_gml=êin,êine,êin
 28	‘	‘	PUNCT	_	_	29	punct	_	SpaceAfter=No
-29	Goden	good	NOUN	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	32	ccomp	_	lemma_gml=gôt
-30	åvend	åvend	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	29	flat	_	lemma_gml=ōven|SpaceAfter=No
+29	Goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	32	ccomp	_	lemma_gml=gôt
+30	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	29	flat	_	lemma_gml=ōven|SpaceAfter=No
 31	’	’	PUNCT	_	_	30	punct	_	_
 32	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	ccomp	_	lemma_gml=seggen|SpaceAfter=No
 33	.	.	PUNCT	_	_	2	punct	_	_
@@ -24956,7 +24956,7 @@
 45	nu	nu	ADV	_	_	50	advmod	_	lemma_gml=nû
 46	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	50	nsubj	_	lemma_gml=dû
 47	mik	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	50	iobj	_	lemma_gml=ik
-48	goden	good	DET	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	det	_	lemma_gml=gêin
+48	goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	49	det	_	lemma_gml=gêin
 49	åvend	åvend	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	50	obj	_	lemma_gml=ōven
 50	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	55	ccomp	_	lemma_gml=seggen
 51	hast	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	50	aux	_	lemma_gml=hebben|SpaceAfter=No
