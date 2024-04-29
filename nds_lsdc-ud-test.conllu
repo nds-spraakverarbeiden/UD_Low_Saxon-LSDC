@@ -26121,7 +26121,7 @@
 9	immer	immer	ADV	_	_	10	advmod	_	_
 10	sou	sou	ADV	_	_	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	_
-12	als	as	CCONJ	_	_	17	cc	_	_
+12	als	as	SCONJ	_	_	17	cc	_	_
 13	wän	wän	SCONJ	_	_	17	mark	_	_
 14	eyner	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	17	nsubj	_	_
 15	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
