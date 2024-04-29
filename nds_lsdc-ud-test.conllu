@@ -21847,7 +21847,7 @@
 9	morgens	morgens	ADV	_	_	8	advmod	_	_
 10	an	an	ADP	_	_	8	case	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	23	punct	_	_
-12	as	as	CCONJ	_	_	23	cc	_	_
+12	as	as	SCONJ	_	_	23	cc	_	_
 13	wän	wän	SCONJ	_	_	23	mark	_	_
 14	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 15	det	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
@@ -22430,7 +22430,7 @@
 8	det	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
 9	leaven	leaven	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	19	punct	_	_
-11	as	as	CCONJ	_	_	19	cc	_	_
+11	as	as	SCONJ	_	_	19	cc	_	_
 12	wän	wän	SCONJ	_	_	19	mark	_	_
 13	det	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
 14	ende	ende	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
@@ -25257,7 +25257,7 @@
 19	to	to	PART	_	PartType=Inf	18	mark	_	lemma_gml=tô
 20	syn	weasen	AUX	_	VerbForm=Inf	18	cop	_	lemma_gml=wēsen|SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	_
-22	as	as	CCONJ	_	_	25	cc	_	lemma_gml=alsô
+22	as	as	SCONJ	_	_	25	cc	_	lemma_gml=alsô
 23	wän	wän	SCONJ	_	_	25	mark	_	lemma_gml=wan
 24	dår	dår	ADV	_	_	25	nsubj	_	lemma_gml=dat
 25	steit	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	advcl	_	lemma_gml=stân|SpaceAfter=No
