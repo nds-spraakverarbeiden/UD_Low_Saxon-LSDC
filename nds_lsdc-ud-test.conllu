@@ -1069,7 +1069,7 @@
 20	eare	ear	DET	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	21	det:poss	_	lemma_gml=ēr¹
 21	pearde	peard	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	17	obj	_	lemma_gml=pērt¹|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	_
-23	as	as	CCONJ	_	_	26	mark	_	lemma_gml=alsô
+23	as	as	SCONJ	_	_	26	mark	_	lemma_gml=alsô
 24	wullen	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbType=Aux	26	aux	_	lemma_gml=willen¹
 25	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	lemma_gml=sê²
 26	uutryden	uutryden	VERB	_	VerbForm=Inf	17	advcl	_	lemma[gml]ûtrîden|SpaceAfter=No
