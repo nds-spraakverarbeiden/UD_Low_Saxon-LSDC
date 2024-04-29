@@ -2623,7 +2623,7 @@
 6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=êⁱn¹
 7	knisteren	knisteren	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	lemma_gml=knisteren|SpaceAfter=No
 8	,	,	PUNCT	_	_	15	punct	_	_
-9	äs	as	CCONJ	_	_	15	cc	_	lemma_gml=alsô
+9	äs	as	SCONJ	_	_	15	cc	_	lemma_gml=alsô
 10	wän	wan	SCONJ	_	_	15	mark	_	lemma_gml=wan³
 11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=et¹
 12	uut	uut	ADP	_	AdpType=Prep	14	case	_	lemma_gml=ût¹
