@@ -22997,7 +22997,7 @@
 82	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	80	obl	_	_
 83	vöär	vöär	ADP	_	_	80	compound	_	SpaceAfter=No
 84	,	,	PUNCT	_	_	91	punct	_	_
-85	as	as	CCONJ	_	_	91	mark	_	_
+85	as	as	SCONJ	_	_	91	mark	_	_
 86	weren	weasen	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past	91	cop	_	_
 87	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	91	nsubj	_	_
 88	luter	luter	ADJ	_	_	89	advmod	_	_
