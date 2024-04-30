@@ -12744,7 +12744,7 @@
 2	gesicht	gesicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	lemma_gml=gesichte
 3	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	cop	_	lemma_gml=wēsen
 4	dårby	dårby	ADV	_	_	8	advmod	_	lemma_gml=dârbî
-5	as	as	CCONJ	_	_	8	cc	_	lemma_gml=alsô
+5	as	as	SCONJ	_	_	8	mark	_	lemma_gml=alsô
 6	in	in	ADP	_	AdpType=Prep	7	case	_	lemma_gml=in
 7	steyn	steyn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	lemma_gml=stêin
 8	uuthauwd	uuthauwen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=ûthouwen|SpaceAfter=No
@@ -14871,7 +14871,7 @@
 43	geagen	geagen	ADP	_	AdpType=Prep	44	case	_	lemma_gml=gēgen
 44	enander	enander	PRON	_	Case=Acc|Number=Sing|PronType=Rcp	46	obl	_	lemma_gml=êinander
 45	an	an	ADP	_	_	44	case	_	lemma_gml=an
-46	skrygen	skrygen	VERB	_	VerbForm=Inf	40	nmod	_	lemma_gml=schrîgen|SpaceAfter=No
+46	skrygen	skrygen	VERB	_	VerbForm=Inf	40	acl	_	lemma_gml=schrîgen|SpaceAfter=No
 47	,	,	PUNCT	_	_	50	punct	_	_
 48	un	un	CCONJ	_	_	50	cc	_	lemma_gml=unde
 49	dän	dän	ADV	_	_	50	advmod	_	lemma_gml=den
