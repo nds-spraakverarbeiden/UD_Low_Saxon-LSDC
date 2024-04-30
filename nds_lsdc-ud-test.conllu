@@ -44,7 +44,7 @@
 16	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	advcl	_	lemma_gml=et¹
 17	keynen	keynen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Neg	16	nsubj	_	lemma_gml=kêⁱn²
 18	anders	anders	ADJ	_	Gender=Neut|Number=Sing	17	nmod	_	lemma_gml=anders
-19	as	as	CCONJ	_	_	21	case	_	lemma_gml=alsô
+19	as	as	ADP	_	_	21	case	_	lemma_gml=alsô
 20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê¹
 21	her	heyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=hêre⁴
 22	pastor	pastor	NOUN	_	Gender=Masc|Number=Sing	21	flat	_	lemma_gml=pâstôr
@@ -1164,7 +1164,7 @@
 19	hellig	hellig	ADJ	_	Degree=Pos	3	conj	_	lemma_gml=hellich³
 20	up	up	ADP	_	AdpType=Prep	21	case	_	lemma_gml=up²
 21	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	19	obl	_	lemma_gml=ik
-22	as	as	SCONJ	_	_	23	case	_	lemma_gml=alsô
+22	as	as	ADP	_	_	23	case	_	lemma_gml=alsô
 23	spinnekop	spinnekop	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
 24	;	;	PUNCT	_	_	30	punct	_	_
 25	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	lemma_gml=sê²
@@ -1895,7 +1895,7 @@
 
 # sent_id = LSDC_0052_NWF_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_08
 # text_orig = 'k weet nog best, 't gink van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan zooveule as de verbuuginge van ‘taofel’ en ‘jonge’; wieder he'k ut er dan ok niet mee ebracht;
-# text = ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan souvöäle as de verbüginge van ‘tåfel’ en ‘junge’; wyder hebbe ik et der dan ouk neet meade ebracht;
+# text = ik weyt noch best, et ging van mensa, mensae, mensarum, mensas, puer en pueri, dat was dan souvöäle as de vorbüginge van ‘tåfel’ en ‘junge’; wyder hebbe ik et der dan ouk neet meade ebracht;
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
 2	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=wēten¹
 3	noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch²
@@ -1920,9 +1920,9 @@
 22	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	cop	_	lemma_gml=wēsen²
 23	dan	dan	ADV	_	_	24	advmod	_	lemma_gml=dan¹
 24	souvöäle	souveale	ADJ	_	Degree=Pos	7	parataxis	_	_
-25	as	as	SCONJ	_	_	27	case	_	lemma_gml=alsô
+25	as	as	ADP	_	_	27	case	_	lemma_gml=alsô
 26	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê¹
-27	verbüginge	vorbuginge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	nmod	_	_
+27	vorbüginge	vorbuginge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	nmod	_	_
 28	van	van	ADP	_	AdpType=Prep	30	case	_	lemma_gml=van¹
 29	‘	‘	PUNCT	_	_	30	punct	_	SpaceAfter=No
 30	tåfel	tåfel	NOUN	_	Gender=Fem|Number=Sing	27	nmod:poss	_	lemma_gml=tāfele|SpaceAfter=No
