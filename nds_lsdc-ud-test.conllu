@@ -23752,7 +23752,7 @@
 14	,	,	PUNCT	_	_	13	punct	_	SpaceAfter=No
 15	“	“	PUNCT	_	_	13	punct	_	_
 16	sou	sou	ADV	_	_	23	advmod	_	lemma_gml=sôs
-17	as	as	SCONJ	_	_	23	mark	_	lemma_gml=sôs
+17	as	as	ADV	_	_	23	advmod	_	lemma_gml=sôs
 18	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=sê
 19	altyd	altyd	ADV	_	_	23	advmod	_	lemma_gml=alletît
 20	teagen	geagen	ADP	_	AdpType=Prep	21	case	_	lemma_gml=tēgen
