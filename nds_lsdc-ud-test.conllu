@@ -1623,7 +1623,7 @@
 7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
 8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
 9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
-10	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
+10	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
 11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma_gml=vü̂r¹|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
