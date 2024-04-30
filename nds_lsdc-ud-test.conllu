@@ -4543,14 +4543,14 @@
 10	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	lemma_gml=hê
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê
 12	gerechtigheid	gerechtigheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	lemma_gml=gerechtichhêit
-13	as	as	SCONJ	_	_	14	case	_	lemma_gml=alsô
+13	as	as	ADP	_	_	14	case	_	lemma_gml=alsô
 14	loun	loun	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=lôn
 15	un	un	CCONJ	_	_	16	cc	_	lemma_gml=unde
 16	vordeenst	vordeenst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	lemma_gml=vordênst
 17	to	to	ADP	_	_	9	compound:prt	_	lemma_gml=tô
 18	un	un	CCONJ	_	_	21	cc	_	lemma_gml=unde
 19	nich	nich	PART	_	PartType=Neg	21	advmod	_	lemma_gml=nicht
-20	as	as	SCONJ	_	_	21	case	_	lemma_gml=alsô
+20	as	as	ADP	_	_	21	case	_	lemma_gml=alsô
 21	genåde	genåde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	16	conj	_	lemma_gml=genâde|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	_
 
