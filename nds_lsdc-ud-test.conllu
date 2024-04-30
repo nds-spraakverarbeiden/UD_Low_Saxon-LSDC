@@ -23566,7 +23566,7 @@
 28	Berbiessies	Berbiessies	PROPN	_	Number=Plur	24	appos	_	lemma_gml=berbîsiesie|SpaceAfter=No
 29	,	,	PUNCT	_	_	34	punct	_	_
 30	sou	sou	ADV	_	_	34	advmod	_	lemma_gml=sô
-31	as	as	SCONJ	_	_	34	mark	_	lemma_gml=alsô
+31	as	as	ADV	_	_	34	advmod	_	lemma_gml=alsô
 32	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	lemma_gml=hê,sê,et
 33	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	34	obj	_	lemma_gml=hê,sê,et
 34	nöömde	nömen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	acl	_	lemma_gml=nö̂men|SpaceAfter=No
