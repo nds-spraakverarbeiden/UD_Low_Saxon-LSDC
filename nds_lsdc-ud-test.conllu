@@ -24222,8 +24222,8 @@
 28	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	30	cop	_	lemma_gml=wēsen
 29	sou	sou	ADV	_	_	30	advmod	_	lemma_gml=sô
 30	good	good	ADJ	_	Degree=Pos	11	conj	_	lemma_gml=gôt
-31	as	as	CCONJ	_	_	32	cc	_	lemma_gml=alsô
-32	blind	blind	ADJ	_	Degree=Pos	30	conj	_	lemma_gml=blint|SpaceAfter=No
+31	as	as	ADP	_	_	32	case	_	lemma_gml=alsô
+32	blind	blind	ADJ	_	Degree=Pos	30	obl	_	lemma_gml=blint|SpaceAfter=No
 33	,	,	PUNCT	_	_	36	punct	_	_
 34	en	un	CCONJ	_	_	36	cc	_	lemma_gml=ende
 35	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	lemma_gml=hê,sê,et
