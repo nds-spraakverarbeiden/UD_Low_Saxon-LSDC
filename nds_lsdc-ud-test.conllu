@@ -3461,7 +3461,7 @@
 6	by	by	ADP	_	AdpType=Prep	8	case	_	lemma_gml=bî
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	lemma_gml=dê
 8	pinken	pink	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	5	obl	_	lemma_gml=pinke
-9	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
+9	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
 10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê
 11	beste	good	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=gôt
 12	vöär	vöär	ADP	_	AdpType=Prep	14	case	_	lemma_gml=vȫr
@@ -6119,7 +6119,7 @@
 6	rechtevoord	rechtevoord	ADV	_	_	2	advmod	_	lemma_gml=rechtevōrt
 7	teagen	geagen	ADP	_	AdpType=Prep	8	case	_	lemma_gml=tēgen
 8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	lemma_gml=ik
-9	as	as	ADV	_	_	11	case	_	lemma_gml=alsô
+9	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
 10	styv	styv	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=stîf
 11	linnen	linnen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=lîn|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
@@ -6295,7 +6295,7 @@
 73	verkentyn	verkenken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	74	obj	_	lemma_gml=verkenken
 74	slachten	slachten	VERB	_	VerbForm=Inf	53	conj	_	lemma_gml=slachten
 75	as	as	ADP	_	_	76	case	_	lemma_gml=alsô
-76	ikke	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	74	obl	_	lemma_gml=ik|SpaceAfter=No
+76	ikke	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	71	obl	_	lemma_gml=ik|SpaceAfter=No
 77	.	.	PUNCT	_	_	74	punct	_	_
 
 # sent_id = LSDC_0225_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
@@ -6446,7 +6446,7 @@
 61	van	van	ADP	_	AdpType=Prep	63	case	_	lemma_gml=van
 62	dee	dee	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	63	det	_	lemma_gml=dê,dê,dat
 63	koffy	koffy	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	68	obl	_	lemma_gml=koffî
-64	as	as	CCONJ	_	_	67	mark	_	lemma_gml=alsô
+64	as	as	ADP	_	_	67	case	_	lemma_gml=alsô
 65	van	van	ADP	_	AdpType=Prep	67	case	_	lemma_gml=van
 66	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	67	det	_	lemma_gml=êin,êine,êin
 67	borrel	borrel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	60	obl	_	lemma_gml=borrel
@@ -7624,7 +7624,7 @@
 18	niks	niks	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	20	nsubj:pass	_	lemma_gml=nichtes
 19	anders	ander	ADJ	_	Case=Gen|Degree=Pos	18	amod	_	lemma_gml=anders
 20	toholden	toholden	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=tôhōlden
-21	as	as	CCONJ	_	_	23	cc	_	lemma_gml=alsô
+21	as	as	ADP	_	_	23	case	_	lemma_gml=alsô
 22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	lemma_gml=dê,dê,dat
 23	büle	büdel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nmod	_	lemma_gml=bü̂del|SpaceAfter=No
 24	,	,	PUNCT	_	_	31	punct	_	_
@@ -7774,7 +7774,7 @@
 27	ouk	ouk	ADV	_	_	25	advmod	_	lemma_gml=ôk
 28	alles	alles	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	25	obj	_	lemma_gml=al
 29	beater	good	ADJ	_	Degree=Cmp	25	amod	_	lemma_gml=gôt
-30	as	as	CCONJ	_	_	31	cc	_	lemma_gml=alsô
+30	as	as	ADP	_	_	31	case	_	lemma_gml=alsô
 31	Hinne	Hinne	PROPN	_	Number=Sing	29	obl	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	34	punct	_	_
 33	en	un	CCONJ	_	_	34	cc	_	lemma_gml=ende
@@ -8010,7 +8010,7 @@
 13	dat	dat	SCONJ	_	_	22	mark	_	lemma_gml=dat
 14	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	22	nsubj	_	lemma_gml=gî
 15	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	22	obj	_	lemma_gml=ik
-16	as	as	SCONJ	_	_	19	mark	_	lemma_gml=alsô
+16	as	as	ADP	_	_	19	case	_	lemma_gml=alsô
 17	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=êin,êine,êin
 18	olde	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	lemma_gml=ōlt
 19	lappe	lappe	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	lemma_gml=lappe
@@ -8098,7 +8098,7 @@
 11	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
 12	völe	völen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	conj	_	lemma_gml=vö̂len
 13	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	12	obj	_	lemma_gml=ik
-14	as	as	SCONJ	_	_	16	cc	_	lemma_gml=alsô
+14	as	as	ADP	_	_	16	case	_	lemma_gml=alsô
 15	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	lemma_gml=êin,êine,êin
 16	man	man	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obl	_	lemma_gml=man
 17	med	mid	ADP	_	AdpType=Prep	18	case	_	lemma_gml=mit
@@ -8723,7 +8723,7 @@
 24	banke	bank	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=bank
 25	beater	good	ADJ	_	Degree=Cmp	18	ccomp	_	lemma_gml=gôt
 26	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	25	cop	_	lemma_gml=wēsen
-27	as	as	SCONJ	_	_	28	cc	_	lemma_gml=alsô
+27	as	as	ADP	_	_	28	case	_	lemma_gml=alsô
 28	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	nmod	_	lemma_gml=wî|SpaceAfter=No
 29	!	!	PUNCT	_	_	14	punct	_	_
 
@@ -12570,7 +12570,7 @@
 6	mang	mang	ADP	_	AdpType=Prep	8	case	_	lemma_gml=manc
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 8	vuren	vure	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	5	obl	_	lemma_gml=vûre
-9	anders	anders	ADV	_	_	10	advmod	_	lemma_gml=anders
+9	anders	anders	PRON	_	_	10	xcomp	_	lemma_gml=anders
 10	warden	werden	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=wērden
 11	as	as	ADP	_	_	12	case	_	lemma_gml=alsô
 12	slecht	slecht	ADJ	_	Degree=Pos	9	obl	_	lemma_gml=slicht
@@ -15170,7 +15170,7 @@
 12	as	as	ADP	_	_	15	case	_	lemma_gml=alsô
 13	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
 14	gansen	gans	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	lemma_gml=gans
-15	Hippodrom	Hippodrom	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	lemma_gml=hippodrôm|SpaceAfter=No
+15	Hippodrom	Hippodrom	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=hippodrôm|SpaceAfter=No
 16	,	,	PUNCT	_	_	21	punct	_	_
 17	dat	dat	SCONJ	_	_	21	mark	_	lemma_gml=dat
 18	dår	dår	ADV	_	_	21	advmod	_	lemma_gml=dâr
@@ -22689,7 +22689,7 @@
 6	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	wyder	wyder	ADV	_	_	6	advmod	_	_
 8	nist	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	6	obj	_	_
-9	as	as	CCONJ	_	_	8	cc	_	SpaceAfter=No
+9	as	as	ADP	_	_	12	case	_	SpaceAfter=No
 10	:	:	PUNCT	_	_	6	punct	_	_
 11	„	„	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Haal	halen	VERB	_	Mood=Imp|Number=Sing	6	ccomp	_	_
