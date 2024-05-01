@@ -22690,7 +22690,7 @@
 7	wyder	wyder	ADV	_	_	6	advmod	_	_
 8	nist	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	6	obj	_	_
 9	as	as	ADP	_	_	12	case	_	SpaceAfter=No
-10	:	:	PUNCT	_	_	6	punct	_	_
+10	:	:	PUNCT	_	_	9	punct	_	_
 11	„	„	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Haal	halen	VERB	_	Mood=Imp|Number=Sing	6	ccomp	_	_
 13	man	men	ADV	_	_	12	advmod	_	_
