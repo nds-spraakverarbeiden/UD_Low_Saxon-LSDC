@@ -13759,7 +13759,7 @@
 36	waden	wade	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	47	obj	_	lemma_gml=wāde
 37	–	–	PUNCT	_	_	42	punct	_	_
 38	gerade	gerade	ADV	_	_	42	advmod	_	lemma_gml=gerāde
-39	as	as	SCONJ	_	_	42	mark	_	lemma_gml=alsô
+39	as	as	ADP	_	_	42	case	_	lemma_gml=alsô
 40	by	by	ADP	_	AdpType=Prep	42	case	_	lemma_gml=bî
 41	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
 42	ersbiskop	ersbiskop	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	47	obl	_	lemma_gml=archebischop
@@ -13778,10 +13778,10 @@
 55	«	«	PUNCT	_	_	53	punct	_	_
 56	–	–	PUNCT	_	_	61	punct	_	_
 57	gerade	gerade	ADV	_	_	61	advmod	_	lemma_gml=gerāde
-58	as	as	SCONJ	_	_	61	mark	_	lemma_gml=alsô
+58	as	as	ADP	_	_	61	case	_	lemma_gml=alsô
 59	by	by	ADP	_	AdpType=Prep	61	case	_	lemma_gml=bî
 60	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	lemma_gml=dê,dê,dat
-61	ersbiskop	ersbiskop	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	20	parataxis	_	lemma_gml=archebischop|SpaceAfter=No
+61	ersbiskop	ersbiskop	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	20	obl	_	lemma_gml=archebischop|SpaceAfter=No
 62	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0539_DNS_1911_HAM_hamborgsk_hein_godenwind_de_admirol_von_moskitonien
@@ -14937,8 +14937,8 @@
 21	un	un	CCONJ	_	_	22	cc	_	lemma_gml=unde
 22	stram	stram	ADJ	_	Number=Sing	20	conj	_	lemma_gml=stram|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	_
-24	as	as	SCONJ	_	_	25	mark	_	lemma_gml=alsô
-25	eyner	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	conj	_	lemma_gml=êin,êine,êin|SpaceAfter=No
+24	as	as	ADP	_	_	25	case	_	lemma_gml=alsô
+25	eyner	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	obl	_	lemma_gml=êin,êine,êin|SpaceAfter=No
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	lemma_gml=dê,dê,dat
 28	lange	lang	ADV	_	_	29	advmod	_	lemma_gml=lanc
