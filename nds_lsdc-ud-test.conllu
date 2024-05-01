@@ -1962,10 +1962,10 @@
 13	leedtys	leedken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	lemma_gml=lêt¹|SpaceAfter=No
 14	,	,	PUNCT	_	_	19	punct	_	_
 15	sou	sou	ADV	_	_	19	advmod	_	lemma_gml=sô²
-16	as	as	SCONJ	_	_	19	case	_	lemma_gml=alsô|SpaceAfter=No
+16	as	as	ADP	_	_	19	case	_	lemma_gml=alsô|SpaceAfter=No
 17	:	:	PUNCT	_	_	19	punct	_	_
 18	‘	‘	PUNCT	_	_	19	punct	_	SpaceAfter=No
-19	Iovivat	Iovivat	X	_	Foreign=Yes	13	appos	_	SpaceAfter=No
+19	Iovivat	Iovivat	X	_	Foreign=Yes	13	obl	_	SpaceAfter=No
 20	’	’	PUNCT	_	_	19	punct	_	_
 21	en	un	CCONJ	_	_	23	cc	_	lemma_gml=unde²
 22	‘	‘	PUNCT	_	_	23	punct	_	SpaceAfter=No
