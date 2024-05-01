@@ -22496,9 +22496,9 @@
 74	nimmermeyr	nimmermeyr	ADV	_	_	75	advmod	_	_
 75	werden	werden	VERB	_	VerbForm=Inf	59	conj	_	SpaceAfter=No
 76	,	,	PUNCT	_	_	77	punct	_	_
-77	wo	wo	ADV	_	_	70	advcl	_	_
-78	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	77	nsubj	_	_
-79	syn	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	77	cop	_	SpaceAfter=No
+77	wo	wo	SCONJ	_	_	79	mark	_	_
+78	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	79	nsubj	_	_
+79	syn	weasen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	70	advcl	_	SpaceAfter=No
 80	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0872_BRA_1843_marksk_Die-Todtenfahrt
