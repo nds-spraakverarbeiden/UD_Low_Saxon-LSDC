@@ -34,20 +34,21 @@ The following people were involved in the creation of this dataset:
 If you use this treebank, please cite this paper:
 
 ```
-@inproceedings{siewert-etal-2021-towards,
-    title = "Towards a balanced annotated Low {S}axon dataset for diachronic investigation of dialectal variation",
-    author = {Siewert, Janine  and
-      Scherrer, Yves  and
-      Tiedemann, J{\"o}rg},
-    booktitle = "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)",
-    month = "6--9 " # sep,
-    year = "2021",
-    address = {D{\"u}sseldorf, Germany},
-    publisher = "KONVENS 2021 Organizers",
-    url = "https://aclanthology.org/2021.konvens-1.25",
-    pages = "242--246",
+@inproceedings{siewert-rueter-2024,
+  author    = {Siewert, Janine and Rueter, Jack},
+  title     = {{The Low Saxon LSDC Dataset at Universal Dependencies}},
+  booktitle = {Proceedings of the 2024 Joint International Conference on Computational
+               Linguistics, Language Resources and Evaluation},
+  series    = {LREC-COLING 2024},
+  year      = {2024},
+  month     = {05},
+  address   = {Torino, Italia},
+  organization = {ELRA Language Resources Association (ELRA) and the
+                  International Committee on Computational Linguistics
+                  (ICCL)},
+  pubstate  = {forthcoming},
+  note      = {accepted}
 }
-
 ```
 ### References used for the creation of this dataset: 
 
