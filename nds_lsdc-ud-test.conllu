@@ -3195,7 +3195,7 @@
 18	inerichted	inrichten	VERB	_	Aspect=Perf|VerbForm=Part	14	conj	_	_
 19	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	aux	_	lemma_gml=wēsen²|SpaceAfter=No
 20	,	,	PUNCT	_	_	24	punct	_	_
-21	ar	as	SCONJ	_	_	24	mark	_	_
+21	ar	as	ADP	_	_	24	case	_	_
 22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê¹
 23	minsklike	minsklik	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
 24	körper	körper	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
@@ -3220,7 +3220,7 @@
 43	vorprudeld	vorprudelen	VERB	_	Aspect=Perf|VerbForm=Part	41	conj	_	_
 44	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	aux:pass	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	41	punct	_	_
-46	ar	as	SCONJ	_	_	48	mark	_	_
+46	ar	as	ADP	_	_	48	case	_	_
 47	gerade	gerade	ADV	_	_	48	advmod	_	_
 48	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	41	obl	_	lemma_gml=dê¹|SpaceAfter=No
 49	.	.	PUNCT	_	_	2	punct	_	_
@@ -8391,7 +8391,7 @@
 13	sul	sköälen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	15	aux	_	lemma_gml=schȫlen
 14	u	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	15	obj	_	lemma_gml=gî
 15	vögen	vögen	VERB	_	VerbForm=Inf	10	conj	_	lemma_gml=vö̂gen
-16	as	as	SCONJ	_	_	19	mark	_	lemma_gml=alsô
+16	as	as	ADP	_	_	19	case	_	lemma_gml=alsô
 17	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=êin,êine,êin
 18	neye	ny	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	lemma_gml=nîe
 19	lappe	lappe	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	obl	_	lemma_gml=lappe
@@ -10727,8 +10727,8 @@
 25	c.q.	c.q.	X	_	_	26	dep	_	lemma_gml=c.q.
 26	Kas	Kas	PROPN	_	Number=Sing	23	appos	_	lemma_gml=kas
 27	Harms	Harms	PROPN	_	Number=Sing	26	flat	_	lemma_gml=harms
-28	stån	stån	VERB	_	VerbForm=Inf	13	conj	_	lemma_gml=stân
-29	gån	gån	VERB	_	Tense=Past|VerbForm=Part	28	xcomp	_	lemma_gml=gân|SpaceAfter=No
+28	stån	stån	VERB	_	VerbForm=Inf	29	xcomp	_	lemma_gml=stân
+29	gån	gån	VERB	_	Tense=Past|VerbForm=Part	13	conj	_	lemma_gml=gân|SpaceAfter=No
 30	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = LSDC_0406_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
@@ -11575,7 +11575,7 @@
 17	vaster	vast	ADJ	_	Degree=Cmp	24	advmod	_	lemma_gml=vast
 18	as	as	ADP	_	_	20	case	_	lemma_gml=alsô
 19	en	een	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	lemma_gml=êin,êine,êin
-20	vels	vels	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	nmod	_	lemma_gml=vels
+20	vels	vels	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obl	_	lemma_gml=vels
 21	up	up	ADP	_	AdpType=Prep	23	case	_	lemma_gml=uppe
 22	earem	ear	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	23	det	_	lemma_gml=sîn,ēr,sîn
 23	sin	sin	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	24	obl	_	lemma_gml=sin
@@ -16292,7 +16292,7 @@
 32	kreagel	kreagel	ADJ	_	Degree=Pos	30	conj	_	lemma_gml=krēgel
 33	uut	uut	ADP	_	_	28	compound:prt	_	lemma_gml=ût|SpaceAfter=No
 34	,	,	PUNCT	_	_	38	punct	_	_
-35	as	as	ADP	_	_	38	cc	_	lemma_gml=alsô
+35	as	as	ADP	_	_	38	case	_	lemma_gml=alsô
 36	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	38	det	_	lemma_gml=êin,êine,êin
 37	olden	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	lemma_gml=ōlt
 38	junggeselle	junggeselle	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	lemma_gml=juncgeselle
@@ -21628,7 +21628,7 @@
 86	wöre	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	84	aux	_	lemma_gml=wēsen|SpaceAfter=No
 87	,	,	PUNCT	_	_	102	punct	_	_
 88	sou	sou	ADV	_	_	102	advmod	_	lemma_gml=sô
-89	os	as	ADV	_	_	102	advmod	_	lemma_gml=alsô
+89	os	as	SCONJ	_	_	102	mark	_	lemma_gml=alsô
 90	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	102	nsubj	_	lemma_gml=hê,sê,et
 91	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	102	obj	_	lemma_gml=hê,sê,et
 92	synen	syn	DET	_	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	93	det	_	lemma_gml=sîn,ēr,sîn
@@ -24036,11 +24036,11 @@
 10	drinken	drinken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	obl	_	lemma_gml=drinken
 11	net	net	ADV	_	_	12	advmod	_	lemma_gml=net
 12	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma_gml=gân
-13	as	as	SCONJ	_	_	17	mark	_	lemma_gml=alsô
+13	as	as	ADP	_	_	17	case	_	lemma_gml=alsô
 14	mid	mid	ADP	_	AdpType=Prep	17	case	_	lemma_gml=mit
 15	et	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 16	visk	visk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	lemma_gml=visch
-17	eaten	eaten	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	conj	_	lemma_gml=ēten|SpaceAfter=No
+17	eaten	eaten	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	12	obl	_	lemma_gml=ēten|SpaceAfter=No
 18	,	,	PUNCT	_	_	24	punct	_	_
 19	dat	dat	SCONJ	_	_	24	mark	_	lemma_gml=dat
 20	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	24	nsubj	_	lemma_gml=gî
