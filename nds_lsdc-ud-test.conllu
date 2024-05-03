@@ -11193,7 +11193,7 @@
 2	Klatsen	klatsen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=klatsent
 3	by	by	ADP	_	AdpType=Prep	5	case	_	lemma_gml=bî
 4	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
-5	CDU	CDU	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=CDU|SpaceAfter=No
+5	CDU	CDU	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=CDU|SpaceAfter=No
 6	)	)	PUNCT	_	_	2	punct	_	_
 7	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
 8	hev	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	parataxis	_	lemma_gml=hebben
