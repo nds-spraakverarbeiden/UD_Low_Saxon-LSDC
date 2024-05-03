@@ -3922,7 +3922,7 @@
 84	mid	mid	ADP	_	AdpType=Prep	86	case	_	lemma_gml=mit
 85	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	86	det	_	lemma_gml=dê,dê,dat
 86	herren	heyre	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	81	obl	_	lemma_gml=hêre
-87	underofficier	Unteroffizier	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	86	flat	_	lemma_gml=underofficier
+87	underofficier	underofficier	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	86	flat	_	lemma_gml=underofficier
 88	tosamen	tosamen	ADV	_	_	81	advmod	_	lemma_gml=tôsāmen|SpaceAfter=No
 89	,	,	PUNCT	_	_	92	punct	_	_
 90	un	un	CCONJ	_	_	92	cc	_	lemma_gml=unde
