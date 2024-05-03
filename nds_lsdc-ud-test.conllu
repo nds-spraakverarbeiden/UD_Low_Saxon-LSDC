@@ -1052,7 +1052,7 @@
 3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê¹
 4	veerde	veerde	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma_gml=vêrde⁴
 5	dår	dår	ADV	_	_	7	advmod	_	lemma_gml=dâr¹
-6	hendaal	hendaal	ADV	_	_	7	advmod	_	lemma_gml=hendāl
+6	hendaal	hendale	ADV	_	_	7	advmod	_	lemma_gml=hendāl
 7	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	advcl	_	lemma_gml=kōmen¹|SpaceAfter=No
 8	,	,	PUNCT	_	_	14	punct	_	_
 9	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sô²
