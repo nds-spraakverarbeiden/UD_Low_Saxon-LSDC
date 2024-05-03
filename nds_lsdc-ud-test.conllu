@@ -9539,8 +9539,8 @@
 35	waerd	waerd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	lemma_gml=wērt
 36	üüt	uut	ADP	_	AdpType=Prep	39	case	_	lemma_gml=in
 37	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem,Masc|Number=Sing|PronType=Art	39	det	_	lemma_gml=dê,dê,dat
-38	Golden	Golden	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem,Masc|Number=Sing	39	amod	_	lemma_gml=gülden
-39	Ploege	Ploege	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	35	nmod	_	lemma_gml=plôge
+38	Golden	golden	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem,Masc|Number=Sing	39	amod	_	lemma_gml=gülden
+39	Ploege	ploog	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	35	nmod	_	lemma_gml=plôge
 40	gyn	geyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	42	det	_	lemma_gml=gêin
 41	neye	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	42	amod	_	lemma_gml=nîe
 42	sküür	skuur	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	33	obj	_	lemma_gml=schü̂r
