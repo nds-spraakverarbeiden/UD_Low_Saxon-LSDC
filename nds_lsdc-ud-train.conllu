@@ -2168,7 +2168,7 @@
 # sent_id = LSDC_0598_DNS_1919_HOL_holsteynsk_minschen-bi-hamborg-rum
 # text_orig = Ik hev ümmer de Hambörger Kutschers un ehr Peer mehr bewunnert as den ganzen Hippodrom, dat dar keen Minschen tweipeddt un toschannmahlt worrn sünd.
 # text = Ik hev ümmer de hambörger kutsers un ear pearde meyr bewunderd as den gansen Hippodrom, dat dår keyn minsken tweipedded un toskandenmaald worden sünt.
-1	Ik	Ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
+1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
 2	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	lemma_gml=hebben
 3	ümmer	immer	ADV	_	_	11	advmod	_	lemma_gml=iemmer
 4	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
