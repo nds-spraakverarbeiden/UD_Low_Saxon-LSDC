@@ -4807,7 +4807,7 @@
 # sent_id = LSDC_0161_DWF_1900+-_SUD_suderland_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup
 # text_orig = Hiärmen deh et wyier gutt, dat et iähme de Schaffner füör Dummheit rak, süs wör hai, statt met me Zuge te foihern, verhaftet woren.
 # text = Hiärmen dea et wyder good, dat et eame de skafner vöär dumheid rak, süs wöör hee, staad mid me tuage to vören, vorhafted worden.
-1	Hiärmen	Hiärmen	PRON	_	Number=Sing	2	obj	_	lemma_gml=hiärmen
+1	Hiärmen	Hiärmen	PROPN	_	Number=Sing	2	obj	_	lemma_gml=hiärmen
 2	dea	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=dôn
 3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	lemma_gml=et
 4	wyder	wyder	ADV	_	_	2	advmod	_	lemma_gml=wîder
