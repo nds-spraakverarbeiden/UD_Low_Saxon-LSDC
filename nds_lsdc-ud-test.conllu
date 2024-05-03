@@ -2228,7 +2228,7 @@
 # sent_id = LSDC_0060_NWF_1894_twente_krisjan_klaover_jw_heinink_05
 # text_orig = Dat wèt y net zoo good as ikke, dat doo'j!
 # text = Dat wet y net sou good as ikke, dat do y!
-1	Dat	Dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=dat
+1	Dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=dat
 2	wet	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=wēten¹
 3	y	jy	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî²
 4	net	net	ADV	_	_	6	advmod	_	lemma_gml=net³
