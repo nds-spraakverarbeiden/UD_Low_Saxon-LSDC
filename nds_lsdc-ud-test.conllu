@@ -975,10 +975,10 @@
 # sent_id = LSDC_0031_BRA_1882_brandenborg_neumark_-_de_grusamme_scheeper
 # text_orig = Jie sä'n, Jie weer'n mie guod - göäwt mie 'n Bewies 'van un schenkt mie dissen Buck, dä mie söähre klok schient un denn ick woll metünner üm Roath fra'n mücht.
 # text = Jy seaden, Jy weren my good - geavet my en bewys van un skenket my dissen buk, dee my seyre klook skynt un den ik wol midünder üm råd vrågen müchte.
-1	Jy	Jy	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=gî²
+1	Jy	jy	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=gî²
 2	seaden	seggen	VERB	_	Mood=Ind|Number=Plur|Tense=Past	0	root	_	lemma_gml=seggen|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
-4	Jy	Jy	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	7	nsubj	_	lemma_gml=gî²
+4	Jy	jy	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	7	nsubj	_	lemma_gml=gî²
 5	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Tense=Past|VerbType=Cop	7	cop	_	lemma_gml=wēsen²
 6	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	7	obj	_	lemma_gml=ik
 7	good	good	ADJ	_	Degree=Pos	2	parataxis	_	lemma_gml=gôt²
