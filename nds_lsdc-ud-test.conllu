@@ -5480,7 +5480,7 @@
 9	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 10	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	lemma_gml=kint
 11	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux	_	lemma_gml=hebben
-12	Jochen	Jochen	NOUN	_	Number=Sing	13	nsubj	_	_
+12	Jochen	Jochen	PROPN	_	Number=Sing	13	nsubj	_	_
 13	wegjaagd	wegjagen	VERB	_	Tense=Past|VerbForm=Part	2	conj	_	lemma_gml=wechjāgen|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
