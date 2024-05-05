@@ -5,141 +5,150 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>189</sentences><tokens>4659</tokens><words>4683</words><fused>15</fused></total>
-    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <total><sentences>1000</sentences><tokens>22615</tokens><words>22639</words><fused>15</fused></total>
+    <train><sentences>500</sentences><tokens>11666</tokens><words>11666</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>189</sentences><tokens>4659</tokens><words>4683</words><fused>15</fused></test>
+    <test><sentences>500</sentences><tokens>10949</tokens><words>10973</words><fused>15</fused></test>
   </size>
-  <lemmas unique="1171" /><!-- ,, de, un, ., ik, weasen, dat, en, hebben, et, hee, to, dee, in, nich -->
-  <forms unique="1586" /><!-- ,, de, ., un, dat, en, ik, et, in, dee, den, van, hee, to, ; -->
+  <lemmas unique="3407" /><!-- ,, de, un, ., weasen, ik, hee, dat, en, hebben, et, see, in, nich, to -->
+  <forms unique="4802" /><!-- ,, ., de, un, dat, en, ik, hee, et, see, in, den, dee, sou, van -->
   <fusions unique="10" /><!-- to'm, im, to'n, Kumste, am, bym, in'en, in't, ten, van'er -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">265</tag><!-- good, ander, leev, veale, old, eyrst, grout, arm, byster, gans -->
-    <tag name="ADP">315</tag><!-- in, van, mid, an, to, vöär, up, by, nå, öäver -->
-    <tag name="ADV">432</tag><!-- sou, dår, ouk, dan, noch, nu, wol, do, al, doch -->
-    <tag name="AUX">227</tag><!-- weasen, hebben, künnen, willen, sköälen, möten, werden, möägen, doon -->
-    <tag name="CCONJ">208</tag><!-- un, aver, men, of, oader, as, dän, mår, avers, bolde -->
-    <tag name="DET">470</tag><!-- de, en, syn, myn, et, uns, juw, ear, keyn, dee -->
-    <tag name="INTJ">15</tag><!-- jå, och, ja, nu, jo, ney, o -->
-    <tag name="NOUN">605</tag><!-- heyre, vrouwe, woord, dag, junge, lüüd, man, stad, tyd, hand -->
-    <tag name="NUM">22</tag><!-- eyn, dree, tein, twey, 10, 14, 1817, achten, dörtig, hunderd -->
-    <tag name="PART">79</tag><!-- nich, to, en, te -->
-    <tag name="PRON">533</tag><!-- ik, hee, et, dee, see, dat, jy, sik, wat, du -->
-    <tag name="PROPN">99</tag><!-- Marigge, Kägebein, Daniel, Hente, Hiärmen, Jesus, Josua, Jüsken, Kiel, Marleen -->
-    <tag name="PUNCT">713</tag><!-- ,, ., ;, !, :, ', ?, ", -, – -->
-    <tag name="SCONJ">119</tag><!-- dat, as, wän, wan, üm, dän, of, do, dun, eyr -->
-    <tag name="VERB">557</tag><!-- hebben, koamen, seggen, gån, seen, weaten, sitten, werden, doon, holden -->
-    <tag name="X">24</tag><!-- decipi, mundus, vult, Amicorum, Batavorum, Iovivat, Prosaluut, arum, bedrogen, de -->
+    <tag name="ADJ">1276</tag><!-- good, old, veale, grout, gans, ander, leev, lang, heyl, jung -->
+    <tag name="ADP">1705</tag><!-- in, van, mid, up, an, to, vöär, nå, uut, by -->
+    <tag name="ADV">2210</tag><!-- sou, dår, ouk, noch, nu, wol, wedder, dan, do, doch -->
+    <tag name="AUX">1145</tag><!-- weasen, hebben, künnen, willen, sköälen, möten, werden, möägen, doon, dörven -->
+    <tag name="CCONJ">974</tag><!-- un, aver, mår, of, dän, edder, men, dan, eft, en -->
+    <tag name="DET">2205</tag><!-- de, en, syn, myn, et, dat, ear, disse, keyn, uns -->
+    <tag name="INTJ">107</tag><!-- jå, ney, nu, na, ja, o, och, ach, hearink, hm -->
+    <tag name="NOUN">2846</tag><!-- dag, heyre, tyd, vrouwe, man, junge, lüde, buur, minske, vader -->
+    <tag name="NUM">102</tag><!-- twey, eyn, dree, veer, tein, 14, achttein, dusend, pår, sös -->
+    <tag name="PART">371</tag><!-- nich, to, te, en, nch -->
+    <tag name="PRON">2581</tag><!-- ik, hee, see, et, dat, dee, jy, sik, wat, du -->
+    <tag name="PROPN">475</tag><!-- Pölz, Hiärmen, Anna, Koch, Andries, Gassen, Hein, Willem, jesus, Diekes -->
+    <tag name="PUNCT">3540</tag><!-- ,, ., !, ;, :, ?, –, «, », “ -->
+    <tag name="SCONJ">490</tag><!-- dat, as, wän, üm, of, wo, wan, do, bet, wante -->
+    <tag name="VERB">2570</tag><!-- seggen, hebben, koamen, gån, seen, doon, maken, werden, weaten, höyren -->
+    <tag name="X">42</tag><!-- decipi, der, mundus, vult, Amicorum, Batavorum, Feststellung, Iovivat, Personalien, Pompadour -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="64">
-    <feat name="AdpType" value="Post" upos="ADP">1</feat><!-- an -->
-    <feat name="AdpType" value="Prep" upos="ADP">275</feat><!-- in, van, mid, to, an, up, by, vöär, nå, uut -->
+  <feats unique="67">
+    <feat name="AdpType" value="Post" upos="ADP">3</feat><!-- to, an -->
+    <feat name="AdpType" value="Prep" upos="ADP">1383</feat><!-- in, van, up, mid, an, vöär, to, by, nå, med -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">49</feat><!-- ebracht, gån, maked, weasd, Beskreaven, afemaked, ankündigd, antwoorded, anvungen, beknütted -->
-    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,PRON,PROPN">489</feat><!-- de, en, den, dat, et, wat, syn, eynen, niks, syne -->
-    <feat name="Case" value="Acc,Dat" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">317</feat><!-- de, sik, my, den, myn, em, dy, en, juw, dat -->
-    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">159</feat><!-- der, dem, m, n, dear, ougen, allen, besten, den, em -->
-    <feat name="Case" value="Gen" upos="DET,NOUN,PROPN">14</feat><!-- des, nachts, åvends, Reinekens, Winkels, deas, en, moders, sündags, vadders -->
-    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">736</feat><!-- de, ik, dee, et, hee, see, dat, en, man, wy -->
-    <feat name="Definite" value="Def" upos="DET">303</feat><!-- de, den, dat, der, et, dem, m, en, dee, n -->
-    <feat name="Definite" value="Ind" upos="DET">64</feat><!-- en, ne, eynen, nen, den, eyne, eyner -->
-    <feat name="Degree" value="Cmp" upos="ADJ,ADV">12</feat><!-- naeger, Later, duurliker, eernsthafter, leverst, meyr, seaker, smaller, swäkker, vröer -->
-    <feat name="Degree" value="Pos" upos="ADJ">215</feat><!-- good, leve, ander, anderen, byster, goden, grout, veal, armen, eigenlik -->
-    <feat name="Degree" value="Sup" upos="ADJ">12</feat><!-- eyrste, besten, anseenliksten, best, beste, ryksten, sköynsten, wennigste, äldsten -->
-    <feat name="Foreign" value="Yes" upos="X">24</feat><!-- decipi, mundus, vult, Amicorum, Batavorum, De, Iovivat, Prosaluut, arum, bedrogen -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">360</feat><!-- de, der, en, syne, dee, vrouwe, stad, myn, sake, tyd -->
-    <feat name="Gender" value="Fem,Masc" upos="ADJ,DET,NOUN,PRON">15</feat><!-- dee, de, des, en, eyne, gek, gyn, nachts, noud, olden -->
-    <feat name="Gender" value="Fem,Masc,Neut" upos="DET">1</feat><!-- syn -->
-    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,PRON,PROPN">629</feat><!-- de, den, hee, dee, en, man, em, dem, heyre, m -->
-    <feat name="Gender" value="Masc,Neut" upos="NOUN">6</feat><!-- bast, minske, minsken, noorden, vlas, westen -->
-    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON">417</feat><!-- et, dat, en, wat, de, lüde, niks, syn, al, broud -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">2404</feat><!-- de, dat, en, den, et, wat, dee, niks, see, syn -->
+    <feat name="Case" value="Acc,Dat" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1686</feat><!-- de, my, sik, den, em, en, et, dy, dat, myn -->
+    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">527</feat><!-- dem, der, den, 'n, em, iame, m, eynem, synem, 'm -->
+    <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,PRON,PROPN">59</feat><!-- des, åvends, anders, eynes, nachts, dages, en, synes, 't, Esaias -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">3586</feat><!-- de, ik, hee, see, dee, et, dat, en, wy, y -->
+    <feat name="Definite" value="Def" upos="DET">1367</feat><!-- de, den, dat, et, dem, dee, der, det, en, des -->
+    <feat name="Definite" value="Ind" upos="DET">355</feat><!-- en, ne, eyne, eynen, eyn, nen, den, e, eynem, eynes -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">62</feat><!-- meyr, beater, wyder, naeger, Later, lever, länger, minder, slechter, vröer -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">1094</feat><!-- good, olde, gans, goden, grouten, groute, gode, olden, lange, veal -->
+    <feat name="Degree" value="Sup" upos="ADJ">47</feat><!-- best, lest, besten, eyrste, leste, beste, grötsten, letste, minste, aldergemeynste -->
+    <feat name="Foreign" value="Yes" upos="X">34</feat><!-- decipi, mundus, vult, Amicorum, Batavorum, De, Feststellung, Iovivat, Personalien, Pompadour -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">1616</feat><!-- de, see, dee, der, en, ne, vrouwe, syne, tyd, eyne -->
+    <feat name="Gender" value="Fem,Masc" upos="ADJ,DET,NOUN,PRON,PROPN">94</feat><!-- dee, de, tyd, eyne, olde, en, heyrskop, nachts, tyden, Eynes -->
+    <feat name="Gender" value="Fem,Masc,Neut" upos="DET,NOUN">4</feat><!-- Myne, andächtige, gardynen, syn -->
+    <feat name="Gender" value="Fem,Neut" upos="ADJ,DET,NOUN">3</feat><!-- en, jakke, lakensk -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">3093</feat><!-- de, hee, den, en, dee, em, dem, man, dag, god -->
+    <feat name="Gender" value="Masc,Neut" upos="ADJ,DET,NOUN,PRON">30</feat><!-- keyn, menske, minske, de, minsken, Alle, al, bast, en, geyn -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">2109</feat><!-- dat, et, en, wat, de, niks, det, myn, syn, lüde -->
     <feat name="Gender[psor]" value="Fem" upos="DET">2</feat><!-- Syn, höären -->
     <feat name="Gender[psor]" value="Masc" upos="DET">15</feat><!-- syn, syne, ear, synen -->
-    <feat name="Mood" value="Imp" upos="VERB">12</feat><!-- Sü, Haal, Maak, Süg, geavet, gelöyvet, kom, låt, skenket, slutet -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">512</feat><!-- is, was, hadde, het, wil, sint, hevt, kon, leyt, sea -->
-    <feat name="Mood" value="Ind,Sub" upos="AUX,VERB">12</feat><!-- wol, hadde, kon, künst, mus, mussen, sat, sol, wul, wöör -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">16</feat><!-- möchte, Bestünde, hädde, kaem, kaeme, können, künne, leyt, make, miat -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">426</feat><!-- de, see, dee, wy, sint, alle, juw, lüde, syne, den -->
-    <feat name="Number" value="Plur,Sing" upos="PRON,VERB">11</feat><!-- y, jy, gå, hebbet, uw, weat -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1924</feat><!-- de, ik, et, en, dat, den, hee, dee, is, my -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">86</feat><!-- see, sü, låt, giv, gåt, höyr, Haal, Maak, Seg, gå -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">2472</feat><!-- is, was, hadde, het, weer, kan, wil, sea, kam, hev -->
+    <feat name="Mood" value="Ind,Sub" upos="AUX,VERB">57</feat><!-- hadde, sul, was, weer, wol, wul, had, weren, Seggen, Solst -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">70</feat><!-- weer, hädde, möchte, sül, wöre, höyren, kaem, kaeme, wolde, würd -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">1868</feat><!-- de, see, dee, wy, lüde, alle, hadden, jy, syne, den -->
+    <feat name="Number" value="Plur,Sing" upos="AUX,NOUN,PRON,VERB">182</feat><!-- y, see, u, jy, uw, kün, bint, hebbet, künnet, doot -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">9342</feat><!-- de, ik, dat, hee, et, en, den, is, dee, my -->
     <feat name="Number[psor]" value="Plur" upos="DET">7</feat><!-- unsen, eare, Unse, ear -->
     <feat name="Number[psor]" value="Sing" upos="DET">27</feat><!-- syn, syne, myn, myne, mynen, dyn, höären, synen, uw -->
-    <feat name="NumType" value="Card" upos="NUM">8</feat><!-- eyn, dree, acht, twey, vyv -->
-    <feat name="NumType" value="Ord" upos="ADJ">3</feat><!-- eyrste, eyrsten, tweyde -->
-    <feat name="PartType" value="Inf" upos="PART">27</feat><!-- te, to -->
-    <feat name="PartType" value="Neg" upos="PART">51</feat><!-- nich, neet, nit, en -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">212</feat><!-- ik, my, wy, myn, hadde, segge, wil, hev, hevve, uus -->
-    <feat name="Person" value="2" upos="AUX,PRON,VERB">83</feat><!-- y, du, dy, jy, juw, See, Sü, bis, ow, uw -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">638</feat><!-- et, hee, is, see, sik, dat, was, het, hadde, em -->
+    <feat name="NumType" value="Card" upos="NUM">75</feat><!-- twey, dree, eyn, veer, 14, acht, dusend, sös, tweyhunderd, veertein -->
+    <feat name="NumType" value="Ord" upos="ADJ">14</feat><!-- eyrste, eyrsten, tweyde, siavende, twölvden, vövd -->
+    <feat name="PartType" value="Inf" upos="PART">117</feat><!-- to, te -->
+    <feat name="PartType" value="Neg" upos="PART">252</feat><!-- nich, neet, nit, ne, en -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">1010</feat><!-- ik, my, wy, hev, ek, wil, segge, uns, uus, heb -->
+    <feat name="Person" value="1,3" upos="PRON">1</feat><!-- See -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">425</feat><!-- y, du, jy, dy, u, juw, büst, hest, uw, dik -->
+    <feat name="Person" value="2,3" upos="AUX,PRON,VERB">38</feat><!-- See, seggen, sünt, Låten, Skämen, Weaten, gelöyvet, gån, hebbet, höyren -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">3044</feat><!-- hee, see, et, is, was, sik, dat, hadde, het, em -->
     <feat name="Person[psor]" value="1" upos="DET">13</feat><!-- myn, unsen, myne, mynen, Unse -->
     <feat name="Person[psor]" value="2" upos="DET">4</feat><!-- dyn, juwen, ouw, uw -->
     <feat name="Person[psor]" value="3" upos="DET">18</feat><!-- syn, syne, eare, ear, höären, synen -->
-    <feat name="Polite" value="Form" upos="AUX,PRON,VERB">11</feat><!-- Jy, See, geavet, künnen, setten, sik, skenket, willet -->
-    <feat name="Poss" value="Yes" upos="DET">74</feat><!-- syn, syne, myn, mynen, synen, juwe, unsen, dyne, ear, eare -->
-    <feat name="PronType" value="Art" upos="DET,PRON">370</feat><!-- de, en, den, dat, der, et, dem, m, ne, dee -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">36</feat><!-- dee, dat, deane, dease, det, disse, dissen, dit, dát, düäse -->
-    <feat name="PronType" value="Ind" upos="PRON">27</feat><!-- man, eyne, anderen, eyn, wat, eynder, eynen, eyner, eynige, yts -->
+    <feat name="Polite" value="Form" upos="AUX,PRON,VERB">53</feat><!-- See, Jy, sik, seggen, sünt, Låten, Skämen, Weaten, geavet, gelöyvet -->
+    <feat name="Poss" value="Yes" upos="DET,PRON">315</feat><!-- myn, syn, syne, synen, ear, dyn, uw, myne, eare, dyne -->
+    <feat name="PronType" value="Art" upos="DET,PRON">1729</feat><!-- de, en, den, dat, et, dem, dee, der, ne, det -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">252</feat><!-- dat, dee, düsse, det, den, disse, dissen, dit, düssen, dease -->
+    <feat name="PronType" value="Dem,Prs" upos="PRON">1</feat><!-- dat -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">123</feat><!-- man, wat, eyne, eyn, anderen, eyner, andere, men, ander, eynen -->
     <feat name="PronType" value="Ind,Int" upos="PRON">1</feat><!-- wat -->
     <feat name="PronType" value="Ind,Neg,Tot" upos="DET">1</feat><!-- gin -->
-    <feat name="PronType" value="Int" upos="PRON">18</feat><!-- wat, wel, Wee, Wekke, Wer, hwat -->
-    <feat name="PronType" value="Int,Rel" upos="PRON">1</feat><!-- wat -->
-    <feat name="PronType" value="Neg" upos="DET,PRON">17</feat><!-- niks, keyne, nist, gin, gyn, keyn, keynen, kyn, kyne, kynen -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">450</feat><!-- ik, et, hee, see, my, sik, myn, dat, syn, em -->
-    <feat name="PronType" value="Rcp" upos="PRON">4</feat><!-- enander, mekare, sik -->
-    <feat name="PronType" value="Rel" upos="PRON">38</feat><!-- dee, den, wat, dat, hwekken -->
-    <feat name="PronType" value="Tot" upos="DET,PRON">17</feat><!-- alle, al, allen, alles, allens, elk, jeydet -->
-    <feat name="Reflex" value="Yes" upos="PRON">25</feat><!-- sik, sy -->
-    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">330</feat><!-- was, hadde, wol, kon, leyt, worden, giaven, had, saeten, sat -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">246</feat><!-- is, het, wil, sint, hevt, segge, willet, höyrt, kan, do -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">139</feat><!-- is, hadde, was, het, leyt, hebben, hevt, sint, weer, wil -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">141</feat><!-- syn, seen, seggen, doon, hebben, holden, koupen, geaven, vrågen, drägen -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">88</feat><!-- worden, giaven, gån, ebracht, maked, weasd, Beskreaven, afemaked, afklopped, ankündigd -->
+    <feat name="PronType" value="Int" upos="PRON">85</feat><!-- wat, wee, wel, Hwekke, Wekke, Wer, hwat, hwekker, wen -->
+    <feat name="PronType" value="Int,Rel" upos="PRON">4</feat><!-- wat -->
+    <feat name="PronType" value="Neg" upos="DET,PRON">98</feat><!-- niks, gyn, keyn, keynen, keyne, nist, geyn, kyn, nin, geynt -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">2221</feat><!-- ik, hee, see, et, my, sik, myn, wy, dat, em -->
+    <feat name="PronType" value="Rcp" upos="PRON">6</feat><!-- enander, eynander, mekare, sik -->
+    <feat name="PronType" value="Rel" upos="PRON">123</feat><!-- dee, den, wat, dat, dem, hwekken, wek, welke -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">86</feat><!-- alle, al, alles, allens, olle, allen, allet, elken, olles, ydem -->
+    <feat name="Reflex" value="Yes" upos="PRON">111</feat><!-- sik, sek, sich, süch, sük, sy -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">1703</feat><!-- was, hadde, weer, sea, had, kam, kun, sead, hadden, wul -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,VERB">1281</feat><!-- is, het, kan, wil, hev, sint, heb, hevt, segt, geit -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">629</feat><!-- seggen, syn, maken, seen, hebben, gån, doon, weasen, holden, werden -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">437</feat><!-- west, worden, gån, dån, koamen, maked, höyrd, giaven, had, seen -->
     <feat name="VerbType" value="Aux" upos="AUX">32</feat><!-- het, is, wil, hadde, kan, skölde, willet, hadden, hebben, hevt -->
     <feat name="VerbType" value="Cop" upos="AUX">14</feat><!-- is, was, weer, sint, weren -->
     <feat name="VerbType" value="Mod" upos="AUX">5</feat><!-- kun, künne, möcht, sul, wul -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="40">
-    <dep name="acl">52</dep>
-    <dep name="acl:relcl">14</dep>
-    <dep name="advcl">86</dep>
-    <dep name="advmod">489</dep>
-    <dep name="amod">112</dep>
-    <dep name="appos">14</dep>
-    <dep name="aux">144</dep>
-    <dep name="aux:pass">11</dep>
-    <dep name="case">306</dep>
-    <dep name="cc">208</dep>
-    <dep name="ccomp">42</dep>
-    <dep name="compound">8</dep>
-    <dep name="compound:prt">27</dep>
-    <dep name="conj">225</dep>
-    <dep name="cop">70</dep>
-    <dep name="csubj">6</dep>
-    <dep name="det">450</dep>
+  <deps unique="46">
+    <dep name="acl">88</dep>
+    <dep name="acl:relcl">115</dep>
+    <dep name="advcl">398</dep>
+    <dep name="advmod">2496</dep>
+    <dep name="amod">635</dep>
+    <dep name="appos">44</dep>
+    <dep name="aux">719</dep>
+    <dep name="aux:pass">12</dep>
+    <dep name="case">1548</dep>
+    <dep name="cc">986</dep>
+    <dep name="ccomp">290</dep>
+    <dep name="compound">9</dep>
+    <dep name="compound:prt">169</dep>
+    <dep name="compound:redup">2</dep>
+    <dep name="conj">1037</dep>
+    <dep name="cop">407</dep>
+    <dep name="csubj">15</dep>
+    <dep name="csubj:outer">1</dep>
+    <dep name="dep">3</dep>
+    <dep name="det">2197</dep>
     <dep name="det:poss">24</dep>
-    <dep name="discourse">14</dep>
-    <dep name="dislocated">9</dep>
-    <dep name="expl">21</dep>
-    <dep name="expl:pv">5</dep>
-    <dep name="fixed">1</dep>
-    <dep name="flat">39</dep>
-    <dep name="iobj">40</dep>
-    <dep name="mark">137</dep>
-    <dep name="nmod">46</dep>
-    <dep name="nmod:poss">13</dep>
-    <dep name="nsubj">467</dep>
-    <dep name="nsubj:pass">2</dep>
-    <dep name="nummod">12</dep>
-    <dep name="obj">275</dep>
-    <dep name="obl">252</dep>
+    <dep name="discourse">100</dep>
+    <dep name="dislocated">44</dep>
+    <dep name="expl">38</dep>
+    <dep name="expl:pv">41</dep>
+    <dep name="fixed">9</dep>
+    <dep name="flat">145</dep>
+    <dep name="iobj">148</dep>
+    <dep name="list">9</dep>
+    <dep name="mark">615</dep>
+    <dep name="nmod">305</dep>
+    <dep name="nmod:poss">24</dep>
+    <dep name="nsubj">2249</dep>
+    <dep name="nsubj:pass">8</dep>
+    <dep name="nummod">79</dep>
+    <dep name="obj">1140</dep>
+    <dep name="obl">1219</dep>
     <dep name="obl:agent">2</dep>
-    <dep name="orphan">4</dep>
-    <dep name="parataxis">93</dep>
-    <dep name="punct">713</dep>
-    <dep name="root">189</dep>
-    <dep name="vocative">11</dep>
-    <dep name="xcomp">50</dep>
+    <dep name="obl:arg">28</dep>
+    <dep name="orphan">20</dep>
+    <dep name="parataxis">327</dep>
+    <dep name="punct">3540</dep>
+    <dep name="reparandum">2</dep>
+    <dep name="root">1000</dep>
+    <dep name="vocative">84</dep>
+    <dep name="xcomp">268</dep>
   </deps>
 </treebank>
