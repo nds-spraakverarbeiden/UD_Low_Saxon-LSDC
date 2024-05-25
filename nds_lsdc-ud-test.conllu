@@ -12184,7 +12184,7 @@
 # text_orig = Herr Groterjahn was wildeß, dat sin Fru predigen ded, upstahn, hadd sin leiw' Döchting in den Arm fat't un küßte sei up de Stirn:
 # text = Her Groterjahn was wyldes, dat syn vrouwe preadigen dead, upstån, hadde syn leev döchting in den arm vated un küsde see up de steerne:
 1	Her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	lemma_gml=hêre
-2	Groterjahn	Groterjahn	NOUN	_	Number=Sing	12	nsubj	_	lemma_gml=grôterjan
+2	Groterjahn	Groterjahn	PROPN	_	Number=Sing	12	nsubj	_	lemma_gml=grôterjan
 3	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	lemma_gml=wēsen
 4	wyldes	wyldes	SCONJ	_	_	9	mark	_	lemma_gml=wîldes|SpaceAfter=No
 5	,	,	PUNCT	_	_	9	punct	_	_
