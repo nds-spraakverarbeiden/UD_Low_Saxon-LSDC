@@ -9014,7 +9014,7 @@
 
 # sent_id = LSDC_0331_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = - Mâer zie, Diekes, deur da'k now gien borrel meer drinke, hewwe t'huus now en smeu lâeventien; - van middag denk ik de volle moane weer te zien - want Annegien zei van mâergen, ai um 12 uur t'huus komt, Andries, stiet de spekpannekoeke kloar; jonges, ze bakt ze zoo lakker.
-# text = - Mår see, Diekes, döär dat ik now gyn borrel meyr drinke, hev wy te hüüs now en smöyde leaventyn; - van middag denke ik de vulle måne wear te seen - want Annegien sei van margen, as y üm 12 üür te hüüs kommet, Andries, steyt de spekpannekoke klår; junges, see bakt see sou lakker.
+# text = - Mår see, Diekes, döär dat ik now gyn borrel meyr drinke, hev wy te hüüs now en smöyde leaventyn; - van middag denke ik de vulle måne wear te seen - want Annegyn sei van margen, as y üm 12 üür te hüüs kommet, Andries, steyt de spekpannekoke klår; junges, see bakt see sou lakker.
 1	-	-	PUNCT	_	_	3	punct	_	_
 2	Mår	mår	ADV	_	_	3	advmod	_	lemma_gml=mêr
 3	see	seen	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=sên|SpaceAfter=No
@@ -9052,7 +9052,7 @@
 35	seen	seen	VERB	_	VerbForm=Inf	28	xcomp	_	lemma_gml=sên
 36	-	-	PUNCT	_	_	39	punct	_	_
 37	want	wante	CCONJ	_	_	39	cc	_	lemma_gml=wente
-38	Annegien	Annegien	PROPN	_	Number=Sing	39	nsubj	_	_
+38	Annegyn	Annegyn	PROPN	_	Number=Sing	39	nsubj	_	_
 39	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	28	advcl	_	lemma_gml=seggen
 40	van	van	ADP	_	AdpType=Prep	41	case	_	lemma_gml=van
 41	margen	morgen	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	39	obl	_	lemma_gml=morgen|SpaceAfter=No
@@ -9891,7 +9891,7 @@
 
 # sent_id = LSDC_0367_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = En misschien hakket nog niet kloar uspeuld zonder mien Annegien.
-# text = En misskeen had ik et noch neet klårespöäld sunder myn Annegien.
+# text = En misskeen had ik et noch neet klårespöäld sunder myn Annegyn.
 1	En	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
 2	misskeen	misskeen	ADV	_	_	8	advmod	_	lemma_gml=machschên
 3	had	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	8	aux	_	lemma_gml=hebben
@@ -9902,7 +9902,7 @@
 8	klårespöäld	klårspealen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=spēlen
 9	sunder	sünder	ADP	_	AdpType=Prep	11	case	_	lemma_gml=sunder
 10	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	lemma_gml=mîn
-11	Annegien	Annegien	PROPN	_	Number=Sing	8	obl	_	SpaceAfter=No
+11	Annegyn	Annegyn	PROPN	_	Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = LSDC_0368_NWF_2019_OVY_oaverysselsk_begraffenisse
@@ -10835,7 +10835,7 @@
 
 # sent_id = LSDC_0409_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Now, dan loop ik gauw noa Annegien, zie mut dan un pond maêl meer besloan, doar kuijt ummers meê redden?
-# text = Now, dan loupe ik gauw nå Annegien, see müt dan en pund meal meyr beslån, dår kün y et ümmers meade redden?
+# text = Now, dan loupe ik gauw nå Annegyn, see müt dan en pund meal meyr beslån, dår kün y et ümmers meade redden?
 1	Now	nu	INTJ	_	_	4	discourse	_	lemma_gml=nû|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	_
 3	dan	dan	ADV	_	_	4	advmod	_	lemma_gml=dan
@@ -10843,7 +10843,7 @@
 5	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=ik
 6	gauw	gauw	ADJ	_	Degree=Pos	4	advmod	_	lemma_gml=gouwe
 7	nå	nå	ADP	_	AdpType=Prep	8	case	_	lemma_gml=nâ
-8	Annegien	Annegien	PROPN	_	Number=Sing	4	obl	_	SpaceAfter=No
+8	Annegyn	Annegyn	PROPN	_	Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	17	punct	_	_
 10	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	lemma_gml=sê
 11	müt	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	lemma_gml=mö̂ten
