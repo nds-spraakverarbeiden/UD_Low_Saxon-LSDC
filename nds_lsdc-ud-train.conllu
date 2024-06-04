@@ -8335,7 +8335,7 @@
 # text_orig = At dei Kamele sât 'edrunken harren, dao nahm de Knecht 'nen güllenen Ringk un twäi schwaore güllene Armräipe un saġġe tiëger iät: »Becke es din Vâer?
 # text = At dee kamele sat edrunken hadden, do nam de knecht nen güldenen ring un twey swåre güldene armreype un sagde teager et: »Hwekke is dyn vader?
 1	At	as	SCONJ	_	_	5	mark	_	lemma_gml=alsôdat
-2	dee	dei	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
+2	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	kamele	kameel	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	lemma_gml=kamêl
 4	sat	sad	ADJ	_	Degree=Pos	5	xcomp	_	lemma_gml=sat
 5	edrunken	drinken	VERB	_	Tense=Past|VerbForm=Part	9	advcl	_	lemma_gml=drinken
