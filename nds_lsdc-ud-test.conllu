@@ -2037,7 +2037,7 @@
 4	sin	sin	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma_gml=sin¹
 5	sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô²
 6	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	7	det	_	lemma_gml=êⁱn¹
-7	bittyn	betken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+7	bittyn	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
 8	nåstuderen	nåstuderen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	18	advcl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	15	punct	_	_
 10	dår	dår	ADV	_	_	15	advmod	_	lemma_gml=dâr¹
