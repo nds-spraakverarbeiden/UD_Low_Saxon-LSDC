@@ -463,7 +463,7 @@
 8	ünden	unden	ADV	_	_	12	advmod	_	lemma_gml=unden²
 9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in²
 10	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê¹
-11	köäke	köäke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	8	obl	_	lemma_gml=kȫke²
+11	köäke	köäken	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	8	obl	_	lemma_gml=kȫke²
 12	sit	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	lemma_gml=sitten
 13	un	un	CCONJ	_	_	16	cc	_	lemma_gml=unde²
 14	sik	sik	PRON	_	Case=Acc,Dat|Person=3|PronType=Prs|Reflex=Yes	16	iobj	_	lemma_gml=sik¹
@@ -706,7 +706,7 @@
 5	van	van	ADP	_	AdpType=Prep	8	case	_	lemma_gml=van¹
 6	'	'	PUNCT	_	_	7	punct	_	_
 7	er	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê¹
-8	küäken	köäke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nmod:poss	_	lemma_gml=kȫke²
+8	küäken	köäken	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	nmod:poss	_	lemma_gml=kȫke²
 9	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=stân
 10	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê¹
 11	lange	lang	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	lemma_gml=lanc
@@ -2628,7 +2628,7 @@
 11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=et¹
 12	uut	uut	ADP	_	AdpType=Prep	14	case	_	lemma_gml=ût¹
 13	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê¹
-14	küäke	köäke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	15	obl	_	lemma_gml=kȫke²
+14	küäke	köäken	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	15	obl	_	lemma_gml=kȫke²
 15	kaem	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	acl	_	lemma_gml=kōmen¹|SpaceAfter=No
 16	.	.	PUNCT	_	_	3	punct	_	_
 
