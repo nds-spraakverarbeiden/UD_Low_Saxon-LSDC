@@ -2698,7 +2698,7 @@
 23	,	,	PUNCT	_	_	26	punct	_	_
 24	un	un	CCONJ	_	_	26	cc	_	lemma_gml=unde
 25	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	lemma_gml=ik
-26	gelöyve	gelöyve	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	17	conj	_	lemma_gml=gelö̂ven|SpaceAfter=No
+26	gelöyve	gelöyven	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	17	conj	_	lemma_gml=gelö̂ven|SpaceAfter=No
 27	,	,	PUNCT	_	_	29	punct	_	_
 28	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	lemma_gml=hê,sê,et
 29	deit	doon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	ccomp	_	lemma_gml=dôn
