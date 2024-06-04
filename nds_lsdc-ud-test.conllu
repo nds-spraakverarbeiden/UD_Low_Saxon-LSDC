@@ -660,7 +660,7 @@
 19	un	un	CCONJ	_	_	21	cc	_	lemma_gml=unde²
 20	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	lemma_gml=dat
 21	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=stân
-22	oapen	oapen	ADV	_	_	21	compound	_	lemma_gml=ōpen¹|SpaceAfter=No
+22	oapen	oapen	ADJ	_	_	21	compound	_	lemma_gml=ōpen¹|SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = LSDC_0020_DNS_1911_HAM_hamborgsk_hein_godenwind_de_admirol_von_moskitonien
