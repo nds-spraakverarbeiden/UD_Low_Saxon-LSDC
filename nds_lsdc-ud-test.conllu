@@ -10228,7 +10228,7 @@
 
 # sent_id = LSDC_0385_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Mâer, Andries, hoe mâekten ie het toch met het andere vōlk: lachten ze oew niet brâef uut en heij niet un boel mutten lieden?
-# text = Mår, Andries, ho maakden y et toch med et andere volk: lachden see uw neet braaf üüt en heb y neet en bodel mütten lyden?
+# text = Mår, Andries, ho maakden y et toch med et andere volk: lachden see uw neet braav üüt en heb y neet en bodel mütten lyden?
 1	Mår	mår	CCONJ	_	_	6	cc	_	lemma_gml=mêr|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	Andries	Andries	PROPN	_	Number=Sing	6	vocative	_	SpaceAfter=No
@@ -10247,7 +10247,7 @@
 16	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=sê
 17	uw	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	15	obj	_	lemma_gml=gî
 18	neet	nich	PART	_	PartType=Neg	15	advmod	_	lemma_gml=nicht
-19	braaf	braaf	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=brāf
+19	braav	braav	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=brāf
 20	üüt	uut	ADP	_	_	15	compound:prt	_	lemma_gml=ût
 21	en	un	CCONJ	_	_	28	cc	_	lemma_gml=ende
 22	heb	hebben	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	28	aux	_	lemma_gml=hebben
