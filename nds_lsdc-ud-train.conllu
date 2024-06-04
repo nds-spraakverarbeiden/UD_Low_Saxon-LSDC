@@ -5620,7 +5620,7 @@
 4	see	see	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	lemma_gml=sê
 5	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	lemma_gml=hê,sê,et
 6	nich	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
-7	gaern	gaern	ADV	_	_	8	advmod	_	lemma_gml=gērne
+7	gaern	gaerne	ADV	_	_	8	advmod	_	lemma_gml=gērne
 8	låten	låten	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=lâten|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	wüst	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	lemma_gml=wēten
