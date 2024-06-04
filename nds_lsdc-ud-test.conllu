@@ -1823,7 +1823,7 @@
 21	ouk	ouk	ADV	_	_	17	advmod	_	lemma_gml=ôk
 22	al	al	ADV	_	_	17	advmod	_	lemma_gml=al
 23	en	en	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	24	det	_	lemma_gml=êⁱn¹
-24	bittyn	bitken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+24	bittyn	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	29	punct	_	_
 26	as	as	SCONJ	_	_	29	mark	_	lemma_gml=alsô
 27	y	jy	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	29	nsubj	_	lemma_gml=gî²
