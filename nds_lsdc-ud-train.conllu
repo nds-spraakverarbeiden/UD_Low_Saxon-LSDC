@@ -3539,7 +3539,7 @@
 26	alle	al	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	27	det	_	lemma_gml=al
 27	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	24	nsubj	_	lemma_gml=dê,dê,dat
 28	van	van	ADP	_	AdpType=Prep	29	case	_	lemma_gml=van
-29	harten	hart	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	24	obl	_	lemma_gml=herte
+29	harten	herte	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	24	obl	_	lemma_gml=herte
 30	un	un	CCONJ	_	_	32	cc	_	lemma_gml=unde
 31	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	cop	_	lemma_gml=wēsen
 32	wår	wår	ADJ	_	Degree=Pos	24	conj	_	lemma_gml=wâr|SpaceAfter=No
