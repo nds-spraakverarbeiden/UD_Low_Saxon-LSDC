@@ -3530,7 +3530,7 @@
 17	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	lemma_gml=hê,sê,et
 18	spreaken	spreaken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	advcl	_	lemma_gml=sprēken|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
-20	hebrääsk	hebrääsk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	conj	_	lemma_gml=hebrêesch
+20	hebrääsk	hebräisk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	conj	_	lemma_gml=hebrêesch
 21	of	eft	CCONJ	_	_	22	cc	_	lemma_gml=eft
 22	hougdüütsk	hougdüütsk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	conj	_	lemma_gml=hôchdü̂desch|SpaceAfter=No
 23	,	,	PUNCT	_	_	18	punct	_	_
@@ -6785,7 +6785,7 @@
 12	;	;	PUNCT	_	_	14	punct	_	_
 13	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	lemma_gml=dê,dê,dat
 14	heyde	heyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	acl:relcl	_	lemma_gml=hêiten
-15	hebrääsk	hebrääsk	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=hebrêesch
+15	hebrääsk	hebräisk	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=hebrêesch
 16	Abaddon	Abaddon	PROPN	_	Number=Sing	14	xcomp	_	lemma_gml=abaddon
 17	un	un	CCONJ	_	_	19	cc	_	lemma_gml=unde
 18	grekisk	greeksk	ADJ	_	Degree=Pos	19	orphan	_	lemma_gml=grêkesch
