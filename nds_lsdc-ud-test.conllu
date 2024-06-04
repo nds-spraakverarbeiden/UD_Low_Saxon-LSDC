@@ -10858,7 +10858,7 @@
 20	kün	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	25	aux	_	lemma_gml=künnen
 21	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	25	nsubj	_	lemma_gml=gî
 22	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	obj	_	lemma_gml=hê,sê,et
-23	ümmers	immers	ADV	_	_	25	advmod	_	lemma_gml=iemmer
+23	ümmers	immer	ADV	_	_	25	advmod	_	lemma_gml=iemmer
 24	meade	meade	ADP	_	_	19	case	_	lemma_gml=mit
 25	redden	redden	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=redden|SpaceAfter=No
 26	?	?	PUNCT	_	_	4	punct	_	_
