@@ -8796,7 +8796,7 @@
 # text = Y sullen eyrder meynd hebben, dat en muus et dea, dee see up de staert trapped hadden.
 1	Y	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	lemma_gml=gî
 2	sullen	sköälen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=2|Tense=Past	4	aux	_	lemma_gml=schȫlen
-3	eyrder	eyr	ADJ	_	Degree=Cmp	4	advmod	_	lemma_gml=êr
+3	eyrder	eyr	ADV	_	Degree=Cmp	4	advmod	_	lemma_gml=êr
 4	meynd	meynen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=mêinen
 5	hebben	hebben	AUX	_	VerbForm=Inf	4	aux	_	lemma_gml=hebben|SpaceAfter=No
 6	,	,	PUNCT	_	_	11	punct	_	_
