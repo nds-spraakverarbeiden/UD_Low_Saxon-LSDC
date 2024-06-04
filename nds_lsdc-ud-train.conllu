@@ -7521,7 +7521,7 @@
 4	Gammel	Gammel	PROPN	_	Number=Sing	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	lemma_gml=dê,dê,dat
-7	hadden	harren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
+7	hadden	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
 8	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
 9	jungen	junge	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=junge|SpaceAfter=No
 10	,	,	PUNCT	_	_	17	punct	_	_
