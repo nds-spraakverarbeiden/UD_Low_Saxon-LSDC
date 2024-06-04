@@ -8647,7 +8647,7 @@
 93	knechten	knecht	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	102	obl	_	lemma_gml=knecht|SpaceAfter=No
 94	,	,	PUNCT	_	_	96	punct	_	_
 95	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	96	det	_	lemma_gml=dê,dê,dat
-96	profeten	profeet	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	93	appos	_	lemma_gml=profête|SpaceAfter=No
+96	profeten	profete	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	93	appos	_	lemma_gml=profête|SpaceAfter=No
 97	,	,	PUNCT	_	_	96	punct	_	_
 98	os	as	ADP	_	AdpType=Prep	100	case	_	lemma_gml=alsô
 99	gode	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	100	amod	_	lemma_gml=gôt
