@@ -12741,7 +12741,7 @@
 # text_orig = Sien Gesicht weer darbi as in Steen uthaut; blot as de Justizraat ümmer neger nafroog un andüden dee, dat he meer wüß, sprung sien Oog na Detelt Rolff röver un schuul em an, dat man bang warrn kunn.
 # text = Syn gesicht weer dårby as in steyn uuthauwd; blout as de justityråd ümmer naeger nåvråg un andüden dea, dat hee meyr wüs, sprung syn ouge nå Detelt Rolff röäver un skuul em an, dat man bange warden kun.
 1	Syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	lemma_gml=sîn,ēr,sîn
-2	gesicht	gesicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	lemma_gml=gesichte
+2	gesicht	gesichte	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	lemma_gml=gesichte
 3	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	cop	_	lemma_gml=wēsen
 4	dårby	dårby	ADV	_	_	8	advmod	_	lemma_gml=dârbî
 5	as	as	SCONJ	_	_	8	mark	_	lemma_gml=alsô
