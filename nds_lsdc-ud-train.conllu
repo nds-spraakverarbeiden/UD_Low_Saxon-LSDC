@@ -528,7 +528,7 @@
 6	dän	dän	ADV	_	_	7	advmod	_	lemma_gml=den
 7	hest	hebben	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	parataxis	_	lemma_gml=hebben
 8	gans	gans	ADJ	_	Degree=Pos	7	advmod	_	lemma_gml=gans
-9	en	en	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	lemma_gml=êin,êine,êin
+9	en	en	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
 10	voagel	voagel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=vōgel
 11	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
 12	süüst	seen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	conj	_	lemma_gml=sên
