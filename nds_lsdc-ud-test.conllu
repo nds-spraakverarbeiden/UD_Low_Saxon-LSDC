@@ -11231,7 +11231,7 @@
 9	un	un	CCONJ	_	_	10	cc	_	lemma_gml=unde
 10	bleyven	blyven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	conj	_	lemma_gml=blîven
 11	sou	so	ADV	_	_	12	advmod	_	lemma_gml=sô
-12	lange	lang	ADV	_	_	10	advmod	_	lemma_gml=lanc
+12	lange	lange	ADV	_	_	10	advmod	_	lemma_gml=lanc
 13	by	by	ADP	_	AdpType=Prep	15	case	_	lemma_gml=bî
 14	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
 15	skoolmeyster	skoolmeyster	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=schôlemeyster|SpaceAfter=No
@@ -12635,7 +12635,7 @@
 11	düvel	düvel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	8	obl	_	lemma_gml=dü̂vel|SpaceAfter=No
 12	,	,	PUNCT	_	_	17	punct	_	_
 13	aver	aver	CCONJ	_	_	17	cc	_	lemma_gml=āver
-14	lange	lang	ADV	_	_	15	advmod	_	lemma_gml=lanc
+14	lange	lange	ADV	_	_	15	advmod	_	lemma_gml=lanc
 15	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma_gml=nicht
 16	sou	sou	ADV	_	_	17	advmod	_	lemma_gml=sô
 17	kros	kros	ADJ	_	Degree=Pos	8	conj	_	lemma_gml=kros
