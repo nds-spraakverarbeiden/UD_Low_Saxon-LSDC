@@ -42,7 +42,7 @@
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	dat	dat	SCONJ	_	_	16	mark	_	lemma_gml=dat
 16	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	advcl	_	lemma_gml=et¹
-17	keynen	keynen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Neg	16	nsubj	_	lemma_gml=kêⁱn²
+17	keynen	keyn	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Neg	16	nsubj	_	lemma_gml=kêⁱn²
 18	anders	ander	ADJ	_	Gender=Neut|Number=Sing	17	amod	_	lemma_gml=anders
 19	as	as	ADP	_	_	21	case	_	lemma_gml=alsô
 20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê¹
