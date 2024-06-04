@@ -1075,7 +1075,7 @@
 26	uutryden	uutryden	VERB	_	VerbForm=Inf	17	advcl	_	lemma[gml]ûtrîden|SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	_
 28	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	29	det	_	lemma_gml=dê¹
-29	anderen	ander	ADJ	_	Case=Nom|Number=Plur	30	nsubj	_	lemma_gml=ander
+29	anderen	ander	PRON	_	Case=Nom|Number=Plur	30	nsubj	_	lemma_gml=ander
 30	maket	maken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	conj	_	lemma_gml=māken
 31	eare	ear	DET	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	32	det:poss	_	lemma_gml=ēr¹
 32	geweare	gewear	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	30	obj	_	lemma_gml=gewēr¹
@@ -1838,7 +1838,7 @@
 36	,	,	PUNCT	_	_	41	punct	_	_
 37	dat	dat	SCONJ	_	_	41	mark	_	lemma_gml=dat
 38	en	en	DET	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Art	39	det	_	lemma_gml=êⁱn¹
-39	ander	ander	ADJ	_	Case=Nom|Number=Sing	41	nsubj	_	lemma_gml=ander
+39	ander	ander	PRON	_	Case=Nom|Number=Sing	41	nsubj	_	lemma_gml=ander
 40	uw	jy	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	41	obj	_	lemma_gml=gî²
 41	bedrügt	bedregen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	35	acl	_	bedrêgen³|SpaceAfter=No
 42	.	.	PUNCT	_	_	2	punct	_	_
@@ -2598,7 +2598,7 @@
 9	syde	syde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	lemma_gml=sîde¹
 10	up	up	ADP	_	AdpType=Prep	12	case	_	lemma_gml=up²
 11	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê¹
-12	andere	ander	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	lemma_gml=ander|SpaceAfter=No
+12	andere	ander	PRON	_	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	lemma_gml=ander|SpaceAfter=No
 13	,	,	PUNCT	_	_	18	punct	_	_
 14	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	expl	_	lemma_gml=et¹
 15	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	cop	_	lemma_gml=wēsen²
