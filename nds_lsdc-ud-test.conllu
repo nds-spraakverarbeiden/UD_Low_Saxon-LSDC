@@ -1953,7 +1953,7 @@
 4	sküt	sketen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	parataxis	_	lemma_gml=schêten
 5	myn	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	4	obj	_	lemma_gml=ik
 6	dår	dår	ADV	_	_	4	advmod	_	lemma_gml=dâr¹
-7	in	ik	ADP	_	_	4	compound	_	lemma_gml=in³
+7	in	in	ADP	_	_	4	compound	_	lemma_gml=in³
 8	-	-	PUNCT	_	_	4	punct	_	_
 9	kon	künnen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=künnen
 10	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
