@@ -6027,7 +6027,7 @@
 22	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	lemma_gml=hê,sê,et
 23	nooit	nooit	ADV	_	_	26	advmod	_	lemma_gml=nôit
 24	weader	wedder	ADV	_	_	26	advmod	_	lemma_gml=wedder
-25	heyldal	heyldal	ADV	_	Degree=Pos	26	advmod	_	lemma_gml=hêilendeal
+25	heyldal	heylendal	ADV	_	Degree=Pos	26	advmod	_	lemma_gml=hêilendeal
 26	ofleyren	afleyren	VERB	_	VerbForm=Inf	16	conj	_	lemma_gml=aflêren|SpaceAfter=No
 27	.	.	PUNCT	_	_	16	punct	_	_
 
