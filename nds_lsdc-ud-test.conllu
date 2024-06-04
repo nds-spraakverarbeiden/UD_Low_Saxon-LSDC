@@ -1329,7 +1329,7 @@
 20	to	to	PART	_	PartType=Inf	21	mark	_	lemma_gml=tô⁵
 21	sitten	sitten	VERB	_	VerbForm=Inf	11	advcl	_	lemma_gml=sitten|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	_
-23	dän	dän	SCONJ	_	_	25	mark	_	lemma_gml=den³
+23	dän	dän	CCONJ	_	_	25	mark	_	lemma_gml=den³
 24	dan	dan	ADV	_	_	25	advmod	_	lemma_gml=dan¹
 25	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	advcl	_	lemma_gml=gân
 26	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê¹
@@ -1369,7 +1369,7 @@
 8	to	to	PART	_	PartType=Inf	9	mark	_	lemma_gml=tô⁵
 9	drägen	dragen	VERB	_	VerbForm=Inf	3	acl	_	lemma_gml=drāgen|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
-11	dän	dän	SCONJ	_	_	13	mark	_	lemma_gml=den³
+11	dän	dän	CCONJ	_	_	13	mark	_	lemma_gml=den³
 12	jeydet	jeyde	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	13	nsubj	_	lemma_gml=îder
 13	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	advcl	_	lemma_gml=hebben
 14	eynen	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=êⁱn¹
