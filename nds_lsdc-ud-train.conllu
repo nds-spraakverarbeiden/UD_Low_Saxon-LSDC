@@ -1490,7 +1490,7 @@
 # sent_id = LSDC_0568_DNS_1911_HAM_hamborgsk_hein_godenwind_de_admirol_von_moskitonien
 # text_orig = Ok beten hier mit jon Lustkutter?«
 # text = Ouk beaten hyr mid juwen lustkutter?«
-1	Ouk	ok	ADV	_	_	3	advmod	_	lemma_gml=ôk
+1	Ouk	ouk	ADV	_	_	3	advmod	_	lemma_gml=ôk
 2	beaten	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	lemma_gml=bēteken
 3	hyr	hyr	ADV	_	_	0	root	_	lemma_gml=hîr
 4	mid	mid	ADP	_	AdpType=Prep	6	case	_	lemma_gml=mit
