@@ -5613,7 +5613,7 @@
 11	nå	nå	ADP	_	_	9	compound:prt	_	lemma_gml=nâ|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	nich	nich	PART	_	PartType=Neg	14	advmod	_	lemma_gml=nicht
-14	gelükkelig	gelükkelik	ADJ	_	Degree=Pos	9	advmod	_	lemma_gml=gelückelĩk|SpaceAfter=No
+14	gelükkelig	gelüklik	ADJ	_	Degree=Pos	9	advmod	_	lemma_gml=gelückelĩk|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	_
 16	nich	nich	PART	_	PartType=Neg	17	advmod	_	lemma_gml=nicht
 17	trurig	trurig	ADJ	_	Degree=Pos	14	conj	_	lemma_gml=trûrich|SpaceAfter=No
