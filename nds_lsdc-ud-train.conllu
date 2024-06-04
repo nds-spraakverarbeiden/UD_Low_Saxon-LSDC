@@ -5676,7 +5676,7 @@
 12	dee	dee	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	lemma_gml=dê,dê,dat
 13	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	lemma_gml=ik
 14	syddeam	syddem	ADV	_	_	17	advmod	_	lemma_gml=sîtdēme
-15	nee	nie	ADV	_	_	17	advmod	_	lemma_gml=nê
+15	nee	nee	ADV	_	_	17	advmod	_	lemma_gml=nê
 16	wedder	wedder	ADV	_	_	17	advmod	_	lemma_gml=wedder
 17	vorgeaten	vorgeaten	VERB	_	Tense=Past|VerbForm=Part	10	acl:relcl	_	lemma_gml=vorgēten
 18	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	17	aux	_	lemma_gml=hebben|SpaceAfter=No
