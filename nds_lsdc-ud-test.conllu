@@ -2866,7 +2866,7 @@
 46	weasen	weasen	AUX	_	VerbForm=Inf	45	cop	_	lemma_gml=wēsen²
 47	willet	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	45	aux	_	SpaceAfter=No
 48	,	,	PUNCT	_	_	42	punct	_	_
-49	dårdöärch	dårdöärch	ADV	_	_	55	advmod	_	_
+49	dårdöärch	dårdöär	ADV	_	_	55	advmod	_	_
 50	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê
 51	kristendoom	kristendoom	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
 52	meyr	veal	ADV	_	_	55	advmod	_	_
@@ -12818,7 +12818,7 @@
 23	äver	aver	CCONJ	_	_	35	cc	_	lemma_gml=āver
 24	dat	dat	SCONJ	_	_	29	mark	_	lemma_gml=dat
 25	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	29	nsubj	_	lemma_gml=sê
-26	dårdöärch	dårdöärch	ADV	_	_	29	advmod	_	lemma_gml=dârdȫr
+26	dårdöärch	dårdöär	ADV	_	_	29	advmod	_	lemma_gml=dârdȫr
 27	veal	veale	ADJ	_	Degree=Pos	28	advmod	_	lemma_gml=vēle
 28	gelükliker	gelüklik	ADJ	_	Degree=Cmp	29	xcomp	_	lemma_gml=gelükkelĩk
 29	worden	werden	VERB	_	Tense=Past|VerbForm=Part	35	advcl	_	lemma_gml=wērden
