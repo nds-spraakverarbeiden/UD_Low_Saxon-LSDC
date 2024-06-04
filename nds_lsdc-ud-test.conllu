@@ -3525,7 +3525,7 @@
 51	geyt	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	44	parataxis	_	lemma_gml=gân
 52	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	51	nsubj	_	lemma_gml=hê
 53	sündags	sündag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	51	obj	_	lemma_gml=sondach
-54	mea	meade	ADP	_	_	50	case	_	lemma_gml=mit
+54	mea	mid	ADP	_	_	50	case	_	lemma_gml=mit
 55	nå	nå	ADP	_	AdpType=Prep	57	case	_	lemma_gml=nâ
 56	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	det	_	lemma_gml=dê
 57	karke	kerke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	51	obl	_	lemma_gml=kerke
@@ -6787,7 +6787,7 @@
 31	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	33	cop	_	lemma[gml]=wēsen
 32	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	lemma[gml]=ik
 33	gek	gek	ADJ	_	Degree=Pos	6	parataxis	_	lemma[gml]=gek
-34	mea	meade	ADP	_	_	30	case	_	lemma[gml]=mit|SpaceAfter=No
+34	mea	mid	ADP	_	_	30	case	_	lemma[gml]=mit|SpaceAfter=No
 35	,	,	PUNCT	_	_	34	punct	_	_
 36	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	41	nsubj	_	lemma[gml]=hê,sê,et
 37	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	41	cop	_	lemma[gml]=wēsen
@@ -10859,7 +10859,7 @@
 21	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	25	nsubj	_	lemma_gml=gî
 22	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	obj	_	lemma_gml=hê,sê,et
 23	ümmers	immer	ADV	_	_	25	advmod	_	lemma_gml=iemmer
-24	meade	meade	ADP	_	_	19	case	_	lemma_gml=mit
+24	meade	mid	ADP	_	_	19	case	_	lemma_gml=mit
 25	redden	redden	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=redden|SpaceAfter=No
 26	?	?	PUNCT	_	_	4	punct	_	_
 
