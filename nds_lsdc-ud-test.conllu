@@ -767,7 +767,7 @@
 # text = Do kaem dår ouk eyns eyn sik to besteaden un de möller vortelde em gelyks, dat et in de möäle nich richtig weer.
 1	Do	do	ADV	_	_	2	advmod	_	lemma_gml=dô¹
 2	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen¹
-3	dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr¹
+3	dår	dår	PRON	_	_	2	expl	_	lemma_gml=dâr¹
 4	ouk	ouk	ADV	_	_	2	advmod	_	lemma_gml=ôk
 5	eyns	eyns	ADV	_	_	2	advmod	_	lemma_gml=êⁱnes
 6	eyn	eyn	PRON	_	Number=Sing|Person=3|PronType=Ind	2	nsubj	_	lemma_gml=êⁱn¹
@@ -2357,7 +2357,7 @@
 # text = As ik ter mer eyne wüs, den unsen kråm wol koupen!"
 1	As	as	SCONJ	_	_	6	mark	_	lemma_gml=alsô
 2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik
-3	ter	dår	ADV	_	_	6	advmod	_	lemma_gml=dâr¹
+3	ter	dår	PRON	_	_	6	expl	_	lemma_gml=dâr¹
 4	mer	men	ADV	_	_	6	advmod	_	lemma_gml=men³
 5	eyne	eyn	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Ind	6	obj	_	lemma_gml=êⁱn¹
 6	wüs	weaten	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=wēten¹|SpaceAfter=No
@@ -3499,7 +3499,7 @@
 25	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	24	aux	_	lemma_gml=hebben|SpaceAfter=No
 26	,	,	PUNCT	_	_	24	punct	_	_
 27	bleyv	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	conj	_	lemma_gml=blîven
-28	der	dår	ADV	_	_	27	advmod	_	lemma_gml=dâr
+28	der	dår	PRON	_	_	27	expl	_	lemma_gml=dâr
 29	noch	noch	ADV	_	_	27	advmod	_	lemma_gml=noch
 30	geld	geld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	27	obj	_	lemma_gml=gelt
 31	oaver	öäver	ADP	_	_	27	compound:prt	_	lemma_gml=ȫver
@@ -6098,7 +6098,7 @@
 1	Waneyr	waneyr	ADV	_	_	9	advmod	_	lemma_gml=wannêre
 2	mut	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	9	aux	_	lemma_gml=mö̂ten
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
-4	der	dår	ADV	_	_	9	advmod	_	lemma_gml=dâr
+4	der	dår	PRON	_	_	9	expl	_	lemma_gml=dâr
 5	dan	dan	ADV	_	_	9	advmod	_	lemma_gml=dan
 6	med	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
@@ -6202,7 +6202,7 @@
 45	kan	künnen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	38	acl	_	lemma_gml=künnen
 46	sunder	sunder	ADP	_	AdpType=Prep	51	case	_	lemma_gml=sunder
 47	dat	dat	SCONJ	_	_	51	mark	_	lemma_gml=dat
-48	der	dår	ADV	_	_	51	advmod	_	lemma_gml=dâr
+48	der	dår	PRON	_	_	51	expl	_	lemma_gml=dâr
 49	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	50	det	_	lemma_gml=êin,êine,êin
 50	köpken	köpken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	51	nsubj	_	lemma_gml=köppeken
 51	völt	vallen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	45	obl	_	lemma_gml=vallen|SpaceAfter=No
@@ -6416,7 +6416,7 @@
 31	;	;	PUNCT	_	_	30	punct	_	_
 32	melk	melk	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	37	nsubj	_	lemma_gml=melk
 33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
-34	der	dår	ADV	_	_	37	advmod	_	lemma_gml=dâr
+34	der	dår	PRON	_	_	37	expl	_	lemma_gml=dâr
 35	döär	döärch	ADP	_	AdpType=Prep	37	case	_	lemma_gml=dȫr
 36	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
 37	koffy	koffy	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	parataxis	_	lemma_gml=koffî
@@ -6572,7 +6572,7 @@
 8	dan	dan	ADV	_	_	14	advmod	_	lemma_gml=dan
 9	kün	künnen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	14	aux	_	lemma_gml=künnen
 10	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	14	nsubj	_	lemma_gml=gî
-11	der	dår	ADV	_	_	14	advmod	_	lemma_gml=dâr
+11	der	dår	PRON	_	_	14	expl	_	lemma_gml=dâr
 12	sums	sums	ADV	_	_	14	advmod	_	lemma_gml=sums
 13	eyne	eyn	PRON	_	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Ind	14	obj	_	lemma_gml=êin,êine,êin
 14	treffen	treffen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=drēpen
@@ -6615,7 +6615,7 @@
 15	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	lemma_gml=seggen|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	skeid	skeyden	VERB	_	Mood=Imp|Number=Sing	15	ccomp	_	lemma_gml=schêiden
-18	der	dår	ADV	_	_	17	advmod	_	lemma_gml=dâr
+18	der	dår	PRON	_	_	17	expl	_	lemma_gml=dâr
 19	now	nu	ADV	_	_	17	advmod	_	lemma_gml=nû
 20	üüt	uut	ADP	_	_	17	compound:prt	_	lemma_gml=ût|SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	_
@@ -7370,7 +7370,7 @@
 2	en	un	CCONJ	_	_	3	cc	_	lemma[gml]=ende
 3	Willem	Willem	PROPN	_	Number=Sing	1	conj	_	lemma[gml]=willem
 4	wassen	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	aux	_	lemma[gml]=wēsen
-5	der	dår	ADV	_	_	7	advmod	_	lemma[gml]=dâr
+5	der	dår	PRON	_	_	7	expl	_	lemma[gml]=dâr
 6	en	en	DET	_	Definite=Ind|PronType=Art	7	det	_	lemma[gml]=êin,êine,êin
 7	pår	pår	NOUN	_	_	0	root	_	lemma[gml]=pâr
 8	van	van	ADP	_	AdpType=Prep	11	case	_	lemma[gml]=van
@@ -7592,7 +7592,7 @@
 6	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
 7	al	al	ADV	_	_	8	advmod	_	lemma_gml=al
 8	blevt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	advcl	_	lemma_gml=blîven
-9	der	dår	ADV	_	_	8	advmod	_	lemma_gml=dâr
+9	der	dår	PRON	_	_	8	expl	_	lemma_gml=dâr
 10	al	al	ADV	_	_	8	advmod	_	lemma_gml=al
 11	minder	minder	ADJ	_	Degree=Cmp	12	amod	_	lemma_gml=weinich
 12	tyd	tyd	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	8	nsubj	_	lemma_gml=tît
@@ -9221,7 +9221,7 @@
 23	stån	stån	VERB	_	VerbForm=Inf	22	xcomp	_	lemma_gml=stân|SpaceAfter=No
 24	,	,	PUNCT	_	_	22	punct	_	_
 25	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	cop	_	lemma_gml=wēsen
-26	der	dår	ADV	_	_	30	advmod	_	lemma_gml=dâr
+26	der	dår	PRON	_	_	30	expl	_	lemma_gml=dâr
 27	al	al	ADV	_	_	30	advmod	_	lemma_gml=al
 28	lange	lange	ADV	_	_	30	advmod	_	lemma_gml=lanc
 29	neet	nich	PART	_	PartType=Neg	30	advmod	_	lemma_gml=nicht
@@ -10172,13 +10172,13 @@
 # text = Regelmåtig was der e-mailvorkeyr en ouk fotos gingen der af en to hen en wear ovver de atlantiske oceaan.
 1	Regelmåtig	regelmåtig	ADJ	_	Degree=Pos	4	advmod	_	lemma_gml=rēgelmâtich
 2	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	lemma_gml=wēsen
-3	der	dår	ADV	_	_	4	advmod	_	lemma_gml=dâr
+3	der	dår	PRON	_	_	4	expl	_	lemma_gml=dâr
 4	e-mailvorkeyr	e-mailvorkeyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=e-mālevorkêr
 5	en	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
 6	ouk	ouk	ADV	_	_	7	advmod	_	lemma_gml=ôk
 7	fotos	foto	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	_	lemma_gml=fôtô
 8	gingen	gån	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	lemma_gml=gân
-9	der	dår	ADV	_	_	8	advmod	_	lemma_gml=dâr
+9	der	dår	PRON	_	_	8	expl	_	lemma_gml=dâr
 10	af	af	ADP	_	_	8	obl	_	lemma_gml=af
 11	en	un	CCONJ	_	_	12	cc	_	lemma_gml=ende
 12	to	to	ADP	_	_	10	conj	_	lemma_gml=tô
@@ -10197,7 +10197,7 @@
 1	Mår	mår	CCONJ	_	_	3	cc	_	lemma_gml=mêr
 2	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	nsubj	_	lemma_gml=watte
 3	geböärt	geböären	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gebȫren
-4	der	dår	ADV	_	_	3	advmod	_	lemma_gml=dâr|SpaceAfter=No
+4	der	dår	PRON	_	_	3	expl	_	lemma_gml=dâr|SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0384_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
@@ -10443,7 +10443,7 @@
 # text_orig = En der bint lichaamsdielen waor je ’t nooit van verwachten zulden, die mij ok nou nog krom staon gaot.
 # text = En der bint lichaamsdeylen wår jy et nooit van vorwachten sülden, dee my ouk now noch krum stån gåt.
 1	En	un	CCONJ	_	_	4	cc	_	lemma_gml=ende
-2	der	dår	ADV	_	_	4	advmod	_	lemma_gml=dâr
+2	der	dår	PRON	_	_	4	expl	_	lemma_gml=dâr
 3	bint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	cop	_	lemma_gml=wēsen
 4	lichaamsdeylen	lichaamsdeyl	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	lemma_gml=lichamsdêil
 5	wår	woor	ADV	_	_	10	advmod	_	lemma_gml=wôre
@@ -10485,7 +10485,7 @@
 6	vansülvspreakend	vansülvspreakend	ADJ	_	Degree=Pos|Tense=Pres|VerbForm=Part	0	root	_	lemma_gml=vansülvesprēkent
 7	dat	dat	SCONJ	_	_	10	mark	_	lemma_gml=dat
 8	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	lemma_gml=dê,dê,dat
-9	der	dår	ADV	_	_	10	advmod	_	lemma_gml=dâr
+9	der	dår	PRON	_	_	10	expl	_	lemma_gml=dâr
 10	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -12144,7 +12144,7 @@
 # sent_id = LSDC_0463_DNS_2008_NNI_cdu-bremen_an-plattdüütsch-fasthollen-un-plattdüütsch-starker-maken
 # text_orig = Dor hett dat denn in de 25. Sitten an'n 2. Juli 2008 ´de Börgerschopsdebatte över den Andrag vun de CDU-Fraktschoon geven.
 # text = Dår het dat dän in de 25. sittinge an den 2. juli 2008 de börgerskopsdebatte öäver den andrag van de CDU-fraktioon geaven.
-1	Dår	dår	ADV	_	_	22	advmod	_	lemma_gml=dâr
+1	Dår	dår	PRON	_	_	22	expl	_	lemma_gml=dâr
 2	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	aux	_	lemma_gml=hebben
 3	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	lemma_gml=dê,dê,dat
 4	dän	dän	ADV	_	_	22	advmod	_	lemma_gml=den
@@ -12502,7 +12502,7 @@
 10	,	,	PUNCT	_	_	7	punct	_	_
 11	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hö̂ren
 12	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	lemma_gml=hê,sê,et
-13	der	dår	ADV	_	_	11	advmod	_	lemma_gml=dâr
+13	der	dår	PRON	_	_	11	expl	_	lemma_gml=dâr
 14	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	obj	_	lemma_gml=watte
 15	steanen	steanen	VERB	_	VerbForm=Inf	11	xcomp	_	lemma_gml=stēnen
 16	mang	mang	ADP	_	AdpType=Prep	18	case	_	lemma_gml=manc
