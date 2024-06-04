@@ -2787,7 +2787,7 @@
 26	to	to	PART	_	PartType=Inf	27	mark	_	_
 27	drägen	drägen	VERB	_	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
 28	)	)	PUNCT	_	_	20	punct	_	_
-29	dat	dat	CCONJ	_	_	40	cc	_	lemma_gml=dat
+29	dat	dat	SCONJ	_	_	40	cc	_	lemma_gml=dat
 30	van	van	ADP	_	AdpType=Prep	31	case	_	lemma_gml=van¹
 31	hunderd	hunderd	NUM	_	Case=Acc,Dat	33	nmod	_	_
 32	keyne	keyn	DET	_	Case=Nom|Number=Plur|PronType=Neg	33	det	_	_
