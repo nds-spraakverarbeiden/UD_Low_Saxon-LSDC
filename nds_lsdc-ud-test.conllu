@@ -3408,7 +3408,7 @@
 1	-	-	PUNCT	_	_	2	punct	_	_
 2	Jå	jå	INTJ	_	_	6	discourse	_	lemma_gml=jâ|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	lemma_gml=mînhêre|SpaceAfter=No
+4	meneyr	meneyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	lemma_gml=mînhêre|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	lemma_gml=,
 6	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=seggen
 7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	lemma_gml=ik|SpaceAfter=No
@@ -3648,7 +3648,7 @@
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
 10	halve	halv	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	lemma_gml=half
-11	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	lemma_gml=mînhêre|SpaceAfter=No
+11	meneyr	meneyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	lemma_gml=mînhêre|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	lemma_gml=dê
 14	handsken	handske	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	obj	_	lemma_gml=hantsche
@@ -6769,7 +6769,7 @@
 13	uw	jy	PRON	_	Case=Acc,Dat|Number=Plur,Sing|Person=2|PronType=Prs	14	obj	_	lemma[gml]=gî
 14	beleevt	beleven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	discourse	_	lemma[gml]=belêven|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
-16	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	vocative	_	lemma[gml]=mînhêre|SpaceAfter=No
+16	meneyr	meneyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	vocative	_	lemma[gml]=mînhêre|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	völle	veale	ADV	_	Degree=Pos	4	orphan	_	lemma[gml]=vēle
 19	-	-	PUNCT	_	_	25	punct	_	_
@@ -7198,7 +7198,7 @@
 4	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
 5	ofspråke	afspråke	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	lemma_gml=afsprâke
 6	med	mid	ADP	_	AdpType=Prep	7	case	_	lemma_gml=mit
-7	meneyr	meneyr	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	nmod	_	lemma_gml=mînhêre
+7	meneyr	meneyre	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	nmod	_	lemma_gml=mînhêre
 8	vortelde	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	advcl	_	lemma_gml=vortellen|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	see	seen	VERB	_	Mood=Imp|Number=Sing	8	discourse	_	lemma_gml=sên|SpaceAfter=No
@@ -8981,7 +8981,7 @@
 4	Andries	Andries	PROPN	_	Number=Sing	13	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	sei	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	parataxis	_	lemma_gml=seggen
-7	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=mînhêre
+7	meneyr	meneyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=mînhêre
 8	-	-	PUNCT	_	_	13	punct	_	_
 9	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	13	nsubj	_	lemma_gml=gî
 10	bint	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	13	cop	_	lemma_gml=wēsen
@@ -9647,7 +9647,7 @@
 # text = To reed meneyr my an, gyn drank meyr te drinken, mår et geld vöär myn vrouwe en kinders ampart te leggen.
 1	To	do	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	reed	råden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=râden
-3	meneyr	meneyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=mînhêre
+3	meneyr	meneyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=mînhêre
 4	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik
 5	an	an	ADP	_	AdpType=Prep	2	compound:prt	_	lemma_gml=an|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
@@ -10589,7 +10589,7 @@
 10	såd	såd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	lemma_gml=sôt
 11	vorsketen	vorsketen	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	0	root	_	lemma_gml=vorschêtent
 12	by	by	ADP	_	AdpType=Prep	13	case	_	lemma_gml=bî
-13	meneyr	meneyr	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	11	nmod	_	lemma_gml=mînhêre
+13	meneyr	meneyre	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	11	nmod	_	lemma_gml=mînhêre
 14	v.	v.	ADP	_	AdpType=Prep	13	flat	_	_
 15	A.	A.	PROPN	_	Number=Sing	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	_
