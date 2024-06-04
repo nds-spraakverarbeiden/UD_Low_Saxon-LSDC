@@ -6377,7 +6377,7 @@
 49	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê,dê,dat
 50	rechte	recht	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	51	amod	_	lemma_gml=recht
 51	jus	jus	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	43	parataxis	_	lemma_gml=jus
-52	dervan	dervan	ADV	_	_	51	advmod	_	lemma_gml=dârvan|SpaceAfter=No
+52	dervan	dårvan	ADV	_	_	51	advmod	_	lemma_gml=dârvan|SpaceAfter=No
 53	!	!	PUNCT	_	_	43	punct	_	_
 
 # sent_id = LSDC_0228_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
