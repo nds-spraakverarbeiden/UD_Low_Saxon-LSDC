@@ -12209,7 +12209,7 @@
 142	halse	hals	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	143	obl	_	lemma_gml=hals
 143	reyp	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	137	conj	_	lemma_gml=rôpen|SpaceAfter=No
 144	:	:	PUNCT	_	_	143	punct	_	_
-145	Papa	papa	INTJ	_	_	150	vocative	_	SpaceAfter=No
+145	Papa	papa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	150	vocative	_	SpaceAfter=No
 146	,	,	PUNCT	_	_	145	punct	_	_
 147	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	148	det	_	lemma_gml=dê,dê,dat
 148	skoolmeyster	skoolmeyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	150	nsubj	_	lemma_gml=schôlemeyster
