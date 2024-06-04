@@ -8005,7 +8005,7 @@
 12	en	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	lemma_gml=hê,sê,et
 13	dee	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
 14	bröder	broder	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	lemma_gml=brôder
-15	dårto	dårtp	ADV	_	_	11	advmod	_	lemma_gml=dârtô
+15	dårto	dårto	ADV	_	_	11	advmod	_	lemma_gml=dârtô
 16	up	up	ADP	_	_	11	compound:prt	_	lemma_gml=uppe
 17	un	en	CCONJ	_	_	18	cc	_	lemma_gml=unde
 18	skriaven	skryven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	conj	_	lemma_gml=schrîven
