@@ -3057,7 +3057,7 @@
 2	bün	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
 3	blout	blout	ADV	_	_	6	advmod	_	lemma_gml=blôt
 4	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
-5	bütelst	büterst	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	6	amod	_	lemma_gml=bûten
+5	bütelst	büter	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	6	amod	_	lemma_gml=bûten
 6	ende	ende	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=ende
 7	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
 8	synen	syn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
