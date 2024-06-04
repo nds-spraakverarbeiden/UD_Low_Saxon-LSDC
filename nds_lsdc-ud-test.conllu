@@ -2604,7 +2604,7 @@
 15	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	cop	_	lemma_gml=wēsen²
 16	em	hee	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	18	obj	_	lemma_gml=hê¹
 17	nich	nich	PART	_	PartType=Neg	18	advmod	_	lemma_gml=nicht¹
-18	müägelik	möägelik	ADJ	_	Degree=Pos	4	parataxis	_	lemma_gml=mȫgelĩk¹|SpaceAfter=No
+18	müägelik	möäglik	ADJ	_	Degree=Pos	4	parataxis	_	lemma_gml=mȫgelĩk¹|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_
 20	dat	dat	SCONJ	_	_	22	mark	_	lemma_gml=dat
 21	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	lemma_gml=hê¹
