@@ -12727,7 +12727,7 @@
 9	uutbenoamen	uutbenoamen	VERB	_	Tense=Past|VerbForm=Part	7	acl	_	lemma_gml=ûtnēmen
 10	dat	dat	SCONJ	_	_	12	mark	_	lemma_gml=dat
 11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	lemma_gml=hê,sê,et
-12	katolisk	katolisk	ADJ	_	Degree=Pos	9	advcl	_	lemma_gml=kathö̂lesch
+12	katolisk	katoolsk	ADJ	_	Degree=Pos	9	advcl	_	lemma_gml=kathö̂lesch
 13	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	lemma_gml=wēsen|SpaceAfter=No
 14	;	;	PUNCT	_	_	9	punct	_	_
 15	do	do	ADV	_	_	16	advmod	_	lemma_gml=dâr
