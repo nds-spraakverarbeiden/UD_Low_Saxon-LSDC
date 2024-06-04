@@ -6521,7 +6521,7 @@
 # text_orig = Sau os doe Gaise gewüönt send, sau got soe.
 # text = Sou os dee göse gewöänd sint, sou gåt see.
 1	Sou	sou	ADV	_	_	9	dislocated	_	lemma_gml=sô
-2	os	os	SCONJ	_	_	5	mark	_	lemma_gml=alsô
+2	os	as	SCONJ	_	_	5	mark	_	lemma_gml=alsô
 3	dee	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
 4	göse	goos	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	lemma_gml=gôs
 5	gewöänd	gewöänen	VERB	_	Tense=Past|VerbForm=Part	1	advcl	_	lemma_gml=wēnen
