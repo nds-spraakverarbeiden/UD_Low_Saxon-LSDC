@@ -5000,7 +5000,7 @@
 14	nich	nich	PART	_	PartType=Neg	15	advmod	_	lemma_gml=nicht
 15	gån	gån	VERB	_	VerbForm=Inf	7	ccomp	_	lemma_gml=gân|SpaceAfter=No
 16	,	,	PUNCT	_	_	28	punct	_	_
-17	dän	dän	SCONJ	_	_	28	mark	_	lemma_gml=den
+17	dän	dän	CCONJ	_	_	28	mark	_	lemma_gml=den
 18	uns	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	lemma_gml=unse
 19	old	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	amod	_	lemma_gml=ōlt
 20	wallach	wallach	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	28	nsubj	_	lemma_gml=wallach|SpaceAfter=No
