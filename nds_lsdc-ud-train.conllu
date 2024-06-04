@@ -8238,7 +8238,7 @@
 21	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	20	nsubj	_	lemma_gml=wî
 22	nå	nå	ADP	_	AdpType=Prep	24	case	_	lemma_gml=nâ
 23	den	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
-24	heiden	heiden	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	20	obl	_	lemma_gml=hêiden|SpaceAfter=No
+24	heiden	heide	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	20	obl	_	lemma_gml=hêide|SpaceAfter=No
 25	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = LSDC_0830_DWF_1933_OWL_ravensbergsk_heinrich-stolte_ravensberg_das-neue-testament
