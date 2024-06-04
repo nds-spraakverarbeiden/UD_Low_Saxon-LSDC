@@ -258,7 +258,7 @@
 38	in	in	ADP	_	AdpType=Prep	39	case	_	lemma_gml=in
 39	truw	truw	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	45	obl	_	lemma_gml=trü̂we
 40	un	un	CCONJ	_	_	41	cc	_	lemma_gml=unde
-41	gelouven	gelouven	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	39	conj	_	lemma_gml=gelôve
+41	gelouven	gelouve	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	39	conj	_	lemma_gml=gelôve
 42	in	in	ADP	_	AdpType=Prep	44	case	_	lemma_gml=in
 43	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	44	det	_	lemma_gml=dê,dê,dat
 44	bybel	bybel	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	45	obl	_	lemma_gml=bibel
@@ -8308,7 +8308,7 @@
 # text_orig = Doe Glauwen hät, doe hät dat oewige Liewen.
 # text = Dee gelouven het, dee het dat eywige liaven.
 1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	3	nsubj	_	lemma_gml=dê,dê,dat
-2	gelouven	gelouven	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=gelôve
+2	gelouven	gelouve	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=gelôve
 3	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	dislocated	_	lemma_gml=hebben|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	6	nsubj	_	lemma_gml=dê,dê,dat
