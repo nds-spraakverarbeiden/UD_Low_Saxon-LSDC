@@ -278,7 +278,7 @@
 1	Het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux	_	lemma_gml=hebben
 2	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	lemma_gml=sik
 3	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	oldske	oldsk	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	lemma_gml=ōltsche
+4	oldske	oldske	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	lemma_gml=ōltsche
 5	ear	ear	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=sîn,ēr,sîn
 6	geld	geld	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	lemma_gml=gelt
 7	dän	dän	ADV	_	_	8	advmod	_	lemma_gml=den
