@@ -7145,7 +7145,7 @@
 # sent_id = LSDC_0254_NWF_2016_ACH_achterhook_nummer-96
 # text_orig = Het leste staaltjen is dat ze ok den lechschakelaar kan bedeen. 
 # text = Et leste ståltjen is dat see ouk den lechtskakelaar kan bedenen.
-1	Et	het	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=et
+1	Et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=et
 2	leste	lest	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	3	amod	_	lemma_gml=lat
 3	ståltjen	stålken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=stâlken
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	lemma_gml=wēsen
@@ -10139,7 +10139,7 @@
 6	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma_gml=et
 7	kleine	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	lemma_gml=klêin
 8	wicht	wicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=wicht
-9	et	het	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=et
+9	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=et
 10	stüür	stüür	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	lemma_gml=stü̂re
 11	vast	vast	ADJ	_	Degree=Pos	5	compound:prt	_	lemma_gml=vast|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
