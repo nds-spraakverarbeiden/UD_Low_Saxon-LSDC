@@ -4342,7 +4342,7 @@
 
 # sent_id = LSDC_0668_MVP_1843_meakelenborgsk_Witt-Duweken
 # text_orig = Un unser Falk, de in der Bök satt un grausam möd äwerst noch veel mehr hungrig was, hürde eene Duw kurren un sach se bald mit ehren witten Feddern up dem Husdack.
-# text = Un unser valke, dee in der böke sat un gruwsam möde äverst noch veal meyr hungerig was, höyrde eyne duve kurren un sag see bald mid earen witten vedderen up dem huusdak.
+# text = Un unser valke, dee in der böke sat un gruwsaam möde äverst noch veal meyr hungerig was, höyrde eyne duve kurren un sag see bald mid earen witten vedderen up dem huusdak.
 1	Un	un	CCONJ	_	_	20	cc	_	lemma_gml=unde
 2	unser	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	lemma_gml=unse
 3	valke	valke	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	lemma_gml=valke|SpaceAfter=No
@@ -4353,7 +4353,7 @@
 8	böke	böke	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	lemma_gml=bö̂ke
 9	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl:relcl	_	lemma_gml=sitten
 10	un	un	CCONJ	_	_	12	cc	_	lemma_gml=unde
-11	gruwsam	gruwsam	ADJ	_	Degree=Pos	12	amod	_	lemma_gml=grûsam
+11	gruwsaam	gruwsaam	ADJ	_	Degree=Pos	12	amod	_	lemma_gml=grûsam
 12	möde	möde	ADJ	_	Degree=Pos	9	conj	_	lemma_gml=mö̂de
 13	äverst	aver	ADV	_	_	17	advmod	_	lemma_gml=āver
 14	noch	noch	ADV	_	_	15	advmod	_	lemma_gml=noch
