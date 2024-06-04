@@ -12931,7 +12931,7 @@
 4	Pölz	Pölz	PROPN	_	Number=Sing	3	flat	_	_
 5	givt	geaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 6	synem	syn	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
-7	brune	brune	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	iobj	_	_
+7	brune	bruun	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	5	iobj	_	_
 8	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem,Masc|Number=Plur|PronType=Art	9	det	_	_
 9	spore	spoorn	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Plur	5	obj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
@@ -12993,7 +12993,7 @@
 19	un	un	CCONJ	_	_	20	cc	_	_
 20	brung	bringen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	_
 21	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	_
-22	brune	brune	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	obj	_	_
+22	brune	bruun	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	20	obj	_	_
 23	an	an	ADP	_	AdpType=Prep	25	case	_	_
 24	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	vinsterlade	vinsterlade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	SpaceAfter=No
