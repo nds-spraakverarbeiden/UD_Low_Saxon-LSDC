@@ -10302,7 +10302,7 @@
 22	nich	nich	PART	_	PartType=Neg	23	advmod	_	_
 23	slechter	slecht	ADJ	_	Degree=Cmp	20	conj	_	_
 24	wo	wo	SCONJ	_	_	25	mark	_	_
-25	änderweagens	anderweagens	ADV	_	_	20	advcl	_	_
+25	änderweagens	anderweagen	ADV	_	_	20	advcl	_	_
 26	un	un	CCONJ	_	_	36	cc	_	_
 27	van	van	ADP	_	AdpType=Prep	29	case	_	_
 28	eygentlike	eygentlik	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	29	amod	_	_
