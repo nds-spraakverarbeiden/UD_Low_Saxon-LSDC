@@ -2740,7 +2740,7 @@
 33	sküllet	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	32	aux	_	SpaceAfter=No
 34	,	,	PUNCT	_	_	32	punct	_	_
 35	je	je	ADV	_	_	36	advmod	_	_
-36	eernsthafter	eernsthaft	ADJ	_	Degree=Cmp	39	advmod	_	_
+36	eernsthafter	eernsthaftig	ADJ	_	Degree=Cmp	39	advmod	_	_
 37	un	un	CCONJ	_	_	38	cc	_	lemma_gml=unde²
 38	duurliker	duurlik	ADJ	_	Degree=Cmp	36	conj	_	_
 39	vråge	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	27	conj	_	_
@@ -5004,7 +5004,7 @@
 # text = Du bis standhaft bliaven, hes dy ümme mynen namen möge giaven un bis nich möde worden.
 1	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	lemma_gml=dû
 2	bis	weasen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	aux	_	lemma_gml=wēsen
-3	standhaft	standhaft	ADJ	_	Degree=Pos	4	xcomp	_	lemma_gml=stanthaftich
+3	standhaft	standhaftig	ADJ	_	Degree=Pos	4	xcomp	_	lemma_gml=stanthaftich
 4	bliaven	blyven	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=blîven|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	hes	hebben	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	12	aux	_	lemma_gml=hebben
