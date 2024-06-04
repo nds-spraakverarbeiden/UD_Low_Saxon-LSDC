@@ -10676,7 +10676,7 @@
 # sent_id = LSDC_0404_NWF_2017_TWE_twentsk_rosenmontag-meart-2017-bodbreef-HAN
 # text_orig = Dit joar ok met zö’n dreehonderd man, mer ja, de Gravenes is ok nog in aanbouw.
 # text = Dit jår ouk med söy en dreehunderd man, mer jå, de Gravenes is ouk noch in anbouw.
-1	Dit	dit	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=desse,desse,dit
+1	Dit	disse	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=desse,desse,dit
 2	jår	jår	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	lemma_gml=jâr
 3	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
 4	med	mid	ADP	_	AdpType=Prep	8	case	_	lemma_gml=mit
