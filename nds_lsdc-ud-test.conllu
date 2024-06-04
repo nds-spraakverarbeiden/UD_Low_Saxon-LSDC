@@ -524,7 +524,7 @@
 8	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Rel	13	nsubj	_	lemma_gml=dê¹
 9	der	dår	ADV	_	_	13	advmod	_	lemma_gml=dâr¹
 10	an	an	ADP	_	AdpType=Prep	12	case	_	lemma_gml=an
-11	den	den	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê¹
+11	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê¹
 12	weg	weg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=wech¹
 13	stön	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	acl	_	lemma_gml=stân|SpaceAfter=No
 14	;	;	PUNCT	_	_	16	punct	_	_
