@@ -12779,7 +12779,7 @@
 61	!	!	PUNCT	_	_	60	punct	_	_
 62	puur	puur	ADV	_	_	64	advmod	_	lemma_gml=pûr
 63	uut	uut	ADP	_	AdpType=Prep	64	case	_	lemma_gml=ût
-64	nyskyrigheid	nyskyrigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	38	obl	_	lemma_gml=eyeschêit|SpaceAfter=No
+64	nyskyrigheid	nysgyrigheid	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	38	obl	_	lemma_gml=eyeschêit|SpaceAfter=No
 65	,	,	PUNCT	_	_	64	punct	_	_
 66	deyls	deyls	ADV	_	_	74	cc	_	lemma_gml=dêil
 67	ouk	ouk	ADV	_	_	74	advmod	_	lemma_gml=ôk|SpaceAfter=No
