@@ -9668,7 +9668,7 @@
 86	bet	bet	ADP	_	AdpType=Prep	89	case	_	_
 87	to	to	ADP	_	AdpType=Prep	89	case	_	_
 88	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	89	det	_	_
-89	änder	ander	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	85	nmod	_	_
+89	änder	ander	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing	85	nmod	_	_
 90	uuthauwen	uuthauwen	VERB	_	VerbForm=Inf	76	advcl	_	_
 91	süllen	sköälen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	90	aux	_	SpaceAfter=No
 92	,	,	PUNCT	_	_	98	punct	_	_
