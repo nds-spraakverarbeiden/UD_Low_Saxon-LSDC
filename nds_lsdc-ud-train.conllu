@@ -8536,7 +8536,7 @@
 # text_orig = Dat Hiemelruik glicket oenem Manne, doe int Iutland roesen woll.
 # text = Dat hiamelryke gelikt eynem manne, dee in dat uutland reisen wol.
 1	Dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
-2	hiamelryke	heamelryke	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=hemmelrîke
+2	hiamelryke	hemmelryke	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=hemmelrîke
 3	gelikt	gelyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=gelîken
 4	eynem	en	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
 5	manne	man	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=man|SpaceAfter=No
