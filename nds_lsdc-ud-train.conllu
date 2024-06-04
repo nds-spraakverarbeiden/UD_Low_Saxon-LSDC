@@ -76,7 +76,7 @@
 8	höldt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
 9	mål	mål	ADV	_	_	10	advmod	_	lemma_gml=mâl
 10	sou	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
-11	lange	lang	ADV	_	_	8	advmod	_	lemma_gml=lanc
+11	lange	lange	ADV	_	_	8	advmod	_	lemma_gml=lanc
 12	as	as	ADP	_	_	14	case	_	lemma_gml=alsô
 13	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=êin,êine,êin
 14	köften	köft	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	obl	_	lemma_gml=köfte|SpaceAfter=No
@@ -891,7 +891,7 @@
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
 2	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=liggen
 3	noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
-4	lange	lang	ADV	_	Degree=Pos	2	advmod	_	lemma_gml=lanc
+4	lange	lange	ADV	_	Degree=Pos	2	advmod	_	lemma_gml=lanc
 5	un	un	CCONJ	_	_	8	cc	_	lemma_gml=unde
 6	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	8	aux	_	lemma_gml=künnen
 7	nich	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
@@ -1953,7 +1953,7 @@
 25	eyner	eyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	20	obl	_	lemma_gml=êin,êine,êin|SpaceAfter=No
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	29	nsubj	_	lemma_gml=dê,dê,dat
-28	lange	lang	ADV	_	_	29	advmod	_	lemma_gml=lanc
+28	lange	lange	ADV	_	_	29	advmod	_	lemma_gml=lanc
 29	kommandeerd	kommanderen	VERB	_	Tense=Past|VerbForm=Part	25	acl:relcl	_	lemma_gml=commendêren
 30	un	un	CCONJ	_	_	34	cc	_	lemma_gml=unde
 31	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	34	expl:pv	_	lemma_gml=sik
@@ -2876,7 +2876,7 @@
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=dê,dê,dat
 2	mööt	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	lemma_gml=mö̂ten
 3	nich	nich	PART	_	PartType=Neg	5	advmod	_	lemma_gml=nicht
-4	lange	lange	ADJ	_	Degree=Pos	5	advmod	_	lemma_gml=lanc
+4	lange	lange	ADV	_	Degree=Pos	5	advmod	_	lemma_gml=lanc
 5	hakken	hakken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=hacken
 6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
 7	knarren	knarren	VERB	_	VerbForm=Inf	5	conj	_	lemma_gml=knarren
@@ -6877,7 +6877,7 @@
 2	bekeyk	bekyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=bekîken
 3	ne	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
 4	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	lemma_gml=sik
-5	lange	lang	ADV	_	_	2	advmod	_	lemma_gml=lanc
+5	lange	lange	ADV	_	_	2	advmod	_	lemma_gml=lanc
 6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
 7	såg	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=sên|SpaceAfter=No
 8	,	,	PUNCT	_	_	15	punct	_	_
@@ -7780,7 +7780,7 @@
 # text = – Neet lange dårnå kwam iam ne wille süäge enteagen un vrågde: "Pannekööksken, hwoor wolst du hen?"
 1	–	–	PUNCT	_	_	5	punct	_	_
 2	Neet	nch	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
-3	lange	lang	ADV	_	_	4	advmod	_	lemma_gml=lanc
+3	lange	lange	ADV	_	_	4	advmod	_	lemma_gml=lanc
 4	dårnå	dårnå	ADV	_	_	5	advmod	_	lemma_gml=dârnâ
 5	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 6	iam	hee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	lemma_gml=hê,sê,et
@@ -8253,7 +8253,7 @@
 7	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	lemma_gml=hê,sê,et
 8	see	see	PRON	_	Case=Acc|Number=Plur|PronType=Prs	12	obj	_	lemma_gml=sê
 9	ouk	ouk	ADV	_	_	12	advmod	_	lemma_gml=ôk
-10	lange	lang	ADV	_	_	12	advmod	_	lemma_gml=lanc
+10	lange	lange	ADV	_	_	12	advmod	_	lemma_gml=lanc
 11	töven	töven	VERB	_	VerbForm=Inf	12	xcomp	_	lemma_gml=tö̂ven
 12	löt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	xcomp	_	lemma_gml=lâten|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
