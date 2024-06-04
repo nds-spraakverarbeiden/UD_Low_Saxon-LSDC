@@ -3911,7 +3911,7 @@
 73	unsen	uns	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	75	det	_	lemma_gml=unse
 74	lütten	lüt	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	75	amod	_	lemma_gml=lüttik
 75	brüdigam	brüdigam	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	79	obl	_	lemma_gml=brü̂degam
-76	endlik	endlik	ADJ	_	_	79	advmod	_	lemma_gml=entlĩken
+76	endlik	endelik	ADJ	_	_	79	advmod	_	lemma_gml=entlĩken
 77	wedder	wedder	ADV	_	_	79	advmod	_	lemma_gml=wedder
 78	angeledded	angeledden	VERB	_	Tense=Past|VerbForm=Part	79	xcomp	_	lemma_gml=angelêiden
 79	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	81	advcl	_	lemma_gml=kōmen|SpaceAfter=No
