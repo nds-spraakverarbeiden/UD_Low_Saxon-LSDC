@@ -7802,7 +7802,7 @@
 4	spröäkske	spröäksken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	lemma_gml=sprȫksken|SpaceAfter=No
 5	:	:	PUNCT	_	_	10	punct	_	_
 6	‘	‘	PUNCT	_	_	8	punct	_	SpaceAfter=No
-7	Ungeliken	ongelyk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma_gml=ungelîk
+7	Ungeliken	ungelyk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma_gml=ungelîk
 8	ård	ård	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	lemma_gml=ārt|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	deent	denen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	acl	_	lemma_gml=dênen
