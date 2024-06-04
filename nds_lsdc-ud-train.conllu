@@ -9394,7 +9394,7 @@
 5	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	ander	ander	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
 7	syde	syde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	8	obl	_	_
-8	ankoamen	ankoamne	VERB	_	VerbForm=Inf	11	advcl	_	_
+8	ankoamen	ankoamen	VERB	_	VerbForm=Inf	11	advcl	_	_
 9	dea	doon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
 11	stund	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
