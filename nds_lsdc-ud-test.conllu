@@ -1761,7 +1761,7 @@
 41	,	,	PUNCT	_	_	55	punct	_	_
 42	en	un	CCONJ	_	_	55	cc	_	lemma_gml=unde²
 43	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	lemma_gml=dê¹
-44	domeneer	domenee	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	55	dislocated	_	lemma_gml=dominê|SpaceAfter=No
+44	domeneer	dominee	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	55	dislocated	_	lemma_gml=dominê|SpaceAfter=No
 45	....	....	PUNCT	_	_	44	punct	_	_
 46	jå	jå	INTJ	_	_	48	discourse	_	lemma_gml=jâ¹|SpaceAfter=No
 47	,	,	PUNCT	_	_	48	punct	_	_
