@@ -12597,7 +12597,7 @@
 4	,	,	PUNCT	_	_	11	punct	_	_
 5	dat	dat	SCONJ	_	_	11	mark	_	lemma_gml=dat
 6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
-7	in	en	ADP	_	AdpType=Prep	9	case	_	lemma_gml=dê,dê,dat
+7	in	in	ADP	_	AdpType=Prep	9	case	_	lemma_gml=dê,dê,dat
 8	lütje	lütken	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	lemma_gml=lüttik
 9	dörp	dorp	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	11	obj	_	lemma_gml=dorp
 10	grout	grout	ADJ	_	Degree=Pos	11	xcomp	_	lemma_gml=grôt
