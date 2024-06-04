@@ -2667,7 +2667,7 @@
 4	'	'	PUNCT	_	_	5	punct	_	_
 5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê¹
 6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
-7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
+7	oktober	oktober	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
 8	ao.	ao.	ADV	_	_	7	advmod	_	_
 9	1817	1817	NUM	_	_	8	appos	_	_
 10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
