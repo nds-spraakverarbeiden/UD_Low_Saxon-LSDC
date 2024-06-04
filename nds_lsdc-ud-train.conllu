@@ -6494,7 +6494,7 @@
 47	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	48	obj	_	lemma_gml=sê
 48	vung	vinden	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	32	advcl	_	lemma_gml=vân|SpaceAfter=No
 49	,	,	PUNCT	_	_	57	punct	_	_
-50	un	ik	CCONJ	_	_	57	cc	_	lemma_gml=unde
+50	un	un	CCONJ	_	_	57	cc	_	lemma_gml=unde
 51	hevve	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	57	aux	_	lemma_gml=hebben
 52	wal	wol	ADV	_	_	57	advmod	_	lemma_gml=wol
 53	manniget	männig	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	57	obj	_	lemma_gml=mannich
