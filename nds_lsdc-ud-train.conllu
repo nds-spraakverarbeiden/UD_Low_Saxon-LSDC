@@ -2977,7 +2977,7 @@
 79	un	un	CCONJ	_	_	80	cc	_	lemma_gml=unde
 80	ouren	our	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	78	conj	_	lemma_gml=ôr
 81	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	82	det	_	lemma_gml=êin,êine,êin
-82	beaten	beaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	85	obl	_	lemma_gml=bēteken
+82	beaten	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	85	obl	_	lemma_gml=bēteken
 83	up	up	ADP	_	_	85	compound:prt	_	lemma_gml=uppe
 84	to	to	PART	_	PartType=Inf	85	mark	_	lemma_gml=tô
 85	knöypen	knöypen	VERB	_	VerbForm=Inf	75	acl	_	lemma_gml=knö̂pen|SpaceAfter=No
@@ -5198,7 +5198,7 @@
 53	un	un	CCONJ	_	_	54	cc	_	lemma_gml=unde
 54	wän	wän	ADV	_	_	52	conj	_	lemma_gml=wan
 55	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	56	det	_	lemma_gml=êin,êine,êin
-56	beaten	beaten	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	59	nsubj	_	lemma_gml=bēteken
+56	beaten	beatken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	59	nsubj	_	lemma_gml=bēteken
 57	puder	puder	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	56	nmod	_	lemma_gml=pûder
 58	mang	mang	ADP	_	_	51	mark	_	lemma_gml=manc
 59	stöymde	stöymen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	44	advcl	_	lemma_gml=stö̂men|SpaceAfter=No
@@ -5450,7 +5450,7 @@
 67	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	74	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 68	,	,	PUNCT	_	_	67	punct	_	_
 69	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	70	det	_	lemma_gml=êin,êine,êin
-70	beaten	beaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	74	obl	_	lemma_gml=bēteken
+70	beaten	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	74	obl	_	lemma_gml=bēteken
 71	uut	uut	ADP	_	AdpType=Prep	73	case	_	lemma_gml=ût
 72	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	73	det	_	lemma_gml=dê,dê,dat
 73	weg	weg	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	74	obl	_	lemma_gml=wech
@@ -12170,8 +12170,8 @@
 103	un	un	CCONJ	_	_	113	cc	_	lemma_gml=unde
 104	eaven	eaven	SCONJ	_	_	113	mark	_	lemma_gml=ēvene
 105	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	106	det	_	lemma_gml=mîn
-106	betken	beatken	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	113	amod	_	lemma_gml=bēteken
-107	stokvisk	stokvisk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	106	obj	_	lemma_gml=stokvisch
+106	betken	beatken	NOUN	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	113	obj	_	lemma_gml=bēteken
+107	stokvisk	stokvisk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	106	nmod	_	lemma_gml=stokvisch
 108	mid	mid	ADP	_	AdpType=Prep	110	case	_	lemma_gml=mit
 109	grönen	gröön	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	110	amod	_	lemma_gml=grö̂ne
 110	arvten	arvte	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	107	nmod	_	lemma_gml=arvete
