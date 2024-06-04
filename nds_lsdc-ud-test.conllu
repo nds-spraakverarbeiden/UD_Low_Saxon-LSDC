@@ -1400,7 +1400,7 @@
 39	hagen	hagen	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	40	obl	_	lemma_gml=hāgen¹
 40	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	conj	_	lemma_gml=kîken|SpaceAfter=No
 41	,	,	PUNCT	_	_	48	punct	_	_
-42	oader	oader	CCONJ	_	_	48	cc	_	lemma_gml=ōder
+42	oader	edder	CCONJ	_	_	48	cc	_	lemma_gml=ōder
 43	wän	wan	SCONJ	_	_	48	mark	_	lemma_gml=wan³
 44	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	48	nsubj	_	lemma_gml=sê²
 45	by	by	ADP	_	AdpType=Prep	47	case	_	lemma_gml=bî
@@ -2860,7 +2860,7 @@
 40	in	in	ADP	_	AdpType=Prep	42	case	_	_
 41	vöärneame	vöärneam	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	42	amod	_	_
 42	familien	familie	NOUN	_	Case=Acc,Dat|Number=Sing	35	obl	_	_
-43	oader	oader	CCONJ	_	_	45	cc	_	_
+43	oader	edder	CCONJ	_	_	45	cc	_	_
 44	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	45	nsubj	_	lemma_gml=dê¹
 45	et	et	PRON	_	Case=Nom|Number=Sing|PronType=Prs	42	conj	_	lemma_gml=et¹
 46	weasen	weasen	AUX	_	VerbForm=Inf	45	cop	_	lemma_gml=wēsen²
@@ -2900,7 +2900,7 @@
 11	groute	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	_
 12	ungelouve	ungelouve	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	18	punct	_	_
-14	oader	oader	CCONJ	_	_	18	cc	_	_
+14	oader	edder	CCONJ	_	_	18	cc	_	_
 15	as	as	ADV	_	_	18	advmod	_	_
 16	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	18	nsubj	_	_
 17	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	18	obj	_	lemma_gml=et¹
@@ -3243,7 +3243,7 @@
 13	wände	wand	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
 14	heruplöpt	heruploupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	_
-16	oder	oader	CCONJ	_	_	17	cc	_	_
+16	oder	edder	CCONJ	_	_	17	cc	_	_
 17	kaeme	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	1	conj	_	_
 18	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	expl	_	lemma_gml=et¹
 19	immer	immer	ADV	_	_	17	advmod	_	_
