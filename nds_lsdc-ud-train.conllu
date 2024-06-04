@@ -10720,7 +10720,7 @@
 # text_orig = 'n Endje van heur of luip Willem Koulman, n' otterdokse, wat ie wel an zien sloek hoar en verknepen gezicht zijn konnen.
 # text = En endje van höär of löyp Willem Koulman, en ortodokse, wat y wel an syn sluuk hår en vorkneapen gesichte seen kunnen.
 1	En	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
-2	endje	endken	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	lemma_gml=endje
+2	endje	endken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	lemma_gml=endje
 3	van	van	ADP	_	AdpType=Prep	4	case	_	lemma_gml=van
 4	höär	see	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs	2	nmod	_	lemma_gml=sê
 5	of	af	ADP	_	_	4	case	_	lemma_gml=of
