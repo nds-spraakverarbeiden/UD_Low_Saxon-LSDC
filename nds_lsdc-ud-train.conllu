@@ -10015,7 +10015,7 @@
 88	luter	luter	ADJ	_	_	89	advmod	_	_
 89	olde	old	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	90	amod	_	_
 90	leve	leev	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	91	amod	_	_
-91	bekande	bekend	NOUN	_	Case=Nom|Number=Plur	80	advcl	_	SpaceAfter=No
+91	bekande	bekend	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	80	advcl	_	SpaceAfter=No
 92	,	,	PUNCT	_	_	100	punct	_	_
 93	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	100	nsubj	_	_
 94	wo	wo	ADP	_	AdpType=Prep	96	case	_	_
