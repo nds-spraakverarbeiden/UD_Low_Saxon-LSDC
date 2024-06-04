@@ -9446,7 +9446,7 @@
 12	wän	wän	SCONJ	_	_	19	mark	_	_
 13	det	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
 14	ende	ende	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	19	nsubj	_	_
-15	gaar	gaarn	ADV	_	_	16	advmod	_	_
+15	gaar	gaar	ADV	_	_	16	advmod	_	_
 16	nich	nich	PART	_	PartType=Neg	19	advmod	_	_
 17	af	af	ADP	_	_	19	compound:prt	_	_
 18	to	to	PART	_	PartType=Inf	19	mark	_	_
