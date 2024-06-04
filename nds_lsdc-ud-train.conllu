@@ -6135,7 +6135,7 @@
 21	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	cop	_	lemma_gml=wēsen|SpaceAfter=No
 22	,	,	PUNCT	_	_	20	punct	_	_
 23	do	do	ADV	_	_	24	advmod	_	lemma_gml=dô
-24	brachte	bringn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=bringen
+24	brachte	bringen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=bringen
 25	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	24	nsubj	_	lemma_gml=hê,sê,et
 26	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma_gml=êin,êine,êin
 27	suan	söäne	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	24	obj	_	lemma_gml=sȫne
