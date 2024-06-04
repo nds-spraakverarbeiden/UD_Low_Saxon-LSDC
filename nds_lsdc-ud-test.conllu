@@ -60,7 +60,7 @@
 # sent_id = LSDC_0003_DWF_1882_OWL_westfalen_paderborn_-_dat_nigge_testamante
 # text_orig = Dei Kerel hiät mey den drüdden Dag ankünniget, un wänn ik meyne Riäkenunge met dem Hiemel afschliuten wull, sull ik et moren deoen, üäwermoren möcht et wal te late seyn.
 # text = Dee kearl het my den drüdden dag ankündigd, un wän ik myne reakeninge mid dem hiamel afsluten wul, sul ik et morgen doon, öävermorgen möcht et wol te late syn.
-1	Dee	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê¹
+1	Dee	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê¹
 2	kearl	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	lemma_gml=kē̆rl
 3	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Aux	8	aux	_	lemma_gml=hebben
 4	my	ik	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	iobj	_	lemma_gml=ik
@@ -1738,7 +1738,7 @@
 18	sea	seggen	VERB	_	Mood=Ind|Number=Sing	13	parataxis	_	lemma_gml=seggen
 19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=hê¹|SpaceAfter=No
 20	;	;	PUNCT	_	_	18	punct	_	_
-21	den	dee	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê¹
+21	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê¹
 22	dokter	dokter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	iobj	_	lemma_gml=doktor
 23	dors	döären	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	3	parataxis	_	lemma_gml=dȫren²
 24	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	lemma_gml=ik
@@ -3049,7 +3049,7 @@
 31	aldaagsktüüg	aldaagsktüüg	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	32	obj	_	_
 32	anhebbet	anhebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	26	advcl	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	32	punct	_	_
-34	dee	dee	DET	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	35	det	_	lemma_gml=dê¹
+34	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	35	nsubj	_	lemma_gml=dê¹
 35	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	parataxis	_	_
 36	beskeyd	beskeyd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	obj	_	_
 37	un	un	CCONJ	_	_	40	cc	_	lemma_gml=unde²
@@ -3609,7 +3609,7 @@
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	net	net	ADV	_	_	27	nmod	_	lemma_gml=net
 25	as	as	SCONJ	_	_	27	mark	_	lemma_gml=alsô
-26	dee	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê
+26	dee	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	lemma_gml=dê
 27	toorn	toorn	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	acl	_	lemma_gml=tōrne|SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	_
 29	an	an	ADP	_	AdpType=Prep	31	case	_	lemma_gml=an
@@ -6444,7 +6444,7 @@
 59	sou	sou	ADV	_	_	60	advmod	_	lemma_gml=sô
 60	völle	veale	ADV	_	Degree=Pos	68	advmod	_	lemma_gml=vēle
 61	van	van	ADP	_	AdpType=Prep	63	case	_	lemma_gml=van
-62	dee	dee	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	63	det	_	lemma_gml=dê,dê,dat
+62	dee	dee	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	63	det	_	lemma_gml=dê,dê,dat
 63	koffy	koffy	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	68	obl	_	lemma_gml=koffî
 64	as	as	ADP	_	_	67	case	_	lemma_gml=alsô
 65	van	van	ADP	_	AdpType=Prep	67	case	_	lemma_gml=van
@@ -8730,7 +8730,7 @@
 # sent_id = LSDC_0320_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam.txt
 # text_orig = Die hek ekocht van Toone met de kniee uut Dieze - die hef miee best behâendeld; 't had gien ooge vol voer in de mâege en hef biezunder weinig inneslagt.
 # text = Dee heb ik ekocht van Toone med de knee'e üüt Dieze - dee hevvet mye best behandeld; et had gyn ouge vul voder in de mage en hevt besünder weinig ineslagd.
-1	Dee	dee	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	lemma_gml=dê,dê,dat
+1	Dee	dee	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	lemma_gml=dê,dê,dat
 2	heb	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	lemma_gml=hebben
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=ik
 4	ekocht	koupen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=kö̂pen
@@ -8809,7 +8809,7 @@
 13	dee	dee	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Rel	18	obj	_	lemma_gml=dê,dê,dat
 14	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
 15	up	up	ADP	_	AdpType=Prep	17	case	_	lemma_gml=uppe
-16	de	dee	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
+16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 17	staert	staert	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=stērt
 18	trapped	trappen	VERB	_	Tense=Past|VerbForm=Part	9	acl:relcl	_	lemma_gml=trappen
 19	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	18	aux	_	lemma_gml=hebben|SpaceAfter=No
@@ -9210,16 +9210,16 @@
 12	,	,	PUNCT	_	_	3	punct	_	_
 13	den	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
 14	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	lemma_gml=bûr
-15	den	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+15	den	dee	PRON	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
 16	em	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	22	obj	_	lemma_gml=hê,sê,et
 17	med	mid	ADP	_	AdpType=Prep	20	case	_	lemma_gml=mit
 18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê,dê,dat
-19	graven	graven	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	20	nmod	_	lemma_gml=grāve
-20	uutmaken	uutmaken	VERB	_	VerbForm=Inf	22	acl:relcl	_	lemma_gml=ûtmāken
+19	graven	graven	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	20	obj	_	lemma_gml=grāve
+20	uutmaken	uutmaken	VERB	_	VerbForm=Inf	22	obl	_	lemma_gml=ûtmāken
 21	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma_gml=hebben
-22	låten	låten	VERB	_	Tense=Past|VerbForm=Part	14	xcomp	_	lemma_gml=lâten
+22	låten	låten	VERB	_	Tense=Past|VerbForm=Part	14	acl:relcl	_	lemma_gml=lâten
 23	stån	stån	VERB	_	VerbForm=Inf	22	xcomp	_	lemma_gml=stân|SpaceAfter=No
-24	,	,	PUNCT	_	_	23	punct	_	_
+24	,	,	PUNCT	_	_	22	punct	_	_
 25	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	30	cop	_	lemma_gml=wēsen
 26	der	dår	ADV	_	_	30	advmod	_	lemma_gml=dâr
 27	al	al	ADV	_	_	30	advmod	_	lemma_gml=al
@@ -9234,7 +9234,7 @@
 36	wear	wedder	ADJ	_	_	37	advmod	_	lemma_gml=wedder
 37	old	old	ADJ	_	Degree=Pos	3	conj	_	lemma_gml=ōlt
 38	en	un	CCONJ	_	_	44	cc	_	lemma_gml=ende
-39	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	41	nmod	_	lemma_gml=dê,dê,dat
+39	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	40	nmod:poss	_	lemma_gml=dê,dê,dat
 40	synen	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	41	det	_	lemma_gml=sîn,ēr,sîn
 41	sönne	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	lemma_gml=sȫne
 42	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	44	cop	_	lemma_gml=wēsen
