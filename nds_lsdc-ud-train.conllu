@@ -3990,7 +3990,7 @@
 10	un	un	CCONJ	_	_	14	cc	_	lemma_gml=unde
 11	öäver	öäver	ADP	_	_	13	case	_	lemma_gml=ȫver
 12	syn	syn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	lemma_gml=sîn,ēr,sîn
-13	gesichte	gesicht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=gesichte
+13	gesichte	gesichte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=gesichte
 14	flunkerde	flunkeren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=flinkeren
 15	sou	sou	ADV	_	_	16	advmod	_	lemma_gml=sô
 16	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
@@ -4249,7 +4249,7 @@
 13	gerade	gerade	ADJ	_	_	9	advmod	_	lemma_gml=gerāde
 14	in	in	ADP	_	AdpType=Prep	16	case	_	lemma_gml=in
 15	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
-16	gesichte	gesicht	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	lemma_gml=gesichte|SpaceAfter=No
+16	gesichte	gesichte	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	lemma_gml=gesichte|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	lemma_gml=hê,sê,et
 19	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	conj	_	lemma_gml=kîken
@@ -10887,7 +10887,7 @@
 30	do	do	ADV	_	_	34	advmod	_	lemma_gml=douwe
 31	was	weasen	AUX	_	_	34	cop	_	lemma_gml=wēsen
 32	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	33	det	_	lemma_gml=dê,dê,dat
-33	gewicht	gesicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	34	nsubj	_	lemma_gml=gewicht
+33	gewicht	gesichte	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	34	nsubj	_	lemma_gml=gewicht
 34	der	dår	PRON	_	_	22	expl	_	lemma_gml=dâr
 35	toch	doch	ADV	_	_	34	advmod	_	lemma_gml=doch|SpaceAfter=No
 36	.	.	PUNCT	_	_	9	punct	_	_
