@@ -6274,7 +6274,7 @@
 # sent_id = LSDC_0735_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-1-daunlots-14
 # text_orig = Blouß dä, becker diän Stuoff op de Äärde tellen kann, kann diëck un dine Naokuommen tellen.
 # text = Blouts dee, hwekker den stov up de aerde tellen kan, kan dik un dyne nåkuamen tellen.
-1	Blouts	blouts	ADV	_	_	18	advmod	_	lemma_gml=blôt
+1	Blouts	blout	ADV	_	_	18	advmod	_	lemma_gml=blôt
 2	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
 3	,	,	PUNCT	_	_	10	punct	_	_
 4	hwekker	wekker	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	10	nsubj	_	lemma_gml=welk
@@ -13434,7 +13434,7 @@
 5	uter	uter	ADP	_	AdpType=Prep	7	case	_	_
 6	de	de	DET	_	Case=Acc,Dat|Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	bruudlüde	bruudlüde	NOUN	_	Case=Acc,Dat|Number=Plur	4	obl	_	_
-8	blouts	blouts	ADV	_	_	4	advmod	_	_
+8	blouts	blout	ADV	_	_	4	advmod	_	_
 9	twey	twey	NUM	_	NumType=Card	10	nummod	_	_
 10	bruudjungfere	bruudjungfer	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
 11	un	un	CCONJ	_	_	13	cc	_	_
