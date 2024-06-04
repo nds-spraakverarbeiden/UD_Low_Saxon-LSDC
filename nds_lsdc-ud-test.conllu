@@ -46,7 +46,7 @@
 18	anders	ander	ADJ	_	Gender=Neut|Number=Sing	17	amod	_	lemma_gml=anders
 19	as	as	ADP	_	_	21	case	_	lemma_gml=alsô
 20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê¹
-21	her	heyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=hêre⁴
+21	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=hêre⁴
 22	pastor	pastor	NOUN	_	Gender=Masc|Number=Sing	21	flat	_	lemma_gml=pâstôr
 23	syn	weasen	AUX	_	VerbForm=Inf	16	cop	_	lemma_gml=wēsen²
 24	künne	künnen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbType=Mod	16	aux	_	lemma_gml=künnen|SpaceAfter=No
