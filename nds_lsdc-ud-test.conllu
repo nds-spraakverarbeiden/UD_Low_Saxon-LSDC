@@ -28,7 +28,7 @@
 # text = As de skoolmeister dat hebräiske höyrde, sou kun hee endlik wol denken, dat et keynen anders as de her pastor syn künne, un leyt gelyks lous.
 1	As	as	SCONJ	_	_	6	mark	_	lemma_gml=alsô
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê¹
-3	skoolmeister	skoolmeister	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=schôl(e)mêⁱster
+3	skoolmeister	skoolmeyster	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	lemma_gml=schôl(e)mêⁱster
 4	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê
 5	hebräiske	hebräisk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	lemma_gml=hebrêes(ch)
 6	höyrde	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	advcl	_	lemma_gml=hö̂ren²|SpaceAfter=No
@@ -99,7 +99,7 @@
 # text_orig = Onze meister zegt, dat vake de geleerde luui euver 'n klein woord, euver 'n nullige zake mekoare wel droadnegelen dat 't noar is, dat oe de haren 'r van te bârge riizen, dat i er leed om worde.
 # text = Unse meister segt, dat vake de geleyrde lüde öäver en klein woord, öäver en nüllige sake mekare wel drådnägelen, dat et når is, dat uw de håren der van te barge rysen, dat y der leyd um worden.
 1	Unse	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	2	det:poss	_	lemma_gml=unse¹
-2	meister	meister	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=mêⁱster
+2	meister	meyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=mêⁱster
 3	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=seggen|SpaceAfter=No
 4	,	,	PUNCT	_	_	21	punct	_	_
 5	dat	dat	SCONJ	_	_	21	mark	_	lemma_gml=dat
@@ -1719,7 +1719,7 @@
 # text_orig = Den meister vroeg ik ut is, die kon 't mien niet zeggen, 't was latiens zae'j; den dokter dos ik ut niet te vraogen, want dan ha'k kans dat e mien de gek anstak, en den domeneer....jao, dacht ik, die zol dan wel zeggen dit of det is 't - en det mo'k dan, zonder tegenprêûties mer geleuven, o'k wil of niet;
 # text = Den meister vroog ik et eyns, dee kon et myn neet seggen, et was latynsk sea hee; den dokter dors ik et neet te vrågen, want dan hadde ik kans dat hee myn de gek anstak, en den domeneer.... jå, dacht ik, dee sol dan wel seggen dit of det is et - en det moot ik dan, sunder teagenpröätys mer gelöyven, of ik wil of neet;
 1	Den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê¹
-2	meister	meister	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	iobj	_	lemma_gml=mêⁱster
+2	meister	meyster	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	iobj	_	lemma_gml=mêⁱster
 3	vroog	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=vrâgen
 4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	lemma_gml=ik
 5	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=1|PronType=Prs	3	obj	_	lemma_gml=et¹
