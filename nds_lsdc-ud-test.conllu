@@ -2180,7 +2180,7 @@
 15	ow	jy	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	14	obj	_	lemma_gml=gî²
 16	dan	dan	ADV	_	_	14	advmod	_	lemma_gml=dan¹
 17	toch	doch	ADV	_	_	14	advmod	_	lemma_gml=doch¹
-18	eigenlik	eigenlik	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=êⁱgenlĩk|SpaceAfter=No
+18	eigenlik	eygenlik	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=êⁱgenlĩk|SpaceAfter=No
 19	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 20	"	"	PUNCT	_	_	3	punct	_	_
 21	vröög	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vrâgen
