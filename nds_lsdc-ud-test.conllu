@@ -10819,7 +10819,7 @@
 29	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	35	obj	_	lemma_gml=ik
 30	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	31	det	_	lemma_gml=et
 31	water	water	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	35	nsubj	_	lemma_gml=wāter
-32	langes	langes	ADP	_	AdpType=Prep	34	case	_	lemma_gml=langes
+32	langes	langs	ADP	_	AdpType=Prep	34	case	_	lemma_gml=langes
 33	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	lemma_gml=dê,dê,dat
 34	tanden	tand	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	35	obl	_	lemma_gml=tant
 35	leep	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	21	advcl	_	lemma_gml=lôpen|SpaceAfter=No
