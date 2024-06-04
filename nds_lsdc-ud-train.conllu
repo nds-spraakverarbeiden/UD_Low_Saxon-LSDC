@@ -5163,7 +5163,7 @@
 18	,	,	PUNCT	_	_	25	punct	_	_
 19	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	lemma_gml=dê,dê,dat
 20	sou	sou	ADV	_	_	21	advmod	_	lemma_gml=sô
-21	männig	männig	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	22	amod	_	lemma_gml=mannich
+21	männig	männig	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	22	det	_	lemma_gml=mannich
 22	stunden	stunde	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	25	obl	_	lemma_gml=stunde
 23	by	by	ADP	_	AdpType=Prep	24	case	_	lemma_gml=bî
 24	ear	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	obl	_	lemma_gml=hê,sê,et
@@ -12274,7 +12274,7 @@
 24	dår	dår	ADV	_	_	25	nsubj	_	lemma_gml=dat
 25	steit	stån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	advcl	_	lemma_gml=stân|SpaceAfter=No
 26	:	:	PUNCT	_	_	25	punct	_	_
-27	Mannig	männig	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	29	det	_	lemma_gml=mannich
+27	Mannig	männig	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	29	det	_	lemma_gml=mannich
 28	wysneasige	wysneasig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	29	amod	_	lemma_gml=wîsentsch
 29	kumpane	kumpane	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	lemma_gml=kumpân
 30	möchte	möägen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	32	aux	_	lemma_gml=mȫgen
@@ -12443,7 +12443,7 @@
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sô
 14	deade	doon	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=dê,dê,dat
-15	mannig	männig	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	amod	_	lemma_gml=mannich
+15	mannig	männig	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	16	det	_	lemma_gml=mannich
 16	skraphals	skraphals	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	lemma_gml=schraphal
 17	synem	syn	DET	_	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma_gml=sîn,ēr,sîn
 18	harten	herte	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	lemma_gml=herte
