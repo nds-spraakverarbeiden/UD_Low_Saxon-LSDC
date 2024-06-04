@@ -1313,7 +1313,7 @@
 1	Dän	dän	ADV	_	_	2	advmod	_	lemma_gml=den
 2	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=sitten
 3	dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
-4	eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst
+4	eyrst	eyrst	ADJ	_	_	2	advmod	_	lemma_gml=êrst
 5	gaar	gaar	ADV	_	_	2	advmod	_	lemma_gml=gār
 6	dree	dree	NUM	_	NumType=Card	8	nummod	_	lemma_gml=drê
 7	afsunderlike	afsünderlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	lemma_gml=afsünderlĩk
@@ -1752,7 +1752,7 @@
 2	wullen	willen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	aux	_	lemma_gml=willen
 3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=sê
 4	ouk	ouk	ADV	_	_	6	advmod	_	lemma_gml=ôk
-5	eyrst	eyrst	ADV	_	_	6	advmod	_	lemma_gml=êrst
+5	eyrst	eyrst	ADJ	_	_	6	advmod	_	lemma_gml=êrst
 6	deylen	deylen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=dêilen|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	in	in	ADP	_	AdpType=Prep	10	case	_	lemma_gml=in
@@ -2446,7 +2446,7 @@
 7	töymd	töymen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=tö̂men|SpaceAfter=No
 8	,	,	PUNCT	_	_	15	punct	_	_
 9	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	15	nsubj	_	lemma_gml=dê,dê,dat
-10	eyrst	eyrst	ADV	_	_	15	advmod	_	lemma_gml=êrst
+10	eyrst	eyrst	ADJ	_	_	15	advmod	_	lemma_gml=êrst
 11	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	12	det	_	lemma_gml=êin,êine,êin
 12	beatjen	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	lemma_gml=bēteken
 13	mid	mid	ADP	_	AdpType=Prep	14	case	_	lemma_gml=mit
@@ -3722,7 +3722,7 @@
 24	dat	dat	SCONJ	_	_	31	mark	_	lemma_gml=dat
 25	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	31	nsubj	_	lemma_gml=wî
 26	me	hee	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	31	obl:arg	_	lemma_gml=hê,sê,et
-27	eyrst	eyrst	ADV	_	_	31	advmod	_	lemma_gml=êrst
+27	eyrst	eyrst	ADJ	_	_	31	advmod	_	lemma_gml=êrst
 28	invöär	invöär	ADV	_	_	31	advmod	_	lemma_gml=invȫr
 29	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	lemma_gml=dê,dê,dat
 30	platte	platte	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	lemma_gml=platte
@@ -4757,7 +4757,7 @@
 2	höyren	höyren	VERB	_	Mood=Sub|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	8	parataxis	_	lemma_gml=hö̂ren
 3	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=sê|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
-5	eyrst	eyrst	ADV	_	_	8	advmod	_	lemma_gml=êrst
+5	eyrst	eyrst	ADJ	_	_	8	advmod	_	lemma_gml=êrst
 6	möät	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	aux	_	lemma_gml=mö̂ten
 7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
 8	dår	dår	ADV	_	_	0	root	_	lemma_gml=dâr
@@ -4777,7 +4777,7 @@
 22	,	,	PUNCT	_	_	31	punct	_	_
 23	wän	wän	SCONJ	_	_	31	mark	_	lemma_gml=wan
 24	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	31	nsubj	_	lemma_gml=sê
-25	eyrst	eyrst	ADV	_	_	31	advmod	_	lemma_gml=êrst
+25	eyrst	eyrst	ADJ	_	_	31	advmod	_	lemma_gml=êrst
 26	mid	mid	ADP	_	AdpType=Prep	28	case	_	lemma_gml=mit
 27	eare	ear	DET	_	Case=Acc,Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	28	det	_	lemma_gml=sîn,ēr,sîn
 28	gedichten	gedicht	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	31	obl	_	lemma_gml=gedichte
@@ -5304,7 +5304,7 @@
 36	wän	wän	SCONJ	_	_	42	mark	_	lemma_gml=wan
 37	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	42	nsubj	_	lemma_gml=ik
 38	ouk	ouk	ADV	_	_	42	advmod	_	lemma_gml=ôk
-39	eyrst	eyrst	ADV	_	_	42	advmod	_	lemma_gml=êrst
+39	eyrst	eyrst	ADJ	_	_	42	advmod	_	lemma_gml=êrst
 40	nich	nich	PART	_	PartType=Neg	42	advmod	_	lemma_gml=nicht
 41	dåran	dåran	ADV	_	_	42	advmod	_	lemma_gml=dâran
 42	gelöyven	gelöyven	VERB	_	VerbForm=Inf	49	advcl	_	lemma_gml=gelö̂ven
@@ -6566,7 +6566,7 @@
 29	liggen	liggen	VERB	_	VerbForm=Inf	23	xcomp	_	lemma_gml=liggen
 30	un	un	CCONJ	_	_	31	cc	_	lemma_gml=unde
 31	gå	gån	VERB	_	Mood=Imp|Number=Sing	23	conj	_	lemma_gml=gân
-32	eyrst	eyrst	ADV	_	_	31	advmod	_	lemma_gml=êrst
+32	eyrst	eyrst	ADJ	_	_	31	advmod	_	lemma_gml=êrst
 33	hen	hen	ADV	_	_	31	advmod	_	lemma_gml=hen
 34	un	un	CCONJ	_	_	35	cc	_	lemma_gml=unde
 35	vordräg	vordragen	VERB	_	Mood=Imp|Number=Sing	31	conj	_	lemma_gml=vordrāgen
@@ -7755,7 +7755,7 @@
 13	,	,	PUNCT	_	_	17	punct	_	_
 14	dat	dat	SCONJ	_	_	17	mark	_	lemma_gml=dat
 15	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	lemma_gml=ik
-16	eyrst	eyrst	ADV	_	_	17	advmod	_	lemma_gml=êrst
+16	eyrst	eyrst	ADJ	_	_	17	advmod	_	lemma_gml=êrst
 17	hengån	hengån	VERB	_	VerbForm=Inf	12	acl	_	lemma_gml=hengân
 18	un	un	CCONJ	_	_	21	cc	_	lemma_gml=unde
 19	mynen	myn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	20	det	_	lemma_gml=mîn
@@ -7820,7 +7820,7 @@
 # sent_id = LSDC_0809_DWF_<2015_SUD_suderlandsk_wilhelm-bleicher_daunlots-24
 # text_orig = Äirst dächen vî, sau stracks met grautem Buhei op dat Menschenkind in den Braohmstrüükern tautebîärssen, owwer dann lağğ Groten Willi sînen Finger op de Lebben un bedüdde us, mucksmüskenstille te sîn.
 # text = Eyrst dächen wy, sou straks med groutem buhei up dat menskenkind in den bråmstrükeren to te bissen, aver dan lag Grouten Willi synen vinger up de lippen un bedüdde uus, muksmüüskenstille te syn.
-1	Eyrst	eyrst	ADV	_	_	2	advmod	_	lemma_gml=êrst
+1	Eyrst	eyrst	ADJ	_	_	2	advmod	_	lemma_gml=êrst
 2	dächen	denken	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=denken
 3	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=wî|SpaceAfter=No
 4	,	,	PUNCT	_	_	18	punct	_	_
@@ -9434,7 +9434,7 @@
 # text = Wy springen eyrst sou lustig rin in det leaven, as wän det ende gaar nich af to reiken weer, wy hebben sou vöäle to to setten an gesundheid un kraft, det wy gaar nich begrypen können, woor al de olde krütslike mensken herkoamen, dee üm uns her loupen; wy denken, sou jung un kräftig syn dee nich west as wy un sou humpelig können wy wol nimmermeyr werden, wo dee syn.
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	springen	springen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
-3	eyrst	eyrst	ADV	_	_	2	advcl	_	_
+3	eyrst	eyrst	ADJ	_	_	2	advcl	_	_
 4	sou	sou	ADV	_	_	5	advmod	_	_
 5	lustig	lustig	ADJ	_	Degree=Pos	2	advmod	_	_
 6	rin	herin	ADV	_	_	2	advmod	_	_
@@ -10379,7 +10379,7 @@
 # sent_id = LSDC_0894_BRA_1843_marksk_Der-Spuk-auf-dem-Schloss-zu-Kemnitz
 # text_orig = Eerscht uppet Keese- brett, wo de Eddelfraue eeren Keese drööcht hett, denn upp de Anrichte in de Kööken, denn in de Vorråtskåmer, un måkt alle Spinnen, dee de Fraue immer toschlåten hadde, upp un keek, in alle Töppe.
 # text = Eyrst up det kaesebred, woor de eddelvrouwe earen kaese dröygd het, dän up de anrichte in de köäken, dän in de voarrådskamer, un maakt alle spinden, dee de vrouwe immer tosloaten hadde, up un keyk, in alle döppe.
-1	Eyrst	eyrst	ADV	_	_	4	advmod	_	_
+1	Eyrst	eyrst	ADJ	_	_	4	advmod	_	_
 2	up	up	ADP	_	AdpType=Prep	4	case	_	_
 3	det	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
 4	kaesebred	kaesebred	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
@@ -11286,7 +11286,7 @@
 # sent_id = LSDC_0924_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
 # text_orig = Eerst dou 'k al weer bie de deur was, ruip ze mie nao: „Heur, zoolang der nog barmhartighaid ien de wereld is, zoolang is der ook nog ien de hemel, dat zeg ik dij, heur!“
 # text = Eyrst do ik al wear by de döäre was, röyp see my nå: „Höyr, sou lange der noch barmhartigheid yn de wearld is, sou lange is der ouk noch yn de heamel, dat segge ik dy, höyr!“
-1	Eyrst	eyrst	ADV	_	_	11	advmod	_	lemma_gml=êrst
+1	Eyrst	eyrst	ADJ	_	_	11	advmod	_	lemma_gml=êrst
 2	do	do	SCONJ	_	_	8	mark	_	lemma_gml=douwe
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
 4	al	al	ADV	_	_	5	advmod	_	lemma_gml=al
