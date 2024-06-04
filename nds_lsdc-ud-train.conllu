@@ -7508,7 +7508,7 @@
 9	mål	mål	ADV	_	_	11	advmod	_	lemma_gml=mâl
 10	hard	hard	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=hart
 11	kneyp	knypen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	lemma_gml=knîpen
-12	un	en	CCONJ	_	_	13	cc	_	lemma_gml=unde
+12	un	un	CCONJ	_	_	13	cc	_	lemma_gml=unde
 13	ärgerde	argeren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	conj	_	lemma_gml=argeren|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -8007,7 +8007,7 @@
 14	bröder	broder	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	lemma_gml=brôder
 15	dårto	dårto	ADV	_	_	11	advmod	_	lemma_gml=dârtô
 16	up	up	ADP	_	_	11	compound:prt	_	lemma_gml=uppe
-17	un	en	CCONJ	_	_	18	cc	_	lemma_gml=unde
+17	un	un	CCONJ	_	_	18	cc	_	lemma_gml=unde
 18	skriaven	skryven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	conj	_	lemma_gml=schrîven
 19	an	an	ADP	_	AdpType=Prep	21	case	_	lemma_gml=an
 20	dee	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
