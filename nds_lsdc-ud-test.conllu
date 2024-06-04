@@ -9946,7 +9946,7 @@
 5	dat	dat	SCONJ	_	_	9	mark	_	lemma_gml=dat
 6	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	lemma_gml=ik
 7	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	obj	_	lemma_gml=sê
-8	ouk	ouk	ADJ	_	_	9	advmod	_	lemma_gml=ôk
+8	ouk	ouk	ADV	_	_	9	advmod	_	lemma_gml=ôk
 9	kreyg	krygen	VERB	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	4	ccomp	_	lemma_gml=krîgen|SpaceAfter=No
 10	;	;	PUNCT	_	_	19	punct	_	_
 11	mår	mår	CCONJ	_	_	19	cc	_	lemma_gml=mêr
