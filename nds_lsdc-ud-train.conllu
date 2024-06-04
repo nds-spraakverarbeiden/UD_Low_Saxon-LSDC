@@ -1565,7 +1565,7 @@
 14	jå	ja	ADV	_	_	40	advmod	_	lemma_gml=jâ
 15	wol	wol	ADV	_	_	40	advmod	_	lemma_gml=wol
 16	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
-17	gewisse	gewisse	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	lemma_gml=gewis
+17	gewisse	gewis	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	lemma_gml=gewis
 18	äänlikheid	äänlikheid	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	40	obj	_	lemma_gml=ānelichêit
 19	mid	mid	ADP	_	AdpType=Prep	21	case	_	lemma_gml=mit
 20	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
@@ -2006,7 +2006,7 @@
 13	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	lemma_gml=seggen
 14	mid	mid	ADP	_	AdpType=Prep	17	case	_	lemma_gml=mit
 15	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=êin,êine,êin
-16	gewissen	gewisse	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	lemma_gml=gewis
+16	gewissen	gewis	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	lemma_gml=gewis
 17	ingrim	ingrim	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	13	obl	_	lemma_gml=ingrim
 18	vöär	vöär	ADP	_	AdpType=Prep	19	case	_	lemma_gml=vȫr
 19	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	obl	_	lemma_gml=sik
