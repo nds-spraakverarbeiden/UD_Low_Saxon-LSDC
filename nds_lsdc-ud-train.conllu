@@ -1129,7 +1129,7 @@
 11	noch	noch	ADV	_	_	15	advmod	_	lemma_gml=noch
 12	vallen	valle	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	15	nsubj	_	lemma_gml=valle
 13	un	un	CCONJ	_	_	14	cc	_	lemma_gml=unde
-14	hasensnearen	hasansneare	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	conj	_	lemma_gml=hāsensnēre
+14	hasensnearen	hasensneare	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	conj	_	lemma_gml=hāsensnēre
 15	vorstekken	vorsteaken	VERB	_	Tense=Past|VerbForm=Part	2	csubj	_	lemma_gml=vorstēken
 16	weren	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	15	aux	_	lemma_gml=wēsen|SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	_
