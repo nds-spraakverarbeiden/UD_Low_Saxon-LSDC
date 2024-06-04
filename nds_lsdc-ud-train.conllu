@@ -8841,7 +8841,7 @@
 18	et	et	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	expl	_	_
 19	gav	geaven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	_
 20	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	iobj	_	_
-21	keynen	keynen	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	19	nsubj	_	_
+21	keynen	keyn	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	19	nsubj	_	_
 22	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	19	obj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	8	punct	_	_
 
