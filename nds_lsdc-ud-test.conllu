@@ -10108,7 +10108,7 @@
 10	,	,	PUNCT	_	_	19	punct	_	_
 11	dat	dat	SCONJ	_	_	19	mark	_	lemma_gml=dat
 12	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	19	nsubj	_	lemma_gml=gî
-13	üm	hee	ADP	_	AdpType=Prep	15	case	_	lemma_gml=ümme
+13	üm	üm	ADP	_	AdpType=Prep	15	case	_	lemma_gml=ümme
 14	deen	dee	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	lemma_gml=dê,dê,dat
 15	kwibus	kwibus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	lemma_gml=quibus
 16	en	un	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
