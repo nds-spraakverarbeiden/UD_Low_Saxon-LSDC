@@ -12168,7 +12168,7 @@
 101	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	93	acl	_	lemma_gml=sitten|SpaceAfter=No
 102	,	,	PUNCT	_	_	101	punct	_	_
 103	un	un	CCONJ	_	_	113	cc	_	lemma_gml=unde
-104	eaven	eaven	SCONJ	_	_	113	mark	_	lemma_gml=ēvene
+104	eaven	eaven	ADV	_	_	113	advmod	_	lemma_gml=ēvene
 105	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	106	det	_	lemma_gml=mîn
 106	betken	beatken	NOUN	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	113	obj	_	lemma_gml=bēteken
 107	stokvisk	stokvisk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	106	nmod	_	lemma_gml=stokvisch
