@@ -9607,7 +9607,7 @@
 25	det	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	26	det	_	_
 26	loun	loun	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	31	nsubj	_	_
 27	by	by	ADP	_	AdpType=Prep	29	case	_	_
-28	düre	düür	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Dem	29	det	_	_
+28	düre	düür	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Plur	29	amod	_	_
 29	tyd	tyd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	31	obl	_	_
 30	etwat	etwat	ADV	_	_	31	advmod	_	_
 31	erhöygd	erhöygen	VERB	_	Tense=Past|VerbForm=Part	21	conj	_	_
