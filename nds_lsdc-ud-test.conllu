@@ -9632,7 +9632,7 @@
 4	prachtig	prächtig	ADJ	_	Degree=Pos	0	root	_	lemma_gml=prechtich
 5	en	un	CCONJ	_	_	6	cc	_	lemma_gml=ende
 6	vulup	vulup	ADV	_	_	4	advmod	_	lemma_gml=vuluppe
-7	kansen	kans	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Plur	6	obl	_	lemma_gml=kanse
+7	kansen	kanse	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Plur	6	obl	_	lemma_gml=kanse
 8	vöär	vöär	ADP	_	AdpType=Prep	9	case	_	lemma_gml=vȫr
 9	ydereyne	ydereyn	PRON	_	Case=Acc|Number=Sing	7	nmod	_	lemma_gml=îderêin
 10	üm	üm	SCONJ	_	_	13	mark	_	lemma_gml=ümme
