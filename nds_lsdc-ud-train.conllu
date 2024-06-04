@@ -317,7 +317,7 @@
 6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
 7	löyp	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=lôpen
 8	van	van	ADP	_	AdpType=Prep	10	case	_	lemma_gml=van
-9	eyn	eyn	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	10	det	_	lemma_gml=êin,êine,êin
+9	eyn	eyn	DET	_	Case=Acc,Dat|Gender=Neut|Number=Sing|PronType=Ind	10	det	_	lemma_gml=êin,êine,êin
 10	huus	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	obl	_	lemma_gml=hûs
 11	in	in	ADP	_	AdpType=Prep	13	case	_	lemma_gml=in
 12	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
@@ -1555,7 +1555,7 @@
 4	ganse	gans	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	lemma_gml=gans
 5	musik	musik	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	lemma_gml=mûsike
 6	in	in	ADP	_	AdpType=Prep	8	case	_	lemma_gml=in
-7	eynen	eyn	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=êin,êine,êin
+7	eynen	eyn	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	8	det	_	lemma_gml=êin,êine,êin
 8	put	pot	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=pot
 9	smit	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	40	advcl	_	lemma_gml=smîten|SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
@@ -6321,7 +6321,7 @@
 2	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=lâten
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 4	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	lemma_gml=sê
-5	eyn	eyn	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+5	eyn	eyn	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	det	_	lemma_gml=êin,êine,êin
 6	land	land	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	lemma_gml=lant
 7	an	an	ADP	_	AdpType=Prep	8	case	_	lemma_gml=an
 8	sik	sik	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	lemma_gml=sik
@@ -6414,7 +6414,7 @@
 # sent_id = LSDC_0744_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = Eunes Dages kam Hiärmen mol iut der Schaule no Hius un saggte: „Mömme, ick goh niu gar nit mehr in de Schaule!“
 # text = Eynes dages kam Hiärmen mål uut der skole nå huus un sagde: „Mömme, ik gå nu gaar neet meyr in de skole!“
-1	Eynes	eyn	DET	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
+1	Eynes	eyn	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	lemma_gml=êin,êine,êin
 2	dages	dag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	lemma_gml=dach
 3	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 4	Hiärmen	Hiärmen	PROPN	_	Number=Sing	3	nsubj	_	lemma_gml=hiärmen
@@ -6894,7 +6894,7 @@
 # sent_id = LSDC_0764_DWF_1900+-20_SUD_suderlandsk_franz-ostenkötter_neheim_hiärmen-slaumayers-liäwensläup-daunlots-19
 # text_orig = Eunes Nachts kam de Slaumayerske no Hiärmen syime Berre un saggte: „Hiärmen, stoh mol op, de Vaar is säu slecht, diu sollst mol no iähme kummen!“
 # text = Eynes nachts kam de Slaumayerske nå Hiärmen syme bedde un sagde: „Hiärmen, stå mål up, de vader is sou slecht, du solst mål nå iame kummen!“
-1	Eynes	eyn	DET	_	Case=Gen|Definite=Ind|Gender=Fem,Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=êin,êine,êin
+1	Eynes	eyn	DET	_	Case=Gen|Gender=Fem,Masc|Number=Sing|PronType=Ind	2	det	_	lemma_gml=êin,êine,êin
 2	nachts	nacht	NOUN	_	Case=Gen|Gender=Fem,Masc|Number=Sing	3	obl	_	lemma_gml=nacht
 3	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 4	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
@@ -7541,7 +7541,7 @@
 2	,	,	PUNCT	_	_	8	punct	_	_
 3	wan	wan	SCONJ	_	_	8	mark	_	lemma_gml=wan
 4	Paul	Paul	PROPN	_	Number=Sing	8	nsubj	_	lemma_gml=paul
-5	eynes	eyn	DET	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+5	eynes	eyn	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	lemma_gml=êin,êine,êin
 6	dages	dag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	lemma_gml=dach
 7	heyme	heym	ADV	_	_	8	advmod	_	lemma_gml=hêime
 8	kaeme	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	1	advcl	_	lemma_gml=kōmen|SpaceAfter=No
@@ -9518,7 +9518,7 @@
 # text = „Na eyn düvel het den änderen oavervöörd“, segt de swarte, dän den visker syn name was düvel.
 1	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No
 2	Na	na	INTJ	_	_	8	discourse	_	_
-3	eyn	eyn	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	eyn	eyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
 4	düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 5	het	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	aux	_	_
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -11378,7 +11378,7 @@
 7	by	by	ADP	_	AdpType=Prep	9	case	_	lemma_gml=bî
 8	den	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
 9	voarwarke	vöärwerk	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	conj	_	lemma_gml=vȫrwerk
-10	eyn	eyn	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+10	eyn	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
 11	dannenholt	dannenholt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	orphan	_	lemma_gml=dannenholt|SpaceAfter=No
 12	;	;	PUNCT	_	_	3	punct	_	_
 13	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=êin,êine,êin
@@ -11789,7 +11789,7 @@
 # text_orig = In einem Dörpe lag en Rüter, dei en Breif kreg, dat he an denselven avend noch na'n annern Dörpe koomen schölle.
 # text = In eynem dörpe lag en rüter, dee en breev kreyg, dat hee an denselven åvend noch nå en anderen dörpe koamen skölle.
 1	In	in	ADP	_	AdpType=Prep	3	case	_	lemma_gml=in
-2	eynem	eyn	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=êin,êine,êin
+2	eynem	eyn	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	3	det	_	lemma_gml=êin,êine,êin
 3	dörpe	dorp	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	lemma_gml=dorp
 4	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=liggen
 5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
@@ -12720,7 +12720,7 @@
 2	Johann	Johann	PROPN	_	Number=Sing	7	nsubj	_	lemma_gml=johann
 3	Friederich	Friederich	PROPN	_	Number=Sing	2	flat	_	lemma_gml=friederich
 4	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen
-5	en	eyn	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
+5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
 6	braav	braav	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	lemma_gml=braft
 7	man	man	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=man|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
@@ -13249,7 +13249,7 @@
 # text_orig = An eenem Dach geit Koch op de Landschrat on sit wie de Hung den Dot anbelle, on de Dot ön eene hohle Wied retareat.
 # text = An eynem dag geit Koch up de landstråte un süüt wo de hund den doud anbelle, un de doud in eyne hoale wyde retereert.
 1	An	an	ADP	_	AdpType=Prep	3	case	_	_
-2	eynem	eyn	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+2	eynem	eyn	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
 3	dag	dag	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
 4	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 5	Koch	Koch	PROPN	_	Number=Sing	4	nsubj	_	_
