@@ -6693,7 +6693,7 @@
 10	>	>	PUNCT	_	_	12	punct	_	SpaceAfter=No
 11	Lange	lang	ADJ	_	Degree=Pos	12	amod	_	lemma_gml=lanc
 12	liave	leaven	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	8	ccomp	_	lemma_gml=lēven
-13	küäning	köäning	PROPN	_	Number=Sing	12	vocative	_	lemma_gml=kȫninc
+13	küäning	köäning	NOUN	_	Number=Sing	12	vocative	_	lemma_gml=kȫninc
 14	Salomo	Salomo	PROPN	_	Number=Sing	13	flat	_	SpaceAfter=No
 15	!	!	PUNCT	_	_	12	punct	_	SpaceAfter=No
 16	<	<	PUNCT	_	_	12	punct	_	_
