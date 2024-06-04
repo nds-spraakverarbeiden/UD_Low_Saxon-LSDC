@@ -10100,7 +10100,7 @@
 2	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	lemma_gml=künnen
 3	u	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	9	obj	_	lemma_gml=gî
 4	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=et
-5	harte	hert	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	lemma_gml=herte
+5	harte	herte	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	lemma_gml=herte
 6	toch	doch	ADV	_	_	9	advmod	_	lemma_gml=doch
 7	sou	sou	ADV	_	_	8	advmod	_	lemma_gml=sô
 8	houge	houg	ADJ	_	Degree=Pos	9	amod	_	lemma_gml=hô
