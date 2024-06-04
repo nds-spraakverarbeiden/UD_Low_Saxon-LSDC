@@ -3382,7 +3382,7 @@
 # text = – De lüde seaden vöärdeam, dat weer mid em nich richtig; ik segge äver, dat is nu mid em nich richtig; ouk würd my gaar nich wunderen, wän hee up syne olden dagen de olde dame noch vrygen dead.«« –
 1	–	–	PUNCT	_	_	4	punct	_	_
 2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
-3	lüde	lüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	lemma_gml=lü̂de
+3	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	lemma_gml=lü̂de
 4	seaden	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
 5	vöärdeam	vöärdem	ADV	_	_	4	advmod	_	lemma_gml=vȫrdēme|SpaceAfter=No
 6	,	,	PUNCT	_	_	12	punct	_	_
