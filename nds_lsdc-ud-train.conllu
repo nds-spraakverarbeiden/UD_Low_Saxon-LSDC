@@ -12684,7 +12684,7 @@
 33	entstån	entstån	VERB	_	Tense=Past|VerbForm=Part	18	advcl	_	lemma_gml=entstân
 34	wöre	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	33	aux	_	lemma_gml=wēsen|SpaceAfter=No
 35	;	;	PUNCT	_	_	18	punct	_	_
-36	averst	aver	ADP	_	AdpType=Prep	38	case	_	lemma_gml=āvers
+36	averst	aver	CCONJ	_	AdpType=Prep	38	case	_	lemma_gml=āvers
 37	gode	good	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	38	amod	_	lemma_gml=gôt
 38	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	39	nsubj	_	lemma_gml=lü̂de
 39	legden	leggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	conj	_	lemma_gml=leggen
