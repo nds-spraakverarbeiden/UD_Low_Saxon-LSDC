@@ -9874,7 +9874,7 @@
 13	holden	holden	VERB	_	Mood=Ind	3	conj	_	lemma_gml=hōlden
 14	vöär	vöär	ADP	_	AdpType=Prep	16	case	_	lemma_gml=vȫr
 15	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	lemma_gml=dê,dê,dat
-16	jüffer	juf	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	lemma_gml=juncvrouwe
+16	jüffer	jüf	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	lemma_gml=juncvrouwe
 17	van	van	ADP	_	AdpType=Prep	19	case	_	lemma_gml=van
 18	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	lemma_gml=êin,êine,êin
 19	notåris	notåris	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	16	nmod	_	lemma_gml=notâries|SpaceAfter=No
