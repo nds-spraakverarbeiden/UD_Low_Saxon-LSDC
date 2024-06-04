@@ -12693,7 +12693,7 @@
 1	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
 2	Beskeyd	beskeyd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	lemma_gml=beschêit
 3	weyt	weaten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=wēten
-4	hee	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
+4	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
 5	hyr	hyr	ADV	_	_	3	advmod	_	lemma_gml=hîr
 6	nich	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
