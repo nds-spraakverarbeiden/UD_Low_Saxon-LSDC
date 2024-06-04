@@ -4927,7 +4927,7 @@
 20	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	25	obj	_	lemma_gml=dê
 21	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	25	iobj	_	lemma_gml=gî
 22	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	lemma_gml=dê
-23	profeten	profeet	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	lemma_gml=profête
+23	profeten	profete	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	lemma_gml=profête
 24	voarhear	vöärher	ADV	_	_	25	compound:prt	_	lemma_gml=vȫrhēr
 25	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	17	acl:relcl	_	lemma_gml=seggen
 26	hevvet	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	25	aux	_	lemma_gml=hebben|SpaceAfter=No
