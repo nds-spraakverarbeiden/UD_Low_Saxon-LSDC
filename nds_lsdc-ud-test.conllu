@@ -733,7 +733,7 @@
 6	ceddel	ceadel	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=sēdel(e)
 7	eskreaven	skryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	13	punct	_	_
-9	den	de	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	13	obj	_	lemma_gml=dê¹
+9	den	dee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	13	obj	_	lemma_gml=dê¹
 10	skölde	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbType=Aux	13	aux	_	lemma_gml=schȫlen¹
 11	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	lemma_gml=ik
 12	hyr	hyr	ADV	_	_	13	advmod	_	lemma_gml=hîr
@@ -5136,7 +5136,7 @@
 6	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	7	iobj	_	lemma_gml=gî
 7	segge	seggen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	acl:relcl	_	lemma_gml=seggen|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	dee	dê	PRON	_	Case=Nom|Number=Plur|PronType=Dem	11	nsubj	_	lemma_gml=dê
+9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Dem	11	nsubj	_	lemma_gml=dê
 10	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	cop	_	lemma_gml=wēsen
 11	geyst	geyst	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=gêist
 12	un	un	CCONJ	_	_	13	cc	_	lemma_gml=unde
@@ -12480,7 +12480,7 @@
 # sent_id = LSDC_0478_DNS_1921_HAM_hamborgsk_de_rode_unnerrock
 # text_orig = De seggt mi lang nix.
 # text = Dee segt my lange niks.
-1	Dee	de	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
+1	Dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
 2	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=seggen
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	obl:arg	_	lemma_gml=ik
 4	lange	lang	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=lanc
