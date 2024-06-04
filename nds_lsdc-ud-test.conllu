@@ -1585,7 +1585,7 @@
 40	nich	nich	PART	_	PartType=Neg	38	advmod	_	lemma_gml=nicht¹
 41	immer	immer	ADV	_	_	38	advmod	_	lemma_gml=iem(m)er
 42	Wiesken	Wiesken	PROPN	_	Number=Sing	38	obj	_	_
-43	an	an	ADV	_	_	45	compound	_	lemma_gml=an
+43	an	an	ADP	_	_	45	compound	_	lemma_gml=an
 44	to	to	PART	_	PartType=Inf	45	mark	_	lemma_gml=tô⁵
 45	glupen	glupen	VERB	_	VerbForm=Inf	38	xcomp	_	lemma_gml=glûpen|SpaceAfter=No
 46	!	!	PUNCT	_	_	27	punct	_	_
