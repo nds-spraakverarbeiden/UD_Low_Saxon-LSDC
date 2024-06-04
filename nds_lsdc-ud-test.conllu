@@ -12020,7 +12020,7 @@
 21	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	lemma_gml=hê,sê,et
 22	up	up	ADP	_	AdpType=Prep	24	case	_	lemma_gml=uppe
 23	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
-24	näse	näse	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=nēse
+24	nease	nease	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=nēse
 25	vollen	vallen	VERB	_	Tense=Past|VerbForm=Part	17	acl:relcl	_	lemma_gml=vallen
 26	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	25	aux	_	lemma_gml=wēsen
 27	–	–	PUNCT	_	_	30	punct	_	_
