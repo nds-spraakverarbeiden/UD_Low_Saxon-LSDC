@@ -224,7 +224,7 @@
 4	sunderbår	sunderbår	ADJ	_	Degree=Pos	7	parataxis	_	lemma_gml=sunderbâr
 5	–	–	PUNCT	_	_	4	punct	_	_
 6	oft	oft	ADV	_	_	7	advmod	_	lemma_gml=oft
-7	kaem	koemen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+7	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 8	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=sê
 9	dåröäver	dåröäver	ADV	_	_	7	advmod	_	lemma_gml=dârȫver
 10	eernsthaftig	eernsthaftig	ADJ	_	Number=Sing	7	advmod	_	lemma_gml=ērnsthaftich
