@@ -5775,7 +5775,7 @@
 23	,	,	PUNCT	_	_	26	punct	_	_
 24	as	as	ADP	_	_	26	case	_	lemma_gml=alsô
 25	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	lemma_gml=dê,dê,dat
-26	kül	kül	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	obl	_	lemma_gml=kȫlde
+26	kül	külde	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	22	obl	_	lemma_gml=kȫlde
 27	un	un	CCONJ	_	_	29	cc	_	lemma_gml=unde
 28	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	29	det	_	lemma_gml=dê,dê,dat
 29	düüster	düüster	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	26	conj	_	lemma_gml=dü̂ster|SpaceAfter=No
