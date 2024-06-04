@@ -43,7 +43,7 @@
 15	dat	dat	SCONJ	_	_	16	mark	_	lemma_gml=dat
 16	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	advcl	_	lemma_gml=et¹
 17	keynen	keynen	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Neg	16	nsubj	_	lemma_gml=kêⁱn²
-18	anders	anders	ADJ	_	Gender=Neut|Number=Sing	17	nmod	_	lemma_gml=anders
+18	anders	ander	ADJ	_	Gender=Neut|Number=Sing	17	amod	_	lemma_gml=anders
 19	as	as	ADP	_	_	21	case	_	lemma_gml=alsô
 20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê¹
 21	her	heyr	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	obl	_	lemma_gml=hêre⁴
@@ -11863,7 +11863,7 @@
 36	mynen	myn	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	37	det	_	lemma_gml=mîn
 37	leaven	leaven	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	33	obl	_	lemma_gml=lēvent
 38	niks	niks	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	33	obj	_	lemma_gml=nichtes
-39	anders	anders	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	lemma_gml=anders
+39	anders	ander	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	38	amod	_	lemma_gml=anders
 40	as	as	ADP	_	_	42	case	_	lemma_gml=alsô
 41	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	42	det	_	lemma_gml=êin,êine,êin
 42	kaptein	kaptein	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	39	obl	_	lemma_gml=kapiteyne|SpaceAfter=No
@@ -11875,7 +11875,7 @@
 48	ouk	ouk	ADV	_	_	57	advmod	_	lemma_gml=ôk
 49	wol	wol	ADV	_	_	57	advmod	_	lemma_gml=wol
 50	niks	niks	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	57	xcomp	_	lemma_gml=nichtes
-51	anders	anders	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	50	amod	_	lemma_gml=anders
+51	anders	ander	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	50	amod	_	lemma_gml=anders
 52	nich	nich	PART	_	PartType=Neg	50	advmod	_	lemma_gml=nicht
 53	as	as	ADP	_	_	56	case	_	lemma_gml=alsô
 54	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	56	det	_	lemma_gml=êin,êine,êin
