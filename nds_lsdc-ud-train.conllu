@@ -3136,7 +3136,7 @@
 29	äver	aver	CCONJ	_	_	31	cc	_	lemma_gml=āver
 30	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	31	nsubj	_	lemma_gml=hê,sê,et
 31	geit	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	37	ccomp	_	lemma_gml=gân
-32	gelyk	gelyk	ADV	_	_	31	advmod	_	lemma_gml=gelîk
+32	gelyk	gelyk	ADJ	_	_	31	advmod	_	lemma_gml=gelîk
 33	wedder	wedder	ADV	_	_	31	advmod	_	lemma_gml=wedder
 34	lous	lous	ADV	_	_	31	compound:prt	_	lemma_gml=lôs|SpaceAfter=No
 35	,	,	PUNCT	_	_	31	punct	_	_
