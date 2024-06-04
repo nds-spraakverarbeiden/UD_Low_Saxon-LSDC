@@ -4252,7 +4252,7 @@
 3	morgen	morgen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	lemma_gml=morgen
 4	heelden	holden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hōlden
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	lemma_gml=dê
-6	hougenpreester	hougepreester	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	lemma_gml=hôgenprêster
+6	hougenpreester	hougenpreester	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	lemma_gml=hôgenprêster
 7	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
 8	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	9	det	_	lemma_gml=dê
 9	äldsten	old	ADJ	_	Case=Nom|Degree=Sup|Number=Plur	6	conj	_	lemma_gml=ōlt
