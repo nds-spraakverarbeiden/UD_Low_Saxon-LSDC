@@ -5461,7 +5461,7 @@
 4	dat	dat	SCONJ	_	_	9	mark	_	lemma[gml]=dat
 5	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	lemma[gml]=dû
 6	uut	uut	ADP	_	AdpType=Prep	8	case	_	lemma[gml]=ût
-7	den	dat	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma[gml]=dê,dê,dat
+7	den	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma[gml]=dê,dê,dat
 8	huse	huus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	obl	_	lemma[gml]=hûs
 9	kumst	koamen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	1	ccomp	_	lemma[gml]=kōmen|SpaceAfter=No
 10	!	!	PUNCT	_	_	1	punct	_	lemma[gml]=!
@@ -9189,7 +9189,7 @@
 6	en	un	CCONJ	_	_	7	cc	_	lemma_gml=ende
 7	leevde	leevde	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	lemma_gml=lêfte
 8	vöär	vöär	ADP	_	AdpType=Prep	10	case	_	lemma_gml=vȫr
-9	de	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
+9	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 10	dinge	ding	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	nmod	_	lemma_gml=dinc|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -9383,7 +9383,7 @@
 4	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
 5	sou	sou	ADV	_	_	2	advmod	_	lemma_gml=sô
 6	van	van	ADP	_	AdpType=Prep	9	case	_	lemma_gml=van
-7	dat	dat	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
+7	dat	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
 8	cake	cake	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	lemma_gml=kāke
 9	bakken	bakken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	2	obl	_	lemma_gml=bakken|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
@@ -9859,7 +9859,7 @@
 # sent_id = LSDC_0366_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Da klarken lait um maor wiendaiers: en zolt i de maot holden veur de juffer van en notaoris, al is 't oak op en plat dörpke?
 # text = De klarken leit üm mår wyndeiers: en sullet y de måte holden vöär de jüffer van en notåris, al is et ouk up en plat dörpke?
-1	De	dat	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	klarken	klerke	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	lemma_gml=klerik
 3	leit	leggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=leggen
 4	üm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	lemma_gml=hê,sê,et
@@ -11220,7 +11220,7 @@
 # sent_id = LSDC_0428_DNS_1909_NNI_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
 # text_orig = De Kinner bleben gesund, kunnen god lären un bleben so lange bin Scholmester, bet se ute Schol weren, und de Scholmester hal' alle Jahr sin tweehunnert Daler, as dat in den Bref schräben stund, un sin Kostgeld van den Bur, un de Lü wunnern sick all, dat de Scholmester so up de Bene kem, un vörher harr he doch nicks hatt, man se wussen nich, dat he up so'n Art bi dat Geld keem.
 # text = De kinder bleyven gesund, kunnen good leyren un bleyven sou lange by den skoolmeyster, bet see uut de skole weren, un de skoolmeyster haal alle jår syn tweyhunderd daler, as dat in den breev skreaven stund, un syn kostgeld van den buur, un de lüde wunderen sik alle, dat de skoolmeyster sou up de beyne kaem, un vöärher hadde hee doch niks had, man see wussen nich, dat hee up sou en aard by dat geld kaem.
-1	De	dat	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
 2	kinder	kind	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	lemma_gml=kint
 3	bleyven	blyven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=blîven
 4	gesund	gesund	ADJ	_	Degree=Pos	3	xcomp	_	lemma_gml=gesunt|SpaceAfter=No
@@ -11361,7 +11361,7 @@
 7	korte	kort	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	lemma_gml=kort
 8	tyd	tyd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	12	obl	_	lemma_gml=tît
 9	van	van	ADP	_	AdpType=Prep	11	case	_	lemma_gml=van
-10	den	dat	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
+10	den	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
 11	lande	land	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	lemma_gml=lant
 12	koamen	koamen	VERB	_	Tense=Past|VerbForm=Part	2	acl:relcl	_	lemma_gml=kōmen
 13	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=wēsen|SpaceAfter=No
@@ -12506,7 +12506,7 @@
 14	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	11	obj	_	lemma_gml=watte
 15	steanen	steanen	VERB	_	VerbForm=Inf	11	xcomp	_	lemma_gml=stēnen
 16	mang	mang	ADP	_	AdpType=Prep	18	case	_	lemma_gml=manc
-17	de	dat	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
+17	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
 18	beester	beest	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obl	_	lemma_gml=bêst|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_
 20	dän	dän	CCONJ	_	_	22	cc	_	lemma_gml=den
