@@ -9987,7 +9987,7 @@
 60	myne	myn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	61	det	_	_
 61	seyle	seyle	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	57	obl	_	SpaceAfter=No
 62	,	,	PUNCT	_	_	67	punct	_	_
-63	alle	al	CCONJ	_	_	66	cc	_	_
+63	alle	al	DET	_	_	66	cc	_	_
 64	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	65	det	_	_
 65	eynselen	eynsel	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	66	amod	_	_
 66	halme	halm	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	67	amod	_	_
