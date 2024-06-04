@@ -156,7 +156,7 @@
 8	un	un	CCONJ	_	_	14	cc	_	lemma_gml=unde²
 9	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê¹
 10	markgråve	markgråve	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	lemma_gml=markgrêve
-11	gerade	gerade	ADV	_	_	14	advmod	_	lemma_gml=gerāde³
+11	gerade	gerade	ADJ	_	_	14	advmod	_	lemma_gml=gerāde³
 12	by	by	ADP	_	AdpType=Prep	13	case	_	lemma_gml=bî
 13	disk	disk	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	lemma_gml=disch
 14	saet	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	lemma_gml=sitten|SpaceAfter=No
@@ -3221,7 +3221,7 @@
 44	wardt	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	aux:pass	_	SpaceAfter=No
 45	,	,	PUNCT	_	_	41	punct	_	_
 46	ar	as	ADP	_	_	48	case	_	_
-47	gerade	gerade	ADV	_	_	48	advmod	_	_
+47	gerade	gerade	ADJ	_	_	48	advmod	_	_
 48	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	41	obl	_	lemma_gml=dê¹|SpaceAfter=No
 49	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -3312,7 +3312,7 @@
 80	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	82	nsubj	_	_
 81	möchte	möägen	AUX	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	82	aux	_	_
 82	seggen	seggen	VERB	_	VerbForm=Inf	85	parataxis	_	_
-83	gerade	gerade	ADV	_	_	85	advmod	_	_
+83	gerade	gerade	ADJ	_	_	85	advmod	_	_
 84	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	85	det	_	lemma_gml=et²
 85	beste	good	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	78	conj	_	SpaceAfter=No
 86	;	;	PUNCT	_	_	78	punct	_	_
