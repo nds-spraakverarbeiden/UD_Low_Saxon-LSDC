@@ -12565,7 +12565,7 @@
 25	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
 26	vörstliken	vörstlik	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	27	amod	_	lemma_gml=vörstlĩk
 27	gemakke	gemak	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	29	obl	_	lemma_gml=gemakke
-28	henin	hein	ADV	_	_	29	advmod	_	lemma_gml=henîn
+28	henin	henin	ADV	_	_	29	advmod	_	lemma_gml=henîn
 29	drungen	dringen	VERB	_	Tense=Past|VerbForm=Part	18	advcl	_	lemma_gml=dringen
 30	un	un	CCONJ	_	_	44	cc	_	lemma_gml=unde
 31	nich	nich	PART	_	PartType=Neg	44	advmod	_	lemma_gml=nicht
