@@ -9356,7 +9356,7 @@
 38	ümmer	immer	ADV	_	_	45	advmod	_	_
 39	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	34	nmod	_	_
 40	to	to	ADP	_	AdpType=Prep	41	case	_	_
-41	houpe	houpe	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	45	obl	_	_
+41	houpe	houp	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	45	obl	_	_
 42	in	in	ADP	_	AdpType=Prep	44	case	_	_
 43	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	44	det	_	_
 44	bedde	bedde	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	45	obl	_	_
