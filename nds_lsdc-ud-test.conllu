@@ -11661,7 +11661,7 @@
 15	un	un	CCONJ	_	_	22	cc	_	lemma_gml=unde
 16	dee	dee	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	22	obj	_	lemma_gml=dê,dê,dat
 17	ouk	ouk	ADV	_	_	22	advmod	_	lemma_gml=ôk
-18	gelyk	gelyk	ADV	_	_	22	advmod	_	lemma_gml=gelîk
+18	gelyk	gelyk	ADJ	_	_	22	advmod	_	lemma_gml=gelîk
 19	in	in	ADP	_	AdpType=Prep	21	case	_	lemma_gml=in
 20	uns	uns	DET	_	Case=Acc,Dat|Number=Plur|Poss=Yes|PronType=Prs	21	det	_	lemma_gml=unse
 21	badkamer	badkamer	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	22	obl	_	lemma_gml=batkāmer
