@@ -3605,7 +3605,7 @@
 19	,	,	PUNCT	_	_	32	punct	_	_
 20	umdat	ümdat	SCONJ	_	_	32	mark	_	lemma_gml=ümmedat
 21	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	lemma_gml=sîn,ēr,sîn
-22	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	lemma_gml=nēse|SpaceAfter=No
+22	nöäse	nease	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	lemma_gml=nēse|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	net	net	ADV	_	_	27	nmod	_	lemma_gml=net
 25	as	as	SCONJ	_	_	27	mark	_	lemma_gml=alsô
@@ -8076,7 +8076,7 @@
 36	Loeks	Loeks	PROPN	_	Number=Sing	39	nmod:poss	_	lemma_gml=loeks
 37	Poester	Poester	PROPN	_	Number=Sing	36	flat	_	lemma_gml=poester
 38	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	39	det	_	lemma_gml=sîn,ēr,sîn
-39	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	lemma_gml=nēse
+39	nöäse	nease	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	lemma_gml=nēse
 40	hen	hen	ADV	_	_	35	advmod	_	lemma_gml=hen
 41	wist	wysen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	33	acl:relcl	_	lemma_gml=wîsen|SpaceAfter=No
 42	.	.	PUNCT	_	_	27	punct	_	SpaceAfter=No
@@ -8359,7 +8359,7 @@
 7	:	:	PUNCT	_	_	11	punct	_	_
 8	„	„	PUNCT	_	_	11	punct	_	SpaceAfter=No
 9	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=sîn,ēr,sîn
-10	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	lemma_gml=nēse
+10	nöäse	nease	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	lemma_gml=nēse
 11	kikt	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma_gml=kîken
 12	skeale	skeale	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=schēle|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
