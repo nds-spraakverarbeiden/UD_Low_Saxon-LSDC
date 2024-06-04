@@ -10033,7 +10033,7 @@
 1	giv	geaven	VERB	_	Mood=Imp|Number=Sing	0	root	_	_
 2	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
 3	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	deyl	deyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	1	obj	_	_
+4	deyl	deyl	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	_
 5	göder	good	NOUN	_	Gender=Neut|Number=Plur	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	9	nsubj	_	_
