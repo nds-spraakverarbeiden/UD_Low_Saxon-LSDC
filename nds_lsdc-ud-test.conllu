@@ -6066,7 +6066,7 @@
 30	eigenaar	eygener	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	25	obl	_	lemma_gml=êigener
 31	van	van	ADP	_	AdpType=Prep	34	case	_	lemma_gml=van
 32	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	lemma_gml=dê,dê,dat
-33	kleinen	kleyne	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	lemma_gml=klêin
+33	kleinen	kleyn	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	34	amod	_	lemma_gml=klêin
 34	bolle	bolle	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	30	nmod	_	lemma_gml=bolle|SpaceAfter=No
 35	,	,	PUNCT	_	_	41	punct	_	_
 36	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	41	nsubj	_	lemma_gml=dê,dê,dat
