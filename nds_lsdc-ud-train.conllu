@@ -2251,7 +2251,7 @@
 4	wüst	weaten	VERB	_	Tense=Pres|VerbForm=Part	23	advcl	_	lemma_gml=wēten|SpaceAfter=No
 5	,	,	PUNCT	_	_	16	punct	_	_
 6	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	16	obj	_	lemma_gml=watte
-7	dit	dit	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	lemma_gml=desse,desse,dit
+7	dit	disse	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	lemma_gml=desse,desse,dit
 8	woord	woord	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	lemma_gml=wōrt
 9	by	by	ADP	_	AdpType=Prep	12	case	_	lemma_gml=bî
 10	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
