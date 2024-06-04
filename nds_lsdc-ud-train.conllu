@@ -4670,7 +4670,7 @@
 16	dat	dat	SCONJ	_	_	20	mark	_	lemma_gml=dat
 17	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=hê,sê,et
 18	niks	niks	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	20	obj	_	lemma_gml=nichtes
-19	raf	raf	ADV	_	_	20	advmod	_	lemma_gml=hēraf
+19	raf	heraf	ADV	_	_	20	advmod	_	lemma_gml=hēraf
 20	raak	raken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	advcl	_	lemma_gml=rāken|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
 
