@@ -3627,7 +3627,7 @@
 24	un	un	CCONJ	_	_	26	cc	_	lemma_gml=unde
 25	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	26	nsubj	_	lemma_gml=dê,dê,dat
 26	smeyt	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=smîten
-27	den	den	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	26	obj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
+27	den	dee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	26	obj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
 28	,	,	PUNCT	_	_	31	punct	_	_
 29	un	un	CCONJ	_	_	31	cc	_	lemma_gml=unde
 30	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	31	nsubj	_	lemma_gml=dê,dê,dat
@@ -7525,7 +7525,7 @@
 8	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
 9	jungen	junge	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=junge|SpaceAfter=No
 10	,	,	PUNCT	_	_	17	punct	_	_
-11	den	den	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	17	obj	_	lemma_gml=dê,dê,dat
+11	den	dee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	17	obj	_	lemma_gml=dê,dê,dat
 12	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	17	aux	_	lemma_gml=hebben
 13	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	lemma_gml=sê
 14	up	up	ADP	_	AdpType=Prep	16	case	_	lemma_gml=uppe
