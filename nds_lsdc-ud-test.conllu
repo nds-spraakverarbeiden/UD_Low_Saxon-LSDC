@@ -725,7 +725,7 @@
 # sent_id = LSDC_0022_OFL_1918_oustföälsk_wilhelm-henze_wat-sei-alles-maket
 # text_orig = Dokter Dreier het meck en Zettel ’eschreeben, den schölle eck heer afgeeben, denn kreege eck en Plaster, un dat schölle eck meck up dei Stee’e leggen, wo eck dei Weihdage harre.
 # text = Dokter Dreier het mik en ceddel eskreaven, den skölde ik hyr afgeaven, dän kryge ik en plåster, un dat skölde ik mik up dee steade leggen, wår ik dee weydage hadde.
-1	Dokter	dokter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma_gml=doktor
+1	Dokter	doktor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	lemma_gml=doktor
 2	Dreier	Dreier	PROPN	_	Number=Sing	1	flat	_	_
 3	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Aux	7	aux	_	lemma_gml=hebben
 4	mik	ik	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	lemma_gml=ik
@@ -1739,7 +1739,7 @@
 19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=hê¹|SpaceAfter=No
 20	;	;	PUNCT	_	_	18	punct	_	_
 21	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê¹
-22	dokter	dokter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	iobj	_	lemma_gml=doktor
+22	dokter	doktor	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	iobj	_	lemma_gml=doktor
 23	dors	döären	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	3	parataxis	_	lemma_gml=dȫren²
 24	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	lemma_gml=ik
 25	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obj	_	lemma_gml=et¹
@@ -7881,7 +7881,7 @@
 5	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	aux	_	lemma_gml=hebben
 6	moder	moder	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	lemma_gml=môder
 7	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
-8	dokter	dokter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	lemma_gml=doktor
+8	dokter	doktor	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	lemma_gml=doktor
 9	ebeld	bellen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=bellen
 10	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
 11	in	in	ADP	_	AdpType=Prep	13	case	_	lemma_gml=in
