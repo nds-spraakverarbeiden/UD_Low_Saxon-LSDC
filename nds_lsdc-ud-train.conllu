@@ -7842,8 +7842,8 @@
 20	aver	aver	CCONJ	_	_	22	cc	_	lemma_gml=āver
 21	dan	dan	ADV	_	_	22	advmod	_	lemma_gml=dan
 22	lag	leggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=leggen
-23	Grouten	grout	PROPN	_	Number=Sing	22	nsubj	_	lemma_gml=grôt
-24	Willi	Willi	PROPN	_	Number=Sing	23	flat	_	lemma_gml=willi
+23	Grouten	grout	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	lemma_gml=grôt
+24	Willi	Willi	PROPN	_	Number=Sing	22	nsubj	_	lemma_gml=willi
 25	synen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	26	det	_	lemma_gml=sîn,ēr,sîn
 26	vinger	vinger	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	22	obj	_	lemma_gml=vinger
 27	up	up	ADP	_	AdpType=Prep	29	case	_	lemma_gml=uppe
