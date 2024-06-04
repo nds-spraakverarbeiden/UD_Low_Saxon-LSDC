@@ -6111,7 +6111,7 @@
 # sent_id = LSDC_0220_NWF_1882_VEL_hoog-veluwe_-_minnebrief_van_en_sniiersknecht
 # text_orig = Altiids bliift oew hart nog rechtevoort tägen mii as stiif linnen.
 # text = Altyds blyvt uw harte noch rechtevoord teagen my as styv linnen.
-1	Altyds	altyds	ADV	_	_	2	advmod	_	lemma_gml=alletît
+1	Altyds	altyd	ADV	_	_	2	advmod	_	lemma_gml=alletît
 2	blyvt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=blîven
 3	uw	juw	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	4	det	_	lemma_gml=iuwe
 4	harte	herte	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	lemma_gml=herte
@@ -8289,7 +8289,7 @@
 5	döär	döärch	ADP	_	AdpType=Prep	7	case	_	lemma_gml=dȫr
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 7	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=dach
-8	altyds	altyds	ADV	_	_	2	advmod	_	lemma_gml=alletît
+8	altyds	altyd	ADV	_	_	2	advmod	_	lemma_gml=alletît
 9	sou	sou	ADV	_	_	11	advmod	_	lemma_gml=sô
 10	mooi	mooi	ADJ	_	Degree=Pos	11	amod	_	lemma_gml=mö̂ye
 11	anedån	andoon	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	2	amod	_	lemma_gml=angedân|SpaceAfter=No
@@ -8898,7 +8898,7 @@
 7	see	seen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=sên
 8	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	7	nsubj	_	lemma_gml=gî
 9	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	7	obj	_	lemma_gml=ik
-10	altyds	altyds	ADV	_	_	7	advmod	_	lemma_gml=alletît
+10	altyds	altyd	ADV	_	_	7	advmod	_	lemma_gml=alletît
 11	in	in	ADP	_	AdpType=Prep	13	case	_	lemma_gml=in
 12	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
 13	predikaty	predikaty	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=prēdicâtie|SpaceAfter=No
