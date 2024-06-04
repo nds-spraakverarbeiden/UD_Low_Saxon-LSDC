@@ -1984,7 +1984,7 @@
 35	‘	‘	PUNCT	_	_	36	punct	_	SpaceAfter=No
 36	um	um	X	_	Foreign=Yes	31	obl	_	SpaceAfter=No
 37	’	’	PUNCT	_	_	36	punct	_	_
-38	en	en	CCONJ	_	_	41	cc	_	lemma_gml=unde²
+38	en	un	CCONJ	_	_	41	cc	_	lemma_gml=unde²
 39	van	van	ADP	_	AdpType=Prep	41	case	_	lemma_gml=van¹
 40	‘	‘	PUNCT	_	_	41	punct	_	SpaceAfter=No
 41	arum	arum	X	_	Foreign=Yes	36	conj	_	SpaceAfter=No
@@ -7296,7 +7296,7 @@
 16	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	15	obj	_	lemma_gml=ik
 17	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
 18	baas	baas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	lemma_gml=bās
-19	en	en	CCONJ	_	_	20	cc	_	lemma_gml=ende
+19	en	un	CCONJ	_	_	20	cc	_	lemma_gml=ende
 20	pråte	pråten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	conj	_	lemma_gml=prōten
 21	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	20	obj	_	lemma_gml=ik
 22	te	to	ADP	_	AdpType=Prep	24	case	_	lemma_gml=tô
@@ -8431,7 +8431,7 @@
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
 3	giftig	giftig	ADJ	_	Degree=Pos	9	dislocated	_	lemma_gml=giftich
 4	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	lemma_gml=wēsen
-5	en	en	CCONJ	_	_	6	cc	_	lemma_gml=ende
+5	en	un	CCONJ	_	_	6	cc	_	lemma_gml=ende
 6	eskrokken	skrokken	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	3	conj	_	lemma_gml=geschrocken|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=dê,dê,dat
@@ -10946,7 +10946,7 @@
 # text_orig = Zaand en veen, het akkedeerde niet!
 # text = Sand en veane, et akkordeerde neet!
 1	Sand	sand	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	dislocated	_	lemma_gml=sant
-2	en	en	CCONJ	_	_	3	cc	_	lemma_gml=ende
+2	en	un	CCONJ	_	_	3	cc	_	lemma_gml=ende
 3	veane	venne	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	lemma_gml=venne|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
