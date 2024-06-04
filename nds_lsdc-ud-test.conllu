@@ -2188,7 +2188,7 @@
 23	junge	jung	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	lemma_gml=junc
 24	burinne	burinne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	lemma_gml=bûrinne
 25	an	an	ADP	_	AdpType=Prep	27	case	_	lemma_gml=an
-26	höären	höär	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	27	det	_	lemma_gml=hȫr²
+26	höären	ear	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	27	det	_	lemma_gml=hȫr²
 27	man	man	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	lemma_gml=man¹|SpaceAfter=No
 28	,	,	PUNCT	_	_	38	punct	_	_
 29	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	38	nsubj	_	lemma_gml=dê¹
