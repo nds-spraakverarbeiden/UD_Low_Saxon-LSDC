@@ -7357,7 +7357,7 @@
 # text_orig = * Laiwe, hillig Kristuskind, Mien Tellerken häff ik set’t!
 # text = * Leve, hillig kristuskind, myn tellerken hev ik setted!
 1	*	*	PUNCT	_	_	11	punct	_	_
-2	Leve	ledv	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=lêf|SpaceAfter=No
+2	Leve	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=lêf|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	hillig	hillig	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=hillich
 5	kristuskind	kristuskind	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	vocative	_	lemma_gml=kristkint|SpaceAfter=No
