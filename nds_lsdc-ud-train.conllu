@@ -2128,7 +2128,7 @@
 6	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	lemma_gml=hê,sê,et
 7	kaemen	koamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	acl:relcl	_	lemma_gml=kōmen|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	dee	de	PRON	_	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	lemma_gml=dê,dê,dat
+9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	10	nsubj	_	lemma_gml=dê,dê,dat
 10	sean	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=seggen|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
@@ -6349,7 +6349,7 @@
 # text = At Jakob dat houre, was hee wane vorskrokken.
 1	At	as	SCONJ	_	_	4	mark	_	lemma_gml=alsôdat
 2	Jakob	Jakob	PROPN	_	Number=Sing	4	nsubj	_	lemma_gml=jakob
-3	dat	de	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	lemma_gml=dê,dê,dat
+3	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	lemma_gml=dê,dê,dat
 4	houre	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	advcl	_	lemma_gml=hö̂ren|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	lemma_gml=wēsen
@@ -7520,7 +7520,7 @@
 3	un	un	CCONJ	_	_	4	cc	_	lemma_gml=unde
 4	Gammel	Gammel	PROPN	_	Number=Sing	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	dee	de	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	lemma_gml=dê,dê,dat
+6	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	lemma_gml=dê,dê,dat
 7	hadden	harren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
 8	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
 9	jungen	junge	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	lemma_gml=junge|SpaceAfter=No
@@ -8492,7 +8492,7 @@
 4	altaar	altaar	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=altă̂r|SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_
 6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
-7	dem	de	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	10	obl	_	lemma_gml=dê,dê,dat
+7	dem	dee	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	10	obl	_	lemma_gml=dê,dê,dat
 8	dee	dee	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	10	nsubj	_	lemma_gml=dê,dê,dat
 9	nich	nich	PART	_	PartType=Neg	10	advmod	_	lemma_gml=nicht
 10	eaten	eaten	VERB	_	VerbForm=Inf	4	acl:relcl	_	lemma_gml=ēten
@@ -10252,7 +10252,7 @@
 35	segd	seggen	VERB	_	Tense=Past|VerbForm=Part	32	conj	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	40	punct	_	_
 37	dat	dat	SCONJ	_	_	40	mark	_	_
-38	dat	de	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	40	nsubj	_	_
+38	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	40	nsubj	_	_
 39	graevenitzsk	graevenitzesk	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
 40	akker	akker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	35	ccomp	_	_
 41	weer	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	40	cop	_	SpaceAfter=No
@@ -12256,7 +12256,7 @@
 6	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik|SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	10	iobj	_	lemma_gml=ik
-9	dat	de	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	_	lemma_gml=dê,dê,dat
+9	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	10	obj	_	lemma_gml=dê,dê,dat
 10	toreyp	toropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	advcl	_	lemma_gml=tôrôpen|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	sou	sou	ADV	_	_	13	advmod	_	lemma_gml=sô
