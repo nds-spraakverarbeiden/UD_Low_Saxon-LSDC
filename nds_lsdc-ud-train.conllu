@@ -3632,7 +3632,7 @@
 29	un	un	CCONJ	_	_	31	cc	_	lemma_gml=unde
 30	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Dem	31	nsubj	_	lemma_gml=dê,dê,dat
 31	smeyt	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	26	conj	_	lemma_gml=smîten
-32	den	dee	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	lemma_gml=dê,dê,dat
+32	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	lemma_gml=dê,dê,dat
 33	anderen	ander	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	31	obj	_	lemma_gml=ander|SpaceAfter=No
 34	,	,	PUNCT	_	_	47	punct	_	_
 35	un	un	CCONJ	_	_	47	cc	_	lemma_gml=unde
@@ -6101,7 +6101,7 @@
 23	;	;	PUNCT	_	_	6	punct	_	_
 24	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	nsubj	_	lemma_gml=dê,dê,dat
 25	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	aux	_	lemma_gml=schȫlen
-26	dee	dee	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
+26	dee	de	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
 27	eyrste	eyrst	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	6	parataxis	_	lemma_gml=êrst
 28	under	under	ADP	_	AdpType=Prep	30	case	_	lemma_gml=under
 29	vialen	veale	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	30	amod	_	lemma_gml=vēle
@@ -8687,7 +8687,7 @@
 1	Os	as	SCONJ	_	_	6	mark	_	lemma_gml=alsô
 2	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=sê
 3	in	in	ADP	_	AdpType=Prep	5	case	_	lemma_gml=in
-4	dee	dee	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
+4	dee	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
 5	stad	stad	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	lemma_gml=stat
 6	kaemen	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
