@@ -1016,7 +1016,7 @@
 1	As	as	SCONJ	_	_	7	mark	_	lemma_gml=alsô
 2	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	jår	jår	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	lemma_gml=jâr
-4	bolde	bold	ADV	_	_	7	advmod	_	lemma_gml=bōlde
+4	bolde	bolde	ADV	_	_	7	advmod	_	lemma_gml=bōlde
 5	to	to	ADP	_	AdpType=Prep	6	case	_	lemma_gml=tô
 6	ende	ende	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	7	obl	_	lemma_gml=ende
 7	güng	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	advcl	_	lemma_gml=gân|SpaceAfter=No
@@ -2454,7 +2454,7 @@
 15	rümdans	herümdansen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	acl:relcl	_	lemma_gml=hērümmedansen|SpaceAfter=No
 16	,	,	PUNCT	_	_	27	punct	_	_
 17	aver	aver	CCONJ	_	_	27	cc	_	lemma_gml=āver
-18	bald	bold	ADV	_	_	27	advmod	_	lemma_gml=bōlde
+18	bald	bolde	ADV	_	_	27	advmod	_	lemma_gml=bōlde
 19	in	in	ADP	_	AdpType=Prep	21	case	_	lemma_gml=in
 20	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
 21	sney	sney	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	27	obl	_	lemma_gml=snê
