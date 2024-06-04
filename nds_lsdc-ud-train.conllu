@@ -11740,7 +11740,7 @@
 # text_orig = De Pastor ut Grotenhelen un de Schaulmester ut Gassen sint ok verleitet, aver se heft er nich sau reine mit herut ewollt.
 # text = De pastoor uut Grotenhelen un de skoolmeyster uut Gassen sint ouk vorleided, aver see hevvet der nich sou reine mid heruut ewold.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
-2	pastoor	pastoor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	lemma_gml=pâstôr
+2	pastoor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	lemma_gml=pâstôr
 3	uut	uut	ADP	_	AdpType=Prep	4	case	_	lemma_gml=ût
 4	Grotenhelen	Grotenhelen	PROPN	_	Number=Sing	2	nmod	_	lemma_gml=grotenhelen
 5	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
@@ -12285,7 +12285,7 @@
 35	Wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	36	obj	_	lemma_gml=watte
 36	preddigt	predigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	ccomp	_	lemma_gml=prēdiken
 37	unse	unse	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	38	det	_	lemma_gml=unse
-38	pastoor	pastoor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	lemma_gml=pâstôr|SpaceAfter=No
+38	pastoor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	lemma_gml=pâstôr|SpaceAfter=No
 39	?	?	PUNCT	_	_	36	punct	_	_
 
 # sent_id = LSDC_0951_OFL_1670-90_oustfalen_hannover_leichen-predigt_auf_michael_wichman
