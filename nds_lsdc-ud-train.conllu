@@ -7779,7 +7779,7 @@
 # text_orig = – Nit lange daonaoh quam iähm ne wille Süëge entiëgen un fraogede: "Panneköücksken, bao wosste hén?"
 # text = – Neet lange dårnå kwam iam ne wille süäge enteagen un vrågde: "Pannekööksken, hwoor wolst du hen?"
 1	–	–	PUNCT	_	_	5	punct	_	_
-2	Neet	nch	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
+2	Neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
 3	lange	lange	ADV	_	_	4	advmod	_	lemma_gml=lanc
 4	dårnå	dårnå	ADV	_	_	5	advmod	_	lemma_gml=dârnâ
 5	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
