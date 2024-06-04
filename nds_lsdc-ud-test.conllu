@@ -54,7 +54,7 @@
 26	un	un	CCONJ	_	_	27	cc	_	lemma_gml=unde²
 27	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	parataxis	_	lemma_gml=lâten¹
 28	gelyks	gelyks	ADV	_	_	27	advmod	_	lemma_gml=gelîkes
-29	lous	lous	ADP	_	_	27	compound:prt	_	lemma_gml=lôs¹|SpaceAfter=No
+29	lous	lous	ADV	_	_	27	compound:prt	_	lemma_gml=lôs¹|SpaceAfter=No
 30	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = LSDC_0003_DWF_1882_OWL_westfalen_paderborn_-_dat_nigge_testamante
