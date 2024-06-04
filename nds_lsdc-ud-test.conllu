@@ -6038,7 +6038,7 @@
 2	bleyv	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=blîven
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 4	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem,Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
-5	heyle	hdyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	6	amod	_	lemma_gml=hêil
+5	heyle	heyl	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	6	amod	_	lemma_gml=hêil
 6	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	2	obl	_	lemma_gml=tît
 7	sitten	sitten	VERB	_	VerbForm=Inf	2	xcomp	_	lemma_gml=sitten|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
