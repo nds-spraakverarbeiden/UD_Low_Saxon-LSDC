@@ -3854,7 +3854,7 @@
 10	wöör	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	aux	_	lemma_gml=wēsen
 11	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	lemma_gml=hê
 12	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=êin,êine,êin
-13	gans	gans	ADV	_	_	14	advmod	_	lemma_gml=gans
+13	gans	gans	ADJ	_	_	14	advmod	_	lemma_gml=gans
 14	stillen	stil	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	lemma_gml=stille
 15	dröymelpeter	dröymelpeter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	16	xcomp	_	lemma_gml=drö̂melpêter
 16	worden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=wērden|SpaceAfter=No
