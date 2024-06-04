@@ -5236,7 +5236,7 @@
 91	in	in	ADP	_	AdpType=Prep	93	case	_	lemma_gml=in
 92	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	93	det	_	lemma_gml=dê,dê,dat
 93	amicistenorden	amicistenorden	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	95	obl	_	lemma_gml=amicistenōrde
-94	rümme	herümme	ADV	_	_	95	compound:prt	_	lemma_gml=herümme
+94	rümme	herüm	ADV	_	_	95	compound:prt	_	lemma_gml=herümme
 95	werked	werken	VERB	_	Tense=Past|VerbForm=Part	66	acl:relcl	_	lemma_gml=werken
 96	hadden	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	95	aux	_	lemma_gml=hebben|SpaceAfter=No
 97	.	.	PUNCT	_	_	3	punct	_	_
