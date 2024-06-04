@@ -178,11 +178,11 @@
 30	un	un	CCONJ	_	_	31	cc	_	lemma_gml=unde²
 31	wys	wysen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	conj	_	lemma_gml=wîsen
 32	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	iobj	_	lemma_gml=hê¹
-33	al	al	PRON	_	_	35	det	_	lemma_gml=al
+33	al	al	DET	_	_	35	det	_	lemma_gml=al
 34	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	35	det	_	lemma_gml=dê
 35	sülvergeskir	sülvergeskir	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	31	obj	_	_
 36	un	un	CCONJ	_	_	39	cc	_	lemma_gml=unde²
-37	al	al	PRON	_	_	39	det	_	lemma_gml=al
+37	al	al	DET	_	_	39	det	_	lemma_gml=al
 38	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	39	det	_	lemma_gml=dê¹
 39	kostbårkeiden	kostbårheid	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	35	conj	_	kostbârhêⁱt|SpaceAfter=No
 40	,	,	PUNCT	_	_	41	punct	_	_
@@ -8636,7 +8636,7 @@
 33	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	34	obl	_	lemma_gml=hûs
 34	brenget	bringen	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	25	ccomp	_	lemma_gml=bringen
 35	en	un	CCONJ	_	_	38	cc	_	lemma_gml=ende
-36	al	al	PRON	_	Case=Nom|Number=Sing|PronType=Tot	38	nmod	_	lemma_gml=al
+36	al	al	DET	_	Case=Nom|Number=Sing|PronType=Tot	38	nmod	_	lemma_gml=al
 37	sük	sük	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	38	det	_	lemma_gml=sölk
 38	gesanik	gesanik	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	34	obj	_	lemma_gml=gesānik
 39	meyr	meyr	ADV	_	_	38	advmod	_	lemma_gml=vēle
