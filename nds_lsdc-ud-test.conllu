@@ -3084,7 +3084,7 @@
 21	anseen	anseen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	28	punct	_	_
 23	dat	dat	SCONJ	_	_	28	cc	_	lemma_gml=dat
-24	näämlik	näämlik	ADV	_	_	28	advmod	_	_
+24	näämlik	näämlik	ADJ	_	_	28	advmod	_	_
 25	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	lemma_gml=dê¹
 26	vroide	vroide	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	_
 27	skal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	28	aux	_	_
@@ -11934,7 +11934,7 @@
 9	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
 10	språke	språke	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	nsubj:pass	_	lemma_gml=sprâke|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	näämlik	näämlik	ADV	_	_	13	advmod	_	lemma_gml=nēmelĩken
+12	näämlik	näämlik	ADJ	_	_	13	advmod	_	lemma_gml=nēmelĩken
 13	platdüütsk	platdüütsk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	acl	_	lemma_gml=platdü̂desch|SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	nich	nich	PART	_	PartType=Neg	16	advmod	_	lemma_gml=nicht
