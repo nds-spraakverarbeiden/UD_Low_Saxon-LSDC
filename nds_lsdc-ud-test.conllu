@@ -3754,7 +3754,7 @@
 15	bakken	bakke	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	12	obl	_	lemma_gml=backe
 16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	17	det	_	lemma_gml=dê
 17	wöörde	woord	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	12	obj	_	lemma_gml=wōrt
-18	döärch	döärch	ADP	_	AdpType=Prep	20	case	_	lemma_gml=dȫr
+18	döärch	döär	ADP	_	AdpType=Prep	20	case	_	lemma_gml=dȫr
 19	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	lemma_gml=dê
 20	heytwekken	heytwekke	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	12	obl	_	lemma_gml=hêitwegge
 21	rute	heruut	ADV	_	_	12	advmod	_	lemma_gml=hērût|SpaceAfter=No
@@ -4944,7 +4944,7 @@
 37	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	nsubj	_	lemma_gml=hêre
 38	un	un	CCONJ	_	_	39	cc	_	lemma_gml=unde
 39	heiland	heiland	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	conj	_	lemma_gml=hêilant
-40	düär	döärch	ADP	_	AdpType=Prep	42	case	_	lemma_gml=dȫr
+40	düär	döär	ADP	_	AdpType=Prep	42	case	_	lemma_gml=dȫr
 41	syne	syn	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	42	det	_	lemma_gml=sîn,ēr,sîn
 42	apostel	apostel	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	43	obl	_	lemma_gml=apostel
 43	giaven	geaven	VERB	_	Tense=Past|VerbForm=Part	32	acl:relcl	_	lemma_gml=gēven
@@ -6417,7 +6417,7 @@
 32	melk	melk	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	37	nsubj	_	lemma_gml=melk
 33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
 34	der	dår	PRON	_	_	37	expl	_	lemma_gml=dâr
-35	döär	döärch	ADP	_	AdpType=Prep	37	case	_	lemma_gml=dȫr
+35	döär	döär	ADP	_	AdpType=Prep	37	case	_	lemma_gml=dȫr
 36	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	lemma_gml=dê,dê,dat
 37	koffy	koffy	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	parataxis	_	lemma_gml=koffî
 38	hen	hen	ADV	_	_	37	advmod	_	lemma_gml=hen
@@ -8286,7 +8286,7 @@
 2	gå	gån	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	0	root	_	lemma_gml=gân
 3	jy	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî
 4	ouk	ouk	ADV	_	_	2	advmod	_	lemma_gml=ôk
-5	döär	döärch	ADP	_	AdpType=Prep	7	case	_	lemma_gml=dȫr
+5	döär	döär	ADP	_	AdpType=Prep	7	case	_	lemma_gml=dȫr
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 7	dag	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	lemma_gml=dach
 8	altyds	altyd	ADV	_	_	2	advmod	_	lemma_gml=alletît
@@ -8718,7 +8718,7 @@
 19	,	,	PUNCT	_	_	25	punct	_	_
 20	dat	dat	SCONJ	_	_	25	mark	_	lemma_gml=dat
 21	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=sê
-22	döär	döärch	ADP	_	AdpType=Prep	24	case	_	lemma_gml=dȫr
+22	döär	döär	ADP	_	AdpType=Prep	24	case	_	lemma_gml=dȫr
 23	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê,dê,dat
 24	banke	bank	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	lemma_gml=bank
 25	beater	good	ADJ	_	Degree=Cmp	18	ccomp	_	lemma_gml=gôt
@@ -8788,7 +8788,7 @@
 19	gåt	gån	VERB	_	Mood=Imp|Number=Plur	2	conj	_	lemma_gml=gân
 20	sou	sou	ADV	_	_	21	advmod	_	lemma_gml=sô
 21	mår	mår	ADV	_	_	19	advmod	_	lemma_gml=mêr
-22	döär	döärch	ADP	_	_	19	compound:prt	_	lemma_gml=dȫr|SpaceAfter=No
+22	döär	döär	ADP	_	_	19	compound:prt	_	lemma_gml=dȫr|SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSPM_322_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
@@ -9021,7 +9021,7 @@
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	Diekes	Diekes	PROPN	_	Number=Sing	3	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	14	punct	_	_
-7	döär	döärch	ADP	_	AdpType=Prep	14	mark	_	lemma_gml=dȫr
+7	döär	döär	ADP	_	AdpType=Prep	14	mark	_	lemma_gml=dȫr
 8	dat	dat	SCONJ	_	_	14	mark	_	lemma_gml=dat
 9	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	lemma_gml=ik
 10	now	nu	ADV	_	_	14	advmod	_	lemma_gml=nû
