@@ -8298,7 +8298,7 @@
 14	en	un	CCONJ	_	_	15	cc	_	lemma_gml=ende
 15	esilverd	sülveren	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	13	conj	_	lemma_gml=gesülvert|SpaceAfter=No
 16	,	,	PUNCT	_	_	23	punct	_	_
-17	bekant	bekant	ADV	_	_	23	advmod	_	lemma_gml=bekant
+17	bekant	bykant	ADV	_	_	23	advmod	_	lemma_gml=bekant
 18	of	of	SCONJ	_	_	23	mark	_	lemma_gml=of
 19	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	23	nsubj	_	lemma_gml=gî
 20	nå	nå	ADP	_	AdpType=Prep	22	case	_	lemma_gml=nâ
