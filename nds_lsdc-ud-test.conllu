@@ -2510,7 +2510,7 @@
 48	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	lemma_gml=hê¹
 49	der	dår	ADV	_	_	47	obl	_	lemma_gml=dâr¹
 50	wedder	wedder	ADV	_	_	47	advmod	_	lemma_gml=wedder²
-51	ächterher	achterher	ADP	_	_	49	case	_	lemma_gml=achterhēr|SpaceAfter=No
+51	ächterher	achterher	ADV	_	_	49	case	_	lemma_gml=achterhēr|SpaceAfter=No
 52	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0073_DWF_1882_westfalen_munster_-_de_schatzgriawer_08
