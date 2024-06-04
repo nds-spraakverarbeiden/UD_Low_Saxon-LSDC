@@ -688,7 +688,7 @@
 20	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	lemma_gml=dê¹
 21	stüürman	stüürman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	lemma_gml=stü̂rman
 22	keyk	kyken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	parataxis	_	lemma_gml=kîken
-23	aver	avers	ADV	_	_	22	advmod	_	lemma_gml=āvers
+23	aver	aver	ADV	_	_	22	advmod	_	lemma_gml=āvers
 24	gaar	gaar	ADV	_	_	22	advmod	_	lemma_gml=gār²
 25	nich	nich	PART	_	PartType=Neg	22	advmod	_	lemma_gml=nicht¹
 26	eyrst	eyrst	ADV	_	_	22	advmod	_	lemma_gml=êrst²
@@ -1362,7 +1362,7 @@
 1	Dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê
 2	spinrad	spinrad	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 3	bruke	bruken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=brûken
-4	avers	avers	ADV	_	_	3	advmod	_	lemma_gml=āvers
+4	avers	aver	ADV	_	_	3	advmod	_	lemma_gml=āvers
 5	keyn	keyn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Neg	6	det	_	lemma_gml=kêⁱn²
 6	lüüd	lüüd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	lemma_gml=lü̂t¹
 7	underweagens	underweagens	ADV	_	_	3	advmod	_	lemma_gml=underwēge
@@ -1446,7 +1446,7 @@
 23	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê¹
 24	stoaven	stoaven	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	21	obl	_	lemma_gml=stōven¹|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	_
-26	avers	avers	CCONJ	_	_	28	cc	_	lemma_gml=āvers
+26	avers	aver	CCONJ	_	_	28	cc	_	lemma_gml=āvers
 27	buten	buten	ADV	_	_	28	advmod	_	lemma_gml=bûten²
 28	gung	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	21	conj	_	lemma_gml=gân
 29	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	lemma_gml=dê¹
@@ -1545,7 +1545,7 @@
 # text = Marigge gung avers in de kameren un hale eynen korv mid viksebounen, dee nauw in den skouten saeten un sea to Jüsken: ‘Hyr hest du ouk wat to doon, de döppe, dan bruukst du nich immer Wiesken an to glupen!
 1	Marigge	Marigge	PROPN	_	Number=Sing	2	nsubj	_	_
 2	gung	gån	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=gân
-3	avers	avers	ADV	_	_	2	advmod	_	lemma_gml=āvers
+3	avers	aver	ADV	_	_	2	advmod	_	lemma_gml=āvers
 4	in	in	ADP	_	AdpType=Prep	6	case	_	lemma_gml=in²
 5	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê¹
 6	kameren	kamer	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=kāmer
@@ -1648,7 +1648,7 @@
 16	by	by	ADP	_	AdpType=Prep	17	case	_	lemma_gml=bî
 17	ean	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	14	obl	_	lemma_gml=hê¹|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	_
-19	avers	avers	ADV	_	_	20	advmod	_	lemma_gml=āvers
+19	avers	aver	ADV	_	_	20	advmod	_	lemma_gml=āvers
 20	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sô²|SpaceAfter=No
 21	,	,	PUNCT	_	_	30	punct	_	_
 22	dat	dat	SCONJ	_	_	30	mark	_	lemma_gml=dat
@@ -2408,7 +2408,7 @@
 7	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	lemma_gml=kint|SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	lemma_gml=dê¹
-10	aver	avers	ADV	_	_	12	advmod	_	lemma_gml=āvers
+10	aver	aver	ADV	_	_	12	advmod	_	lemma_gml=āvers
 11	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	9	appos	_	lemma_gml=al
 12	uutsågen	uutseen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	acl	_	lemma_gml=ûtsên|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
@@ -2491,7 +2491,7 @@
 29	kinder	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	lemma_gml=kint
 30	antwoorded	antwoorden	VERB	_	Aspect=Perf|VerbForm=Part	26	conj	_	lemma_gml=antwōrden²|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	_
-32	aver	avers	CCONJ	_	_	34	cc	_	lemma_gml=āvers
+32	aver	aver	CCONJ	_	_	34	cc	_	lemma_gml=āvers
 33	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	34	nsubj	_	lemma_gml=hê¹
 34	beadede	beaden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	26	conj	_	lemma_gml=bēden¹
 35	nich	nich	PART	_	PartType=Neg	34	advmod	_	lemma_gml=nicht¹
