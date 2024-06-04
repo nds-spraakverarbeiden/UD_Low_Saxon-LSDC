@@ -8680,7 +8680,7 @@
 1	Toon	do	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	vroog	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=vrâgen
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
-4	nyskyrig	nyskyrig	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=nîesgîrich
+4	nyskyrig	nysgyrig	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=nîesgîrich
 5	an	an	ADP	_	AdpType=Prep	8	case	_	lemma_gml=an
 6	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 7	olde	old	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	lemma_gml=ōlt
