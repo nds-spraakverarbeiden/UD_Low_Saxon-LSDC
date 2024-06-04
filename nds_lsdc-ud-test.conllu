@@ -5815,7 +5815,7 @@
 11	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	lemma_gml=dê,dê,dat
 12	sanikden	saniken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	lemma_gml=sāniken
 13	yder	yder	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	14	det	_	lemma_gml=îder
-14	keyr	keyr	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	lemma_gml=kêre
+14	keyr	keyre	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	lemma_gml=kêre
 15	weader	wedder	ADV	_	_	12	advmod	_	lemma_gml=wedder
 16	van	van	ADP	_	AdpType=Prep	17	case	_	lemma_gml=van
 17	achteren	achteren	ADV	_	_	12	advmod	_	lemma_gml=achtere
