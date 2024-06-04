@@ -4615,7 +4615,7 @@
 6	as	as	SCONJ	_	_	12	mark	_	lemma_gml=alsô
 7	hadde	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=hebben
 8	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
-9	blits	blits	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	lemma_gml=blixse
+9	blits	bliksem	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	lemma_gml=blixse
 10	vöär	vöär	ADP	_	AdpType=Prep	11	case	_	lemma_gml=vȫr
 11	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	lemma_gml=hê,sê,et
 12	inslågen	inslån	VERB	_	Tense=Past|VerbForm=Part	3	conj	_	lemma_gml=inslân|SpaceAfter=No
