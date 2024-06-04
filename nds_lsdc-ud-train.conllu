@@ -863,7 +863,7 @@
 6	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	10	obj	_	lemma_gml=watte
 7	hev	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	aux	_	lemma_gml=hebben
 8	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
-9	dår	dår	ADV	_	_	10	advmod	_	lemma_gml=dâr
+9	dår	dår	PRON	_	_	10	expl	_	lemma_gml=dâr
 10	vunden	vinden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vinden|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
@@ -2796,7 +2796,7 @@
 34	nömen	nömen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	24	acl:relcl	_	lemma_gml=nö̂men
 35	–	–	PUNCT	_	_	45	punct	_	_
 36	un	un	CCONJ	_	_	45	cc	_	lemma_gml=unde
-37	dår	dår	ADV	_	_	45	advmod	_	lemma_gml=dâr
+37	dår	dår	PRON	_	_	45	expl	_	lemma_gml=dâr
 38	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	45	aux	_	lemma_gml=hebben
 39	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	45	nsubj	_	lemma_gml=hê,sê,et
 40	nu	nu	ADV	_	_	45	advmod	_	lemma_gml=nû
@@ -5193,14 +5193,14 @@
 48	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	44	cop	_	lemma_gml=wēsen|SpaceAfter=No
 49	,	,	PUNCT	_	_	44	punct	_	_
 50	dat	dat	SCONJ	_	_	59	mark	_	lemma_gml=dat
-51	dår	dår	ADV	_	_	59	advmod	_	lemma_gml=dâr
+51	dår	dår	ADV	_	_	59	obl	_	lemma_gml=dâr
 52	hen	hen	ADV	_	_	59	advmod	_	lemma_gml=hen
 53	un	un	CCONJ	_	_	54	cc	_	lemma_gml=unde
 54	wän	wän	ADV	_	_	52	conj	_	lemma_gml=wan
 55	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	56	det	_	lemma_gml=êin,êine,êin
 56	beaten	beatken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	59	nsubj	_	lemma_gml=bēteken
 57	puder	puder	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	56	nmod	_	lemma_gml=pûder
-58	mang	mang	ADP	_	_	51	mark	_	lemma_gml=manc
+58	mang	mang	ADP	_	_	51	case	_	lemma_gml=manc
 59	stöymde	stöymen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	44	advcl	_	lemma_gml=stö̂men|SpaceAfter=No
 60	,	,	PUNCT	_	_	67	punct	_	_
 61	wän	wän	SCONJ	_	_	67	mark	_	lemma_gml=wan
@@ -5581,7 +5581,7 @@
 # text_orig = Man dor wardt ji juch noch vullstännig up besinnen, wat de oll Dwinger hart an den Steendurschen Wallgrabenwall stöten ded un man eenen Ingang nah de Nurdkant hadd.
 # text = Man dår wardet jy juw noch vulständig up besinnen, wat de olde dwinger hard an den steyndoorsken walgravenwal stöyten dead un man eynen ingang nå de noordkant hadde.
 1	Man	men	CCONJ	_	_	9	cc	_	lemma_gml=men
-2	dår	dår	ADV	_	_	9	advmod	_	lemma_gml=dâr
+2	dår	dår	ADV	_	_	9	obl	_	lemma_gml=dâr
 3	wardet	werden	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	9	aux	_	lemma_gml=wērden
 4	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	lemma_gml=gî
 5	juw	jy	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PronType=Prs	9	expl:pv	_	lemma_gml=gî
@@ -9893,7 +9893,7 @@
 16	woand	woanen	VERB	_	Tense=Past|VerbForm=Part	7	acl	_	_
 17	hebben	hebben	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	aux	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	_
-19	dår	dår	ADV	_	_	23	advmod	_	_
+19	dår	dår	ADV	_	_	23	obl	_	_
 20	ouk	ouk	ADV	_	_	23	advmod	_	_
 21	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	23	nsubj	_	_
 22	in	in	ADP	_	AdpType=Prep	19	case	_	_
@@ -10888,7 +10888,7 @@
 31	was	weasen	AUX	_	_	34	cop	_	lemma_gml=wēsen
 32	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	33	det	_	lemma_gml=dê,dê,dat
 33	gewicht	gesicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	34	nsubj	_	lemma_gml=gewicht
-34	der	dår	ADV	_	_	22	advmod	_	lemma_gml=dâr
+34	der	dår	PRON	_	_	22	expl	_	lemma_gml=dâr
 35	toch	doch	ADV	_	_	34	advmod	_	lemma_gml=doch|SpaceAfter=No
 36	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -10935,7 +10935,7 @@
 17	want	want	CCONJ	_	_	19	cc	_	lemma_gml=wan
 18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	lemma_gml=ik
 19	see	see	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	conj	_	lemma_gml=hê,sê,et
-20	der	dår	ADV	_	_	19	advmod	_	lemma_gml=dâr
+20	der	dår	PRON	_	_	19	expl	_	lemma_gml=dâr
 21	geynt	geyn	PRON	_	Case=Acc|Number=Sing|PronType=Neg	19	obj	_	lemma_gml=gân|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	_
 23	dee	dee	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Rel	24	nsubj	_	lemma_gml=dû
@@ -10985,7 +10985,7 @@
 10	höyren	höyren	VERB	_	VerbForm=Inf	2	advcl	_	lemma_gml=hö̂ren|SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	_
 12	of	of	SCONJ	_	_	17	mark	_	lemma_gml=of
-13	der	dår	ADV	_	_	17	advmod	_	lemma_gml=dâr
+13	der	dår	PRON	_	_	17	expl	_	lemma_gml=dâr
 14	ouk	ouk	ADV	_	_	17	advmod	_	lemma_gml=ôk
 15	eyne	eyn	PRON	_	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Ind	17	nsubj	_	lemma_gml=êin,êine,êin
 16	wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	17	obj	_	lemma_gml=watte
@@ -11013,7 +11013,7 @@
 15	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	16	nsubj	_	lemma_gml=dû
 16	stak	steaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	lemma_gml=stēken
 17	hum	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	lemma_gml=hê,sê,et
-18	der	dår	ADV	_	_	16	advmod	_	lemma_gml=dâr
+18	der	dår	PRON	_	_	16	expl	_	lemma_gml=dâr
 19	wear	wedder	ADV	_	_	16	advmod	_	lemma_gml=wedder
 20	as	as	ADP	_	_	21	case	_	lemma_gml=alsô
 21	altyd	altyd	ADV	_	_	16	obl	_	lemma_gml=alletît
@@ -11085,7 +11085,7 @@
 17	der	dår	ADV	_	_	16	advmod	_	lemma_gml=dâr
 18	glad	glad	ADJ	_	Degree=Pos	19	advmod	_	lemma_gml=glat
 19	genug	genoog	ADV	_	_	16	advmod	_	lemma_gml=genôch
-20	döär	döär	ADP	_	_	17	case	_	lemma_gml=dȫr|SpaceAfter=No
+20	döär	döär	ADP	_	_	16	compound:prt	_	lemma_gml=dȫr|SpaceAfter=No
 21	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = LSDC_0918_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
@@ -11306,7 +11306,7 @@
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	sou	sou	ADV	_	_	20	advmod	_	lemma_gml=sô
 20	lange	lange	ADV	_	_	26	advmod	_	lemma_gml=lange
-21	der	dår	ADV	_	_	26	advmod	_	lemma_gml=dâr
+21	der	dår	PRON	_	_	26	expl	_	lemma_gml=dâr
 22	noch	noch	ADV	_	_	26	advmod	_	lemma_gml=noch
 23	barmhartigheid	barmhertigheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	lemma_gml=barmhertichêit
 24	yn	in	ADP	_	AdpType=Prep	26	case	_	lemma_gml=in
@@ -11317,7 +11317,7 @@
 29	sou	sou	ADV	_	_	30	advmod	_	lemma_gml=sô
 30	lange	lange	ADV	_	_	37	advmod	_	lemma_gml=lange
 31	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	37	cop	_	lemma_gml=wēsen
-32	der	dår	ADV	_	_	37	advmod	_	lemma_gml=dâr
+32	der	dår	PRON	_	_	37	expl	_	lemma_gml=dâr
 33	ouk	ouk	ADV	_	_	37	advmod	_	lemma_gml=ôk
 34	noch	noch	ADV	_	_	37	advmod	_	lemma_gml=noch
 35	yn	in	ADP	_	AdpType=Prep	37	case	_	lemma_gml=in
