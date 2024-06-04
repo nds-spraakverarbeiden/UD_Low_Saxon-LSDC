@@ -1653,7 +1653,7 @@
 17	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	conj	_	lemma_gml=seggen|SpaceAfter=No
 18	:	:	PUNCT	_	_	17	punct	_	_
 19	»	»	PUNCT	_	_	21	punct	_	SpaceAfter=No
-20	Al	al	PRON	_	Case=Nom|Number=Sing|PronType=Tot	21	det	_	lemma_gml=al
+20	Al	al	DET	_	Case=Nom|Number=Sing|PronType=Tot	21	det	_	lemma_gml=al
 21	appelmoos	appelmoos	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	ccomp	_	lemma_gml=appelmôs|SpaceAfter=No
 22	!	!	PUNCT	_	_	21	punct	_	SpaceAfter=No
 23	«	«	PUNCT	_	_	21	punct	_	_
@@ -3536,7 +3536,7 @@
 23	,	,	PUNCT	_	_	18	punct	_	_
 24	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	advcl	_	lemma_gml=kōmen
 25	man	men	ADV	_	_	24	advmod	_	lemma_gml=men
-26	alle	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	27	det	_	lemma_gml=al
+26	alle	al	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	27	det	_	lemma_gml=al
 27	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	24	nsubj	_	lemma_gml=dê,dê,dat
 28	van	van	ADP	_	AdpType=Prep	29	case	_	lemma_gml=van
 29	harten	hart	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	24	obl	_	lemma_gml=herte
@@ -4099,7 +4099,7 @@
 73	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	74	nsubj	_	lemma_gml=ik
 74	skuld	skuld	ADJ	_	Degree=Pos	69	advcl	_	lemma_gml=schult
 75	an	an	ADP	_	AdpType=Prep	78	case	_	lemma_gml=an
-76	al	al	PRON	_	Case=Acc,Dat|Number=Sing|PronType=Tot	78	det	_	lemma_gml=al
+76	al	al	DET	_	Case=Acc,Dat|Number=Sing|PronType=Tot	78	det	_	lemma_gml=al
 77	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	78	det	_	lemma_gml=dê,dê,dat
 78	kwål	kwål	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	74	obl	_	lemma_gml=quâle|SpaceAfter=No
 79	;	;	PUNCT	_	_	88	punct	_	_
@@ -4108,7 +4108,7 @@
 82	mag	möägen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	88	aux	_	lemma_gml=mȫgen
 83	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	88	nsubj	_	lemma_gml=dê,dê,dat
 84	wol	wol	ADV	_	_	88	advmod	_	lemma_gml=wol
-85	al	al	PRON	_	Case=Acc,Dat|Number=Plur|PronType=Tot	87	det	_	lemma_gml=al
+85	al	al	DET	_	Case=Acc,Dat|Number=Plur|PronType=Tot	87	det	_	lemma_gml=al
 86	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	87	det	_	lemma_gml=dê,dê,dat
 87	richters	richter	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	88	obl:arg	_	lemma_gml=richter
 88	gån	gån	VERB	_	VerbForm=Inf	69	conj	_	lemma_gml=gân|SpaceAfter=No
@@ -9473,7 +9473,7 @@
 39	können	künnen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	38	aux	_	SpaceAfter=No
 40	,	,	PUNCT	_	_	47	punct	_	_
 41	woor	woor	ADV	_	_	47	advmod	_	_
-42	al	al	PRON	_	Case=Nom|Gender=Masc,Neut|Number=Plur|PronType=Tot	46	det	_	_
+42	al	al	DET	_	Case=Nom|Gender=Masc,Neut|Number=Plur|PronType=Tot	46	det	_	_
 43	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	46	det	_	_
 44	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc,Neut|Number=Plur	46	amod	_	_
 45	krütslike	krütslik	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Plur	46	amod	_	_
@@ -9546,7 +9546,7 @@
 2	rödelt	rödelen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	med	mid	ADP	_	AdpType=Prep	7	case	_	_
-5	alle	al	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
+5	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
 6	syne	syn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
 7	kraft	kraft	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	_
 8	un	un	ADV	_	_	9	cc	_	_
@@ -12292,7 +12292,7 @@
 # text_orig = Ist alles Fleisch Heu, so mot ook wol alles Heu Fleisch wesen!’
 # text = Is alles vleysk hoi, sou mot ouk wol alles hoi vleysk weasen!’
 1	Is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	lemma_gml=wēsen
-2	alles	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	det	_	lemma_gml=al
+2	alles	al	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	det	_	lemma_gml=al
 3	vleysk	vleysk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	lemma_gml=vlêisch
 4	hoi	hoi	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	advcl	_	lemma_gml=höü|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
@@ -12300,7 +12300,7 @@
 7	mot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	lemma_gml=mö̂ten
 8	ouk	ouk	ADV	_	_	12	advmod	_	lemma_gml=ôk
 9	wol	wol	ADV	_	_	12	advmod	_	lemma_gml=wol
-10	alles	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	det	_	lemma_gml=al
+10	alles	al	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	11	det	_	lemma_gml=al
 11	hoi	hoi	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	lemma_gml=höü
 12	vleysk	vleysk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=vlêisch
 13	weasen	weasen	AUX	_	VerbForm=Inf	12	cop	_	lemma_gml=wēsen|SpaceAfter=No
@@ -12395,7 +12395,7 @@
 # text_orig = ‘Alles Fleisch ist Heu’ will so veel seggen: Alle Menschen, keenen utgenomen, as Henoch un Elias; averst een oder twei Swaalken maket keenen Sommer.
 # text = ‘Alles vleysk is hoi’ wil sou veale seggen: Alle mensken, keynen uutgenoamen, as Henoch un Elias; averst eyn oader twey swaalken maket keynen sommer.
 1	‘	‘	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Alles	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	lemma_gml=al
+2	Alles	al	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	5	det	_	lemma_gml=al
 3	vleysk	vleysk	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=vlêisch
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
 5	hoi	hoi	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	csubj	_	lemma_gml=hêve|SpaceAfter=No
