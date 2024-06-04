@@ -8753,7 +8753,7 @@
 # text_orig = De Boes hett ääwer ümmerfurt då rümwookert un regeert, un wenn de Schulte, dee um düsse Tiit, de olle Kassel was, vöörbiigån is, denn hett he innene rooe Jack upt Hecken sitten gån un hett emm toroopen: „Vadder Kassel wist nich häärkummen bäjen?"
 # text = De böyse het äver ümmervoord dår rümwokerd un regeerd, un wän de skulte, dee um düsse tyd, de olde Kassel was, vöärbygån is, dän het hee in eyne roude jakke up dat hekken sitten gån un het em toropen: „Vadder Kassel wist nich herkummen beaden?“
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	böyse	böyse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+2	böyse	böyse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	_
 3	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	_
 4	äver	aver	ADV	_	_	7	advmod	_	_
 5	ümmervoord	ümmervoord	ADV	_	_	7	advmod	_	_
