@@ -3822,7 +3822,7 @@
 1	As	as	SCONJ	_	_	6	mark	_	lemma_gml=alsô
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
 3	nå	nå	ADP	_	AdpType=Prep	5	case	_	lemma_gml=nâ
-4	eynige	eynig	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	lemma_gml=êinich
+4	eynige	eynig	DET	_	Case=Acc,Dat|Gender=Masc|Number=Plur|PronType=Ind	5	det	_	lemma_gml=êinich
 5	dagen	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	6	obl	_	lemma_gml=dach
 6	nåvråg	nåvrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	advcl	_	lemma_gml=nâvrâgen|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
