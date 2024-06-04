@@ -7116,7 +7116,7 @@
 10	baanhoave	baanhov	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	lemma_gml=bānhof|SpaceAfter=No
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	ümme	üm	SCONJ	_	_	15	mark	_	lemma_gml=ümme
-13	heyme	heym	ADV	_	_	15	advmod	_	lemma_gml=hêime
+13	heyme	heyme	ADV	_	_	15	advmod	_	lemma_gml=hêime
 14	te	to	PART	_	PartType=Inf	15	mark	_	lemma_gml=tô
 15	vören	vören	VERB	_	VerbForm=Inf	6	advcl	_	lemma_gml=vö̂ren|SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
@@ -7543,7 +7543,7 @@
 4	Paul	Paul	PROPN	_	Number=Sing	8	nsubj	_	lemma_gml=paul
 5	eynes	eyn	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	lemma_gml=êin,êine,êin
 6	dages	dag	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	lemma_gml=dach
-7	heyme	heym	ADV	_	_	8	advmod	_	lemma_gml=hêime
+7	heyme	heyme	ADV	_	_	8	advmod	_	lemma_gml=hêime
 8	kaeme	koamen	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	1	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_
 
