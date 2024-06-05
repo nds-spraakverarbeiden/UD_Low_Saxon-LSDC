@@ -3032,7 +3032,7 @@
 14	van	van	ADP	_	AdpType=Prep	15	case	_	lemma_gml=van¹
 15	buten	buten	ADV	_	_	18	obl	_	_
 16	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê¹
-17	weld	wearld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
+17	weld	werld	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	18	obj	_	_
 18	ansügt	anseen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	acl	_	_
 19	sunderen	sunderen	CCONJ	_	_	21	cc	_	_
 20	van	van	ADP	_	AdpType=Prep	21	case	_	lemma_gml=van¹
@@ -3180,7 +3180,7 @@
 3	nist	niks	PRON	_	Case=Acc|Number=Sing|PronType=Neg	2	obj	_	_
 4	up	up	ADP	_	AdpType=Prep	6	case	_	_
 5	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê¹
-6	weld	wearld	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+6	weld	werld	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	14	punct	_	_
 8	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	14	nsubj	_	_
 9	sou	sou	ADV	_	_	10	advmod	_	_
@@ -7913,7 +7913,7 @@
 8	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	lemma_gml=hê,sê,et
 9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in
 10	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
-11	weareld	wearld	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=werlt|SpaceAfter=No
+11	weareld	werld	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=werlt|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = LSDC_0285_NNS_1872_GRO_gronningen_n_oetmiening_ien_n_jachtwaide
