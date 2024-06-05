@@ -1747,7 +1747,7 @@
 27	te	to	PART	_	PartType=Inf	28	mark	_	lemma_gml=tô⁵
 28	vrågen	vrågen	VERB	_	VerbForm=Inf	23	xcomp	_	lemma_gml=vrâgen|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	_
-30	want	wante	SCONJ	_	_	32	mark	_	lemma_gml=wante²
+30	want	wante	CCONJ	_	_	32	mark	_	lemma_gml=wante²
 31	dan	dan	ADV	_	_	32	advmod	_	lemma_gml=dan¹
 32	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	23	advcl	_	lemma_gml=hebben
 33	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	32	nsubj	_	lemma_gml=ik
@@ -6250,7 +6250,7 @@
 28	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	lemma_gml=dê,dê,dat
 29	borrels	borrel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	25	nmod	_	lemma_gml=borrel|SpaceAfter=No
 30	,	,	PUNCT	_	_	32	punct	_	_
-31	want	wante	SCONJ	_	_	32	mark	_	lemma_gml=wente
+31	want	wante	CCONJ	_	_	32	mark	_	lemma_gml=wente
 32	see	seen	VERB	_	Mood=Imp|Number=Sing	14	advcl	_	lemma_gml=sên|SpaceAfter=No
 33	,	,	PUNCT	_	_	39	punct	_	_
 34	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	39	nsubj	_	lemma_gml=gî
@@ -7441,7 +7441,7 @@
 13	mooi	mooi	ADJ	_	Degree=Pos	10	advmod	_	lemma_gml=mö̂ye
 14	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
 15	geleagenheid	geleagenheid	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	lemma_gml=gelēgenhêit
-16	want	wante	SCONJ	_	_	18	mark	_	lemma_gml=wente
+16	want	wante	CCONJ	_	_	18	mark	_	lemma_gml=wente
 17	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
 18	studeren	studeren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl	_	lemma_gml=studêren
 19	vlak	vlak	ADJ	_	Degree=Pos	21	advmod	_	lemma_gml=vlak
@@ -7892,7 +7892,7 @@
 16	sekenauto	sekenauto	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	17	obj	_	lemma_gml=auto
 17	ekoamen	koamen	VERB	_	Tense=Past|VerbForm=Part	9	conj	_	lemma_gml=kōmen|SpaceAfter=No
 18	,	,	PUNCT	_	_	23	punct	_	_
-19	want	wante	SCONJ	_	_	23	mark	_	lemma_gml=wente
+19	want	wante	CCONJ	_	_	23	mark	_	lemma_gml=wente
 20	der	dår	ADV	_	_	23	advmod	_	lemma_gml=dâr
 21	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	23	cop	_	lemma_gml=wēsen
 22	vöäle	veale	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	lemma_gml=vēle
@@ -8206,7 +8206,7 @@
 33	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	lemma_gml=ik
 34	höyre	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	advcl	_	lemma_gml=hö̂ren|SpaceAfter=No
 35	,	,	PUNCT	_	_	45	punct	_	_
-36	want	want	CCONJ	_	_	45	cc	_	lemma_gml=wente
+36	want	wante	CCONJ	_	_	45	cc	_	lemma_gml=wente
 37	ho	wo	ADV	_	_	40	advmod	_	lemma_gml=wô
 38	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	40	nsubj	_	lemma_gml=ik
 39	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	40	obj	_	lemma_gml=hê,sê,et
