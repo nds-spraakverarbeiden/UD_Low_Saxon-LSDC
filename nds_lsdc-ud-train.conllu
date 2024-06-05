@@ -488,8 +488,8 @@
 4	un	un	CCONJ	_	_	5	cc	_	lemma_gml=unde
 5	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=kōmen
 6	nå	nå	ADP	_	AdpType=Prep	9	case	_	lemma_gml=nâ
-7	en	en	DET	_	Definite=Ind|PronType=Art	9	det	_	lemma_gml=êin,êine,êin
-8	pår	pår	ADJ	_	_	9	amod	_	lemma_gml=pâr
+7	en	en	DET	_	Definite=Ind|PronType=Art	8	det	_	lemma_gml=êin,êine,êin
+8	pår	pår	NOUN	_	_	9	nmod	_	lemma_gml=pâr
 9	minuten	minute	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	5	obl	_	lemma_gml=minute
 10	an	an	ADP	_	AdpType=Prep	12	case	_	lemma_gml=an
 11	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
@@ -736,8 +736,8 @@
 1	–	–	PUNCT	_	_	3	punct	_	_
 2	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	lemma_gml=hê,sê,et
 3	tread	treaden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=trēden
-4	en	en	DET	_	Definite=Ind|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
-5	pår	pår	ADJ	_	_	6	amod	_	lemma_gml=pâr
+4	en	en	DET	_	Definite=Ind|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
+5	pår	pår	NOUN	_	_	6	nmod	_	lemma_gml=pâr
 6	skrid	skrid	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	lemma_gml=schrit
 7	van	van	ADP	_	AdpType=Prep	8	case	_	lemma_gml=van
 8	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	9	obl	_	lemma_gml=ik
@@ -5720,8 +5720,8 @@
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	_	lemma_gml=dê,dê,dat
 2	het	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hebben
 3	noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
-4	en	en	DET	_	Definite=Ind|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
-5	pår	pår	ADJ	_	_	6	amod	_	lemma_gml=pâr
+4	en	en	DET	_	Definite=Ind|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
+5	pår	pår	NOUN	_	_	6	nmod	_	lemma_gml=pâr
 6	jåren	jår	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	lemma_gml=jâr
 7	tyd	tyd	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	lemma_gml=tît
 8	dårmid	dårmid	ADV	_	_	2	advmod	_	lemma_gml=dârmēde|SpaceAfter=No
@@ -9002,8 +9002,8 @@
 62	,	,	PUNCT	_	_	67	punct	_	_
 63	wo	wo	SCONJ	_	_	67	mark	_	_
 64	up	up	ADP	_	AdpType=Prep	67	case	_	_
-65	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	67	det	_	_
-66	pår	pår	ADJ	_	_	67	amod	_	_
+65	de	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	66	det	_	_
+66	pår	pår	NOUN	_	_	67	nmod	_	_
 67	grossen	grossen	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	60	advcl	_	SpaceAfter=No
 68	,	,	PUNCT	_	_	71	punct	_	_
 69	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	71	obj	_	_
