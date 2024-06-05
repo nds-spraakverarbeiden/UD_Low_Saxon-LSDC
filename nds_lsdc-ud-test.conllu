@@ -5700,7 +5700,7 @@
 39	,	,	PUNCT	_	_	42	punct	_	_
 40	to	to	ADP	_	AdpType=Prep	42	case	_	lemma_gml=tô|SpaceAfter=No
 41	'm	de	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
-42	weynigsten	weynig	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ind	36	obl	_	lemma_gml=weinich
+42	weynigsten	weynig	ADJ	_	Case=Dat|Degree=Sup|Gender=Neut|Number=Sing	36	obl	_	lemma_gml=weinich
 43	an	an	ADP	_	AdpType=Prep	44	case	_	lemma_gml=an
 44	dee	dee	PRON	_	Case=Acc,Dat|Number=Plur|PronType=Dem	36	obl	_	lemma_gml=dê,dê,dat|SpaceAfter=No
 45	,	,	PUNCT	_	_	50	punct	_	_
