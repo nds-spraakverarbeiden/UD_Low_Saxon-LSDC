@@ -7601,7 +7601,7 @@
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
 2	vaste	vasten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=vasten
 3	dee	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	wiaken	weaken	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=wēkene
+4	wiaken	weake	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=wēkene
 5	tweymål	tweymål	ADV	_	_	2	advmod	_	lemma_gml=twêmâl
 6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
 7	giave	geaven	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	lemma_gml=gēven
