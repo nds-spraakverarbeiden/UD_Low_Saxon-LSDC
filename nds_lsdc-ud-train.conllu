@@ -10785,7 +10785,7 @@
 7	dat	dat	SCONJ	_	_	13	mark	_	lemma_gml=dat
 8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
 9	sükke	sük	DET	_	Case=Acc|Gender=Neut|Number=Plur	12	det	_	lemma_gml=sölk
-10	yselk	yselk	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=eyslĩk
+10	yselk	yslik	ADJ	_	Degree=Pos	11	advmod	_	lemma_gml=eyslĩk
 11	lange	lang	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	12	amod	_	lemma_gml=lanc
 12	beynen	beyn	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	lemma_gml=bêinen
 13	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl	_	lemma_gml=hebben|SpaceAfter=No
