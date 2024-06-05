@@ -3546,8 +3546,8 @@
 2	holdt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
 3	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	2	iobj	_	lemma_gml=ik
 4	noch	noch	ADV	_	_	2	advmod	_	lemma_gml=noch
-5	en	en	DET	_	Definite=Ind|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
-6	pår	pår	ADJ	_	_	7	amod	_	lemma_gml=pâr
+5	en	en	DET	_	Definite=Ind|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
+6	pår	pår	NOUN	_	_	7	nmod	_	lemma_gml=pâr
 7	mål	mål	NOUN	_	Case=Acc|Gender=Neut	2	obj	_	lemma_gml=mâl
 8	utermåte	utermåte	ADV	_	_	9	advmod	_	lemma_gml=ûtermâte
 9	pleserig	pleserig	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	lemma_gml=plêsîrich
@@ -5790,8 +5790,8 @@
 21	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	29	nsubj	_	lemma_gml=dê,dê,dat
 22	eyrst	eyrst	ADJ	_	_	29	advmod	_	lemma_gml=êrst
 23	vöär	vöär	ADP	_	AdpType=Prep	26	case	_	lemma_gml=vȫr
-24	en	en	DET	_	Definite=Ind|PronType=Art	26	det	_	lemma_gml=êin,êine,êin
-25	pår	pår	ADJ	_	_	26	amod	_	lemma_gml=pâr
+24	en	en	DET	_	Definite=Ind|PronType=Art	25	det	_	lemma_gml=êin,êine,êin
+25	pår	pår	NOUN	_	_	26	nmod	_	lemma_gml=pâr
 26	dage	dag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	29	obl	_	lemma_gml=dach
 27	in	in	ADP	_	AdpType=Prep	28	case	_	lemma_gml=in
 28	bedryv	bedryv	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	29	obl	_	lemma_gml=bedrîf
@@ -11528,7 +11528,7 @@
 1	Vandage	vandage	ADV	_	_	6	advmod	_	lemma_gml=vandāge
 2	köänet	künnen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	aux	_	lemma_gml=künnen
 3	en	en	DET	_	Case=Nom|Definite=Ind|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
-4	pår	pår	ADJ	_	_	6	nsubj	_	lemma_gml=pâr
+4	pår	pår	NOUN	_	_	6	nsubj	_	lemma_gml=pâr
 5	plat	plat	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	lemma_gml=plat
 6	vorstån	vorstån	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=vorstân|SpaceAfter=No
 7	,	,	PUNCT	_	_	14	punct	_	_
