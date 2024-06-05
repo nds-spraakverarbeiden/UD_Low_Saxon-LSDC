@@ -5918,7 +5918,7 @@
 12	un	un	CCONJ	_	_	17	cc	_	lemma_gml=unde
 13	to	to	ADP	_	AdpType=Prep	15	case	_	lemma_gml=tô
 14	'm	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
-15	öävervlood	öävervloot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	lemma_gml=ȫvervlôt
+15	öävervlood	öävervlood	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	lemma_gml=ȫvervlôt
 16	ne	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=êin,êine,êin
 17	süper	süper	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	lemma_gml=sü̂per
 18	un	un	CCONJ	_	_	20	cc	_	lemma_gml=unde
