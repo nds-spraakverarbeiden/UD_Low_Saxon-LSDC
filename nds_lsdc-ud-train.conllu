@@ -11092,7 +11092,7 @@
 # text_orig = „Ie weiten, zee de kastelain dou Weer, „woarom dat we hier bie 'n ander binnen; 't is 'n malle boudel.“
 # text = „Y weyten, sea de kastelein do wear, „wårum dat we hyr by en ander binnen; et is en malle bodel.“
 1	„	„	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Y	y	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	lemma_gml=gî
+2	Y	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	lemma_gml=gî
 3	weyten	weaten	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past	5	ccomp	_	lemma_gml=wēten|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen
