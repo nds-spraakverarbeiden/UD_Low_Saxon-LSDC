@@ -12127,7 +12127,7 @@
 60	dat	dat	SCONJ	_	_	64	mark	_	lemma_gml=dat
 61	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	64	nsubj	_	lemma_gml=gî
 62	ånedem	ånedem	ADV	_	_	64	advmod	_	lemma_gml=--
-63	sachte	sachte	ADJ	_	_	64	xcomp	_	lemma_gml=sachte
+63	sachte	sachte	ADV	_	_	64	xcomp	_	lemma_gml=sachte
 64	denken	denken	VERB	_	VerbForm=Inf	6	advcl	_	lemma_gml=denken
 65	könnet	künnen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	64	aux	_	lemma_gml=künnen|SpaceAfter=No
 66	,	,	PUNCT	_	_	64	punct	_	_
