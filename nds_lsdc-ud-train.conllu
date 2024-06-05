@@ -10324,7 +10324,7 @@
 44	,	,	PUNCT	_	_	51	punct	_	_
 45	med	mid	ADP	_	AdpType=Prep	47	case	_	_
 46	wo	wo	ADV	_	_	47	obl	_	_
-47	weynig	weynig	PRON	_	Case=Acc,Dat|Gender=Neut|Number=Sing	51	obl	_	_
+47	weynig	weynig	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Sing	51	obl	_	_
 48	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	51	nsubj	_	_
 49	dotomål	dotomål	ADV	_	_	51	advmod	_	_
 50	noch	noch	ADV	_	_	51	advmod	_	_
