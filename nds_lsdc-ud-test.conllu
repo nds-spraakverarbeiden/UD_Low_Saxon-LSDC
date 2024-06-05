@@ -5718,7 +5718,7 @@
 1	Baanwärder	baanwärder	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	lemma_gml=bānwārder
 2	krigt	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=krîgen
 3	ear	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	lemma_gml=hê,sê,et
-4	vated	vated	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	lemma_gml=vāten|SpaceAfter=No
+4	vated	vaten	VERB	_	Tense=Past|VerbForm=Part	2	xcomp	_	lemma_gml=vāten|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0206_DNS_1907_HOL_holstein_maren
