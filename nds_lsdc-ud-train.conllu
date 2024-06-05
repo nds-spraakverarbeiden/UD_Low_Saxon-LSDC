@@ -11750,7 +11750,7 @@
 9	Gassen	Gassen	PROPN	_	Number=Sing	7	nmod	_	lemma_gml=gassen
 10	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	aux	_	lemma_gml=wēsen
 11	ouk	ouk	ADV	_	_	12	advmod	_	lemma_gml=ôk
-12	vorleided	vorleided	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorlâten|SpaceAfter=No
+12	vorleided	vorleiden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorlâten|SpaceAfter=No
 13	,	,	PUNCT	_	_	23	punct	_	_
 14	aver	aver	CCONJ	_	_	23	cc	_	lemma_gml=āver
 15	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=sê
