@@ -7866,7 +7866,7 @@
 15	kold	kold	ADJ	_	Degree=Pos	19	advmod	_	lemma_gml=kōlt
 16	en	un	CCONJ	_	_	18	cc	_	lemma_gml=ende
 17	sou	sou	ADV	_	_	18	advmod	_	lemma_gml=sô
-18	vorwerd	verwerd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	15	conj	_	lemma_gml=vorwerret
+18	vorwerd	vorwerd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	15	conj	_	lemma_gml=vorwerret
 19	handelen	handelen	VERB	_	VerbForm=Inf	2	advcl	_	lemma_gml=handelen
 20	blyvet	blyven	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	19	xcomp	_	lemma_gml=blîven|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	_
