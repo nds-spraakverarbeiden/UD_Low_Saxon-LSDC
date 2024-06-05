@@ -2133,7 +2133,7 @@
 
 # sent_id = LSDC_0057_NWF_1894_twente_krisjan_klaover_jw_heinink_02
 # text_orig = Vertelsel van 'nen Boer, dèn 't harde wèrken meu en 't pap ètten zat was, en 't in de stad gung zeuken.
-# text = Vertelsel van nen buur, den et harde werken möde en et pap etten sat was, en et in de stad güng söken.
+# text = Vertelsel van nen buur, den et harde werken möde en et pap etten sad was, en et in de stad güng söken.
 1	Vertelsel	vortelsel	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 2	van	van	ADP	_	AdpType=Prep	4	case	_	lemma_gml=van¹
 3	nen	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=êⁱn¹
@@ -2148,7 +2148,7 @@
 12	et	et	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	lemma_gml=et²
 13	pap	pap	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	lemma_gml=pap¹
 14	etten	eaten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	nmod	_	lemma_gml=ēten
-15	sat	sad	ADJ	_	Degree=Pos	10	conj	_	lemma_gml=sat¹
+15	sad	sad	ADJ	_	Degree=Pos	10	conj	_	lemma_gml=sat¹
 16	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	lemma_gml=wēsen²|SpaceAfter=No
 17	,	,	PUNCT	_	_	23	punct	_	_
 18	en	un	CCONJ	_	_	23	cc	_	lemma_gml=unde²
@@ -2244,11 +2244,11 @@
 
 # sent_id = LSDC_0061_NWF_1894_twente_krisjan_klaover_jw_heinink_06
 # text_orig = Ik zin 't zat, altied in de zwatte eèrde te weulen en my dan 's aovends in de keete dood te vervelen...
-# text = Ik sin et sat, altyd in de swarte aerde te wölen en my dan des åvends in de keyte doud te vervealen...
+# text = Ik sin et sad, altyd in de swarte aerde te wölen en my dan des åvends in de keyte doud te vervealen...
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=ik
 2	sin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	cop	_	lemma_gml=wēsen²
 3	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	lemma_gml=et¹
-4	sat	sad	ADJ	_	Degree=Pos	0	root	_	lemma_gml=sat¹|SpaceAfter=No
+4	sad	sad	ADJ	_	Degree=Pos	0	root	_	lemma_gml=sat¹|SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	_
 6	altyd	altyd	ADV	_	_	12	advmod	_	lemma_gml=al(le)tît
 7	in	in	ADP	_	AdpType=Prep	10	case	_	lemma_gml=in²
