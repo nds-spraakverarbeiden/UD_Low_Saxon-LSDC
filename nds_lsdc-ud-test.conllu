@@ -2769,7 +2769,7 @@
 8	sou	sou	ADV	_	_	9	advmod	_	_
 9	grout	grout	ADJ	_	Degree=Pos	0	root	_	_
 10	ünder	under	ADP	_	AdpType=Prep	12	case	_	_
-11	vöärneame	vöärneame	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	12	amod	_	_
+11	vöärneame	vöärneam	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Neut|Number=Plur	12	amod	_	_
 12	lüde	lüde	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Plur	9	obl	_	_
 13	un	un	CCONJ	_	_	17	cc	_	lemma_gml=unde²
 14	ünder	under	ADP	_	AdpType=Prep	17	case	_	_
