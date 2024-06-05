@@ -4279,7 +4279,7 @@
 43	Bors	Bors	PROPN	_	Number=Sing	42	flat	_	lemma_gml=bors
 44	bet	bet	ADP	_	AdpType=Prep	46	case	_	lemma_gml=bet
 45	nå	nå	ADP	_	AdpType=Prep	46	case	_	lemma_gml=nâ
-46	vöär	vöär	ADV	_	_	41	advmod	_	lemma_gml=vȫre
+46	vöär	vöären	ADV	_	_	41	advmod	_	lemma_gml=vȫre
 47	un	un	CCONJ	_	_	48	cc	_	lemma_gml=unde
 48	vråg	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	41	conj	_	lemma_gml=vrâgen|SpaceAfter=No
 49	:	:	PUNCT	_	_	52	punct	_	_
@@ -11690,7 +11690,7 @@
 25	un	un	CCONJ	_	_	27	cc	_	lemma_gml=unde
 26	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	lemma_gml=hê,sê,et
 27	gript	grypen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	conj	_	lemma_gml=grîpen
-28	vöärens	vöär	ADV	_	_	31	advmod	_	lemma_gml=vȫre
+28	vöärens	vöären	ADV	_	_	31	advmod	_	lemma_gml=vȫre
 29	in	in	ADP	_	AdpType=Prep	31	case	_	lemma_gml=in
 30	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	lemma_gml=dê,dê,dat
 31	taske	taske	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obl	_	lemma_gml=tasche
