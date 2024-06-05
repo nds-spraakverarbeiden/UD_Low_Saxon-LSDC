@@ -1619,7 +1619,7 @@
 3	harde	harde	ADV	_	_	2	advmod	_	lemma_gml=hā̆rde
 4	up	up	ADP	_	_	2	compound	_	lemma_gml=up¹|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
-6	un	un	DET	_	_	8	det	_	lemma_gml=unde²
+6	un	un	CCONJ	_	_	8	cc	_	lemma_gml=unde²
 7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
 8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
 9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
@@ -1641,7 +1641,7 @@
 9	Willem	Willem	PROPN	_	Number=Sing	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	Adolf	Adolf	PROPN	_	Number=Sing	7	conj	_	_
-12	un	un	DET	_	_	13	det	_	lemma_gml=unde²
+12	un	un	CCONJ	_	_	13	cc	_	lemma_gml=unde²
 13	Paiter	Paiter	PROPN	_	Number=Sing	7	conj	_	_
 14	setten	setten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	lemma_gml=setten
 15	sik	sik	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	lemma_gml=sik¹
@@ -10111,7 +10111,7 @@
 13	üm	üm	ADP	_	AdpType=Prep	15	case	_	lemma_gml=ümme
 14	deen	dee	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	lemma_gml=dê,dê,dat
 15	kwibus	kwibus	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	lemma_gml=quibus
-16	en	un	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
+16	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
 17	goden	good	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	lemma_gml=gôt
 18	werkman	werkman	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obj	_	lemma_gml=werkman
 19	understellet	understellen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	9	advcl	_	lemma_gml=understellen|SpaceAfter=No
