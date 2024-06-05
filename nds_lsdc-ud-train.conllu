@@ -2732,7 +2732,7 @@
 1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
 2	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=dê,dê,dat
 3	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
-4	villichts	villicht	ADV	_	_	6	advmod	_	lemma_gml=villîchte
+4	villichts	villichte	ADV	_	_	6	advmod	_	lemma_gml=villîchte
 5	en	en	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
 6	snäpken	snäpken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	ccomp	_	lemma_gml=sneppeken|SpaceAfter=No
 7	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
@@ -7124,7 +7124,7 @@
 # sent_id = LSDC_0776_DWF_2010_SUD_suderlandsk_horst-ludwigsen_ut-diäm-ollen-testament-3-daunlots-16
 # text_orig = Villichts wuohnet iëhrt hi ganz in diär Nöchte.«
 # text = Villichts woanet jit hyr gans in der nögde.«
-1	Villichts	villicht	ADV	_	_	2	advmod	_	lemma_gml=villîchte
+1	Villichts	villichte	ADV	_	_	2	advmod	_	lemma_gml=villîchte
 2	woanet	woanen	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	lemma_gml=wōnen
 3	jit	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	lemma_gml=gî
 4	hyr	hyr	ADV	_	_	2	advmod	_	lemma_gml=hê,sê,et
