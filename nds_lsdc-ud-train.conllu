@@ -3562,7 +3562,7 @@
 9	in	in	ADP	_	AdpType=Prep	11	case	_	lemma_gml=in
 10	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê,dê,dat
 11	eywigheid	eywigheid	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	lemma_gml=êwichêit
-12	rinne	rinne	ADV	_	_	11	advmod	_	lemma_gml=hērîn
+12	rinne	herin	ADV	_	_	11	advmod	_	lemma_gml=hērîn
 13	sülst	sköälen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	lemma_gml=schȫlen|SpaceAfter=No
 14	!	!	PUNCT	_	_	13	punct	_	_
 
@@ -3884,7 +3884,7 @@
 46	wach	wach	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	43	nmod	_	lemma_gml=wāch
 47	wul	willen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	38	conj	_	lemma_gml=willen
 48	nich	nich	PART	_	PartType=Neg	47	advmod	_	lemma_gml=nicht
-49	rinne	rinne	ADV	_	_	47	advmod	_	lemma_gml=hērîn
+49	rinne	herin	ADV	_	_	47	advmod	_	lemma_gml=hērîn
 50	uut	uut	ADP	_	AdpType=Prep	51	case	_	lemma_gml=ût
 51	respekt	respekt	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	47	obl	_	lemma_gml=respekt
 52	vöär	vöär	ADP	_	AdpType=Prep	54	case	_	lemma_gml=vȫr
