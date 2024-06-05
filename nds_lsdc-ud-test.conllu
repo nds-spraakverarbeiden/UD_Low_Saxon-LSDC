@@ -9495,7 +9495,7 @@
 19	mekare	mekare	PRON	_	_	23	obj	_	lemma_gml=malkander
 20	up	up	ADP	_	AdpType=Prep	22	case	_	lemma_gml=uppe
 21	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
-22	stupe	stupe	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	obl	_	lemma_gml=stôpe
+22	stupe	stope	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	23	obl	_	lemma_gml=stôpe
 23	teagenkommet	geagenkoamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	16	advcl	_	lemma_gml=tēgenkōmen|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
