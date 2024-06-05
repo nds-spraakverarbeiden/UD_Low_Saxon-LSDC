@@ -6192,7 +6192,7 @@
 35	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	nsubj	_	lemma_gml=hê,sê,et
 36	nemt	neamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	31	ccomp	_	lemma_gml=nēmen
 37	sou	sou	ADV	_	_	38	advmod	_	lemma_gml=sô
-38	völle	veale	PRON	_	Case=Acc|PronType=Ind	36	obj	_	lemma_gml=vēle
+38	völle	veale	ADJ	_	Case=Acc|Degree=Pos	36	obj	_	lemma_gml=vēle
 39	van	van	ADP	_	AdpType=Prep	41	case	_	lemma_gml=van
 40	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	41	det	_	lemma_gml=dê,dê,dat
 41	höypken	höypken	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	38	nmod	_	lemma_gml=hö̂peken
@@ -7566,7 +7566,7 @@
 28	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	cop	_	lemma_gml=wēsen
 29	der	dår	ADV	_	_	31	advmod	_	lemma_gml=dâr
 30	sou	sou	ADV	_	_	31	advmod	_	lemma_gml=sô
-31	völle	veale	PRON	_	Case=Nom|Number=Sing|PronType=Ind	6	conj	_	lemma_gml=vēle
+31	völle	veale	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	conj	_	lemma_gml=vēle
 32	in	in	ADP	_	_	29	case	_	lemma_gml=in|SpaceAfter=No
 33	,	,	PUNCT	_	_	32	punct	_	_
 34	dat	dat	SCONJ	_	_	43	mark	_	lemma_gml=dat
@@ -7749,7 +7749,7 @@
 2	kearel	kearl	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=kē̆rl
 3	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
 4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht
-5	vöäl	veale	PRON	_	Case=Acc|Number=Sing|PronType=Ind	3	obj	_	lemma_gml=vēle
+5	vöäl	veale	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	3	obj	_	lemma_gml=vēle
 6	van	van	ADP	_	AdpType=Prep	7	case	_	lemma_gml=van
 7	sük	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	nmod	_	lemma_gml=sik
 8	sülvens	sülve	ADV	_	_	7	advmod	_	lemma_gml=sülve|SpaceAfter=No
