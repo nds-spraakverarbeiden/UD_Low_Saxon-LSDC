@@ -5846,7 +5846,7 @@
 2	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	expl	_	lemma_gml=dâr
 3	mot	möten	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	lemma_gml=mö̂ten
 4	dissen	disse	DET	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing|PronType=Dem	6	det	_	lemma_gml=desse,desse,dit
-5	vorweerden	vorweerd	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem,Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	lemma_gml=vorwert
+5	vorweerden	vorwerd	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem,Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	lemma_gml=vorwert
 6	heyrskop	heyrskop	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	9	obj	_	lemma_gml=hêrschop
 7	ouk	ouk	ADV	_	_	9	advmod	_	lemma_gml=ôk
 8	neet	nich	PART	_	PartType=Neg	9	advmod	_	lemma_gml=nicht
