@@ -9750,7 +9750,7 @@
 12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	lemma_gml=ik
 13	bekant	bykant	ADV	_	_	15	advmod	_	lemma_gml=bĩkant
 14	stik	stik	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=sticke
-15	vorknipped	verknippen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorknippen
+15	vorknipped	vorknippen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=vorknippen
 16	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
 17	vorsneaden	vorsnyden	VERB	_	Tense=Past|VerbForm=Part	15	conj	_	lemma_gml=vorsnîden|SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
