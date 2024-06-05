@@ -8453,7 +8453,7 @@
 3	wysheid	wysheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	lemma_gml=wîshêit
 4	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=seggen|SpaceAfter=No
 5	:	:	PUNCT	_	_	4	punct	_	_
-6	Veertein	veertain	NUM	_	NumType=Card	7	nummod	_	lemma_gml=vêrteyn
+6	Veertein	veertein	NUM	_	NumType=Card	7	nummod	_	lemma_gml=vêrteyn
 7	dage	dag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	obl	_	lemma_gml=dach
 8	voar	vöär	ADP	_	AdpType=Prep	9	case	_	lemma_gml=vȫr
 9	meidag	meidag	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	nmod	_	lemma_gml=meydach
