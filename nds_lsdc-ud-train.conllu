@@ -8881,7 +8881,7 @@
 31	tomål	tomål	ADV	_	_	34	advmod	_	_
 32	up	up	ADP	_	AdpType=Prep	34	case	_	_
 33	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
-34	tüffelen	tüffel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	27	parataxis	_	SpaceAfter=No
+34	tüffelen	tuffel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	27	parataxis	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	45	punct	_	_
 36	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	45	nsubj	_	_
 37	doch	doch	ADV	_	_	45	advmod	_	_
@@ -8987,7 +8987,7 @@
 47	un	un	CCONJ	_	_	50	cc	_	_
 48	up	up	ADP	_	AdpType=Prep	50	case	_	_
 49	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	50	det	_	_
-50	tüffelen	tüffel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	40	conj	_	SpaceAfter=No
+50	tüffelen	tuffel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	40	conj	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	55	punct	_	_
 52	dee	dee	PRON	_	Case=Acc|Number=Plur|PronType=Rel	55	obj	_	_
 53	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	55	nsubj	_	_
