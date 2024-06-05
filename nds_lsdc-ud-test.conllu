@@ -758,7 +758,7 @@
 31	wår	wår	ADV	_	_	35	advmod	_	lemma_gml=wôr(e)
 32	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	35	nsubj	_	lemma_gml=ik
 33	dee	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	lemma_gml=dê¹
-34	weydage	weydage	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	35	obj	_	lemma_gml=wêdāge
+34	weydage	weydag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	35	obj	_	lemma_gml=wêdāge
 35	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	28	acl	_	lemma_gml=hebben|SpaceAfter=No
 36	.	.	PUNCT	_	_	7	punct	_	_
 
