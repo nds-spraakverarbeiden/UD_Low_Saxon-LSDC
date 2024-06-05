@@ -11328,7 +11328,7 @@
 1	Dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	lemma_gml=dê,dê,dat
 2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	lemma_gml=wēsen
 3	doch	doch	ADV	_	_	9	advmod	_	lemma_gml=doch
-4	sünst	sünst	ADV	_	_	9	advmod	_	lemma_gml=süs
+4	sünst	sunst	ADV	_	_	9	advmod	_	lemma_gml=süs
 5	to	to	ADP	_	AdpType=Prep	7	case	_	lemma_gml=tô
 6	düs	disse	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	lemma_gml=desse,desse,dit
 7	tyd	tyd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	9	obl	_	lemma_gml=tît
