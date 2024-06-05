@@ -7508,7 +7508,7 @@
 21	,	,	PUNCT	_	_	24	punct	_	_
 22	düs	dus	ADV	_	_	24	advmod	_	lemma_gml=düs
 23	alle	al	DET	_	Case=Nom|Number=Plur|PronType=Tot	24	det	_	lemma_gml=al
-24	readen	readen	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	parataxis	_	lemma_gml=rēde
+24	readen	reade	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	parataxis	_	lemma_gml=rēde
 25	üm	üm	SCONJ	_	_	29	mark	_	lemma_gml=ümme
 26	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
 27	stükske	stükken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	29	obj	_	lemma_gml=stückeken
