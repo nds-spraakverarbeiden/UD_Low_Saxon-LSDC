@@ -6941,7 +6941,7 @@
 8	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
 9	naemen	neamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	lemma_gml=nēmen
 10	sik	sik	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	lemma_gml=sik
-11	vaste	vast	ADV	_	_	9	advmod	_	lemma_gml=vaste
+11	vaste	vaste	ADV	_	_	9	advmod	_	lemma_gml=vaste
 12	voar	vöär	ADP	_	_	9	compound:prt	_	lemma_gml=vȫr|SpaceAfter=No
 13	,	,	PUNCT	_	_	9	punct	_	_
 14	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
@@ -9960,7 +9960,7 @@
 33	do	do	ADV	_	_	34	advmod	_	_
 34	meynde	meynen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	8	conj	_	_
 35	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	_
-36	vast	vast	ADV	_	_	34	advmod	_	SpaceAfter=No
+36	vast	vaste	ADV	_	_	34	advmod	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	40	punct	_	_
 38	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	jårstyd	jårstyd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	40	nsubj	_	_
