@@ -252,7 +252,7 @@
 15	broud	broud	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	lemma_gml=brôt¹
 16	had	hebben	VERB	_	Aspect=Perf|VerbForm=Part	8	acl	_	lemma_gml=hebben|SpaceAfter=No
 17	,	,	PUNCT	_	_	25	punct	_	_
-18	wyl	wyl	SCONJ	_	_	25	mark	_	_
+18	wyl	wyle	SCONJ	_	_	25	mark	_	_
 19	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	lemma_gml=hê¹
 20	dag	dag	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	lemma_gml=dach
 21	un	un	CCONJ	_	_	22	cc	_	lemma_gml=unde²
