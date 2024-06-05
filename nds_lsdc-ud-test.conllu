@@ -1263,7 +1263,7 @@
 39	anseenliksten	anseenlik	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Masc|Number=Plur	43	amod	_	lemma_gml=ansênlĩk
 40	un	un	CCONJ	_	_	42	cc	_	lemma_gml=unde²
 41	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	43	det	_	lemma_gml=dê¹
-42	ryksten	ryke	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Masc|Number=Plur	39	conj	_	lemma_gml=rîke²
+42	ryksten	ryk	ADJ	_	Case=Acc,Dat|Degree=Sup|Gender=Masc|Number=Plur	39	conj	_	lemma_gml=rîke²
 43	kråmers	kråmer	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	36	xcomp	_	lemma_gml=krâmêr(e)
 44	in	in	ADP	_	AdpType=Prep	46	case	_	lemma_gml=in²
 45	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	lemma_gml=dê¹
