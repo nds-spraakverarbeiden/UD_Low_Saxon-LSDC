@@ -2989,7 +2989,7 @@
 # text_orig = »»Worüm denn nich?«« –
 # text = »»Worüm dän nich?«« –
 1	»»	»»	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Worüm	worüm	ADV	_	_	0	root	_	lemma_gml=wôrümme
+2	Worüm	woorüm	ADV	_	_	0	root	_	lemma_gml=wôrümme
 3	dän	dän	ADV	_	_	2	advmod	_	lemma_gml=den
 4	nich	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht|SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	SpaceAfter=No
