@@ -10934,7 +10934,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	want	want	CCONJ	_	_	19	cc	_	lemma_gml=wan
 18	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	lemma_gml=ik
-19	see	see	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	conj	_	lemma_gml=hê,sê,et
+19	see	seen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	13	conj	_	lemma_gml=hê,sê,et
 20	der	dår	PRON	_	_	19	expl	_	lemma_gml=dâr
 21	geynt	geyn	PRON	_	Case=Acc|Number=Sing|PronType=Neg	19	obj	_	lemma_gml=gân|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	_
