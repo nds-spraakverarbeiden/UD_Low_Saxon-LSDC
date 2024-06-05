@@ -297,7 +297,7 @@
 60	syde	syde	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	68	obl	_	lemma_gml=sîde¹|SpaceAfter=No
 61	,	,	PUNCT	_	_	62	punct	_	_
 62	dår	dår	ADV	_	_	68	advmod	_	lemma_gml=dâr¹
-63	wår	wår	ADV	_	_	66	obl	_	lemma_gml=wôr(e)
+63	wår	woor	ADV	_	_	66	obl	_	lemma_gml=wôr(e)
 64	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	65	det	_	lemma_gml=dê¹
 65	Röyverbarg	Röyverberg	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	66	nsubj	_	_
 66	ligt	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	62	acl	_	lemma_gml=liggen|SpaceAfter=No
@@ -396,7 +396,7 @@
 # text = Jå, wår is de knyptange?
 1	Jå	jå	INTJ	_	_	0	root	_	lemma_gml=jâ¹|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	wår	wår	ADV	_	_	1	conj	_	lemma_gml=wôr(e)
+3	wår	woor	ADV	_	_	1	conj	_	lemma_gml=wôr(e)
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	3	cop	_	lemma_gml=wēsen²
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê¹
 6	knyptange	knyptange	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=knîptange|SpaceAfter=No
@@ -712,7 +712,7 @@
 11	lange	lang	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	lemma_gml=lanc
 12	eykendisk	eykendisk	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	19	punct	_	_
-14	wår	wår	ADV	_	_	19	advmod	_	lemma_gml=wôr(e)
+14	wår	woor	ADV	_	_	19	advmod	_	lemma_gml=wôr(e)
 15-17	in'en	_	_	_	_	_	_	_	_
 15	in	in	ADP	_	AdpType=Prep	18	case	_	lemma_gml=in²
 16	'	'	PUNCT	_	_	17	punct	_	_
@@ -755,7 +755,7 @@
 28	steade	steade	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	lemma_gml=stēde⁵
 29	leggen	leggen	VERB	_	VerbForm=Inf	16	conj	_	lemma_gml=leggen|SpaceAfter=No
 30	,	,	PUNCT	_	_	35	punct	_	_
-31	wår	wår	ADV	_	_	35	advmod	_	lemma_gml=wôr(e)
+31	wår	woor	ADV	_	_	35	advmod	_	lemma_gml=wôr(e)
 32	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	35	nsubj	_	lemma_gml=ik
 33	dee	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	lemma_gml=dê¹
 34	weydage	weydag	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	35	obj	_	lemma_gml=wêdāge
@@ -1408,7 +1408,7 @@
 47	steade	steade	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	48	obl	_	lemma_gml=stēde⁵
 48	vöärbykaemen	vöärbykoamen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	32	conj	_	SpaceAfter=No
 49	,	,	PUNCT	_	_	56	punct	_	_
-50	wår	wår	ADV	_	_	56	advmod	_	lemma_gml=wôr(e)
+50	wår	woor	ADV	_	_	56	advmod	_	lemma_gml=wôr(e)
 51	man	man	PRON	_	Case=Nom|Number=Sing|PronType=Ind	56	nsubj	_	lemma_gml=man²
 52	vöär	vöär	ADP	_	AdpType=Prep	53	case	_	lemma_gml=vȫr³
 53	kortens	kortens	ADV	_	_	56	obl	_	lemma_gml=kortes
@@ -2747,7 +2747,7 @@
 40	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	39	nsubj	_	_
 41	my	my	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	39	obj	_	SpaceAfter=No
 42	:	:	PUNCT	_	_	39	punct	_	_
-43	wår	wår	ADV	_	_	44	obl	_	_
+43	wår	woor	ADV	_	_	44	obl	_	_
 44	neam	neamen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	19	ccomp	_	_
 45	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	44	nsubj	_	_
 46	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	lemma_gml=dê¹
