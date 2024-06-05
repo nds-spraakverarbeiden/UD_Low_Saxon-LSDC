@@ -6530,7 +6530,7 @@
 42	martelen	martelen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	46	nsubj	_	lemma_gml=marterent
 43	en	un	CCONJ	_	_	44	cc	_	lemma_gml=ende
 44	ärmoden	armoden	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	42	conj	_	lemma_gml=armôdent
-45	te	te	ADP	_	AdpType=Prep	46	case	_	lemma_gml=tô
+45	te	to	ADP	_	AdpType=Prep	46	case	_	lemma_gml=tô
 46	ende	ende	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	1	conj	_	lemma_gml=ende
 47	syn	weasen	AUX	_	VerbForm=Inf	46	cop	_	lemma_gml=wēsen|SpaceAfter=No
 48	,	,	PUNCT	_	_	60	punct	_	_
@@ -7222,7 +7222,7 @@
 28	mår	mår	ADV	_	_	33	advmod	_	lemma_gml=mêr
 29	by	by	ADP	_	AdpType=Prep	30	case	_	lemma_gml=bî
 30	haar	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	33	obl	_	lemma_gml=hê,sê,et
-31	te	te	ADP	_	AdpType=Prep	32	case	_	lemma_gml=tô
+31	te	to	ADP	_	AdpType=Prep	32	case	_	lemma_gml=tô
 32	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	30	nmod	_	lemma_gml=hûs
 33	kommen	koamen	VERB	_	VerbForm=Inf	21	ccomp	_	lemma_gml=kōmen
 34	muste	möten	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	33	aux	_	lemma_gml=mö̂ten|SpaceAfter=No
@@ -8632,7 +8632,7 @@
 29	gyn	geyn	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Neg	30	det	_	lemma_gml=gêin
 30	centen	cent	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	34	obj	_	lemma_gml=cent
 31	genoog	genoog	ADV	_	_	30	advmod	_	lemma_gml=genôch
-32	te	te	ADP	_	AdpType=Prep	33	case	_	lemma_gml=tô
+32	te	to	ADP	_	AdpType=Prep	33	case	_	lemma_gml=tô
 33	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	34	obl	_	lemma_gml=hûs
 34	brenget	bringen	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	25	ccomp	_	lemma_gml=bringen
 35	en	un	CCONJ	_	_	38	cc	_	lemma_gml=ende
@@ -8645,7 +8645,7 @@
 42	mynde	myn	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	43	nsubj	_	lemma_gml=mîn
 43	hevt	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	conj	_	lemma_gml=hebben
 44	dår	dår	ADV	_	_	43	advmod	_	lemma_gml=dâr
-45	te	te	ADP	_	AdpType=Prep	47	case	_	lemma_gml=tô
+45	te	to	ADP	_	AdpType=Prep	47	case	_	lemma_gml=tô
 46	'n	et	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	47	det	_	lemma_gml=dê,dê,dat
 47	minste	min	ADJ	_	Case=Dat|Degree=Sup|Gender=Neut|Number=Sing	43	obl	_	lemma_gml=weinich
 48	best	good	ADJ	_	Degree=Sup	43	advmod	_	lemma_gml=gôt
@@ -9032,7 +9032,7 @@
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	hev	hebben	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	3	parataxis	_	lemma_gml=hebben
 17	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	lemma_gml=wî
-18	te	te	ADP	_	AdpType=Prep	19	case	_	lemma_gml=tô
+18	te	to	ADP	_	AdpType=Prep	19	case	_	lemma_gml=tô
 19	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	16	obl	_	lemma_gml=hûs
 20	now	nu	ADV	_	_	16	advmod	_	lemma_gml=nû
 21	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	23	det	_	lemma_gml=êin,êine,êin
@@ -9062,7 +9062,7 @@
 45	üm	üm	ADP	_	AdpType=Prep	47	case	_	lemma_gml=ümme
 46	12	twelv	NUM	_	NumType=Card	47	nummod	_	lemma_gml=12
 47	üür	uur	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	50	obl	_	lemma_gml=ûre
-48	te	te	ADP	_	AdpType=Prep	49	case	_	lemma_gml=tô
+48	te	to	ADP	_	AdpType=Prep	49	case	_	lemma_gml=tô
 49	hüüs	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	50	obl	_	lemma_gml=hûs
 50	kommet	koamen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	54	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 51	,	,	PUNCT	_	_	52	punct	_	_
