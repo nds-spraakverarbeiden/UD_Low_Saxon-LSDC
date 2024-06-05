@@ -932,7 +932,7 @@
 6	afskrekken	afskrekken	VERB	_	VerbForm=Inf	3	xcomp	_	lemma_gml=afschrecken
 7	un	un	CCONJ	_	_	8	cc	_	lemma_gml=unde²
 8	sprook	spreaken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=sprēken
-9	vorgenöögd	vorgenögen	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=vornö̂gen|SpaceAfter=No
+9	vorgenöögd	vorgenöögd	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=vornö̂gen|SpaceAfter=No
 10	:	:	PUNCT	_	_	8	punct	_	_
 11	'	'	PUNCT	_	_	17	punct	_	SpaceAfter=No
 12	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	lemma_gml=dat
