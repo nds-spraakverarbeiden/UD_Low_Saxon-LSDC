@@ -9900,7 +9900,7 @@
 6	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
 7	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
 8	klårespöäld	klårspealen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=spēlen
-9	sunder	sünder	ADP	_	AdpType=Prep	11	case	_	lemma_gml=sunder
+9	sunder	sunder	ADP	_	AdpType=Prep	11	case	_	lemma_gml=sunder
 10	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	lemma_gml=mîn
 11	Annegyn	Annegyn	PROPN	_	Number=Sing	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
@@ -9932,7 +9932,7 @@
 8	üüt	uut	ADP	_	AdpType=Prep	10	case	_	lemma_gml=ût
 9	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=dê,dê,dat
 10	kürv	korv	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	obl	_	lemma_gml=korf
-11	sunder	sünder	ADP	_	AdpType=Prep	12	case	_	lemma_gml=sunder
+11	sunder	sunder	ADP	_	AdpType=Prep	12	case	_	lemma_gml=sunder
 12	sörge	sorge	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	lemma_gml=sorge|SpaceAfter=No
 13	?	?	PUNCT	_	_	1	punct	_	_
 
