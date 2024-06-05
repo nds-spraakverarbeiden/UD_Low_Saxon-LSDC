@@ -4314,9 +4314,9 @@
 11	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	lemma_gml=sik
 12	up	up	ADP	_	AdpType=Prep	14	case	_	lemma_gml=uppe
 13	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê
-14	weag	weg	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=wech
+14	weag	weg	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=wech
 15	nå	nå	ADP	_	AdpType=Prep	16	case	_	lemma_gml=nâ
-16	Slaumayers	_	NOUN	_	Number=Plur	14	nmod	_	lemma_gml=slaumayer|SpaceAfter=No
+16	Slaumayers	_	PROPN	_	Number=Plur	14	nmod	_	lemma_gml=slaumayer|SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0138_DWF_201X_OWL_lipsk_werner-zahn_kür-mol-wedder-lippisch-platt_die-klassenfahrt
