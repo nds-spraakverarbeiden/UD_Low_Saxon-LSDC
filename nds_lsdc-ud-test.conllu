@@ -12545,7 +12545,7 @@
 3	segget	seggen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	0	root	_	lemma_gml=seggen
 4	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	3	vocative	_	lemma_gml=sê|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
-6	tostand	tostand	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	lemma_gml=tôstant|SpaceAfter=No
+6	tostand	tostand	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	parataxis	_	lemma_gml=tôstant|SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0482_DNS_1907_HOL_holsteynsk_maren
