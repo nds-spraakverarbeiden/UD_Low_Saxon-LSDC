@@ -12576,7 +12576,7 @@
 36	un	un	CCONJ	_	_	37	cc	_	lemma_gml=unde
 37	gemålinnen	gemålinne	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	35	conj	_	lemma_gml=gemâlinne|SpaceAfter=No
 38	,	,	PUNCT	_	_	42	punct	_	_
-39	sünderen	sünder	CCONJ	_	_	42	advmod	_	lemma_gml=sünder
+39	sünderen	sunderen	CCONJ	_	_	42	advmod	_	lemma_gml=sünder
 40	ouk	ouk	ADV	_	_	42	advmod	_	lemma_gml=ôk
 41	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	lemma_gml=dê,dê,dat
 42	landesheyren	landesheyre	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	35	conj	_	lemma_gml=landeshêre
