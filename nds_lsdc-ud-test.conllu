@@ -11414,7 +11414,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	dän	dän	ADV	_	_	20	advmod	_	lemma_gml=den
 8	weren	weasen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=3|Tense=Pres	20	aux	_	lemma_gml=wēsen
-9	see	se	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=sê
+9	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	lemma_gml=sê
 10	nå	nå	ADP	_	AdpType=Prep	12	case	_	lemma_gml=nâ
 11	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Feststellung	Feststellung	X	_	Foreign=Yes	20	obl	_	_
