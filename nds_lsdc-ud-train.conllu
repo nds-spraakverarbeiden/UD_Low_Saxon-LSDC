@@ -5350,7 +5350,7 @@
 1	Kasper	Kasper	PROPN	_	Number=Sing	3	nsubj	_	lemma_gml=kasper
 2	oum	oum	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	lemma_gml=ôm
 3	saeg	seen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=sên
-4	seyr	seyr	ADV	_	_	5	advmod	_	lemma_gml=sêre
+4	seyr	seyre	ADV	_	_	5	advmod	_	lemma_gml=sêre
 5	kontenteerd	kontenteerd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	3	xcomp	_	lemma_gml=contentêret
 6	uut	uut	ADP	_	_	3	compound:prt	_	lemma_gml=ût|SpaceAfter=No
 7	,	,	PUNCT	_	_	13	punct	_	_
@@ -8996,7 +8996,7 @@
 56	,	,	PUNCT	_	_	55	punct	_	_
 57	eaven	eaven	ADV	_	_	58	advmod	_	_
 58	sou	sou	ADV	_	_	59	advmod	_	_
-59	seyre	seyr	ADV	_	_	60	advmod	_	_
+59	seyre	seyre	ADV	_	_	60	advmod	_	_
 60	anweasen	anweasen	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	34	conj	_	_
 61	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	60	cop	_	SpaceAfter=No
 62	,	,	PUNCT	_	_	67	punct	_	_
