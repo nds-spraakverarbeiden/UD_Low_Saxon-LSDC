@@ -4619,7 +4619,7 @@
 13	alsou	alsou	ADV	_	_	14	advmod	_	lemma_gml=alsô
 14	Daniel	Daniel	PROPN	_	Number=Sing	8	ccomp	_	lemma_gml=daniel|SpaceAfter=No
 15	,	,	PUNCT	_	_	23	punct	_	_
-16	hwekken	wekker	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	23	obj	_	lemma_gml=welk
+16	hwekken	wek	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	23	obj	_	lemma_gml=welk
 17	myn	myn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det	_	lemma_gml=mîn
 18	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	lemma_gml=vāder
 19	uut	uut	ADP	_	AdpType=Prep	20	case	_	lemma_gml=ût
@@ -5264,7 +5264,7 @@
 29	vråge	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=vrâgen
 30	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	lemma_gml=ik|SpaceAfter=No
 31	:	:	PUNCT	_	_	29	punct	_	_
-32	Wekke	wekker	PRON	_	Case=Nom|Number=Plur|PronType=Int	34	nsubj	_	lemma_gml=welk
+32	Wekke	wek	PRON	_	Case=Nom|Number=Plur|PronType=Int	34	nsubj	_	lemma_gml=welk
 33	wören	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	34	aux	_	lemma_gml=wēsen
 34	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	ccomp	_	lemma_gml=et
 35	dän	dän	ADV	_	_	34	advmod	_	lemma_gml=den|SpaceAfter=No
@@ -12793,7 +12793,7 @@
 # sent_id = LSDC_0493_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = Weck von uns sünd glücklich dörchkamen: von Massow ut Kolberg, Bönninger ut Sülwerbarg un Wagner un Reinhardt ut Magdeborg, äwer dat sei dordörch vel glücklicher worden sünd, heww ick nich hürt.
 # text = Wek van uns sünt gelüklik döärchkoamen: von Massow uut Kolberg, Bönninger uut Sülwerbarg un Wagner un Reinhardt uut Magdeborg, äver dat see dårdöärch veal gelükliker worden sünt, hev ik nich höyrd.
-1	Wek	wekke	PRON	_	Case=Nom|Number=Plur|PronType=Ind	6	nsubj	_	lemma_gml=welk
+1	Wek	wek	PRON	_	Case=Nom|Number=Plur|PronType=Ind	6	nsubj	_	lemma_gml=welk
 2	van	van	ADP	_	AdpType=Prep	3	case	_	lemma_gml=van
 3	uns	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	1	nmod	_	lemma_gml=wî
 4	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
