@@ -12134,7 +12134,7 @@
 67	dat	dat	SCONJ	_	_	77	mark	_	lemma_gml=dat
 68	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	77	nsubj	_	lemma_gml=ik
 69	van	van	ADP	_	AdpType=Prep	72	case	_	lemma_gml=van
-70	unsen	unse	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	72	det	_	lemma_gml=unse
+70	unsen	uns	DET	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	72	det	_	lemma_gml=unse
 71	seyligen	seylig	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	72	amod	_	lemma_gml=sêil
 72	skoolmeyster	skoolmeyster	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	77	obl	_	lemma_gml=schôlemeyster
 73	vöär	vöär	ADP	_	AdpType=Prep	75	case	_	lemma_gml=vȫr
@@ -12284,7 +12284,7 @@
 34	‘	‘	PUNCT	_	_	36	punct	_	SpaceAfter=No
 35	Wat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	36	obj	_	lemma_gml=watte
 36	preddigt	predigen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	32	ccomp	_	lemma_gml=prēdiken
-37	unse	unse	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	38	det	_	lemma_gml=unse
+37	unse	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	38	det	_	lemma_gml=unse
 38	pastoor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	lemma_gml=pâstôr|SpaceAfter=No
 39	?	?	PUNCT	_	_	36	punct	_	_
 
@@ -12482,7 +12482,7 @@
 51	maakt	maken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	43	parataxis	_	lemma_gml=māken
 52	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	51	obj	_	lemma_gml=hê,sê,et
 53	as	as	ADP	_	_	55	case	_	lemma_gml=alsô
-54	unse	unse	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	55	det	_	lemma_gml=unse
+54	unse	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	55	det	_	lemma_gml=unse
 55	skoolmeyster	skoolmeyster	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	51	obl	_	lemma_gml=schôlemeyster|SpaceAfter=No
 56	,	,	PUNCT	_	_	58	punct	_	_
 57	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	58	nsubj	_	lemma_gml=dê,dê,dat
