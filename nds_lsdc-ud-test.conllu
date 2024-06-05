@@ -5591,7 +5591,7 @@
 # text = Hee weer sacht en beatjen anvroaren.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
 2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	lemma_gml=wēsen
-3	sacht	sacht	ADV	_	_	6	advmod	_	lemma_gml=sachte
+3	sacht	sachte	ADV	_	_	6	advmod	_	lemma_gml=sachte
 4	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=êin,êine,êin
 5	beatjen	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	lemma_gml=bēteken
 6	anvroaren	anvroaren	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	0	root	_	lemma_gml=anvrōren|SpaceAfter=No
