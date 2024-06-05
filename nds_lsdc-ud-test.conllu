@@ -10123,7 +10123,7 @@
 1	Want	wante	CCONJ	_	_	5	cc	_	lemma_gml=wente
 2	uut	uut	ADP	_	AdpType=Prep	4	case	_	lemma_gml=ût
 3	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
-4	veanstreak	veanstreak	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=vē̆nstrēke
+4	veanstreak	venstreake	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=vē̆nstrēke
 5	kwam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
 6	see	see	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
 7	!	!	PUNCT	_	_	5	punct	_	_
