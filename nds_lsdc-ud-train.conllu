@@ -13550,7 +13550,7 @@
 20	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	21	det	_	_
 21	spinne	spinnen	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	15	conj	_	_
 22	un	un	CCONJ	_	_	23	cc	_	_
-23	warke	warken	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	21	conj	_	SpaceAfter=No
+23	warke	werken	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	21	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0996_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
