@@ -9660,7 +9660,7 @@
 78	,	,	PUNCT	_	_	90	punct	_	_
 79	wän	wän	SCONJ	_	_	82	mark	_	_
 80	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	82	det	_	_
-81	pår	pår	ADJ	_	_	82	nummod	_	_
+81	pår	pår	NUM	_	_	82	nummod	_	_
 82	grossen	grossen	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	90	nsubj	_	_
 83	van	van	ADP	_	AdpType=Prep	85	case	_	_
 84	eyne	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	85	det	_	_
@@ -9987,7 +9987,7 @@
 60	myne	myn	DET	_	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	61	det	_	_
 61	seyle	seyle	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	57	obl	_	SpaceAfter=No
 62	,	,	PUNCT	_	_	67	punct	_	_
-63	alle	al	DET	_	_	66	cc	_	_
+63	alle	al	DET	_	_	66	det	_	_
 64	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	65	det	_	_
 65	eynselen	eynsel	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	66	amod	_	_
 66	halme	halm	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	67	amod	_	_
@@ -12170,7 +12170,7 @@
 103	un	un	CCONJ	_	_	113	cc	_	lemma_gml=unde
 104	eaven	eaven	ADV	_	_	113	advmod	_	lemma_gml=ēvene
 105	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	106	det	_	lemma_gml=mîn
-106	betken	beatken	NOUN	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	113	obj	_	lemma_gml=bēteken
+106	betken	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	113	obj	_	lemma_gml=bēteken
 107	stokvisk	stokvisk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	106	nmod	_	lemma_gml=stokvisch
 108	mid	mid	ADP	_	AdpType=Prep	110	case	_	lemma_gml=mit
 109	grönen	gröön	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	110	amod	_	lemma_gml=grö̂ne
@@ -12684,7 +12684,7 @@
 33	entstån	entstån	VERB	_	Tense=Past|VerbForm=Part	18	advcl	_	lemma_gml=entstân
 34	wöre	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	33	aux	_	lemma_gml=wēsen|SpaceAfter=No
 35	;	;	PUNCT	_	_	18	punct	_	_
-36	averst	aver	CCONJ	_	AdpType=Prep	38	case	_	lemma_gml=āvers
+36	averst	aver	CCONJ	_	_	39	cc	_	lemma_gml=āvers
 37	gode	good	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	38	amod	_	lemma_gml=gôt
 38	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	39	nsubj	_	lemma_gml=lü̂de
 39	legden	leggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	conj	_	lemma_gml=leggen
@@ -13017,7 +13017,7 @@
 
 # sent_id = LSDC_0975_NPR_1893_EYL_de-mella-polz
 # text_orig = Se säde: „Scheen Dank, sied wöllkomm’, goat wieda on sett ju e Schtung verentwintig, Mella Pölz!“
-# text = See seade: „Sköyn dank, syt wilkoamen, gåt wyder un settet ju e stund veeruntwintig, möller Pölz!“
+# text = See seade: „Sköyn dank, syt wilkoamen, gåt wyder un settet ju e stunde veeruntwintig, möller Pölz!“
 1	See	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
 2	seade	seggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	_
@@ -13605,7 +13605,7 @@
 
 # sent_id = LSDC_0998_NPR_1893_EYL_op-eena-hoachtiet-on-zepalle
 # text_orig = Dittmoal wearet de Noaba Klohnke, de von Schtoaw to Schtoaw gink on väl schpoaßiget Tieg moakte, doabi oawasch ömma sachtke mea drunk.
-# text = Ditmål weer et de nåver Klohnke, dee van stoave to stoave ging un veal spasiget tüüg maakde, dårby avers immer sachtke meadrunk.
+# text = Ditmål weer et de nåber Klohnke, dee van stoave to stoave ging un veal spasiget tüüg maakde, dårby avers immer sachtke meadrunk.
 1	Ditmål	ditmål	ADV	_	_	5	advmod	_	_
 2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
 3	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
