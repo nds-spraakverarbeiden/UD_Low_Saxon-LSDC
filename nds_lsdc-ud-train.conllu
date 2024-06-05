@@ -3874,7 +3874,7 @@
 36	müsten	möten	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	38	aux	_	lemma_gml=mö̂ten
 37	rin	herin	ADV	_	_	38	advmod	_	lemma_gml=hērîn
 38	koamen	koamen	VERB	_	VerbForm=Inf	15	conj	_	lemma_gml=kōmen|SpaceAfter=No
-39	,	,	PUNCT	_	_	49	punct	_	_
+39	,	,	PUNCT	_	_	47	punct	_	_
 40	un	un	CCONJ	_	_	47	cc	_	lemma_gml=unde
 41	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	lemma_gml=dê,dê,dat
 42	her	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	43	nmod	_	lemma_gml=hêre
