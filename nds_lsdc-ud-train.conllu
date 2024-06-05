@@ -12658,7 +12658,7 @@
 7	lever	leev	ADJ	_	Degree=Cmp	8	advmod	_	lemma_gml=lêf
 8	hebben	hebben	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=hebben|SpaceAfter=No
 9	,	,	PUNCT	_	_	15	punct	_	_
-10	wyl	wyl	SCONJ	_	_	15	mark	_	lemma_gml=dewîle
+10	wyl	wyle	SCONJ	_	_	15	mark	_	lemma_gml=wîle
 11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=hê,sê,et
 12	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
 13	betken	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=bēteken
