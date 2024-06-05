@@ -9033,7 +9033,7 @@
 # sent_id = LSDC_0859_BRA_1843_marksk_Der-gefangene-Dachs
 # text_orig = Unn as se dunn nå Huus keemen, unn Koppe siinen Sack nåkeeken deee, fund hee richtig ne olle eenöögige Sau un keenen Dachs drin.
 # text = Un as see dun nå huus kaemen, un Koppe synen sak nåkyken dea, vund hee richtig ne olde eynöygige söäge un keynen das dårin.
-1	Un	un	ADV	_	_	16	cc	_	_
+1	Un	un	CCONJ	_	_	16	cc	_	_
 2	as	as	SCONJ	_	_	7	mark	_	_
 3	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 4	dun	dun	ADV	_	_	7	advmod	_	_
@@ -9549,7 +9549,7 @@
 5	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
 6	syne	syn	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	det	_	_
 7	kraft	kraft	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	_
-8	un	un	ADV	_	_	9	cc	_	_
+8	un	un	CCONJ	_	_	9	cc	_	_
 9	brengt	bringen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	_
 10	ouk	ouk	ADV	_	_	9	advmod	_	_
 11	tolest	tolest	ADV	_	_	9	advmod	_	_
@@ -9716,7 +9716,7 @@
 21	synen	syn	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	_
 22	kane	kane	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
 23	lousmaked	lousmaken	VERB	_	Tense=Past|VerbForm=Part	6	conj	_	_
-24	un	un	ADV	_	_	26	cc	_	_
+24	un	un	CCONJ	_	_	26	cc	_	_
 25	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	_
 26	oavervöörd	öävervören	VERB	_	Tense=Past|VerbForm=Part	23	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	6	punct	_	_
