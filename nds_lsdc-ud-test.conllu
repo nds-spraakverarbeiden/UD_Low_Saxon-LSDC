@@ -12853,7 +12853,7 @@
 18	allens	alles	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	22	nsubj	_	lemma_gml=allêins
 19	up	up	ADP	_	AdpType=Prep	21	case	_	lemma_gml=uppe
 20	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	lemma_gml=dê,dê,dat
-21	wagen	wagenn	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	22	obl	_	lemma_gml=wāgen
+21	wagen	wagen	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	22	obl	_	lemma_gml=wāgen
 22	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	advcl	_	lemma_gml=liggen|SpaceAfter=No
 23	,	,	PUNCT	_	_	22	punct	_	_
 24	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=kōmen
