@@ -11093,7 +11093,7 @@
 
 # sent_id = LSDC_0422_DNS_1907_HOL_holsteynsk_maren
 # text_orig = un wenn du di losriten deist, blifft Sterlau di ok tru?
-# text = un wän du dy lousryten deist, blivt Sterlau dy ouk truw?
+# text = un wän du dy lousryten deist, blivt Sterlau dy ouk trouw?
 1	un	un	CCONJ	_	_	8	cc	_	lemma_gml=unde
 2	wän	wän	SCONJ	_	_	5	mark	_	lemma_gml=wan
 3	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	lemma_gml=dû
@@ -11105,7 +11105,7 @@
 9	Sterlau	Sterlau	PROPN	_	Number=Sing	8	nsubj	_	lemma_gml=sterlau
 10	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	8	obj	_	lemma_gml=dû
 11	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
-12	truw	truw	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=trü̂we|SpaceAfter=No
+12	trouw	trouw	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=trü̂we|SpaceAfter=No
 13	?	?	PUNCT	_	_	8	punct	_	_
 
 # sent_id = LSDC_0423_DNS_1907_HOL_holsteynsk_maren
