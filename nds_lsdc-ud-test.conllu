@@ -11996,7 +11996,7 @@
 
 # sent_id = LSDC_0457_MVP_1862_meakelenborgsk_ut-mine-festungstid
 # text_orig = – Nahsten hett hei frilich seggt, dat wiren kein Tranen west, dat wir en Waddickdruppen west, de em up de Näs' follen wir – äwer ick kenn em beter, hei hadd ok sine weihmäudige Turen.
-# text = – Nåsten het hee vrylik segd, dat weren keyn trånen west, dat weer en waddikdruppen west, dee em up de näse vollen weer – äver ik kenne em beater, hee hadde ouk syne weymödige turen.
+# text = – Nåsten het hee vrylik segd, dat weren keyn trånen west, dat weer en waddikdruppen west, dee em up de nease vollen weer – äver ik kenne em beater, hee hadde ouk syne weymödige turen.
 1	–	–	PUNCT	_	_	6	punct	_	_
 2	Nåsten	nåsten	ADV	_	_	6	advmod	_	lemma_gml=nâsten
 3	het	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	lemma_gml=hebben
