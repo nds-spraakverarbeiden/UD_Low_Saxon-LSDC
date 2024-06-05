@@ -10260,10 +10260,10 @@
 
 # sent_id = LSDC_0891_BRA_1874_marksk_dat-evanjeljum-van-n-verloarnen-soahn
 # text_orig = ick bin upstünn's ne miehr wärth, dat 'k dien söähn heite.
-# text = ik bin upstünds ne meyr waerd, dat ik dyn söän heyte.
+# text = ik bin upstündes ne meyr waerd, dat ik dyn söän heyte.
 1	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	cop	_	_
-3	upstünds	upstünds	ADV	_	_	6	advmod	_	_
+3	upstündes	upstundes	ADV	_	_	6	advmod	_	_
 4	ne	nich	PART	_	PartType=Neg	5	advmod	_	_
 5	meyr	veale	ADV	_	_	6	advmod	_	_
 6	waerd	waerd	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
