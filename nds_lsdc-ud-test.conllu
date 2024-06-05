@@ -4651,7 +4651,7 @@
 5	wän	wän	SCONJ	_	_	8	mark	_	lemma_gml=wan
 6	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	8	expl	_	lemma_gml=et
 7	nütte	nütte	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=nütte
-8	vrous	vreren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	lemma_gml=vrêsen|SpaceAfter=No
+8	vrous	vresen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	lemma_gml=vrêsen|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	dat	dat	SCONJ	_	_	13	mark	_	lemma_gml=dat
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê
