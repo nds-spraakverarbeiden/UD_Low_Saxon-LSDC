@@ -5850,7 +5850,7 @@
 6	heyrskop	heyrskop	NOUN	_	Case=Acc,Dat|Gender=Fem,Masc|Number=Sing	9	obj	_	lemma_gml=hêrschop
 7	ouk	ouk	ADV	_	_	9	advmod	_	lemma_gml=ôk
 8	neet	nich	PART	_	PartType=Neg	9	advmod	_	lemma_gml=nicht
-9	vremd	vrömd	ADJ	_	Degree=Pos	0	root	_	lemma_gml=vrȫmede
+9	vremd	vröämd	ADJ	_	Degree=Pos	0	root	_	lemma_gml=vrȫmede
 10	syn	weasen	AUX	_	VerbForm=Inf	9	aux	_	lemma_gml=wēsen|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	_
 12	ho	wo	ADV	_	_	13	advmod	_	lemma_gml=wô
