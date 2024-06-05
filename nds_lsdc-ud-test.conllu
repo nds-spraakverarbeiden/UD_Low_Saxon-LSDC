@@ -5517,9 +5517,9 @@
 
 # sent_id = LSDC_0195_MVP_1860_meakelenborg_ut-de-franzosentid
 # text_orig = De Soldat sprung ok up.
-# text = De soldaat sprung ouk up.
+# text = De soldåt sprung ouk up.
 1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
-2	soldaat	soldaat	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=soldât
+2	soldåt	soldåt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=soldât
 3	sprung	springen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=springen
 4	ouk	ouk	ADV	_	_	3	advmod	_	lemma_gml=ôk
 5	up	up	ADP	_	AdpType=Prep	3	compound:prt	_	lemma_gml=uppe|SpaceAfter=No
