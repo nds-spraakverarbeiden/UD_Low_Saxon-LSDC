@@ -3123,7 +3123,7 @@
 16	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	expl:pv	_	lemma_gml=hê,sê,et
 17	inslågen	inslån	VERB	_	Tense=Past|VerbForm=Part	20	ccomp	_	lemma_gml=inslân|SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
-19	skultske	skultske	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	lemma_gml=schultsche
+19	skultske	skültske	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	lemma_gml=schultsche
 20	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=seggen|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	_
 22	up	up	ADP	_	AdpType=Prep	24	case	_	lemma_gml=uppe
@@ -3140,7 +3140,7 @@
 33	wedder	wedder	ADV	_	_	31	advmod	_	lemma_gml=wedder
 34	lous	lous	ADV	_	_	31	compound:prt	_	lemma_gml=lôs|SpaceAfter=No
 35	,	,	PUNCT	_	_	31	punct	_	_
-36	skultske	skultske	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	37	nsubj	_	lemma_gml=schultsche
+36	skultske	skültske	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	37	nsubj	_	lemma_gml=schultsche
 37	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	conj	_	lemma_gml=seggen|SpaceAfter=No
 38	.	.	PUNCT	_	_	2	punct	_	_
 
