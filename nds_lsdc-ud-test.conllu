@@ -9231,7 +9231,7 @@
 33	sönne	söäne	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	lemma_gml=sȫne
 34	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	37	cop	_	lemma_gml=wēsen
 35	al	al	ADV	_	_	37	advmod	_	lemma_gml=al
-36	wear	wedder	ADJ	_	_	37	advmod	_	lemma_gml=wedder
+36	wear	wedder	ADV	_	_	37	advmod	_	lemma_gml=wedder
 37	old	old	ADJ	_	Degree=Pos	3	conj	_	lemma_gml=ōlt
 38	en	un	CCONJ	_	_	44	cc	_	lemma_gml=ende
 39	den	dee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|PronType=Dem	40	nmod:poss	_	lemma_gml=dê,dê,dat
