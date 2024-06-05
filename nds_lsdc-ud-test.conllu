@@ -5221,7 +5221,7 @@
 6	−	−	PUNCT	_	_	7	punct	_	_
 7	arm	arm	ADJ	_	Degree=Pos	1	parataxis	_	lemma_gml=arm
 8	un	un	CCONJ	_	_	9	cc	_	lemma_gml=unde
-9	vorlåten	vorloaten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	7	conj	_	lemma_gml=vorlâten
+9	vorlåten	vorlåten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	7	conj	_	lemma_gml=vorlâten
 10	−	−	PUNCT	_	_	7	punct	_	_
 11	Nich	nich	PART	_	PartType=Neg	12	advmod	_	lemma_gml=nicht
 12	al	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	14	nmod	_	lemma_gml=al
