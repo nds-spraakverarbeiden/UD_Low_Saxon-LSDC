@@ -11285,7 +11285,7 @@
 63	kaem	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	52	advcl	_	lemma_gml=kōmen|SpaceAfter=No
 64	,	,	PUNCT	_	_	71	punct	_	_
 65	un	un	CCONJ	_	_	71	cc	_	lemma_gml=unde
-66	vöärher	vöarher	ADV	_	_	71	advmod	_	lemma_gml=vȫrhēr
+66	vöärher	vöärher	ADV	_	_	71	advmod	_	lemma_gml=vȫrhēr
 67	hadde	hebben	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	71	aux	_	lemma_gml=hebben
 68	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	71	nsubj	_	lemma_gml=hê,sê,et
 69	doch	doch	ADV	_	_	71	advmod	_	lemma_gml=doch
