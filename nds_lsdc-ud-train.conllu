@@ -2643,7 +2643,7 @@
 # sent_id = LSDC_0613_DWF_1995-96_SUD_suderlandsk_hubert-wacker_reineke-voss_daunlots-05
 # text_orig = Sachte Nahm iék dat Würstken, iék well et gestohn; doch harre tau diéser Wackerloss irgendéin Recht, sou dank'r hei't minem Bemaihen.
 # text = Sachte naam ik dat würstken, ik wel et gestån; doch hadde to diaser Wackerloss ergendeyn recht, sou dankede hee et mynem bemöien.
-1	Sachte	sacht	ADV	_	_	2	advmod	_	lemma_gml=sachte
+1	Sachte	sachte	ADV	_	_	2	advmod	_	lemma_gml=sachte
 2	naam	neamen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=nēmen
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
 4	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
