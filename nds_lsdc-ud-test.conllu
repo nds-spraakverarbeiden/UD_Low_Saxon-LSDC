@@ -5261,7 +5261,7 @@
 26	deaden	doon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	14	advcl	_	lemma_gml=dôn|SpaceAfter=No
 27	;	;	PUNCT	_	_	29	punct	_	_
 28	dan	dan	ADV	_	_	29	advmod	_	lemma_gml=dan
-29	vråge	vråge	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=vrâgen
+29	vråge	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=vrâgen
 30	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	29	nsubj	_	lemma_gml=ik|SpaceAfter=No
 31	:	:	PUNCT	_	_	29	punct	_	_
 32	Wekke	wekker	PRON	_	Case=Nom|Number=Plur|PronType=Int	34	nsubj	_	lemma_gml=welk
