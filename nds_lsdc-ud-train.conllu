@@ -11975,11 +11975,11 @@
 52	,	,	PUNCT	_	_	50	punct	_	_
 53	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	55	aux	_	lemma_gml=künnen
 54	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	55	nsubj	_	lemma_gml=ik
-55	rowen	rowen	VERB	_	VerbForm=Inf	28	conj	_	lemma_gml=rûven
+55	rowen	rouwen	VERB	_	VerbForm=Inf	28	conj	_	lemma_gml=rûven
 56	un	un	CCONJ	_	_	59	cc	_	lemma_gml=unde
 57	köänet	künnen	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	59	aux	_	lemma_gml=künnen
 58	jy	jy	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	59	nsubj	_	lemma_gml=gî
-59	rowen	rowen	VERB	_	VerbForm=Inf	55	conj	_	lemma_gml=rûven|SpaceAfter=No
+59	rowen	rouwen	VERB	_	VerbForm=Inf	55	conj	_	lemma_gml=rûven|SpaceAfter=No
 60	.	.	PUNCT	_	_	55	punct	_	SpaceAfter=No
 61	’	’	PUNCT	_	_	28	punct	_	_
 
