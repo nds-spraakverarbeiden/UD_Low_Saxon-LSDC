@@ -7496,7 +7496,7 @@
 9	sney	sney	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	lemma_gml=snê|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma_gml=dê,dê,dat
-12	sünne	sünne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	lemma_gml=sunne
+12	sünne	sunne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	lemma_gml=sunne
 13	skynt	skynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	lemma_gml=schînen
 14	en	un	CCONJ	_	_	17	cc	_	lemma_gml=ende
 15	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	expl	_	lemma_gml=hê,sê,et
