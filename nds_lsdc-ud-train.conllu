@@ -6816,7 +6816,7 @@
 4	dat	dat	SCONJ	_	_	7	mark	_	lemma_gml=dat
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	düäre	döäre	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	lemma_gml=dȫre
-7	tosluaten	tosloaten	VERB	_	Tense=Past|VerbForm=Part	1	advcl	_	lemma_gml=tôslûten
+7	tosluaten	tosluten	VERB	_	Tense=Past|VerbForm=Part	1	advcl	_	lemma_gml=tôslûten
 8	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	aux	_	lemma_gml=wēsen|SpaceAfter=No
 9	?	?	PUNCT	_	_	1	punct	_	_
 
