@@ -2205,7 +2205,7 @@
 5	höyr	höyren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	advcl	_	lemma_gml=hö̂ren|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	do	do	ADV	_	_	8	advmod	_	lemma_gml=dô
-8	vung	vingen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vân
+8	vung	vangen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vân
 9	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	lemma_gml=sê
 10	an	an	ADP	_	_	8	compound:prt	_	lemma_gml=an
 11	to	to	PART	_	PartType=Inf	12	mark	_	lemma_gml=tô
