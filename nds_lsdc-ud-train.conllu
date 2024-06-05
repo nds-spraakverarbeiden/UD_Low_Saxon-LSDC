@@ -8276,7 +8276,7 @@
 3	soldåten	soldåt	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	obl	_	lemma_gml=soldât
 4	stonden	stån	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	lemma_gml=stân
 5	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=wî
-6	uus	us	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	4	obj	_	lemma_gml=wî
+6	uus	wy	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PronType=Prs	4	obj	_	lemma_gml=wî
 7	geagenöäver	geagenöäver	ADV	_	_	4	advmod	_	lemma_gml=gēgenȫver|SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	ne	en	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
