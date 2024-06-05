@@ -8268,7 +8268,7 @@
 # text_orig = Völle wieter dan eur eigen veurdeure is Kato nooit ewes.
 # text = Völle wyder dan höär eigen vöärdöäre is Kato nooit ewesd.
 1	Völle	veale	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=vēle
-2	wyder	wyder	ADJ	_	Degree=Cmp	0	root	_	lemma_gml=wît
+2	wyder	wyd	ADJ	_	Degree=Cmp	0	root	_	lemma_gml=wît
 3	dan	dan	SCONJ	_	_	6	mark	_	lemma_gml=dan
 4	höär	ear	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=sîn,ēr,sîn
 5	eigen	eygen	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=êigen
