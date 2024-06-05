@@ -3854,8 +3854,8 @@
 16	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	lemma_gml=dê,dê,dat
 17	vüürwarkslüütnant	vüürwerkslüütnant	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	lemma_gml=vü̂rwerkslü̂tenant
 18	mid	mid	ADP	_	AdpType=Prep	22	case	_	lemma_gml=mit
-19	en	en	DET	_	Definite=Ind|PronType=Art	22	det	_	lemma_gml=êin,êine,êin
-20	pår	pår	NUM	_	_	22	nummod	_	lemma_gml=pâr
+19	en	en	DET	_	Definite=Ind|PronType=Art	20	det	_	lemma_gml=êin,êine,êin
+20	pår	pår	NOUN	_	_	22	nmod	_	lemma_gml=pâr
 21	andere	ander	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	22	amod	_	lemma_gml=ander
 22	lüütnants	lüütnant	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	15	obl	_	lemma_gml=lü̂tenant|SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	_
@@ -9660,7 +9660,7 @@
 78	,	,	PUNCT	_	_	90	punct	_	_
 79	wän	wän	SCONJ	_	_	82	mark	_	_
 80	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	82	det	_	_
-81	pår	pår	ADJ	_	_	82	amod	_	_
+81	pår	pår	ADJ	_	_	82	nummod	_	_
 82	grossen	grossen	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	90	nsubj	_	_
 83	van	van	ADP	_	AdpType=Prep	85	case	_	_
 84	eyne	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	85	det	_	_
