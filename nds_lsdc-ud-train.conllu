@@ -7427,7 +7427,7 @@
 4	dårvan	dårvan	ADV	_	_	2	advmod	_	lemma_gml=dârvan|SpaceAfter=No
 5	:	:	PUNCT	_	_	2	punct	_	_
 6	Dee	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
-7	wearwikker	wedderwikker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	lemma_gml=wedderwicker
+7	wearwikker	weaderwikker	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	lemma_gml=wedderwicker
 8	stigt	stygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	ccomp	_	lemma_gml=stîgen|SpaceAfter=No
 9	;	;	PUNCT	_	_	10	punct	_	_
 10	hang	hangen	VERB	_	Mood=Imp|Number=Sing	8	parataxis	_	lemma_gml=hangen
