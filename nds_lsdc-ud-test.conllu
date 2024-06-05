@@ -1298,7 +1298,7 @@
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	in	in	ADP	_	AdpType=Prep	26	case	_	lemma_gml=in²
 25	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	lemma_gml=dê¹
-26	stuaven	stoaven	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	27	obl	_	lemma_gml=stōven¹
+26	stuaven	stoave	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	27	obl	_	lemma_gml=stōven¹
 27	saeten	sitten	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	7	acl	_	lemma_gml=sitten
 28	un	un	CCONJ	_	_	29	cc	_	lemma_gml=unde²
 29	spünnen	spinnen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	27	conj	_	lemma_gml=spinnen|SpaceAfter=No
@@ -1444,7 +1444,7 @@
 21	warm	warm	ADJ	_	Degree=Pos	10	conj	_	lemma_gml=war(e)m
 22	in	in	ADP	_	AdpType=Prep	24	case	_	lemma_gml=in²
 23	der	de	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	lemma_gml=dê¹
-24	stoaven	stoaven	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	21	obl	_	lemma_gml=stōven¹|SpaceAfter=No
+24	stoaven	stoave	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	21	obl	_	lemma_gml=stōven¹|SpaceAfter=No
 25	;	;	PUNCT	_	_	28	punct	_	_
 26	avers	aver	CCONJ	_	_	28	cc	_	lemma_gml=āvers
 27	buten	buten	ADV	_	_	28	advmod	_	lemma_gml=bûten²
