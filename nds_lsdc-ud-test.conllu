@@ -1135,7 +1135,7 @@
 26	um	üm	SCONJ	_	_	30	mark	_	lemma_gml=ümme⁴
 27	baas	baas	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	30	obj	_	lemma_gml=bās
 28	Julfring	Julfring	PROPN	_	Number=Sing	27	flat	_	_
-29	te	te	PART	_	PartType=Inf	30	mark	_	lemma_gml=tô⁵
+29	te	to	PART	_	PartType=Inf	30	mark	_	lemma_gml=tô⁵
 30	halen	halen	VERB	_	VerbForm=Inf	23	advcl	_	lemma_gml=hālen¹|SpaceAfter=No
 31	?	?	PUNCT	_	_	30	punct	_	SpaceAfter=No
 32	'	'	PUNCT	_	_	17	punct	_	_
@@ -6451,7 +6451,7 @@
 66	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	67	det	_	lemma_gml=êin,êine,êin
 67	borrel	borrel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	60	obl	_	lemma_gml=borrel
 68	begun	beginnen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	50	advcl	_	lemma_gml=beginnen
-69	te	te	PART	_	PartType=Inf	70	mark	_	lemma_gml=tô
+69	te	to	PART	_	PartType=Inf	70	mark	_	lemma_gml=tô
 70	holden	holden	VERB	_	VerbForm=Inf	68	xcomp	_	lemma_gml=hōlden|SpaceAfter=No
 71	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -6626,7 +6626,7 @@
 26	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê,dê,dat
 27	pette	pette	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obj	_	lemma_gml=pette
 28	skeyv	skeyv	ADJ	_	Degree=Pos	30	xcomp	_	lemma_gml=schêf
-29	te	te	PART	_	PartType=Inf	30	mark	_	lemma_gml=tô
+29	te	to	PART	_	PartType=Inf	30	mark	_	lemma_gml=tô
 30	trekken	trekken	VERB	_	VerbForm=Inf	25	xcomp	_	lemma_gml=trecken|SpaceAfter=No
 31	,	,	PUNCT	_	_	38	punct	_	_
 32	en	un	CCONJ	_	_	38	cc	_	lemma_gml=ende
@@ -8624,7 +8624,7 @@
 21	vul	vul	ADJ	_	_	20	amod	_	lemma_gml=vul
 22	beklagelike	beklaaglik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	lemma_gml=beklāgelĩk
 23	pyne	pyne	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	21	nmod	_	lemma_gml=pîne
-24	te	te	PART	_	PartType=Inf	25	mark	_	lemma_gml=tô
+24	te	to	PART	_	PartType=Inf	25	mark	_	lemma_gml=tô
 25	knarpen	knarpen	VERB	_	VerbForm=Inf	20	xcomp	_	lemma_gml=knarpen|SpaceAfter=No
 26	,	,	PUNCT	_	_	34	punct	_	_
 27	dat	dat	SCONJ	_	_	34	mark	_	lemma_gml=dat
@@ -9048,7 +9048,7 @@
 31	vulle	vul	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	32	amod	_	lemma_gml=vul
 32	måne	måne	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	35	obj	_	lemma_gml=mâne
 33	wear	wedder	ADV	_	_	35	advmod	_	lemma_gml=wedder
-34	te	te	PART	_	PartType=Inf	35	mark	_	lemma_gml=tô
+34	te	to	PART	_	PartType=Inf	35	mark	_	lemma_gml=tô
 35	seen	seen	VERB	_	VerbForm=Inf	28	xcomp	_	lemma_gml=sên
 36	-	-	PUNCT	_	_	39	punct	_	_
 37	want	wante	CCONJ	_	_	39	cc	_	lemma_gml=wente
