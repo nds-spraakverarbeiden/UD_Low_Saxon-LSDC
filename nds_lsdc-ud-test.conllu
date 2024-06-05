@@ -9210,7 +9210,7 @@
 12	,	,	PUNCT	_	_	3	punct	_	_
 13	den	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
 14	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	lemma_gml=bûr
-15	den	dee	PRON	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê,dê,dat
+15	den	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	22	det	_	lemma_gml=dê,dê,dat
 16	em	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	22	obj	_	lemma_gml=hê,sê,et
 17	med	mid	ADP	_	AdpType=Prep	20	case	_	lemma_gml=mit
 18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê,dê,dat
