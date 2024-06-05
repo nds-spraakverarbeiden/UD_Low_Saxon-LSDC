@@ -2869,7 +2869,7 @@
 49	dårdöärch	dårdöär	ADV	_	_	55	advmod	_	_
 50	dat	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	51	det	_	lemma_gml=dê
 51	kristendoom	kristendoom	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	55	nsubj	_	_
-52	meyr	veal	ADV	_	_	55	advmod	_	_
+52	meyr	veale	ADV	_	_	55	advmod	_	_
 53	un	un	CCONJ	_	_	54	cc	_	lemma_gml=unde²
 54	minder	min	ADV	_	_	52	conj	_	_
 55	vordrängd	vordrängen	VERB	_	Aspect=Perf|VerbForm=Part	35	advcl	_	_
