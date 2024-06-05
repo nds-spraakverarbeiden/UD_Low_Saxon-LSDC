@@ -7711,7 +7711,7 @@
 6	sou	sou	ADV	_	_	7	advmod	_	lemma_gml=sô
 7	werldenveern	werldenveern	ADJ	_	Degree=Pos	0	root	_	lemma_gml=werltenvērne|SpaceAfter=No
 8	,	,	PUNCT	_	_	15	punct	_	_
-9	wel	wel	PRON	_	Case=Nom|Number=Sing|PronType=Int	15	nsubj	_	lemma_gml=we
+9	wel	wek	PRON	_	Case=Nom|Number=Sing|PronType=Int	15	nsubj	_	lemma_gml=we
 10	sal	sköälen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	aux	_	lemma_gml=schȫlen
 11	by	by	ADP	_	AdpType=Prep	12	case	_	lemma_gml=bî
 12	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	15	obl	_	lemma_gml=dû
