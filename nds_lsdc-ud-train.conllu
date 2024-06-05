@@ -3199,7 +3199,7 @@
 36	,	,	PUNCT	_	_	39	punct	_	_
 37	dee	de	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	39	det	_	lemma_gml=dê,dê,dat
 38	pår	pår	NUM	_	_	39	nummod	_	lemma_gml=pâr
-39	tufelen	tufel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	46	obj	_	lemma_gml=kartuffel|SpaceAfter=No
+39	tufelen	tuffel	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	46	obj	_	lemma_gml=kartuffel|SpaceAfter=No
 40	,	,	PUNCT	_	_	44	punct	_	_
 41	dee	dee	PRON	_	_	44	obj	_	lemma_gml=dê,dê,dat
 42	see	see	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	lemma_gml=hê,sê,et
