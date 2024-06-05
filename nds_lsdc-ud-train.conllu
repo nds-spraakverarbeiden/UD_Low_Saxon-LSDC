@@ -5875,7 +5875,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	do	do	ADV	_	_	10	advmod	_	lemma_gml=dô
 10	makeden	maken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	lemma_gml=māken
-11	see	se	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=sê
+11	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=sê
 12	sik	sik	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	lemma_gml=sik
 13	noch	noch	ADV	_	_	10	advmod	_	lemma_gml=noch
 14	in	in	ADP	_	AdpType=Prep	16	case	_	lemma_gml=in
