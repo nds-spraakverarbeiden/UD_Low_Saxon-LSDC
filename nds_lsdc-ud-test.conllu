@@ -12616,7 +12616,7 @@
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê,dê,dat
 7	stool	stool	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	lemma_gml=stôl
 8	aver	aver	ADV	_	_	5	advmod	_	lemma_gml=āver
-9	vorkeyrd	verkeyrd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	5	advmod	_	lemma_gml=vorkêret|SpaceAfter=No
+9	vorkeyrd	vorkeyrd	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	5	advmod	_	lemma_gml=vorkêret|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0487_DNS_1909_noordneddersassisk_1909_oldenburg_aberglaube-und-sagen-aus-dem-herzogtum-oldenburg
