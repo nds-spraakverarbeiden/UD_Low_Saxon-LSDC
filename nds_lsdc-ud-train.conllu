@@ -211,7 +211,7 @@
 4	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	lemma_gml=dê,dê,dat
 5	köänet	künnen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	8	aux	_	lemma_gml=künnen
 6	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=wî
-7	rowig	rowig	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=rouwich
+7	rowig	rouwig	ADJ	_	Degree=Pos	8	advmod	_	lemma_gml=rouwich
 8	anerkennen	anerkennen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=anerkennen|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -1890,7 +1890,7 @@
 50	word	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	40	conj	_	lemma_gml=wēsen
 51	man	man	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	50	nsubj	_	lemma_gml=man
 52	wedder	wedder	ADV	_	_	50	advmod	_	lemma_gml=wedder
-53	rowig	rowig	ADJ	_	Degree=Pos	50	xcomp	_	lemma_gml=rouwich
+53	rowig	rouwig	ADJ	_	Degree=Pos	50	xcomp	_	lemma_gml=rouwich
 54	un	un	CCONJ	_	_	55	cc	_	lemma_gml=unde
 55	vornüftig	vornüftig	ADJ	_	Degree=Pos	53	conj	_	lemma_gml=vornüftich|SpaceAfter=No
 56	.	.	PUNCT	_	_	8	punct	_	_
@@ -13379,7 +13379,7 @@
 13	un	un	CCONJ	_	_	14	cc	_	_
 14	slöpt	slåpen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	_
 15	nu	nu	ADV	_	_	14	advmod	_	_
-16	rowig	rowig	ADJ	_	Degree=Pos	14	advmod	_	_
+16	rowig	rouwig	ADJ	_	Degree=Pos	14	advmod	_	_
 17	in	in	ADP	_	_	14	compound:prt	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
