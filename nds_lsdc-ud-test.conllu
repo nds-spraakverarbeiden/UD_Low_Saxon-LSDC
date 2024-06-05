@@ -381,7 +381,7 @@
 31	vüür	vüür	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	lemma_gml=vü̂r¹
 32	an	an	ADP	_	_	22	compound:prt	_	lemma_gml=an|SpaceAfter=No
 33	,	,	PUNCT	_	_	37	punct	_	_
-34	wårby	wårby	ADV	_	_	37	advmod	_	_
+34	wårby	woorby	ADV	_	_	37	advmod	_	_
 35	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	lemma_gml=hê¹
 36	sik	sik	PRON	_	Case=Acc,Dat|Person=3|PronType=Prs|Reflex=Yes	37	expl:pv	_	lemma_gml=sik¹
 37	lagerde	lägeren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	31	acl	_	lemma_gml=lēgeren¹
