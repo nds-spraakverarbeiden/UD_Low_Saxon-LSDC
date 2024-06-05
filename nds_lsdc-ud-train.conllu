@@ -6277,7 +6277,7 @@
 1	Blouts	blout	ADV	_	_	18	advmod	_	lemma_gml=blôt
 2	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	18	nsubj	_	lemma_gml=dê,dê,dat|SpaceAfter=No
 3	,	,	PUNCT	_	_	10	punct	_	_
-4	hwekker	wekker	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	10	nsubj	_	lemma_gml=welk
+4	hwekker	wek	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	10	nsubj	_	lemma_gml=welk
 5	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	stov	stov	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	lemma_gml=stof
 7	up	up	ADP	_	AdpType=Prep	9	case	_	lemma_gml=uppe
@@ -8359,7 +8359,7 @@
 23	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	_	lemma_gml=hê,sê,et|SpaceAfter=No
 24	:	:	PUNCT	_	_	21	punct	_	_
 25	»	»	PUNCT	_	_	29	punct	_	SpaceAfter=No
-26	Hwekke	wekker	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	29	nsubj	_	lemma_gml=welk
+26	Hwekke	wek	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	29	nsubj	_	lemma_gml=welk
 27	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	29	cop	_	lemma_gml=wēsen
 28	dyn	dyn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	lemma_gml=dîn
 29	vader	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	ccomp	_	lemma_gml=vāder|SpaceAfter=No
@@ -12011,7 +12011,7 @@
 6	sünt	weasen	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
 7	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et|SpaceAfter=No
 8	,	,	PUNCT	_	_	28	punct	_	_
-9	welke	welk	PRON	_	Case=Acc|Number=Plur|PronType=Rel	28	obj	_	lemma_gml=welk
+9	welke	wek	PRON	_	Case=Acc|Number=Plur|PronType=Rel	28	obj	_	lemma_gml=welk
 10	wy	wy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	lemma_gml=wî
 11	by	by	ADP	_	AdpType=Prep	13	case	_	lemma_gml=bî
 12	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê,dê,dat
