@@ -6438,7 +6438,7 @@
 53	dat	dat	SCONJ	_	_	68	mark	_	lemma_gml=dat
 54	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	68	nsubj	_	lemma_gml=ik
 55	sou	sou	ADV	_	_	68	advmod	_	lemma_gml=sô
-56	sachtys	sachtkens	ADV	_	_	68	advmod	_	lemma_gml=sachte
+56	sachtys	sachtken	ADV	_	_	68	advmod	_	lemma_gml=sachte
 57	an	an	ADP	_	_	56	case	_	lemma_gml=an
 58	net	net	ADV	_	_	59	advmod	_	lemma_gml=net
 59	sou	sou	ADV	_	_	60	advmod	_	lemma_gml=sô
