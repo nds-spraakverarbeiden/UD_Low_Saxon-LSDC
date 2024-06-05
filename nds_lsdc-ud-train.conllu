@@ -1316,7 +1316,7 @@
 4	eyrst	eyrst	ADJ	_	_	2	advmod	_	lemma_gml=êrst
 5	gaar	gaar	ADV	_	_	2	advmod	_	lemma_gml=gār
 6	dree	dree	NUM	_	NumType=Card	8	nummod	_	lemma_gml=drê
-7	afsunderlike	afsünderlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	lemma_gml=afsünderlĩk
+7	afsunderlike	afsunderlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	8	amod	_	lemma_gml=afsünderlĩk
 8	gestalten	gestalt	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	lemma_gml=gestalt|SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -12004,7 +12004,7 @@
 # text_orig = Gar sünderlikke un merkwürdige Woorde sünt et, welke wy by dem eersten under den veer groten Profeten, ek meene den heil. Profeten Esaias, upgeteknet finden, wenn he sek also verneemen let: Düsse Woorde staat beschreven im veertigsten Kapittel, dasülves im söszden Vers.
 # text = Gaar sünderlike un merkwürdige woorde sünt et, welke wy by dem eyrsten under den veer grouten profeten, ek meyne den heiligen profeten Esaias, upgeteykend vinden, wän hee sek alsou vorneamen let: Düsse woorde ståt beskreaven in dem veertigsten kapittel, dårsülves in dem sösden vers.
 1	Gaar	gaar	ADV	_	_	2	advmod	_	lemma_gml=gār
-2	sünderlike	sünderlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	lemma_gml=sünderlĩk
+2	sünderlike	sunderlik	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	lemma_gml=sünderlĩk
 3	un	un	CCONJ	_	_	4	cc	_	lemma_gml=unde
 4	merkwürdige	merkwerdig	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	2	conj	_	lemma_gml=merkwērdich
 5	woorde	woord	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	0	root	_	lemma_gml=wōrt
