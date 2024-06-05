@@ -5028,7 +5028,7 @@
 2	Hwo	wo	ADV	_	_	3	advmod	_	lemma_gml=wô
 3	vyv-	vyv	ADV	_	_	0	root	_	lemma_gml=vîf-
 4	oader	edder	CCONJ	_	_	5	cc	_	lemma_gml=edder
-5	sesmål	sesmål	ADV	_	_	3	conj	_	lemma_gml=sesmâl|SpaceAfter=No
+5	sesmål	sösmål	ADV	_	_	3	conj	_	lemma_gml=sesmâl|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
 7	“	“	PUNCT	_	_	3	punct	_	_
 
@@ -9795,7 +9795,7 @@
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	maket	maken	VERB	_	Mood=Imp|Number=Plur	1	parataxis	_	lemma_gml=māken
 7	der	dår	ADV	_	_	6	obl	_	lemma_gml=dâr
-8	6	ses	NUM	_	NumType=Card	9	nummod	_	lemma_gml=6
+8	6	sös	NUM	_	NumType=Card	9	nummod	_	lemma_gml=6
 9	weaken	weake	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	lemma_gml=wēkene
 10	van	van	ADP	_	_	7	mark	_	lemma_gml=van|SpaceAfter=No
 11	,	,	PUNCT	_	_	6	punct	_	_
