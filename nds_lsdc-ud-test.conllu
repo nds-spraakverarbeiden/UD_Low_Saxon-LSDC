@@ -12272,7 +12272,7 @@
 12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
 13	nooit	nooit	ADV	_	_	14	advmod	_	lemma_gml=nôit
 14	weader	wedder	ADV	_	_	11	advmod	_	lemma_gml=wedder
-15	sülvst	sülvst	ADV	_	_	18	advmod	_	lemma_gml=sülve
+15	sülvst	sülve	ADV	_	_	18	advmod	_	lemma_gml=sülve
 16	ruut	heruut	ADV	_	_	18	advmod	_	lemma_gml=hērût
 17	to	to	PART	_	PartType=Inf	18	mark	_	lemma_gml=tô
 18	maken	maken	VERB	_	VerbForm=Inf	11	xcomp	_	lemma_gml=māken|SpaceAfter=No
