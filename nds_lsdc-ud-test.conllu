@@ -996,7 +996,7 @@
 19	,	,	PUNCT	_	_	24	punct	_	_
 20	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	24	nsubj	_	lemma_gml=dê¹
 21	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	24	obj	_	lemma_gml=ik
-22	seyre	seyre	ADJ	_	Degree=Pos	23	advmod	_	lemma_gml=sêr(e)⁴
+22	seyre	seyre	ADV	_	Degree=Pos	23	advmod	_	lemma_gml=sêre
 23	klook	klook	ADJ	_	Degree=Pos	24	xcomp	_	lemma_gml=klôk
 24	skynt	skynen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	acl	_	lemma_gml=schînen
 25	un	un	CCONJ	_	_	32	cc	_	lemma_gml=unde²
