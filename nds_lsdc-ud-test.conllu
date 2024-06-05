@@ -844,7 +844,7 @@
 7	;	;	PUNCT	_	_	9	punct	_	_
 8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê¹
 9	smit	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	lemma_gml=smîten
-10	vlak	vlak	ADV	_	_	11	advmod	_	lemma_gml=vlak¹
+10	vlak	vlak	ADJ	_	_	11	advmod	_	lemma_gml=vlak¹
 11	langs	langs	ADP	_	AdpType=Prep	14	case	_	lemma_gml=langes
 12	Bennad	Bennad	PROPN	_	Gender=Masc|Number=Sing	13	nmod:poss	_	_
 13	synen	syn	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	det:poss	_	lemma_gml=sîn⁴
