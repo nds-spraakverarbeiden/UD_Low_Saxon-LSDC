@@ -807,7 +807,7 @@
 6	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	lemma_gml=hê,sê,et
 7	aver	aver	ADV	_	_	10	advmod	_	lemma_gml=āver
 8	doch	doch	ADV	_	_	10	advmod	_	lemma_gml=doch
-9	eygentlik	eygenlik	ADJ	_	Degree=Pos	10	advmod	_	lemma_gml=êigentlĩk
+9	eygentlik	eygentlik	ADJ	_	Degree=Pos	10	advmod	_	lemma_gml=êigentlĩk
 10	hebben	hebben	VERB	_	VerbForm=Inf	14	ccomp	_	lemma_gml=hebben
 11	must	möten	AUX	_	Tense=Past|VerbForm=Part	10	aux	_	lemma_gml=mö̂ten|SpaceAfter=No
 12	,	,	PUNCT	_	_	10	punct	_	SpaceAfter=No
