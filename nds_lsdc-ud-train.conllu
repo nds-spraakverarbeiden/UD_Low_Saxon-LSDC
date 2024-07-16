@@ -581,7 +581,7 @@
 # text_orig = »Je, kik mal, Kasper-Ohm!
 # text = »Je, kyk mål, Kasper-oum!
 1	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Je	ja	INTJ	_	_	4	discourse	_	lemma_gml=jê|SpaceAfter=No
+2	Je	jå	INTJ	_	_	4	discourse	_	lemma_gml=jê|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	kyk	kyken	VERB	_	Mood=Imp|Number=Sing	0	root	_	lemma_gml=kîken
 5	mål	mål	ADV	_	_	4	advmod	_	lemma_gml=mâl|SpaceAfter=No
@@ -3478,7 +3478,7 @@
 # text_orig = – Ja, min leiw' Dochter, von de Franzosen was dat up uns grad' so afseihn, as von de Spartaner up de Messenier, æwer – Gottlob!
 # text = – Ja, myn leev dochter, van de fransosen was dat up uns gerade sou afseen, as van de spartaner up de messenier, äver – godlov!
 1	–	–	PUNCT	_	_	17	punct	_	_
-2	Ja	ja	INTJ	_	_	17	discourse	_	lemma_gml=jâ|SpaceAfter=No
+2	Ja	jå	INTJ	_	_	17	discourse	_	lemma_gml=jâ|SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	myn	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=mîn
 5	leev	leev	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=lêf
@@ -4383,7 +4383,7 @@
 # text_orig = – Je, eben kamm hei nu wedder 'räwer, hei müßt den Stadtdeiner raupen, säd hei, den Dörchläuchten hadd anbefahlen, säd hei.
 # text = – Je, eaven kam hee nu wedder röäver, hee müst den staddener ropen, sead hee, den Dörchläuchten had anbevoalen, sead hee.
 1	–	–	PUNCT	_	_	5	punct	_	_
-2	Je	je	INTJ	_	_	5	discourse	_	lemma_gml=jê|SpaceAfter=No
+2	Je	jå	INTJ	_	_	5	discourse	_	lemma_gml=jê|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	eaven	eaven	ADV	_	_	5	advmod	_	lemma_gml=ēvene
 5	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
@@ -4985,7 +4985,7 @@
 # text_orig = »»Je, Dörchläuchten,«« säd Rand, »»dat ward woll nich gahn, denn uns' oll Wallach, de up de Bisid geiht, hett dat Spatt so dägern, dat hei keinen Bein vör den annern setten kann.«« –
 # text = »»Je, Dörchläuchten,«« sead Rand, »»dat wardt wol nich gån, dän uns old wallach, dee up de bysyde geit, het dat spat sou deageren, dat hee keynen beyn vöär den anderen setten kan.«« –
 1	»»	»»	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Je	je	INTJ	_	_	4	discourse	_	lemma_gml=jê|SpaceAfter=No
+2	Je	jå	INTJ	_	_	4	discourse	_	lemma_gml=jê|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	Dörchläuchten	Dörchläuchten	PROPN	_	Number=Sing	7	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -5045,7 +5045,7 @@
 # text_orig = »Ja, æwer wer sall dat sin?« –
 # text = »Ja, äver wer sal dat syn?« –
 1	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-2	Ja	ja	INTJ	_	_	7	discourse	_	lemma_gml=jâ|SpaceAfter=No
+2	Ja	jå	INTJ	_	_	7	discourse	_	lemma_gml=jâ|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	äver	aver	CCONJ	_	_	7	cc	_	lemma_gml=āver
 5	wer	wee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	7	nsubj	_	lemma_gml=we
@@ -6627,7 +6627,7 @@
 # text_orig = „Jau, Drüüksken, biäter äs ik dacht´,  dän Halwschaid häb ik wierbragt."
 # text = „Jo, Drüüksken, beater äs ik dacht, den halvskeyd heb ik wiarbracht."
 1	„	„	PUNCT	_	_	6	punct	_	SpaceAfter=No
-2	Jo	ja	INTJ	_	_	6	discourse	_	lemma_gml=jô|SpaceAfter=No
+2	Jo	jå	INTJ	_	_	6	discourse	_	lemma_gml=jô|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	Drüüksken	Drüüksken	PROPN	_	Number=Plur	6	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
@@ -7488,7 +7488,7 @@
 15	nachtegaal	nachtegaal	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	lemma_gml=nachtegāle|SpaceAfter=No
 16	;	;	PUNCT	_	_	9	punct	_	_
 17	–	–	PUNCT	_	_	19	punct	_	_
-18	jo	ja	INTJ	_	_	19	discourse	_	lemma_gml=io
+18	jo	jå	INTJ	_	_	19	discourse	_	lemma_gml=io
 19	låt	låten	VERB	_	Mood=Imp|Number=Sing	9	parataxis	_	lemma_gml=lâten
 20	see	see	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	lemma_gml=sê
 21	köären	köären	VERB	_	VerbForm=Inf	19	xcomp	_	lemma_gml=kȫderen|SpaceAfter=No
