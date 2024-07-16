@@ -1881,7 +1881,7 @@
 41	,	,	PUNCT	_	_	46	punct	_	_
 42	as	as	SCONJ	_	_	46	mark	_	lemma_gml=alsô
 43	geagen	geagen	ADP	_	AdpType=Prep	44	case	_	lemma_gml=gēgen
-44	enander	enander	PRON	_	Case=Acc|Number=Sing|PronType=Rcp	46	obl	_	lemma_gml=êinander
+44	enander	eynander	PRON	_	Case=Acc|Number=Sing|PronType=Rcp	46	obl	_	lemma_gml=êinander
 45	an	an	ADP	_	_	44	case	_	lemma_gml=an
 46	skrygen	skrygen	VERB	_	VerbForm=Inf	40	acl	_	lemma_gml=schrîgen|SpaceAfter=No
 47	,	,	PUNCT	_	_	50	punct	_	_
