@@ -299,7 +299,7 @@
 62	dår	dår	ADV	_	_	68	advmod	_	lemma_gml=dâr¹
 63	wår	woor	ADV	_	_	66	obl	_	lemma_gml=wôr(e)
 64	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	65	det	_	lemma_gml=dê¹
-65	Röyverbarg	Röyverberg	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	66	nsubj	_	_
+65	Röyverbarg	röyverberg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	66	nsubj	_	_
 66	ligt	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	62	acl	_	lemma_gml=liggen|SpaceAfter=No
 67	,	,	PUNCT	_	_	68	punct	_	_
 68	roopt	ropen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	52	ccomp	_	lemma_gml=rôpen¹|SpaceAfter=No
