@@ -1286,7 +1286,7 @@
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 2	söch	söken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=sö̂ken
 3	un	un	CCONJ	_	_	4	cc	_	lemma_gml=unde
-4	drysel	drysel	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=drîselen
+4	drysel	dryselen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=drîselen
 5	wyder	wyder	ADV	_	_	2	advmod	_	lemma_gml=wît|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
