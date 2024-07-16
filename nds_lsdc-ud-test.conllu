@@ -8546,9 +8546,9 @@
 
 # sent_id = LSDC_0313_NWF_20XX_DRE_drentsk_Tim
 # text_orig = Hie bemuit zuch zowat niet met aandere kinder en in de pauzes lop e miest allén op ’t plein.
-# text = Hee bemöögt süch souwat neet med andere kinder en in de pauses lopt hee meyst alleyne up et plein.
+# text = Hee bemöit süch souwat neet med andere kinder en in de pauses lopt hee meyst alleyne up et plein.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
-2	bemöögt	bemögen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=bemö̂yen
+2	bemöit	bemöien	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=bemö̂yen
 3	süch	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	lemma_gml=sik
 4	souwat	souwat	ADV	_	_	2	advmod	_	lemma_gml=sôwât
 5	neet	nich	PART	_	PartType=Neg	2	advmod	_	lemma_gml=nicht
