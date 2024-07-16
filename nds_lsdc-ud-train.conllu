@@ -132,7 +132,7 @@
 9	»	»	PUNCT	_	_	14	punct	_	SpaceAfter=No
 10	dit	dit	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	14	nsubj	_	lemma_gml=desse,desse,dit
 11	weer	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	14	cop	_	lemma_gml=wēsen
-12	jo	ja	ADV	_	_	14	advmod	_	lemma_gml=io
+12	jo	jå	ADV	_	_	14	advmod	_	lemma_gml=io
 13	doch	doch	ADV	_	_	14	advmod	_	lemma_gml=doch
 14	snurrig	snurrig	ADJ	_	Degree=Pos	6	parataxis	_	lemma_gml=snurrich|SpaceAfter=No
 15	!	!	PUNCT	_	_	14	punct	_	_
@@ -338,7 +338,7 @@
 27	dår	dår	ADV	_	_	32	obl	_	lemma_gml=dâr
 28	nu	nu	ADV	_	_	32	advmod	_	lemma_gml=nû
 29	ouk	ouk	ADV	_	_	32	advmod	_	lemma_gml=ôk
-30	jå	ja	ADV	_	_	32	advmod	_	lemma_gml=jâ
+30	jå	jå	ADV	_	_	32	advmod	_	lemma_gml=jâ
 31	mid	mid	ADP	_	_	27	case	_	lemma_gml=mit
 32	lang	lang	ADJ	_	Degree=Pos	20	ccomp	_	lemma_gml=lanc|SpaceAfter=No
 33	?	?	PUNCT	_	_	20	punct	_	SpaceAfter=No
@@ -595,7 +595,7 @@
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
 2	kün	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	5	aux	_	lemma_gml=künnen
 3	em	hee	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	5	obj	_	lemma_gml=hê,sê,et
-4	jo	ja	ADV	_	_	5	advmod	_	lemma_gml=io
+4	jo	jå	ADV	_	_	5	advmod	_	lemma_gml=io
 5	söken	söken	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=sö̂ken
 6	låten	låten	VERB	_	VerbForm=Inf	5	xcomp	_	lemma_gml=lâten|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
@@ -1562,7 +1562,7 @@
 11	dän	dän	ADV	_	_	40	advmod	_	lemma_gml=den
 12	mag	möägen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	40	aux	_	lemma_gml=mȫgen
 13	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	40	nsubj	_	lemma_gml=dê,dê,dat
-14	jå	ja	ADV	_	_	40	advmod	_	lemma_gml=jâ
+14	jå	jå	ADV	_	_	40	advmod	_	lemma_gml=jâ
 15	wol	wol	ADV	_	_	40	advmod	_	lemma_gml=wol
 16	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
 17	gewisse	gewis	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	lemma_gml=gewis
@@ -7658,7 +7658,7 @@
 16	,	,	PUNCT	_	_	23	punct	_	_
 17	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	lemma_gml=dû
 18	kanst	künnen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	23	aux	_	lemma_gml=künnen
-19	jo	ja	ADV	_	_	23	advmod	_	lemma_gml=io
+19	jo	jå	ADV	_	_	23	advmod	_	lemma_gml=io
 20	doch	doch	ADV	_	_	23	advmod	_	lemma_gml=doch
 21	neet	nich	PART	_	PartType=Neg	22	advmod	_	lemma_gml=nicht
 22	meyr	meyr	ADV	_	_	23	advmod	_	lemma_gml=vēle
