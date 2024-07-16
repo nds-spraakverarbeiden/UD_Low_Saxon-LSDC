@@ -753,7 +753,7 @@
 18	,	,	PUNCT	_	_	20	punct	_	_
 19	un	un	CCONJ	_	_	20	cc	_	lemma_gml=unde
 20	sead	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=seggen
-21	dun	don	ADV	_	_	20	advmod	_	lemma_gml=don|SpaceAfter=No
+21	dun	dun	ADV	_	_	20	advmod	_	lemma_gml=don|SpaceAfter=No
 22	,	,	PUNCT	_	_	31	punct	_	_
 23	indeam	indeam	SCONJ	_	_	31	mark	_	lemma_gml=indēme
 24	dat	dat	SCONJ	_	_	31	mark	_	lemma_gml=dat
