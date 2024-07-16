@@ -53,7 +53,7 @@
 25	,	,	PUNCT	_	_	27	punct	_	_
 26	un	un	CCONJ	_	_	27	cc	_	lemma_gml=unde²
 27	leyt	låten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	parataxis	_	lemma_gml=lâten¹
-28	gelyks	gelyks	ADV	_	_	27	advmod	_	lemma_gml=gelîkes
+28	gelyks	gelyk	ADV	_	_	27	advmod	_	lemma_gml=gelîkes
 29	lous	lous	ADV	_	_	27	compound:prt	_	lemma_gml=lôs¹|SpaceAfter=No
 30	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -589,7 +589,7 @@
 2	vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=vrouwe²
 3	visiteer	visiteren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=visitêren
 4	höär	see	PRON	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	lemma_gml=sê¹
-5	gelyks	gelyks	ADV	_	_	3	advmod	_	lemma_gml=gelîkes|SpaceAfter=No
+5	gelyks	gelyk	ADV	_	_	3	advmod	_	lemma_gml=gelîkes|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	neet	nich	PART	_	PartType=Neg	9	advmod	_	lemma_gml=nicht¹
 8	uut	uut	ADP	_	AdpType=Prep	9	case	_	lemma_gml=ût¹
@@ -779,7 +779,7 @@
 12	möller	möller	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	lemma_gml=möller(e)
 13	vortelde	vortellen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=vortellen²
 14	em	hee	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	13	iobj	_	lemma_gml=hê¹
-15	gelyks	gelyks	ADV	_	_	13	advmod	_	lemma_gml=gelîkes|SpaceAfter=No
+15	gelyks	gelyk	ADV	_	_	13	advmod	_	lemma_gml=gelîkes|SpaceAfter=No
 16	,	,	PUNCT	_	_	23	punct	_	_
 17	dat	dat	SCONJ	_	_	23	mark	_	lemma_gml=dat
 18	et	et	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	lemma_gml=et¹
@@ -7925,7 +7925,7 @@
 4	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=êin,êine,êin
 5	heyle	heyl	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=hêil
 6	rummel	rummel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=rummel
-7	tegelyks	togelyks	ADV	_	_	3	advmod	_	lemma_gml=tôgelîkes|SpaceAfter=No
+7	tegelyks	togelyk	ADV	_	_	3	advmod	_	lemma_gml=tôgelîkes|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = LSDC_0286_NWF_20XX_DRE_drentsk_Daphne
@@ -8368,7 +8368,7 @@
 16	nå	nå	ADP	_	AdpType=Prep	18	case	_	lemma_gml=nâ
 17	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	18	det	_	lemma_gml=al
 18	kanten	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	15	obl	_	lemma_gml=kant
-19	tegelyks	tegelyks	ADV	_	_	15	advmod	_	lemma_gml=tôgelîkes
+19	tegelyks	tegelyk	ADV	_	_	15	advmod	_	lemma_gml=tôgelîkes
 20	hen	hen	ADV	_	_	15	advmod	_	lemma_gml=hen|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
 22	“	“	PUNCT	_	_	2	punct	_	_
