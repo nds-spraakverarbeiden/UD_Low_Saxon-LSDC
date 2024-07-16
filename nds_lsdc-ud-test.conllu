@@ -2851,7 +2851,7 @@
 31	by	by	ADP	_	AdpType=Prep	34	case	_	_
 32	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	lemma_gml=dê¹
 33	leve	leev	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	34	amod	_	_
-34	jugend	jugend	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	35	obl	_	_
+34	jugend	jöägd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	35	obl	_	_
 35	insmuggelt	insmuggelen	VERB	_	Aspect=Perf|VerbForm=Part	13	advcl	_	_
 36	un	un	CCONJ	_	_	37	cc	_	lemma_gml=unde²
 37	invöört	invören	VERB	_	_	35	conj	_	SpaceAfter=No
