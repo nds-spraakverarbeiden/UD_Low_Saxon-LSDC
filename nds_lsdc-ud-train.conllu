@@ -1533,7 +1533,7 @@
 2	künnen	künnen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=2|Tense=Past	5	aux	_	lemma_gml=künnen
 3	vöär	vöär	ADP	_	AdpType=Prep	4	case	_	lemma_gml=vȫr
 4	twääsken	twääske	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	lemma_gml=twēseke
-5	doarchgån	döärchgån	VERB	_	_	0	root	_	lemma_gml=dȫrgân|SpaceAfter=No
+5	doarchgån	döärgån	VERB	_	_	0	root	_	lemma_gml=dȫrgân|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0572_DNS_1921_HAM_hamborgsk_de_rode_unnerrock
