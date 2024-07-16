@@ -5230,7 +5230,7 @@
 85	Rostock	Rostock	PROPN	_	Number=Sing	81	nmod	_	lemma_gml=rostock|SpaceAfter=No
 86	,	,	PUNCT	_	_	88	punct	_	_
 87	myn	myn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	88	det	_	lemma_gml=mîn
-88	hertenskinding	herzenskinding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	74	appos	_	lemma_gml=hertenskindinc|SpaceAfter=No
+88	hertenskinding	hertenskinding	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	74	appos	_	lemma_gml=hertenskindinc|SpaceAfter=No
 89	«	«	PUNCT	_	_	88	punct	_	_
 90	–	–	PUNCT	_	_	88	punct	_	_
 91	in	in	ADP	_	AdpType=Prep	93	case	_	lemma_gml=in
