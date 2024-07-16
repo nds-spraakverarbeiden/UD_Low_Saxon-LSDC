@@ -2180,7 +2180,7 @@
 15	ow	jy	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	14	obj	_	lemma_gml=gî²
 16	dan	dan	ADV	_	_	14	advmod	_	lemma_gml=dan¹
 17	toch	doch	ADV	_	_	14	advmod	_	lemma_gml=doch¹
-18	eigenlik	eygenlik	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=êⁱgenlĩk|SpaceAfter=No
+18	eigenlik	eygentlik	ADJ	_	Degree=Pos	14	advmod	_	lemma_gml=êⁱgentlĩk|SpaceAfter=No
 19	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 20	"	"	PUNCT	_	_	3	punct	_	_
 21	vröög	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=vrâgen
@@ -3441,7 +3441,7 @@
 17	al	al	ADV	_	_	18	advmod	_	lemma_gml=al
 18	wis	weaten	VERB	_	_	11	advcl	_	lemma_gml=wēten
 19	he	hee	PRON	_	_	18	nsubj	_	lemma_gml=hê
-20	eigenlik	eygenlik	ADJ	_	Degree=Pos	18	advmod	_	lemma_gml=êigentlĩk
+20	eigenlik	eygentlik	ADJ	_	Degree=Pos	18	advmod	_	lemma_gml=êigentlĩk
 21	wal	wol	ADV	_	_	18	advmod	_	lemma_gml=wol
 22	dat	dat	SCONJ	_	_	26	mark	_	lemma_gml=dat
 23	syne	syn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	24	det	_	lemma_gml=sîn,ēr,sîn
