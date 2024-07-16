@@ -9908,7 +9908,7 @@
 # sent_id = LSDC_0368_NWF_2019_OVY_oaverysselsk_begraffenisse
 # text_orig = Gistermörn lag ie zo maar dood in zien ok.
 # text = Gistermörgen lag hee sou mår doud in syn hokke.
-1	Gistermörgen	gisterenmorgen	ADV	_	_	2	advmod	_	lemma_gml=gistermorgen
+1	Gistermörgen	güsterenmorgen	ADV	_	_	2	advmod	_	lemma_gml=gistermorgen
 2	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=liggen
 3	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
