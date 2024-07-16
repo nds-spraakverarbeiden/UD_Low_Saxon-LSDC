@@ -2025,7 +2025,7 @@
 29	vult	vult	X	_	Foreign=Yes	28	flat	_	_
 30	decipi	decipi	X	_	Foreign=Yes	28	flat	_	SpaceAfter=No
 31	’	’	PUNCT	_	_	28	punct	_	_
-32	beteikent	beteikenen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	ccomp	_	lemma_gml=betêⁱkenen|SpaceAfter=No
+32	beteikent	beteykenen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	ccomp	_	lemma_gml=betêⁱkenen|SpaceAfter=No
 33	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = LSDC_0055_NWF_1856_veluwe_apeldoorn_vaassen_epe_t._van_lohuizen_-_mundus_vult_decipi_11
