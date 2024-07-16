@@ -2758,7 +2758,7 @@
 
 # sent_id = LSDC_0082_DNS_1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # text_orig = Den de unwehtenheit van de saak is so groot ünner vörnehme lüüd un ünner den gemeenen man (sons pleg de letzte alleen de las to drehgn) dat van hundert keene tein den verschehl twischn Luthersch und Kathoolsch angehbm könt, geschwige vertelln, wat luthersche gloof för en grund un hehrkomst hett:
-# text = Dän de unweatenheid van de sake is sou grout ünder vöärneame lüde un ünder den gemeynen man (sunst pleag de lätste alleyn de last to drägen) dat van hunderd keyne tein den vorskeal twüsken luthersk un katoolsk angeaven köänet, geswyge vortellen, wat lutherske gelouve vöär en grund un herkumst het:
+# text = Dän de unweatenheid van de sake is sou grout ünder vöärneame lüde un ünder den gemeynen man (sunst pleag de lätste alleyne de last to drägen) dat van hunderd keyne tein den vorskeal twüsken luthersk un katoolsk angeaven köänet, geswyge vortellen, wat lutherske gelouve vöär en grund un herkumst het:
 1	Dän	dän	CCONJ	_	_	9	cc	_	_
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê¹
 3	unweatenheid	unweatenheid	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
@@ -2781,7 +2781,7 @@
 20	pleag	pleagen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	parataxis	_	_
 21	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	lemma_gml=dê¹
 22	lätste	laat	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	20	nsubj	_	_
-23	alleyn	alleyn	ADV	_	_	22	advmod	_	_
+23	alleyne	alleyne	ADV	_	_	22	advmod	_	_
 24	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	lemma_gml=dê¹
 25	last	last	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
 26	to	to	PART	_	PartType=Inf	27	mark	_	_
@@ -3231,7 +3231,7 @@
 1	Bestünde	bestån	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	38	advcl	_	_
 2	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê¹
 3	skade	skade	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-4	alleyne	alleyn	ADV	_	_	1	advmod	_	_
+4	alleyne	alleyne	ADV	_	_	1	advmod	_	_
 5	dårinne	dårin	ADV	_	_	1	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	14	punct	_	_
 7	dat	dat	SCONJ	_	_	14	mark	_	lemma_gml=dat
@@ -4635,7 +4635,7 @@
 # text = Höyrt dy alleyne hov un veld?
 1	Höyrt	höyren	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=hö̂ren
 2	dy	du	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PronType=Prs	1	obj	_	lemma_gml=dû
-3	alleyne	alleyn	ADV	_	_	1	advmod	_	lemma_gml=allêine
+3	alleyne	alleyne	ADV	_	_	1	advmod	_	lemma_gml=allêine
 4	hov	hov	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	lemma_gml=hof
 5	un	un	CCONJ	_	_	6	cc	_	lemma_gml=unde
 6	veld	veld	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma_gml=velt|SpaceAfter=No
@@ -8546,7 +8546,7 @@
 
 # sent_id = LSDC_0313_NWF_20XX_DRE_drentsk_Tim
 # text_orig = Hie bemuit zuch zowat niet met aandere kinder en in de pauzes lop e miest allén op ’t plein.
-# text = Hee bemöögt süch souwat neet med andere kinder en in de pauses lopt hee meyst alleyn up et plein.
+# text = Hee bemöögt süch souwat neet med andere kinder en in de pauses lopt hee meyst alleyne up et plein.
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	lemma_gml=hê,sê,et
 2	bemöögt	bemögen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=bemö̂yen
 3	süch	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	lemma_gml=sik
@@ -8562,7 +8562,7 @@
 13	lopt	loupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=lôpen
 14	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	lemma_gml=hê,sê,et
 15	meyst	meist	ADV	_	_	13	advmod	_	lemma_gml=mêist
-16	alleyn	alleyn	ADV	_	_	13	advmod	_	lemma_gml=allêine
+16	alleyne	alleyne	ADV	_	_	13	advmod	_	lemma_gml=allêine
 17	up	up	ADP	_	AdpType=Prep	19	case	_	lemma_gml=uppe
 18	et	et	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	lemma_gml=dê,dê,dat
 19	plein	plein	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	13	obl	_	lemma_gml=plân|SpaceAfter=No
@@ -10992,14 +10992,14 @@
 
 # sent_id = LSDC_0416_DNS_1910_HOL_holsteynsk_as-noch-de-trankrusel-brenn
 # text_orig = Da harrn de dree dat Riek alleen.
-# text = Do hadden de dree dat ryke alleyn.
+# text = Do hadden de dree dat ryke alleyne.
 1	Do	do	ADV	_	_	2	advmod	_	lemma_gml=dô
 2	hadden	hebben	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=hebben
 3	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
 4	dree	dree	NUM	_	NumType=Card	2	nsubj	_	lemma_gml=drê
 5	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 6	ryke	ryke	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	lemma_gml=rîke
-7	alleyn	alleyn	ADV	_	_	2	advmod	_	lemma_gml=allêine|SpaceAfter=No
+7	alleyne	alleyne	ADV	_	_	2	advmod	_	lemma_gml=allêine|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = LSDC_0417_MVP_1868_meakelenborgsk_de-reis-nah-konstantinopel
