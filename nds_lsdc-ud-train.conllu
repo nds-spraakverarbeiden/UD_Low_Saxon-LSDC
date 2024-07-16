@@ -11218,7 +11218,7 @@
 12	,	,	PUNCT	_	_	23	punct	_	_
 13	yn	in	ADP	_	AdpType=Prep	15	case	_	lemma_gml=in
 14	et	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	lemma_gml=dê,dê,dat
-15	armhuus	armhuus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=armhouwe
+15	armhuus	armenhuus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=armenhûs
 16	sul	sköälen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	23	aux	_	lemma_gml=schȫlen
 17	noch	noch	ADV	_	_	23	advmod	_	lemma_gml=noch
 18	wel	wol	ADV	_	_	23	advmod	_	lemma_gml=wol
