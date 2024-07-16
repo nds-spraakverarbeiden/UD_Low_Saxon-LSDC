@@ -12537,7 +12537,7 @@
 
 # sent_id = LSDC_0959_OFL_1670-90_oustfalen_hannover_leichen-predigt_auf_michael_wichman
 # text_orig = Up dem Slotte to Hannover is immer eene starke Wache, averst se het öhn doch nich afholen kunnt, dat he nich in de förstlikken Gemakke henin drungen un nich alleen alle förstlikken Kinner un Gemalinnen, sündern ook den Landesheren sülvest overwäldiget het.
-# text = Up dem slotte to Hannover is immer eyne starke wake, averst see het öän doch nich afholden kund, dat hee nich in de vörstliken gemakke henin drungen un nich alleyn alle vörstliken kinder un gemålinnen, sünderen ouk den landesheyren sülvest oaverwäldigd het.
+# text = Up dem slotte to Hannover is immer eyne starke wake, averst see het öän doch nich afholden kund, dat hee nich in de vörstliken gemakke henin drungen un nich alleyne alle vörstliken kinder un gemålinnen, sünderen ouk den landesheyren sülvest oaverwäldigd het.
 1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
 2	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê,dê,dat
 3	slotte	slot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	lemma_gml=slotte
@@ -12569,7 +12569,7 @@
 29	drungen	dringen	VERB	_	Tense=Past|VerbForm=Part	18	advcl	_	lemma_gml=dringen
 30	un	un	CCONJ	_	_	44	cc	_	lemma_gml=unde
 31	nich	nich	PART	_	PartType=Neg	44	advmod	_	lemma_gml=nicht
-32	alleyn	alleyne	ADV	_	_	35	advmod	_	lemma_gml=allêine
+32	alleyne	alleyne	ADV	_	_	35	advmod	_	lemma_gml=allêine
 33	alle	al	DET	_	Case=Acc|Number=Plur|PronType=Tot	35	det	_	lemma_gml=al
 34	vörstliken	vörstlik	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	35	amod	_	lemma_gml=vörstlĩk
 35	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	44	obj	_	lemma_gml=kint
