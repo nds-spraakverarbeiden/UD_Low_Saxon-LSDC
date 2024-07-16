@@ -11273,7 +11273,7 @@
 51	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	52	nsubj	_	lemma_gml=lü̂de
 52	wunderen	wunderen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	27	conj	_	lemma_gml=wunderen
 53	sik	sik	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	52	obj	_	lemma_gml=sik
-54	alle	al	PRON	_	_	52	advmod	_	lemma_gml=al|SpaceAfter=No
+54	alle	al	PRON	_	_	51	nmod	_	lemma_gml=al|SpaceAfter=No
 55	,	,	PUNCT	_	_	63	punct	_	_
 56	dat	dat	SCONJ	_	_	63	mark	_	lemma_gml=dat
 57	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	58	det	_	lemma_gml=dê,dê,dat
