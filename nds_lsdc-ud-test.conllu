@@ -11566,8 +11566,8 @@
 8	eare	ear	DET	_	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
 9	künste	kunst	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	13	obj	_	lemma_gml=kunst
 10	an	an	ADP	_	AdpType=Prep	11	case	_	lemma_gml=an
-11	Wit	wit	PROPN	_	Number=Sing	13	obl	_	lemma_gml=witt
-12	Düveken	düüvken	PROPN	_	Number=Sing	11	flat	_	lemma_gml=düweken
+11	Wit	wit	ADJ	_	Number=Sing	13	obl	_	lemma_gml=witt
+12	Düveken	düüvken	NOUN	_	Number=Sing	11	flat	_	lemma_gml=düweken
 13	afgleaden	afglyden	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	ccomp	_	lemma_gml=afglîden
 14	un	un	CCONJ	_	_	24	cc	_	lemma_gml=unde
 15	dat	dat	SCONJ	_	_	24	mark	_	lemma_gml=dat
