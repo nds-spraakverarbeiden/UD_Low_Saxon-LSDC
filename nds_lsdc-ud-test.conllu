@@ -3674,8 +3674,8 @@
 # text_orig = »Ja ja, Stina blifft hier, is mi jo ganz recht, aver wat schüllt wi mit all dat leve Broot opstellen?«
 # text = »Jå jå, Stina blivt hyr, is my jo gans recht, aver wat sküllet wy mid al dat leve broud upstellen?«
 1	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Jå	ja	INTJ	_	_	6	discourse	_	lemma_gml=jâ
-3	jå	ja	INTJ	_	_	2	discourse	_	lemma_gml=jâ|SpaceAfter=No
+2	Jå	jå	INTJ	_	_	6	discourse	_	lemma_gml=jâ
+3	jå	jå	INTJ	_	_	2	discourse	_	lemma_gml=jâ|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	Stina	Stina	PROPN	_	Number=Sing	6	nsubj	_	lemma_gml=Stina
 6	blivt	blyven	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=blîven
@@ -12905,7 +12905,7 @@
 # sent_id = LSDC_0497_DNS_1904_HAM_hamborgsk_bahnmeester_dood
 # text_orig = Jä, ik – ik – mi deit dat jo ook bannig leed!
 # text = Jä, ik – ik – my deit dat jo ouk bannig leyd!
-1	Jä	ja	INTJ	_	_	8	discourse	_	lemma_gml=ia|SpaceAfter=No
+1	Jä	jå	INTJ	_	_	8	discourse	_	lemma_gml=ia|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	reparandum	_	lemma_gml=ik
 4	–	–	PUNCT	_	_	3	punct	_	_
