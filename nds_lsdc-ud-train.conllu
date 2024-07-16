@@ -5741,7 +5741,7 @@
 9	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	lemma_gml=wēsen
 10	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	lemma_gml=dê,dê,dat
 11	gans	gans	ADJ	_	Degree=Pos	12	advmod	_	lemma_gml=gans
-12	anders	anders	ADJ	_	Degree=Pos	0	root	_	lemma_gml=anders|SpaceAfter=No
+12	anders	ander	ADJ	_	Degree=Pos	0	root	_	lemma_gml=anders|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	as	as	ADP	_	_	15	case	_	lemma_gml=alsô
 15	vöärdeam	vöärdem	ADV	_	_	12	obl	_	lemma_gml=vȫrdēme|SpaceAfter=No
