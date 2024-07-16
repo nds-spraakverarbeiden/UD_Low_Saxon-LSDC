@@ -7653,7 +7653,7 @@
 11	wellet	willen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	15	aux	_	lemma_gml=willen
 12	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	lemma_gml=hê,sê,et
 13	wol	wol	ADV	_	_	15	advmod	_	lemma_gml=wol
-14	alleyne	alleyn	ADV	_	_	15	advmod	_	lemma_gml=allêine
+14	alleyne	alleyne	ADV	_	_	15	advmod	_	lemma_gml=allêine
 15	können	künnen	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=künnen|SpaceAfter=No
 16	,	,	PUNCT	_	_	23	punct	_	_
 17	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	lemma_gml=dû
@@ -8141,7 +8141,7 @@
 # text_orig = Gott allaine est iuse Fadder.
 # text = God alleyne is use vadder.
 1	God	god	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	lemma_gml=got
-2	alleyne	alleyn	ADV	_	_	1	advmod	_	lemma_gml=allêine
+2	alleyne	alleyne	ADV	_	_	1	advmod	_	lemma_gml=allêine
 3	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
 4	use	uns	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det	_	lemma_gml=unse
 5	vadder	vader	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=vāder|SpaceAfter=No
