@@ -3974,7 +3974,7 @@
 # text_orig = Dor dröp ick mit min goden Frünn Vogel Strauß un Hans Holtfräter tosamen.
 # text = Dår dröyp ik mid myn goden vründen Vogel Strauß un Hans Holtfräter tosamen.
 1	Dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
-2	dröyp	drapen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=drāpen
+2	dröyp	dreapen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=drēpen
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
 4	mid	mid	ADP	_	AdpType=Prep	7	case	_	lemma_gml=mit
 5	myn	myn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det	_	lemma_gml=mîn
