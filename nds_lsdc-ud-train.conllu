@@ -9287,7 +9287,7 @@
 13	dee	dee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	26	nsubj	_	_
 14	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	26	aux	_	_
 15	äver	aver	ADV	_	_	26	advmod	_	_
-16	as	as	CCONJ	_	_	21	cc	_	_
+16	as	as	SCONJ	_	_	21	mark	_	_
 17	de	de	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	18	det	_	_
 18	olden	old	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	21	nsubj	_	_
 19	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	21	obj	_	_
@@ -9883,7 +9883,7 @@
 6	olden	old	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
 7	tyden	tyd	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	23	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	16	punct	_	_
-9	as	as	CCONJ	_	_	16	mark	_	_
+9	as	as	SCONJ	_	_	16	mark	_	_
 10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	11	det	_	_
 11	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	_
 12	noch	noch	ADV	_	_	16	advmod	_	_
@@ -12248,7 +12248,7 @@
 # sent_id = LSDC_0950_OFL_1670-90_oustfalen_hannover_leichen-predigt_auf_michael_wichman
 # text_orig = Asse myne Dochter, segge ek, my dat toreip, so düchte my dat eben so veel to syn, as wenn da steit: Manch wysnäsige Kumpan möchte hyr seggen: ‘Wat preddigt unse Pastor?
 # text = Asse myne dochter, segge ek, my dat toreyp, sou düchte my dat eaven sou veale to syn, as wän dår steit: Mannig wysneasige kumpane möchte hyr seggen: ‘Wat preddigt unse pastoor?
-1	Asse	as	CCONJ	_	_	10	cc	_	lemma_gml=asse
+1	Asse	as	SCONJ	_	_	10	mark	_	lemma_gml=asse
 2	myne	myn	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	det	_	lemma_gml=mîn
 3	dochter	dochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	lemma_gml=dochter|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
