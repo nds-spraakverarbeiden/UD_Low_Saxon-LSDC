@@ -2366,7 +2366,7 @@
 9	unsen	uns	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	lemma_gml=unse¹
 10	kråm	kråm	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	lemma_gml=krâm
 11	wol	willen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=willen¹
-12	koupen	koupen	VERB	_	VerbForm=Inf	5	acl	_	lemma_gml=kö̂pen|SpaceAfter=No
+12	koupen	köypen	VERB	_	VerbForm=Inf	5	acl	_	lemma_gml=kö̂pen|SpaceAfter=No
 13	!	!	PUNCT	_	_	6	punct	_	SpaceAfter=No
 14	"	"	PUNCT	_	_	6	punct	_	_
 
@@ -2975,7 +2975,7 @@
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Rel	12	nsubj	_	lemma_gml=dê¹
 10	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3	12	obj	_	_
-11	koupen	koupen	VERB	_	VerbForm=Inf	12	xcomp	_	_
+11	koupen	köypen	VERB	_	VerbForm=Inf	12	xcomp	_	_
 12	leyt	låten	VERB	_	Mood=Sub|Number=Sing|Person=3	6	acl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	_
@@ -2990,7 +2990,7 @@
 23	ganses	gans	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	_
 24	karspeal	kerspeal	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	26	obj	_	_
 25	leddig	leddig	ADJ	_	_	26	xcomp	_	_
-26	koupen	koupen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+26	koupen	köypen	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 27	;	;	PUNCT	_	_	30	punct	_	_
 28	vellicht	vellicht	ADV	_	_	30	orphan	_	_
 29	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	lemma_gml=dê¹
@@ -3515,7 +3515,7 @@
 41	en	un	CCONJ	_	_	42	cc	_	lemma_gml=ende
 42	koisen	kolse	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	40	conj	_	lemma_gml=kolse
 43	van	van	ADP	_	_	33	case	_	lemma_gml=van
-44	ekocht	koupen	VERB	_	Tense=Past|VerbForm=Part	27	conj	_	lemma_gml=kö̂pen
+44	ekocht	köypen	VERB	_	Tense=Past|VerbForm=Part	27	conj	_	lemma_gml=kö̂pen
 45	en	un	CCONJ	_	_	48	cc	_	lemma_gml=ende
 46	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	48	det	_	lemma_gml=êin,êine,êin
 47	nye	ny	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	48	amod	_	lemma_gml=nîe
@@ -3781,7 +3781,7 @@
 10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	13	obj	_	lemma_gml=ik
 11	al	al	ADV	_	_	13	advmod	_	lemma_gml=al
 12	mål	mål	ADV	_	_	13	advmod	_	lemma_gml=mâl
-13	vorköft	vorkoupen	VERB	_	Tense=Past|VerbForm=Part	6	ccomp	_	lemma_gml=vorkôpen
+13	vorköft	vorköypen	VERB	_	Tense=Past|VerbForm=Part	6	ccomp	_	lemma_gml=vorkôpen
 14	had	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	13	aux	_	lemma_gml=hebben|SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -5043,7 +5043,7 @@
 6	an	an	ADP	_	AdpType=Prep	8	case	_	lemma_gml=an
 7	me	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	lemma_gml=dê
 8	baanhoave	baanhov	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	lemma_gml=bānhof
-9	koupen	koupen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=kö̂pen|SpaceAfter=No
+9	koupen	köypen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=kö̂pen|SpaceAfter=No
 10	,	,	PUNCT	_	_	20	punct	_	_
 11	wol	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	aux	_	lemma_gml=willen
 12	deam	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê
@@ -6545,7 +6545,7 @@
 57	heftig	heftig	ADJ	_	Degree=Pos	58	advmod	_	lemma_gml=heftich
 58	mooi	mooi	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	59	amod	_	lemma_gml=môi
 59	lodderyensdöyske	lodderyensdöysken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	60	obj	_	lemma_gml=lodderîensdö̂seken
-60	koupen	koupen	VERB	_	VerbForm=Inf	46	conj	_	lemma_gml=kö̂pen
+60	koupen	köypen	VERB	_	VerbForm=Inf	46	conj	_	lemma_gml=kö̂pen
 61	vöär	vöär	ADP	_	AdpType=Prep	63	case	_	lemma_gml=vȫr
 62	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	63	det	_	lemma_gml=êin,êine,êin
 63	present	present	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	60	obl	_	lemma_gml=prêsant|SpaceAfter=No
@@ -6562,7 +6562,7 @@
 # sent_id = LSDC_0232_NWF_1868_OVY_zwolle_hoe_andries_aan_een_varken_kwam
 # text_orig = Koop ie ze an de woage, dan kuij er soms iene treffen met un pâense, deur ie bange van wordt.
 # text = Koup y see an de wåge, dan kün jy der sums eyne treffen med en paanse, döär y bange van wordet.
-1	Koup	koupen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	14	advcl	_	lemma_gml=kö̂pen
+1	Koup	köypen	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	14	advcl	_	lemma_gml=kö̂pen
 2	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	1	nsubj	_	lemma_gml=gî
 3	see	see	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	1	obj	_	lemma_gml=sê
 4	an	an	ADP	_	AdpType=Prep	6	case	_	lemma_gml=an
@@ -6846,7 +6846,7 @@
 13	maken	maken	VERB	_	VerbForm=Inf	3	advcl	_	lemma[gml]=māken
 14	en	un	CCONJ	_	_	16	cc	_	lemma[gml]=ende
 15	te	to	PART	_	PartType=Inf	16	mark	_	lemma[gml]=tô
-16	vorkoupen	vorkoupen	VERB	_	VerbForm=Inf	13	conj	_	lemma[gml]=vorkôpen|SpaceAfter=No
+16	vorkoupen	vorköypen	VERB	_	VerbForm=Inf	13	conj	_	lemma[gml]=vorkôpen|SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	_
 18	et	et	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	19	det	_	lemma[gml]=dê,dê,dat
 19	bestüür	bestüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	lemma[gml]=bestü̂r
@@ -6904,7 +6904,7 @@
 27	R.	R.	PROPN	_	Number=Sing	26	flat	_	_
 28	en	un	CCONJ	_	_	30	cc	_	lemma[gml]=ende
 29	dår	dår	ADV	_	_	30	advmod	_	lemma[gml]=dâr
-30	kochte	koupen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	24	conj	_	lemma[gml]=kö̂pen
+30	kochte	köypen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	24	conj	_	lemma[gml]=kö̂pen
 31	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	lemma[gml]=ik
 32	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	34	det	_	lemma[gml]=êin,êine,êin
 33	steynen	steynen	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	lemma[gml]=stêinen
@@ -7578,7 +7578,7 @@
 40	bigge	bigge	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	43	obj	_	lemma_gml=pûke
 41	vöär	vöär	ADP	_	_	36	case	_	lemma_gml=vȫr
 42	kunden	künnen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	43	aux	_	lemma_gml=künnen
-43	koupen	koupen	VERB	_	VerbForm=Inf	31	advcl	_	lemma_gml=kö̂pen|SpaceAfter=No
+43	koupen	köypen	VERB	_	VerbForm=Inf	31	advcl	_	lemma_gml=kö̂pen|SpaceAfter=No
 44	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = LSDC_0271_NWF_20XX_DRE_drentsk_Zute_wraak
@@ -8733,7 +8733,7 @@
 1	Dee	dee	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	obj	_	lemma_gml=dê,dê,dat
 2	heb	hebben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	lemma_gml=hebben
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=ik
-4	ekocht	koupen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=kö̂pen
+4	ekocht	köypen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=kö̂pen
 5	van	van	ADP	_	AdpType=Prep	6	case	_	lemma_gml=van
 6	Toone	Toone	PROPN	_	Number=Sing	4	obl	_	lemma_gml=toone
 7	med	mid	ADP	_	AdpType=Prep	9	case	_	lemma_gml=mit
@@ -11366,7 +11366,7 @@
 12	koamen	koamen	VERB	_	Tense=Past|VerbForm=Part	2	acl:relcl	_	lemma_gml=kōmen
 13	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux	_	lemma_gml=wēsen|SpaceAfter=No
 14	,	,	PUNCT	_	_	12	punct	_	_
-15	köf	koupen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kö̂pen
+15	köf	köypen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kö̂pen
 16	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	iobj	_	lemma_gml=sik
 17	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	18	det	_	lemma_gml=êin,êine,êin
 18	stük	stük	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	lemma_gml=stücke
@@ -12172,7 +12172,7 @@
 # text_orig = Ik kööp keen Botter wedder van di!
 # text = Ik köype keyn botter wedder van dy!
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
-2	köype	koupen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=kö̂pen
+2	köype	köypen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=kö̂pen
 3	keyn	keyn	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	4	det	_	lemma_gml=kêin
 4	botter	botter	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	lemma_gml=botter
 5	wedder	wedder	ADV	_	_	2	advmod	_	lemma_gml=wedder
