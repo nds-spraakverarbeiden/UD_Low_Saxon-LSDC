@@ -3683,7 +3683,7 @@
 8	,	,	PUNCT	_	_	6	punct	_	_
 9	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	lemma_gml=wēsen
 10	my	ik	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	13	obj	_	lemma_gml=ik
-11	jo	jo	ADV	_	_	13	advmod	_	lemma_gml=io
+11	jo	jå	ADV	_	_	13	advmod	_	lemma_gml=io
 12	gans	gans	ADJ	_	Degree=Pos	13	advmod	_	lemma_gml=gans
 13	recht	recht	ADJ	_	Degree=Pos	6	parataxis	_	lemma_gml=recht|SpaceAfter=No
 14	,	,	PUNCT	_	_	24	punct	_	_
@@ -5295,7 +5295,7 @@
 # text_orig = „Jo, Heer Pastauer, wann Ey sau gutt seyn wellt!“
 # text = „Jo, heyre pastor, wan Jy sou gud syn willet!“
 1	„	„	PUNCT	_	_	10	punct	_	SpaceAfter=No
-2	Jo	jo	INTJ	_	_	10	discourse	_	lemma_gml=io|SpaceAfter=No
+2	Jo	jå	INTJ	_	_	10	discourse	_	lemma_gml=io|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	lemma_gml=,
 4	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma_gml=hêre
 5	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	lemma_gml=pâstôr|SpaceAfter=No
@@ -7688,7 +7688,7 @@
 # text = Et is jo gyn geheimken.
 1	Et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	lemma_gml=hê,sê,et
 2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	lemma_gml=wēsen
-3	jo	jo	ADV	_	_	5	advmod	_	lemma_gml=io
+3	jo	jå	ADV	_	_	5	advmod	_	lemma_gml=io
 4	gyn	geyn	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	5	det	_	lemma_gml=gêin
 5	geheimken	geheymken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	lemma_gml=gehêimeken|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -11157,7 +11157,7 @@
 1	Dår	dår	ADV	_	_	10	advmod	_	lemma_gml=dâr
 2	kunnen	künnen	AUX	_	Mood=Ind,Sub|Number=Plur|Person=3|Tense=Past	10	aux	_	lemma_gml=künnen
 3	ouk	ouk	ADV	_	_	10	advmod	_	lemma_gml=ôk
-4	jo	jo	ADV	_	_	10	advmod	_	lemma_gml=io
+4	jo	jå	ADV	_	_	10	advmod	_	lemma_gml=io
 5	noch	noch	ADV	_	_	10	advmod	_	lemma_gml=noch
 6	ander	ander	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	7	amod	_	lemma_gml=ander
 7	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	lemma_gml=lü̂de
