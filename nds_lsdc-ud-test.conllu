@@ -2785,7 +2785,7 @@
 24	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	lemma_gml=dê¹
 25	last	last	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	_
 26	to	to	PART	_	PartType=Inf	27	mark	_	_
-27	drägen	drägen	VERB	_	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
+27	drägen	dragen	VERB	_	VerbForm=Inf	20	xcomp	_	SpaceAfter=No
 28	)	)	PUNCT	_	_	20	punct	_	_
 29	dat	dat	SCONJ	_	_	40	cc	_	lemma_gml=dat
 30	van	van	ADP	_	AdpType=Prep	31	case	_	lemma_gml=van¹
@@ -3005,7 +3005,7 @@
 38	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	lemma_gml=dê¹
 39	lütjen	lütken	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Sing	40	amod	_	_
 40	vinger	vinger	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	41	obl	_	_
-41	wegdrägen	wegdrägen	VERB	_	VerbForm=Inf	26	conj	_	SpaceAfter=No
+41	wegdrägen	wegdragen	VERB	_	VerbForm=Inf	26	conj	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	46	punct	_	_
 43	in	in	ADP	_	AdpType=Prep	45	case	_	_
 44	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	45	det	_	lemma_gml=êⁱn¹
