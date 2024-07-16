@@ -3948,7 +3948,7 @@
 7	wän	wän	SCONJ	_	_	14	mark	_	lemma_gml=wan
 8	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	lemma_gml=sê
 9	nå	nå	ADP	_	AdpType=Prep	10	case	_	lemma_gml=nâ
-10	borg	borg	PROPN	_	Number=Sing	14	obl	_	lemma_gml=borch
+10	borg	borg	NOUN	_	Number=Sing	14	obl	_	lemma_gml=borch
 11	odder	edder	CCONJ	_	_	13	cc	_	lemma_gml=edder
 12	to	to	ADP	_	AdpType=Prep	13	case	_	lemma_gml=tô
 13	huus	huus	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	10	conj	_	lemma_gml=hûs
