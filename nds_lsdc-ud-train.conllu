@@ -11521,7 +11521,7 @@
 # sent_id = LSDC_0930_OFL_1882_oustfalen_celle_de_buer_ut_gassen
 # text_orig = Wie e hen kumt, is e ganz von en rechten Wege af un na Scheuen koomen.
 # text = Wo hee hen kumt, is hee gans van den rechten weage af un nå Scheuen koamen.
-1	Wo	Wo	SCONJ	_	_	4	mark	_	lemma_gml=wî
+1	Wo	wo	SCONJ	_	_	4	mark	_	lemma_gml=wô
 2	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	lemma_gml=hê,sê,et
 3	hen	hen	ADV	_	_	4	advmod	_	lemma_gml=hen
 4	kumt	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	advcl	_	lemma_gml=kōmen|SpaceAfter=No
