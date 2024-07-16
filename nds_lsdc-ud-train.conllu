@@ -3149,7 +3149,7 @@
 # text = See rungeneren jo den depen respekt vöär eare hovchargen!
 1	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	2	nsubj	_	lemma_gml=sê
 2	rungeneren	runjeneren	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	0	root	_	lemma_gml=ruînêren
-3	jo	jo	ADV	_	_	2	advmod	_	lemma_gml=io
+3	jo	jå	ADV	_	_	2	advmod	_	lemma_gml=io
 4	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê,dê,dat
 5	depen	deep	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	lemma_gml=dêp
 6	respekt	respekt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	lemma_gml=respekt
@@ -3357,7 +3357,7 @@
 # text = Dat weer jo sou en bitterböysen skiksaalshoon, dat my de trånen in eynsento as spöölwater öäver de neasenboage wegsimden.
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	lemma_gml=dê,dê,dat
 2	weer	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	lemma_gml=wēsen
-3	jo	jo	ADV	_	_	7	advmod	_	lemma_gml=io
+3	jo	jå	ADV	_	_	7	advmod	_	lemma_gml=io
 4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
 5	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=êin,êine,êin
 6	bitterböysen	bitterböyse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	lemma_gml=bitterbö̂se
@@ -3674,7 +3674,7 @@
 # text_orig = „Jo“, raupet viele, „so es ́t recht! ant Werk!“ –
 # text = „Jo“, ropet viale, „sou is et recht! an 't werk!“ –
 1	„	„	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Jo	jo	INTJ	_	_	5	ccomp	_	lemma_gml=io|SpaceAfter=No
+2	Jo	jå	INTJ	_	_	5	ccomp	_	lemma_gml=io|SpaceAfter=No
 3	“	“	PUNCT	_	_	2	punct	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	ropet	ropen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	lemma_gml=ropen
@@ -4183,7 +4183,7 @@
 2	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux	_	lemma_gml=künnen
 3	em	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	lemma_gml=hê,sê,et
 4	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	6	obj	_	lemma_gml=dê,dê,dat
-5	jo	jo	ADV	_	_	6	advmod	_	lemma_gml=io
+5	jo	jå	ADV	_	_	6	advmod	_	lemma_gml=io
 6	henbringen	henbringen	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=henbringen
 7	in	in	ADP	_	AdpType=Prep	9	case	_	lemma_gml=in
 8	den	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê,dê,dat
@@ -4685,7 +4685,7 @@
 6	,	,	PUNCT	_	_	13	punct	_	_
 7	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	lemma_gml=ik
 8	weer	weasen	AUX	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	13	cop	_	lemma_gml=wēsen
-9	jo	jo	ADV	_	_	13	advmod	_	lemma_gml=io
+9	jo	jå	ADV	_	_	13	advmod	_	lemma_gml=io
 10	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
 11	helsk	helsk	ADJ	_	Degree=Pos	12	advmod	_	lemma_gml=hellesch
 12	kratsbörstigen	kratsbörstig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	lemma_gml=krasbörstich
@@ -6216,7 +6216,7 @@
 2	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	10	aux	_	lemma_gml=künnen
 3	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma_gml=dê,dê,dat
 4	kind	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	lemma_gml=kint
-5	jo	jo	ADV	_	_	10	advmod	_	lemma_gml=jâ
+5	jo	jå	ADV	_	_	10	advmod	_	lemma_gml=jâ
 6	doch	doch	ADV	_	_	10	advmod	_	lemma_gml=doch
 7	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
 8	wiader	wedder	ADV	_	_	10	advmod	_	lemma_gml=wedder
@@ -9148,7 +9148,7 @@
 13	dän	dan	CCONJ	_	_	18	cc	_	_
 14	dår	dår	ADV	_	_	18	obl	_	_
 15	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	cop	_	_
-16	jo	jo	ADV	_	_	18	advmod	_	_
+16	jo	jå	ADV	_	_	18	advmod	_	_
 17	nich	nich	PART	_	PartType=Neg	18	advmod	_	_
 18	saft	sap	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
 19	oader	edder	CCONJ	_	_	20	cc	_	_
@@ -9751,7 +9751,7 @@
 25	,	,	PUNCT	_	_	20	punct	_	_
 26	den	dee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	27	obj	_	_
 27	lachten	lachen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	20	parataxis	_	_
-28	jo	jo	ADV	_	_	27	advmod	_	_
+28	jo	jå	ADV	_	_	27	advmod	_	_
 29	wol	wol	ADV	_	_	27	advmod	_	_
 30	de	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	31	det	_	_
 31	kinder	kind	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	27	nsubj	_	_
@@ -9927,7 +9927,7 @@
 # text = Ik bin jo nu ouk in de jåre, woor ik van my seggen müt, det de hervst vöär de döäre is un as ik hüde döärch de velder ging, do meynde ik vast, de jårstyd pasde sou recht to myn older; äver in my weren keyne hervstgedanken, myne vrööste jöägdtyd trad wedder vöär myne seyle, alle de eynselen halme naemen gestalt un leaven an un wän see de wind böygde, dän kam et my vöär, as weren et luter olde leve bekande, dee wo en skaddenspöl by my vöäröäver trekkeden.
 1	Ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 2	bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	8	cop	_	_
-3	jo	jo	ADV	_	_	8	advmod	_	_
+3	jo	jå	ADV	_	_	8	advmod	_	_
 4	nu	nu	ADV	_	_	8	advmod	_	_
 5	ouk	ouk	ADV	_	_	8	advmod	_	_
 6	in	in	ADP	_	AdpType=Prep	8	case	_	_
@@ -11347,7 +11347,7 @@
 9	,	,	PUNCT	_	_	18	punct	_	_
 10	dår	dår	ADV	_	_	18	advmod	_	lemma_gml=dâr
 11	kun	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	aux	_	lemma_gml=künnen
-12	ja	jo	ADV	_	_	18	advmod	_	lemma_gml=gî
+12	ja	jå	ADV	_	_	18	advmod	_	lemma_gml=gî
 13	geyn	geyn	PRON	_	Case=Nom|Gender=Masc,Neut|Number=Sing	15	det	_	lemma_gml=gî
 14	vorstandig	vorständig	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc,Neut|Number=Sing	15	amod	_	lemma_gml=vorstandich
 15	menske	minske	NOUN	_	Case=Nom|Gender=Masc,Neut|Number=Sing	18	nsubj	_	lemma_gml=men
@@ -13159,13 +13159,13 @@
 12	Na	na	INTJ	_	_	14	discourse	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	sü	seen	VERB	_	Mood=Imp|Number=Plur	9	ccomp	_	_
-15	ju	jo	ADV	_	_	14	advmod	_	_
+15	ju	jå	ADV	_	_	14	advmod	_	_
 16	hyr	hyr	ADV	_	_	14	advmod	_	_
 17	lüde	lüde	NOUN	_	Case=Nom|Number=Plur	14	vocative	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	_
 19	avers	aver	CCONJ	_	_	20	cc	_	_
 20	sü	seen	VERB	_	Mood=Imp|Number=Plur	14	conj	_	_
-21	ju	jo	ADV	_	_	20	advmod	_	_
+21	ju	jå	ADV	_	_	20	advmod	_	_
 22	mörders	mörder	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	20	obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	_
 24	låt	låten	VERB	_	Mood=Imp|Number=Plur	14	parataxis	_	_
