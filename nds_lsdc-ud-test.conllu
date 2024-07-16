@@ -9514,7 +9514,7 @@
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	sitte	sitten	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=sitten
 12	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	lemma_gml=ik
-13	jümmers	jümmers	ADV	_	_	11	advmod	_	lemma_gml=iemmer
+13	jümmers	jümmer	ADV	_	_	11	advmod	_	lemma_gml=iemmer
 14	stik	stik	ADJ	_	Degree=Pos	15	advmod	_	lemma_gml=stik
 15	ståvast	ståvast	ADJ	_	Degree=Pos	11	amod	_	lemma_gml=stâvast
 16	van	van	ADP	_	AdpType=Prep	18	case	_	lemma_gml=van
@@ -10523,7 +10523,7 @@
 1	Dan	dan	ADV	_	_	2	advmod	_	lemma_gml=dan
 2	do	doon	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	lemma_gml=dôn
 3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
-4	jümmers	jümmers	ADV	_	_	2	advmod	_	lemma_gml=iemmer
+4	jümmers	jümmer	ADV	_	_	2	advmod	_	lemma_gml=iemmer
 5	püür	puur	ADJ	_	Number=Sing	6	amod	_	lemma_gml=pûr
 6	alles	alles	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	2	obj	_	lemma_gml=al
 7	vöär	vöär	ADP	_	AdpType=Prep	8	case	_	lemma_gml=vȫr
