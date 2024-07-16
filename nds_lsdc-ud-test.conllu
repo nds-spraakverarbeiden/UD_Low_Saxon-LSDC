@@ -12570,7 +12570,7 @@
 6	mang	mang	ADP	_	AdpType=Prep	8	case	_	lemma_gml=manc
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	lemma_gml=dê,dê,dat
 8	vuren	vure	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	5	obl	_	lemma_gml=vûre
-9	anders	anders	PRON	_	_	10	xcomp	_	lemma_gml=anders
+9	anders	ander	PRON	_	_	10	xcomp	_	lemma_gml=ander
 10	warden	werden	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=wērden
 11	as	as	ADP	_	_	12	case	_	lemma_gml=alsô
 12	slecht	slecht	ADJ	_	Degree=Pos	9	obl	_	lemma_gml=slicht
