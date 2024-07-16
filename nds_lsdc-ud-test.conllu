@@ -1086,7 +1086,7 @@
 37	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	38	nsubj	_	lemma_gml=sê²
 38	loupen	loupen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	17	conj	_	lemma_gml=lôpen¹
 39	alle	al	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Tot	37	appos	_	lemma_gml=al
-40	döärchenander	döärchenander	ADV	_	_	38	advmod	_	lemma_gml=dörchêⁱnander|SpaceAfter=No
+40	döärchenander	döärenander	ADV	_	_	38	advmod	_	lemma_gml=dörchêⁱnander|SpaceAfter=No
 41	:	:	PUNCT	_	_	17	punct	_	_
 42	do	do	ADV	_	_	43	advmod	_	lemma_gml=dô¹
 43	wür	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	parataxis	_	lemma_gml=wērden¹
