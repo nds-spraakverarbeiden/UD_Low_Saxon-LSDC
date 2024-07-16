@@ -8148,7 +8148,7 @@
 4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
 5	vöäl	veale	ADJ	_	_	7	amod	_	lemma_gml=vēle
 6	möägelik	möäglik	ADJ	_	Degree=Pos	5	advmod	_	lemma_gml=mȫgelĩk
-7	döärwaien	döärchwaien	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=dȫrweyen
+7	döärwaien	döärwaien	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=dȫrweyen
 8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux	_	lemma_gml=künnen|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
