@@ -11722,7 +11722,7 @@
 12	syde	syde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	26	obl	_	lemma_gml=sîde|SpaceAfter=No
 13	,	,	PUNCT	_	_	20	punct	_	_
 14	woor	woor	ADV	_	_	20	obl	_	lemma_gml=wô
-15	öän	en	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	lemma_gml=hê,sê,et
+15	öän	hee	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	lemma_gml=hê,sê,et
 16	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê,dê,dat
 17	swarte	swart	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	lemma_gml=swart
 18	kearl	kearl	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	lemma_gml=kē̆rl
