@@ -10479,7 +10479,7 @@
 # text = Vöär uus allebeide is et vansülvspreakend dat dat der kumt.
 1	Vöär	vöär	ADP	_	AdpType=Prep	2	case	_	lemma_gml=vȫr
 2	uus	wy	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	obl	_	lemma_gml=wî
-3	allebeide	allybeide	PRON	_	Case=Acc|Number=Plur	2	nmod	_	lemma_gml=allebêide
+3	allebeide	allebeide	PRON	_	Case=Acc|Number=Plur	2	nmod	_	lemma_gml=allebêide
 4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
 5	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	lemma_gml=hê,sê,et
 6	vansülvspreakend	vansülvspreakend	ADJ	_	Degree=Pos|Tense=Pres|VerbForm=Part	0	root	_	lemma_gml=vansülvesprēkent
